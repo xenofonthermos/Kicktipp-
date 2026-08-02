@@ -1,0 +1,105 @@
+{
+  "season": 2026,
+  "matchday": 1,
+  "matches": [
+    {
+      "matchDateTime": "2026-08-28T20:30:00",
+      "homeTeam": "FC Bayern München",
+      "awayTeam": "VfB Stuttgart",
+      "probabilities": {
+        "home": 0.526,
+        "draw": 0.218,
+        "away": 0.256
+      },
+      "tip": "1:0"
+    },
+    {
+      "matchDateTime": "2026-08-29T15:30:00",
+      "homeTeam": "RB Leipzig",
+      "awayTeam": "Borussia Mönchengladbach",
+      "probabilities": {
+        "home": 0.667,
+        "draw": 0.171,
+        "away": 0.163
+      },
+      "tip": "2:0"
+    },
+    {
+      "matchDateTime": "2026-08-29T15:30:00",
+      "homeTeam": "1. FSV Mainz 05",
+      "awayTeam": "SC Paderborn 07",
+      "probabilities": {
+        "home": 0.753,
+        "draw": 0.143,
+        "away": 0.103
+      },
+      "tip": "2:0"
+    },
+    {
+      "matchDateTime": "2026-08-29T15:30:00",
+      "homeTeam": "1. FC Union Berlin",
+      "awayTeam": "Eintracht Frankfurt",
+      "probabilities": {
+        "home": 0.366,
+        "draw": 0.277,
+        "away": 0.356
+      },
+      "tip": "1:0"
+    },
+    {
+      "matchDateTime": "2026-08-29T15:30:00",
+      "homeTeam": "1. FC Köln",
+      "awayTeam": "TSG Hoffenheim",
+      "probabilities": {
+        "home": 0.265,
+        "draw": 0.223,
+        "away": 0.513
+      },
+      "tip": "0:1"
+    },
+    {
+      "matchDateTime": "2026-08-29T15:30:00",
+      "homeTeam": "SV 07 Elversberg",
+      "awayTeam": "Bayer 04 Leverkusen",
+      "probabilities": {
+        "home": 0.131,
+        "draw": 0.156,
+        "away": 0.714
+      },
+      "tip": "0:2"
+    },
+    {
+      "matchDateTime": "2026-08-29T18:30:00",
+      "homeTeam": "Borussia Dortmund",
+      "awayTeam": "Hamburger SV",
+      "probabilities": {
+        "home": 0.705,
+        "draw": 0.158,
+        "away": 0.137
+      },
+      "tip": "2:0"
+    },
+    {
+      "matchDateTime": "2026-08-30T15:30:00",
+      "homeTeam": "SC Freiburg",
+      "awayTeam": "SV Werder Bremen",
+      "probabilities": {
+        "home": 0.646,
+        "draw": 0.177,
+        "away": 0.177
+      },
+      "tip": "2:1"
+    },
+    {
+      "matchDateTime": "2026-08-30T17:30:00",
+      "homeTeam": "FC Augsburg",
+      "awayTeam": "FC Schalke 04",
+      "probabilities": {
+        "home": 0.767,
+        "draw": 0.139,
+        "away": 0.094
+      },
+      "tip": "2:0"
+    }
+  ]
+}
