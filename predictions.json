@@ -1,240 +1,97 @@
 {
   "season": 2026,
   "matchday": 1,
-  "table": [
+  "generatedAt": "2026-08-04T17:43:15.968Z",
+  "eloRanking": [
     {
-      "position": 1,
-      "teamName": "1. FC Köln",
-      "shortName": "Köln",
-      "points": 0,
-      "matches": 0,
-      "won": 0,
-      "draw": 0,
-      "lost": 0,
-      "goals": 0,
-      "opponentGoals": 0,
-      "goalDiff": 0
-    },
-    {
-      "position": 2,
-      "teamName": "1. FC Union Berlin",
-      "shortName": "Union Berlin",
-      "points": 0,
-      "matches": 0,
-      "won": 0,
-      "draw": 0,
-      "lost": 0,
-      "goals": 0,
-      "opponentGoals": 0,
-      "goalDiff": 0
-    },
-    {
-      "position": 3,
-      "teamName": "1. FSV Mainz 05",
-      "shortName": "Mainz",
-      "points": 0,
-      "matches": 0,
-      "won": 0,
-      "draw": 0,
-      "lost": 0,
-      "goals": 0,
-      "opponentGoals": 0,
-      "goalDiff": 0
-    },
-    {
-      "position": 4,
-      "teamName": "Bayer 04 Leverkusen",
-      "shortName": "Leverkusen",
-      "points": 0,
-      "matches": 0,
-      "won": 0,
-      "draw": 0,
-      "lost": 0,
-      "goals": 0,
-      "opponentGoals": 0,
-      "goalDiff": 0
-    },
-    {
-      "position": 5,
-      "teamName": "Borussia Dortmund",
-      "shortName": "Dortmund",
-      "points": 0,
-      "matches": 0,
-      "won": 0,
-      "draw": 0,
-      "lost": 0,
-      "goals": 0,
-      "opponentGoals": 0,
-      "goalDiff": 0
-    },
-    {
-      "position": 6,
-      "teamName": "Borussia Mönchengladbach",
-      "shortName": "Gladbach",
-      "points": 0,
-      "matches": 0,
-      "won": 0,
-      "draw": 0,
-      "lost": 0,
-      "goals": 0,
-      "opponentGoals": 0,
-      "goalDiff": 0
-    },
-    {
-      "position": 7,
-      "teamName": "Eintracht Frankfurt",
-      "shortName": "Frankfurt",
-      "points": 0,
-      "matches": 0,
-      "won": 0,
-      "draw": 0,
-      "lost": 0,
-      "goals": 0,
-      "opponentGoals": 0,
-      "goalDiff": 0
-    },
-    {
-      "position": 8,
-      "teamName": "FC Augsburg",
-      "shortName": "Augsburg",
-      "points": 0,
-      "matches": 0,
-      "won": 0,
-      "draw": 0,
-      "lost": 0,
-      "goals": 0,
-      "opponentGoals": 0,
-      "goalDiff": 0
-    },
-    {
-      "position": 9,
+      "rank": 1,
       "teamName": "FC Bayern München",
-      "shortName": "Bayern",
-      "points": 0,
-      "matches": 0,
-      "won": 0,
-      "draw": 0,
-      "lost": 0,
-      "goals": 0,
-      "opponentGoals": 0,
-      "goalDiff": 0
+      "rating": 1860
     },
     {
-      "position": 10,
-      "teamName": "FC Schalke 04",
-      "shortName": "Schalke",
-      "points": 0,
-      "matches": 0,
-      "won": 0,
-      "draw": 0,
-      "lost": 0,
-      "goals": 0,
-      "opponentGoals": 0,
-      "goalDiff": 0
+      "rank": 2,
+      "teamName": "Borussia Dortmund",
+      "rating": 1840
     },
     {
-      "position": 11,
-      "teamName": "Hamburger SV",
-      "shortName": "HSV",
-      "points": 0,
-      "matches": 0,
-      "won": 0,
-      "draw": 0,
-      "lost": 0,
-      "goals": 0,
-      "opponentGoals": 0,
-      "goalDiff": 0
-    },
-    {
-      "position": 12,
+      "rank": 3,
       "teamName": "RB Leipzig",
-      "shortName": "Leipzig",
-      "points": 0,
-      "matches": 0,
-      "won": 0,
-      "draw": 0,
-      "lost": 0,
-      "goals": 0,
-      "opponentGoals": 0,
-      "goalDiff": 0
+      "rating": 1820
     },
     {
-      "position": 13,
-      "teamName": "SC Freiburg",
-      "shortName": "Freiburg",
-      "points": 0,
-      "matches": 0,
-      "won": 0,
-      "draw": 0,
-      "lost": 0,
-      "goals": 0,
-      "opponentGoals": 0,
-      "goalDiff": 0
-    },
-    {
-      "position": 14,
-      "teamName": "SC Paderborn 07",
-      "shortName": "Paderborn",
-      "points": 0,
-      "matches": 0,
-      "won": 0,
-      "draw": 0,
-      "lost": 0,
-      "goals": 0,
-      "opponentGoals": 0,
-      "goalDiff": 0
-    },
-    {
-      "position": 15,
-      "teamName": "SV 07 Elversberg",
-      "shortName": "Elversberg",
-      "points": 0,
-      "matches": 0,
-      "won": 0,
-      "draw": 0,
-      "lost": 0,
-      "goals": 0,
-      "opponentGoals": 0,
-      "goalDiff": 0
-    },
-    {
-      "position": 16,
-      "teamName": "SV Werder Bremen",
-      "shortName": "Bremen",
-      "points": 0,
-      "matches": 0,
-      "won": 0,
-      "draw": 0,
-      "lost": 0,
-      "goals": 0,
-      "opponentGoals": 0,
-      "goalDiff": 0
-    },
-    {
-      "position": 17,
-      "teamName": "TSG Hoffenheim",
-      "shortName": "Hoffenheim",
-      "points": 0,
-      "matches": 0,
-      "won": 0,
-      "draw": 0,
-      "lost": 0,
-      "goals": 0,
-      "opponentGoals": 0,
-      "goalDiff": 0
-    },
-    {
-      "position": 18,
+      "rank": 4,
       "teamName": "VfB Stuttgart",
-      "shortName": "Stuttgart",
-      "points": 0,
-      "matches": 0,
-      "won": 0,
-      "draw": 0,
-      "lost": 0,
-      "goals": 0,
-      "opponentGoals": 0,
-      "goalDiff": 0
+      "rating": 1800
+    },
+    {
+      "rank": 5,
+      "teamName": "TSG Hoffenheim",
+      "rating": 1780
+    },
+    {
+      "rank": 6,
+      "teamName": "Bayer 04 Leverkusen",
+      "rating": 1760
+    },
+    {
+      "rank": 7,
+      "teamName": "SC Freiburg",
+      "rating": 1740
+    },
+    {
+      "rank": 8,
+      "teamName": "Eintracht Frankfurt",
+      "rating": 1720
+    },
+    {
+      "rank": 9,
+      "teamName": "FC Augsburg",
+      "rating": 1700
+    },
+    {
+      "rank": 10,
+      "teamName": "1. FSV Mainz 05",
+      "rating": 1680
+    },
+    {
+      "rank": 11,
+      "teamName": "1. FC Union Berlin",
+      "rating": 1660
+    },
+    {
+      "rank": 12,
+      "teamName": "Borussia Mönchengladbach",
+      "rating": 1640
+    },
+    {
+      "rank": 13,
+      "teamName": "Hamburger SV",
+      "rating": 1620
+    },
+    {
+      "rank": 14,
+      "teamName": "1. FC Köln",
+      "rating": 1600
+    },
+    {
+      "rank": 15,
+      "teamName": "SV Werder Bremen",
+      "rating": 1580
+    },
+    {
+      "rank": 16,
+      "teamName": "FC Schalke 04",
+      "rating": 1400
+    },
+    {
+      "rank": 17,
+      "teamName": "SC Paderborn 07",
+      "rating": 1400
+    },
+    {
+      "rank": 18,
+      "teamName": "SV 07 Elversberg",
+      "rating": 1400
     }
   ],
   "matches": [
@@ -247,11 +104,7 @@
         "draw": 0.218,
         "away": 0.256
       },
-      "tip": "1:0",
-      "homeStrength": 0.927,
-      "awayStrength": 0.818,
-      "homeForm": [],
-      "awayForm": []
+      "tip": "1:0"
     },
     {
       "matchDateTime": "2026-08-29T15:30:00",
@@ -262,11 +115,7 @@
         "draw": 0.171,
         "away": 0.163
       },
-      "tip": "2:0",
-      "homeStrength": 0.855,
-      "awayStrength": 0.527,
-      "homeForm": [],
-      "awayForm": []
+      "tip": "2:0"
     },
     {
       "matchDateTime": "2026-08-29T15:30:00",
@@ -277,11 +126,7 @@
         "draw": 0.143,
         "away": 0.103
       },
-      "tip": "2:0",
-      "homeStrength": 0.6,
-      "awayStrength": 0.091,
-      "homeForm": [],
-      "awayForm": []
+      "tip": "2:0"
     },
     {
       "matchDateTime": "2026-08-29T15:30:00",
@@ -292,11 +137,7 @@
         "draw": 0.277,
         "away": 0.356
       },
-      "tip": "1:0",
-      "homeStrength": 0.564,
-      "awayStrength": 0.673,
-      "homeForm": [],
-      "awayForm": []
+      "tip": "1:0"
     },
     {
       "matchDateTime": "2026-08-29T15:30:00",
@@ -307,11 +148,7 @@
         "draw": 0.223,
         "away": 0.513
       },
-      "tip": "0:1",
-      "homeStrength": 0.455,
-      "awayStrength": 0.782,
-      "homeForm": [],
-      "awayForm": []
+      "tip": "0:1"
     },
     {
       "matchDateTime": "2026-08-29T15:30:00",
@@ -322,11 +159,7 @@
         "draw": 0.156,
         "away": 0.714
       },
-      "tip": "0:2",
-      "homeStrength": 0.091,
-      "awayStrength": 0.745,
-      "homeForm": [],
-      "awayForm": []
+      "tip": "0:2"
     },
     {
       "matchDateTime": "2026-08-29T18:30:00",
@@ -337,11 +170,7 @@
         "draw": 0.158,
         "away": 0.137
       },
-      "tip": "2:0",
-      "homeStrength": 0.891,
-      "awayStrength": 0.491,
-      "homeForm": [],
-      "awayForm": []
+      "tip": "2:0"
     },
     {
       "matchDateTime": "2026-08-30T15:30:00",
@@ -352,11 +181,7 @@
         "draw": 0.177,
         "away": 0.177
       },
-      "tip": "2:1",
-      "homeStrength": 0.709,
-      "awayStrength": 0.418,
-      "homeForm": [],
-      "awayForm": []
+      "tip": "2:1"
     },
     {
       "matchDateTime": "2026-08-30T17:30:00",
@@ -367,11 +192,7 @@
         "draw": 0.139,
         "away": 0.094
       },
-      "tip": "2:0",
-      "homeStrength": 0.636,
-      "awayStrength": 0.091,
-      "homeForm": [],
-      "awayForm": []
+      "tip": "2:0"
     }
   ]
 }

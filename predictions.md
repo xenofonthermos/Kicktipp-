@@ -14,25 +14,25 @@ Erstellt am 2026-08-04. Elo-basierte Tippempfehlung für Kicktipp, ohne Gewähr 
 | SC Freiburg – SV Werder Bremen | 2:1 | 65% / 18% / 18% |
 | FC Augsburg – FC Schalke 04 | 2:0 | 77% / 14% / 9% |
 
-## Tabelle
+## Elo-Tabelle (Modellwert, keine offizielle Tabelle)
 
-| Platz | Team | Sp | Tore | Diff | Pkt |
-| --- | --- | --- | --- | --- | --- |
-| 1 | 1. FC Köln | 0 | 0:0 | 0 | 0 |
-| 2 | 1. FC Union Berlin | 0 | 0:0 | 0 | 0 |
-| 3 | 1. FSV Mainz 05 | 0 | 0:0 | 0 | 0 |
-| 4 | Bayer 04 Leverkusen | 0 | 0:0 | 0 | 0 |
-| 5 | Borussia Dortmund | 0 | 0:0 | 0 | 0 |
-| 6 | Borussia Mönchengladbach | 0 | 0:0 | 0 | 0 |
-| 7 | Eintracht Frankfurt | 0 | 0:0 | 0 | 0 |
-| 8 | FC Augsburg | 0 | 0:0 | 0 | 0 |
-| 9 | FC Bayern München | 0 | 0:0 | 0 | 0 |
-| 10 | FC Schalke 04 | 0 | 0:0 | 0 | 0 |
-| 11 | Hamburger SV | 0 | 0:0 | 0 | 0 |
-| 12 | RB Leipzig | 0 | 0:0 | 0 | 0 |
-| 13 | SC Freiburg | 0 | 0:0 | 0 | 0 |
-| 14 | SC Paderborn 07 | 0 | 0:0 | 0 | 0 |
-| 15 | SV 07 Elversberg | 0 | 0:0 | 0 | 0 |
-| 16 | SV Werder Bremen | 0 | 0:0 | 0 | 0 |
-| 17 | TSG Hoffenheim | 0 | 0:0 | 0 | 0 |
-| 18 | VfB Stuttgart | 0 | 0:0 | 0 | 0 |
+| Rang | Team | Rating |
+| --- | --- | --- |
+| 1 | FC Bayern München | 1860 |
+| 2 | Borussia Dortmund | 1840 |
+| 3 | RB Leipzig | 1820 |
+| 4 | VfB Stuttgart | 1800 |
+| 5 | TSG Hoffenheim | 1780 |
+| 6 | Bayer 04 Leverkusen | 1760 |
+| 7 | SC Freiburg | 1740 |
+| 8 | Eintracht Frankfurt | 1720 |
+| 9 | FC Augsburg | 1700 |
+| 10 | 1. FSV Mainz 05 | 1680 |
+| 11 | 1. FC Union Berlin | 1660 |
+| 12 | Borussia Mönchengladbach | 1640 |
+| 13 | Hamburger SV | 1620 |
+| 14 | 1. FC Köln | 1600 |
+| 15 | SV Werder Bremen | 1580 |
+| 16 | FC Schalke 04 | 1400 |
+| 17 | SC Paderborn 07 | 1400 |
+| 18 | SV 07 Elversberg | 1400 |
