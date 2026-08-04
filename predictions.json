@@ -1,7 +1,7 @@
 {
   "season": 2026,
   "matchday": 1,
-  "generatedAt": "2026-08-04T18:41:49.870Z",
+  "generatedAt": "2026-08-04T21:56:51.805Z",
   "eloRanking": [
     {
       "rank": 1,
@@ -113,6 +113,16 @@
         "bookmakerOdds": 2.2,
         "ourProbability": 0.585,
         "edgePct": 16.4
+      },
+      "homeForm": [],
+      "awayForm": [],
+      "homeLineup": {
+        "confirmed": false,
+        "missingRegulars": []
+      },
+      "awayLineup": {
+        "confirmed": false,
+        "missingRegulars": []
       }
     },
     {
@@ -133,6 +143,16 @@
         "bookmakerOdds": 1.52,
         "ourProbability": 0.667,
         "edgePct": 4.3
+      },
+      "homeForm": [],
+      "awayForm": [],
+      "homeLineup": {
+        "confirmed": false,
+        "missingRegulars": []
+      },
+      "awayLineup": {
+        "confirmed": false,
+        "missingRegulars": []
       }
     },
     {
@@ -153,6 +173,16 @@
         "bookmakerOdds": 1.67,
         "ourProbability": 0.753,
         "edgePct": 18.6
+      },
+      "homeForm": [],
+      "awayForm": [],
+      "homeLineup": {
+        "confirmed": false,
+        "missingRegulars": []
+      },
+      "awayLineup": {
+        "confirmed": false,
+        "missingRegulars": []
       }
     },
     {
@@ -173,6 +203,16 @@
         "bookmakerOdds": 2.1,
         "ourProbability": 0.57,
         "edgePct": 12.3
+      },
+      "homeForm": [],
+      "awayForm": [],
+      "homeLineup": {
+        "confirmed": false,
+        "missingRegulars": []
+      },
+      "awayLineup": {
+        "confirmed": false,
+        "missingRegulars": []
       }
     },
     {
@@ -193,6 +233,16 @@
         "bookmakerOdds": 2.25,
         "ourProbability": 0.513,
         "edgePct": 9.2
+      },
+      "homeForm": [],
+      "awayForm": [],
+      "homeLineup": {
+        "confirmed": false,
+        "missingRegulars": []
+      },
+      "awayLineup": {
+        "confirmed": false,
+        "missingRegulars": []
       }
     },
     {
@@ -210,9 +260,19 @@
         "market": "1x2",
         "selection": "Auswärtssieg",
         "bookmaker": "Tipico",
-        "bookmakerOdds": 1.55,
+        "bookmakerOdds": 1.52,
         "ourProbability": 0.714,
-        "edgePct": 10.2
+        "edgePct": 9.1
+      },
+      "homeForm": [],
+      "awayForm": [],
+      "homeLineup": {
+        "confirmed": false,
+        "missingRegulars": []
+      },
+      "awayLineup": {
+        "confirmed": false,
+        "missingRegulars": []
       }
     },
     {
@@ -233,6 +293,16 @@
         "bookmakerOdds": 2.2,
         "ourProbability": 0.468,
         "edgePct": 4.6
+      },
+      "homeForm": [],
+      "awayForm": [],
+      "homeLineup": {
+        "confirmed": false,
+        "missingRegulars": []
+      },
+      "awayLineup": {
+        "confirmed": false,
+        "missingRegulars": []
       }
     },
     {
@@ -253,6 +323,16 @@
         "bookmakerOdds": 2,
         "ourProbability": 0.646,
         "edgePct": 17.2
+      },
+      "homeForm": [],
+      "awayForm": [],
+      "homeLineup": {
+        "confirmed": false,
+        "missingRegulars": []
+      },
+      "awayLineup": {
+        "confirmed": false,
+        "missingRegulars": []
       }
     },
     {
@@ -273,6 +353,16 @@
         "bookmakerOdds": 2.05,
         "ourProbability": 0.767,
         "edgePct": 30.4
+      },
+      "homeForm": [],
+      "awayForm": [],
+      "homeLineup": {
+        "confirmed": false,
+        "missingRegulars": []
+      },
+      "awayLineup": {
+        "confirmed": false,
+        "missingRegulars": []
       }
     }
   ]
