@@ -1,10 +1,10 @@
 # Bundesliga-Prognose – Spieltag 1
 
-Erstellt am 2026-08-05. Elo-basierte Tippempfehlung für Kicktipp, ohne Gewähr – reiner Unterhaltungswert.
+Erstellt am 2026-08-09. Elo-basierte Tippempfehlung für Kicktipp, ohne Gewähr – reiner Unterhaltungswert.
 
 | Liga | Spiel | Tipp | Heim% / Remis% / Auswärts% |
 | --- | --- | --- | --- |
-| Bundesliga | FC Bayern München – VfB Stuttgart | 2:1 | 64% / 17% / 18% |
+| Bundesliga | FC Bayern München – VfB Stuttgart | 2:1 | 65% / 18% / 18% |
 | Bundesliga | RB Leipzig – Borussia Mönchengladbach | 2:1 | 63% / 19% / 18% |
 | Bundesliga | 1. FSV Mainz 05 – SC Paderborn 07 | 1:0 | 66% / 19% / 15% |
 | Bundesliga | 1. FC Union Berlin – Eintracht Frankfurt | 0:1 | 36% / 27% / 38% |
@@ -13,7 +13,8 @@ Erstellt am 2026-08-05. Elo-basierte Tippempfehlung für Kicktipp, ohne Gewähr 
 | Bundesliga | Borussia Dortmund – Hamburger SV | 2:1 | 71% / 17% / 13% |
 | Bundesliga | SC Freiburg – SV Werder Bremen | 1:0 | 53% / 23% / 24% |
 | Bundesliga | FC Augsburg – FC Schalke 04 | 2:1 | 61% / 20% / 20% |
-| 3. Liga | SV Waldhof Mannheim – Fortuna Düsseldorf | 2:1 | 72% / 16% / 13% |
+| 3. Liga | Fortuna Düsseldorf – TSG 1899 Hoffenheim II | 1:2 | 28% / 23% / 48% |
+| 3. Liga | Fortuna Düsseldorf – VfB Stuttgart II | 1:2 | 24% / 21% / 55% |
 
 ## Elo-Tabelle (Modellwert, keine offizielle Tabelle)
 

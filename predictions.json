@@ -1,7 +1,7 @@
 {
   "season": 2026,
   "matchday": 1,
-  "generatedAt": "2026-08-05T12:20:59.982Z",
+  "generatedAt": "2026-08-09T19:57:50.514Z",
   "eloRanking": [
     {
       "rank": 1,
@@ -101,9 +101,9 @@
       "homeTeam": "FC Bayern München",
       "awayTeam": "VfB Stuttgart",
       "probabilities": {
-        "home": 0.644,
-        "draw": 0.174,
-        "away": 0.182
+        "home": 0.645,
+        "draw": 0.177,
+        "away": 0.178
       },
       "tip": "2:1",
       "tipExpectedPoints": 1.593,
@@ -319,8 +319,8 @@
       "awayTeam": "SV Werder Bremen",
       "probabilities": {
         "home": 0.53,
-        "draw": 0.234,
-        "away": 0.236
+        "draw": 0.23,
+        "away": 0.24
       },
       "tip": "1:0",
       "tipExpectedPoints": 1.404,
@@ -375,20 +375,52 @@
       }
     },
     {
-      "matchDateTime": "2026-08-07T19:00:00",
+      "matchDateTime": "2026-08-15T14:00:00",
       "league": "3. Liga",
-      "homeTeam": "SV Waldhof Mannheim",
-      "awayTeam": "Fortuna Düsseldorf",
+      "homeTeam": "Fortuna Düsseldorf",
+      "awayTeam": "TSG 1899 Hoffenheim II",
       "probabilities": {
-        "home": 0.715,
-        "draw": 0.155,
-        "away": 0.129
+        "home": 0.284,
+        "draw": 0.233,
+        "away": 0.483
       },
-      "tip": "2:1",
-      "tipExpectedPoints": 1.722,
+      "tip": "1:2",
+      "tipExpectedPoints": 1.295,
       "valueBet": null,
-      "homeForm": [],
-      "awayForm": [],
+      "homeForm": [
+        "N"
+      ],
+      "awayForm": [
+        "N"
+      ],
+      "homeLineup": {
+        "confirmed": false,
+        "missingRegulars": []
+      },
+      "awayLineup": {
+        "confirmed": false,
+        "missingRegulars": []
+      }
+    },
+    {
+      "matchDateTime": "2026-08-28T19:00:00",
+      "league": "3. Liga",
+      "homeTeam": "Fortuna Düsseldorf",
+      "awayTeam": "VfB Stuttgart II",
+      "probabilities": {
+        "home": 0.241,
+        "draw": 0.21,
+        "away": 0.548
+      },
+      "tip": "1:2",
+      "tipExpectedPoints": 1.406,
+      "valueBet": null,
+      "homeForm": [
+        "N"
+      ],
+      "awayForm": [
+        "S"
+      ],
       "homeLineup": {
         "confirmed": false,
         "missingRegulars": []
