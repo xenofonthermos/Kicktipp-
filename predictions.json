@@ -1,37 +1,37 @@
 {
   "season": 2026,
   "matchday": 1,
-  "generatedAt": "2026-08-09T19:57:50.514Z",
+  "generatedAt": "2026-08-30T10:02:18.488Z",
   "eloRanking": [
     {
       "rank": 1,
       "teamName": "FC Bayern München",
-      "rating": 1854
+      "rating": 1866
     },
     {
       "rank": 2,
       "teamName": "Borussia Dortmund",
-      "rating": 1821
+      "rating": 1826
     },
     {
       "rank": 3,
       "teamName": "RB Leipzig",
-      "rating": 1797
+      "rating": 1805
     },
     {
       "rank": 4,
       "teamName": "Bayer 04 Leverkusen",
-      "rating": 1795
+      "rating": 1778
     },
     {
       "rank": 5,
       "teamName": "VfB Stuttgart",
-      "rating": 1781
+      "rating": 1769
     },
     {
       "rank": 6,
       "teamName": "Eintracht Frankfurt",
-      "rating": 1751
+      "rating": 1750
     },
     {
       "rank": 7,
@@ -41,12 +41,12 @@
     {
       "rank": 8,
       "teamName": "TSG Hoffenheim",
-      "rating": 1724
+      "rating": 1712
     },
     {
       "rank": 9,
       "teamName": "1. FSV Mainz 05",
-      "rating": 1691
+      "rating": 1683
     },
     {
       "rank": 10,
@@ -55,13 +55,13 @@
     },
     {
       "rank": 11,
-      "teamName": "Borussia Mönchengladbach",
-      "rating": 1644
+      "teamName": "1. FC Union Berlin",
+      "rating": 1639
     },
     {
       "rank": 12,
-      "teamName": "1. FC Union Berlin",
-      "rating": 1638
+      "teamName": "Borussia Mönchengladbach",
+      "rating": 1636
     },
     {
       "rank": 13,
@@ -71,266 +71,49 @@
     {
       "rank": 14,
       "teamName": "Hamburger SV",
-      "rating": 1620
+      "rating": 1615
     },
     {
       "rank": 15,
       "teamName": "1. FC Köln",
-      "rating": 1588
+      "rating": 1600
     },
     {
       "rank": 16,
-      "teamName": "FC Schalke 04",
-      "rating": 1400
+      "teamName": "SV 07 Elversberg",
+      "rating": 1417
     },
     {
       "rank": 17,
       "teamName": "SC Paderborn 07",
-      "rating": 1400
+      "rating": 1408
     },
     {
       "rank": 18,
-      "teamName": "SV 07 Elversberg",
+      "teamName": "FC Schalke 04",
       "rating": 1400
     }
   ],
   "matches": [
-    {
-      "matchDateTime": "2026-08-28T20:30:00",
-      "league": "Bundesliga",
-      "homeTeam": "FC Bayern München",
-      "awayTeam": "VfB Stuttgart",
-      "probabilities": {
-        "home": 0.645,
-        "draw": 0.177,
-        "away": 0.178
-      },
-      "tip": "2:1",
-      "tipExpectedPoints": 1.593,
-      "valueBet": {
-        "market": "Über/Unter 3.5 Tore",
-        "selection": "Unter 3.5",
-        "bookmaker": "Tipico",
-        "bookmakerOdds": 2.2,
-        "ourProbability": 0.509,
-        "edgePct": 8.8
-      },
-      "homeForm": [],
-      "awayForm": [],
-      "homeLineup": {
-        "confirmed": false,
-        "missingRegulars": []
-      },
-      "awayLineup": {
-        "confirmed": false,
-        "missingRegulars": []
-      }
-    },
-    {
-      "matchDateTime": "2026-08-29T15:30:00",
-      "league": "Bundesliga",
-      "homeTeam": "RB Leipzig",
-      "awayTeam": "Borussia Mönchengladbach",
-      "probabilities": {
-        "home": 0.631,
-        "draw": 0.189,
-        "away": 0.18
-      },
-      "tip": "2:1",
-      "tipExpectedPoints": 1.588,
-      "valueBet": {
-        "market": "Über/Unter 3.5 Tore",
-        "selection": "Unter 3.5",
-        "bookmaker": "Tipico",
-        "bookmakerOdds": 1.7,
-        "ourProbability": 0.568,
-        "edgePct": 2.1
-      },
-      "homeForm": [],
-      "awayForm": [],
-      "homeLineup": {
-        "confirmed": false,
-        "missingRegulars": []
-      },
-      "awayLineup": {
-        "confirmed": false,
-        "missingRegulars": []
-      }
-    },
-    {
-      "matchDateTime": "2026-08-29T15:30:00",
-      "league": "Bundesliga",
-      "homeTeam": "1. FSV Mainz 05",
-      "awayTeam": "SC Paderborn 07",
-      "probabilities": {
-        "home": 0.664,
-        "draw": 0.186,
-        "away": 0.15
-      },
-      "tip": "1:0",
-      "tipExpectedPoints": 1.659,
-      "valueBet": {
-        "market": "1x2",
-        "selection": "Heimsieg",
-        "bookmaker": "Tipico",
-        "bookmakerOdds": 1.67,
-        "ourProbability": 0.664,
-        "edgePct": 9.7
-      },
-      "homeForm": [],
-      "awayForm": [],
-      "homeLineup": {
-        "confirmed": false,
-        "missingRegulars": []
-      },
-      "awayLineup": {
-        "confirmed": false,
-        "missingRegulars": []
-      }
-    },
-    {
-      "matchDateTime": "2026-08-29T15:30:00",
-      "league": "Bundesliga",
-      "homeTeam": "1. FC Union Berlin",
-      "awayTeam": "Eintracht Frankfurt",
-      "probabilities": {
-        "home": 0.358,
-        "draw": 0.267,
-        "away": 0.375
-      },
-      "tip": "0:1",
-      "tipExpectedPoints": 1.036,
-      "valueBet": {
-        "market": "Über/Unter 2.5 Tore",
-        "selection": "Unter 2.5",
-        "bookmaker": "Tipico",
-        "bookmakerOdds": 2.1,
-        "ourProbability": 0.519,
-        "edgePct": 7.2
-      },
-      "homeForm": [],
-      "awayForm": [],
-      "homeLineup": {
-        "confirmed": false,
-        "missingRegulars": []
-      },
-      "awayLineup": {
-        "confirmed": false,
-        "missingRegulars": []
-      }
-    },
-    {
-      "matchDateTime": "2026-08-29T15:30:00",
-      "league": "Bundesliga",
-      "homeTeam": "1. FC Köln",
-      "awayTeam": "TSG Hoffenheim",
-      "probabilities": {
-        "home": 0.309,
-        "draw": 0.253,
-        "away": 0.438
-      },
-      "tip": "0:1",
-      "tipExpectedPoints": 1.205,
-      "valueBet": {
-        "market": "Über/Unter 3.5 Tore",
-        "selection": "Unter 3.5",
-        "bookmaker": "Tipico",
-        "bookmakerOdds": 1.55,
-        "ourProbability": 0.715,
-        "edgePct": 11.8
-      },
-      "homeForm": [],
-      "awayForm": [],
-      "homeLineup": {
-        "confirmed": false,
-        "missingRegulars": []
-      },
-      "awayLineup": {
-        "confirmed": false,
-        "missingRegulars": []
-      }
-    },
-    {
-      "matchDateTime": "2026-08-29T15:30:00",
-      "league": "Bundesliga",
-      "homeTeam": "SV 07 Elversberg",
-      "awayTeam": "Bayer 04 Leverkusen",
-      "probabilities": {
-        "home": 0.142,
-        "draw": 0.176,
-        "away": 0.682
-      },
-      "tip": "1:2",
-      "tipExpectedPoints": 1.663,
-      "valueBet": {
-        "market": "1x2",
-        "selection": "Auswärtssieg",
-        "bookmaker": "Tipico",
-        "bookmakerOdds": 1.52,
-        "ourProbability": 0.682,
-        "edgePct": 6
-      },
-      "homeForm": [],
-      "awayForm": [],
-      "homeLineup": {
-        "confirmed": false,
-        "missingRegulars": []
-      },
-      "awayLineup": {
-        "confirmed": false,
-        "missingRegulars": []
-      }
-    },
-    {
-      "matchDateTime": "2026-08-29T18:30:00",
-      "league": "Bundesliga",
-      "homeTeam": "Borussia Dortmund",
-      "awayTeam": "Hamburger SV",
-      "probabilities": {
-        "home": 0.708,
-        "draw": 0.165,
-        "away": 0.127
-      },
-      "tip": "2:1",
-      "tipExpectedPoints": 1.73,
-      "valueBet": {
-        "market": "1x2",
-        "selection": "Auswärtssieg",
-        "bookmaker": "Tipico",
-        "bookmakerOdds": 9,
-        "ourProbability": 0.127,
-        "edgePct": 2.2
-      },
-      "homeForm": [],
-      "awayForm": [],
-      "homeLineup": {
-        "confirmed": false,
-        "missingRegulars": []
-      },
-      "awayLineup": {
-        "confirmed": false,
-        "missingRegulars": []
-      }
-    },
     {
       "matchDateTime": "2026-08-30T15:30:00",
       "league": "Bundesliga",
       "homeTeam": "SC Freiburg",
       "awayTeam": "SV Werder Bremen",
       "probabilities": {
-        "home": 0.53,
-        "draw": 0.23,
-        "away": 0.24
+        "home": 0.561,
+        "draw": 0.223,
+        "away": 0.216
       },
-      "tip": "1:0",
-      "tipExpectedPoints": 1.404,
+      "tip": "2:1",
+      "tipExpectedPoints": 1.447,
       "valueBet": {
         "market": "1x2",
         "selection": "Heimsieg",
         "bookmaker": "Tipico",
-        "bookmakerOdds": 2,
-        "ourProbability": 0.53,
-        "edgePct": 5.6
+        "bookmakerOdds": 1.77,
+        "ourProbability": 0.561,
+        "edgePct": 2.5
       },
       "homeForm": [],
       "awayForm": [],
@@ -349,78 +132,22 @@
       "homeTeam": "FC Augsburg",
       "awayTeam": "FC Schalke 04",
       "probabilities": {
-        "home": 0.608,
-        "draw": 0.197,
+        "home": 0.597,
+        "draw": 0.207,
         "away": 0.196
       },
       "tip": "2:1",
-      "tipExpectedPoints": 1.539,
+      "tipExpectedPoints": 1.524,
       "valueBet": {
         "market": "1x2",
         "selection": "Heimsieg",
         "bookmaker": "Tipico",
-        "bookmakerOdds": 2.05,
-        "ourProbability": 0.608,
-        "edgePct": 14.5
+        "bookmakerOdds": 2.15,
+        "ourProbability": 0.597,
+        "edgePct": 15.6
       },
       "homeForm": [],
       "awayForm": [],
-      "homeLineup": {
-        "confirmed": false,
-        "missingRegulars": []
-      },
-      "awayLineup": {
-        "confirmed": false,
-        "missingRegulars": []
-      }
-    },
-    {
-      "matchDateTime": "2026-08-15T14:00:00",
-      "league": "3. Liga",
-      "homeTeam": "Fortuna Düsseldorf",
-      "awayTeam": "TSG 1899 Hoffenheim II",
-      "probabilities": {
-        "home": 0.284,
-        "draw": 0.233,
-        "away": 0.483
-      },
-      "tip": "1:2",
-      "tipExpectedPoints": 1.295,
-      "valueBet": null,
-      "homeForm": [
-        "N"
-      ],
-      "awayForm": [
-        "N"
-      ],
-      "homeLineup": {
-        "confirmed": false,
-        "missingRegulars": []
-      },
-      "awayLineup": {
-        "confirmed": false,
-        "missingRegulars": []
-      }
-    },
-    {
-      "matchDateTime": "2026-08-28T19:00:00",
-      "league": "3. Liga",
-      "homeTeam": "Fortuna Düsseldorf",
-      "awayTeam": "VfB Stuttgart II",
-      "probabilities": {
-        "home": 0.241,
-        "draw": 0.21,
-        "away": 0.548
-      },
-      "tip": "1:2",
-      "tipExpectedPoints": 1.406,
-      "valueBet": null,
-      "homeForm": [
-        "N"
-      ],
-      "awayForm": [
-        "S"
-      ],
       "homeLineup": {
         "confirmed": false,
         "missingRegulars": []
