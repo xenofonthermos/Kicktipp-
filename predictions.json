@@ -1,7 +1,8 @@
 {
   "season": 2026,
   "matchday": 1,
-  "generatedAt": "2026-08-30T10:02:18.488Z",
+  "nextMatchday": 2,
+  "generatedAt": "2026-08-31T13:31:03.392Z",
   "eloRanking": [
     {
       "rank": 1,
@@ -30,13 +31,13 @@
     },
     {
       "rank": 6,
-      "teamName": "Eintracht Frankfurt",
+      "teamName": "SC Freiburg",
       "rating": 1750
     },
     {
       "rank": 7,
-      "teamName": "SC Freiburg",
-      "rating": 1741
+      "teamName": "Eintracht Frankfurt",
+      "rating": 1750
     },
     {
       "rank": 8,
@@ -45,13 +46,13 @@
     },
     {
       "rank": 9,
-      "teamName": "1. FSV Mainz 05",
+      "teamName": "FC Augsburg",
       "rating": 1683
     },
     {
       "rank": 10,
-      "teamName": "FC Augsburg",
-      "rating": 1679
+      "teamName": "1. FSV Mainz 05",
+      "rating": 1683
     },
     {
       "rank": 11,
@@ -66,7 +67,7 @@
     {
       "rank": 13,
       "teamName": "SV Werder Bremen",
-      "rating": 1633
+      "rating": 1624
     },
     {
       "rank": 14,
@@ -91,32 +92,36 @@
     {
       "rank": 18,
       "teamName": "FC Schalke 04",
-      "rating": 1400
+      "rating": 1396
     }
   ],
   "matches": [
     {
-      "matchDateTime": "2026-08-30T15:30:00",
+      "matchDateTime": "2026-09-04T20:30:00",
       "league": "Bundesliga",
-      "homeTeam": "SC Freiburg",
-      "awayTeam": "SV Werder Bremen",
+      "homeTeam": "VfB Stuttgart",
+      "awayTeam": "1. FC Köln",
       "probabilities": {
-        "home": 0.561,
-        "draw": 0.223,
-        "away": 0.216
+        "home": 0.651,
+        "draw": 0.182,
+        "away": 0.167
       },
       "tip": "2:1",
-      "tipExpectedPoints": 1.447,
+      "tipExpectedPoints": 1.615,
       "valueBet": {
-        "market": "1x2",
-        "selection": "Heimsieg",
+        "market": "Über/Unter 3.5 Tore",
+        "selection": "Unter 3.5",
         "bookmaker": "Tipico",
-        "bookmakerOdds": 1.77,
-        "ourProbability": 0.561,
-        "edgePct": 2.5
+        "bookmakerOdds": 1.85,
+        "ourProbability": 0.548,
+        "edgePct": 4.6
       },
-      "homeForm": [],
-      "awayForm": [],
+      "homeForm": [
+        "N"
+      ],
+      "awayForm": [
+        "S"
+      ],
       "homeLineup": {
         "confirmed": false,
         "missingRegulars": []
@@ -127,27 +132,276 @@
       }
     },
     {
-      "matchDateTime": "2026-08-30T17:30:00",
+      "matchDateTime": "2026-09-05T15:30:00",
       "league": "Bundesliga",
-      "homeTeam": "FC Augsburg",
-      "awayTeam": "FC Schalke 04",
+      "homeTeam": "TSG Hoffenheim",
+      "awayTeam": "Borussia Dortmund",
       "probabilities": {
-        "home": 0.597,
-        "draw": 0.207,
-        "away": 0.196
+        "home": 0.321,
+        "draw": 0.249,
+        "away": 0.429
+      },
+      "tip": "0:1",
+      "tipExpectedPoints": 1.143,
+      "valueBet": {
+        "market": "Über/Unter 3.5 Tore",
+        "selection": "Unter 3.5",
+        "bookmaker": "Tipico",
+        "bookmakerOdds": 1.7,
+        "ourProbability": 0.693,
+        "edgePct": 14.7
+      },
+      "homeForm": [
+        "N"
+      ],
+      "awayForm": [
+        "S"
+      ],
+      "homeLineup": {
+        "confirmed": false,
+        "missingRegulars": []
+      },
+      "awayLineup": {
+        "confirmed": false,
+        "missingRegulars": []
+      }
+    },
+    {
+      "matchDateTime": "2026-09-05T15:30:00",
+      "league": "Bundesliga",
+      "homeTeam": "Bayer 04 Leverkusen",
+      "awayTeam": "1. FC Union Berlin",
+      "probabilities": {
+        "home": 0.645,
+        "draw": 0.182,
+        "away": 0.173
       },
       "tip": "2:1",
-      "tipExpectedPoints": 1.524,
+      "tipExpectedPoints": 1.615,
+      "valueBet": {
+        "market": "Über/Unter 3.5 Tore",
+        "selection": "Unter 3.5",
+        "bookmaker": "Tipico",
+        "bookmakerOdds": 1.77,
+        "ourProbability": 0.548,
+        "edgePct": 2.4
+      },
+      "homeForm": [
+        "N"
+      ],
+      "awayForm": [
+        "U"
+      ],
+      "homeLineup": {
+        "confirmed": false,
+        "missingRegulars": []
+      },
+      "awayLineup": {
+        "confirmed": false,
+        "missingRegulars": []
+      }
+    },
+    {
+      "matchDateTime": "2026-09-05T15:30:00",
+      "league": "Bundesliga",
+      "homeTeam": "Borussia Mönchengladbach",
+      "awayTeam": "SV 07 Elversberg",
+      "probabilities": {
+        "home": 0.615,
+        "draw": 0.198,
+        "away": 0.187
+      },
+      "tip": "2:1",
+      "tipExpectedPoints": 1.558,
       "valueBet": {
         "market": "1x2",
         "selection": "Heimsieg",
         "bookmaker": "Tipico",
-        "bookmakerOdds": 2.15,
-        "ourProbability": 0.597,
-        "edgePct": 15.6
+        "bookmakerOdds": 1.8,
+        "ourProbability": 0.615,
+        "edgePct": 8.9
       },
-      "homeForm": [],
-      "awayForm": [],
+      "homeForm": [
+        "N"
+      ],
+      "awayForm": [
+        "S"
+      ],
+      "homeLineup": {
+        "confirmed": false,
+        "missingRegulars": []
+      },
+      "awayLineup": {
+        "confirmed": false,
+        "missingRegulars": []
+      }
+    },
+    {
+      "matchDateTime": "2026-09-05T15:30:00",
+      "league": "Bundesliga",
+      "homeTeam": "SV Werder Bremen",
+      "awayTeam": "RB Leipzig",
+      "probabilities": {
+        "home": 0.253,
+        "draw": 0.236,
+        "away": 0.511
+      },
+      "tip": "1:2",
+      "tipExpectedPoints": 1.349,
+      "valueBet": {
+        "market": "Über/Unter 3.5 Tore",
+        "selection": "Unter 3.5",
+        "bookmaker": "Tipico",
+        "bookmakerOdds": 1.6,
+        "ourProbability": 0.65,
+        "edgePct": 7.1
+      },
+      "homeForm": [
+        "N"
+      ],
+      "awayForm": [
+        "S"
+      ],
+      "homeLineup": {
+        "confirmed": false,
+        "missingRegulars": []
+      },
+      "awayLineup": {
+        "confirmed": false,
+        "missingRegulars": []
+      }
+    },
+    {
+      "matchDateTime": "2026-09-05T15:30:00",
+      "league": "Bundesliga",
+      "homeTeam": "SC Paderborn 07",
+      "awayTeam": "SC Freiburg",
+      "probabilities": {
+        "home": 0.21,
+        "draw": 0.216,
+        "away": 0.575
+      },
+      "tip": "1:2",
+      "tipExpectedPoints": 1.487,
+      "valueBet": {
+        "market": "1x2",
+        "selection": "Auswärtssieg",
+        "bookmaker": "Tipico",
+        "bookmakerOdds": 2.1,
+        "ourProbability": 0.575,
+        "edgePct": 12.4
+      },
+      "homeForm": [
+        "U"
+      ],
+      "awayForm": [
+        "S"
+      ],
+      "homeLineup": {
+        "confirmed": false,
+        "missingRegulars": []
+      },
+      "awayLineup": {
+        "confirmed": false,
+        "missingRegulars": []
+      }
+    },
+    {
+      "matchDateTime": "2026-09-05T18:30:00",
+      "league": "Bundesliga",
+      "homeTeam": "FC Schalke 04",
+      "awayTeam": "FC Bayern München",
+      "probabilities": {
+        "home": 0.07,
+        "draw": 0.124,
+        "away": 0.806
+      },
+      "tip": "0:2",
+      "tipExpectedPoints": 1.902,
+      "valueBet": {
+        "market": "Über/Unter 3.5 Tore",
+        "selection": "Unter 3.5",
+        "bookmaker": "Tipico",
+        "bookmakerOdds": 2.2,
+        "ourProbability": 0.561,
+        "edgePct": 14
+      },
+      "homeForm": [
+        "N"
+      ],
+      "awayForm": [
+        "S"
+      ],
+      "homeLineup": {
+        "confirmed": false,
+        "missingRegulars": []
+      },
+      "awayLineup": {
+        "confirmed": false,
+        "missingRegulars": []
+      }
+    },
+    {
+      "matchDateTime": "2026-09-06T15:30:00",
+      "league": "Bundesliga",
+      "homeTeam": "Hamburger SV",
+      "awayTeam": "1. FSV Mainz 05",
+      "probabilities": {
+        "home": 0.345,
+        "draw": 0.271,
+        "away": 0.384
+      },
+      "tip": "0:1",
+      "tipExpectedPoints": 1.099,
+      "valueBet": {
+        "market": "Über/Unter 2.5 Tore",
+        "selection": "Unter 2.5",
+        "bookmaker": "Tipico",
+        "bookmakerOdds": 2.15,
+        "ourProbability": 0.544,
+        "edgePct": 10.7
+      },
+      "homeForm": [
+        "N"
+      ],
+      "awayForm": [
+        "U"
+      ],
+      "homeLineup": {
+        "confirmed": false,
+        "missingRegulars": []
+      },
+      "awayLineup": {
+        "confirmed": false,
+        "missingRegulars": []
+      }
+    },
+    {
+      "matchDateTime": "2026-09-06T17:30:00",
+      "league": "Bundesliga",
+      "homeTeam": "Eintracht Frankfurt",
+      "awayTeam": "FC Augsburg",
+      "probabilities": {
+        "home": 0.518,
+        "draw": 0.224,
+        "away": 0.258
+      },
+      "tip": "2:1",
+      "tipExpectedPoints": 1.34,
+      "valueBet": {
+        "market": "Über/Unter 3.5 Tore",
+        "selection": "Unter 3.5",
+        "bookmaker": "Tipico",
+        "bookmakerOdds": 1.7,
+        "ourProbability": 0.606,
+        "edgePct": 6
+      },
+      "homeForm": [
+        "U"
+      ],
+      "awayForm": [
+        "S"
+      ],
       "homeLineup": {
         "confirmed": false,
         "missingRegulars": []
