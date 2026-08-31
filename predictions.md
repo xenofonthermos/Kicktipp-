@@ -36,3 +36,7 @@ Erstellt am 2026-08-31. Elo-basierte Tippempfehlung für Kicktipp, ohne Gewähr 
 | 16 | SV 07 Elversberg | 1417 |
 | 17 | SC Paderborn 07 | 1408 |
 | 18 | FC Schalke 04 | 1396 |
+
+## Tipico-Erfolgsbilanz (bisher entschiedene Wett-Tipps)
+
+3 von 9 richtig, Bilanz -3.38 Einheiten (-37.6% ROI bei 1 Einheit Einsatz je Tipp). Reine Information, keine Wettempfehlung — siehe RISKS.md.

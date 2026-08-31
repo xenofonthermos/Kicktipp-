@@ -2,7 +2,7 @@
   "season": 2026,
   "matchday": 1,
   "nextMatchday": 2,
-  "generatedAt": "2026-08-31T13:58:19.063Z",
+  "generatedAt": "2026-08-31T14:15:34.125Z",
   "eloRanking": [
     {
       "rank": 1,
@@ -411,5 +411,12 @@
         "missingRegulars": []
       }
     }
-  ]
+  ],
+  "valueBetTrackRecord": {
+    "resolvedBets": 9,
+    "wins": 3,
+    "losses": 6,
+    "profitUnits": -3.38,
+    "roiPercent": -37.6
+  }
 }

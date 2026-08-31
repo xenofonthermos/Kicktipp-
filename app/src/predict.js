@@ -31,12 +31,21 @@ import {
 } from "./highlightlyApi.js";
 import { loadStore, saveStore, recordLineup, identifyRegulars, missingRegulars } from "./lineupHistory.js";
 import { computeForm } from "./form.js";
+import {
+  loadTrackRecord,
+  saveTrackRecord,
+  recordPendingBet,
+  removePendingBet,
+  resolvePendingBets,
+  summarizeTrackRecord,
+} from "./valueBetTrackRecord.js";
 
 const FORTUNA_DUESSELDORF = "Fortuna Düsseldorf";
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const OUTPUT_DIR = path.join(__dirname, "..", "output");
 const LINEUP_HISTORY_PATH = path.join(__dirname, "..", "data", "lineupHistory.json");
+const VALUE_BET_TRACK_RECORD_PATH = path.join(__dirname, "..", "data", "valueBetTrackRecord.json");
 
 function currentSeasonStartYear(referenceDate = new Date()) {
   // Bundesliga-Saison startet im Sommer; OpenLigaDB zählt die Saison nach dem Startjahr.
@@ -105,6 +114,22 @@ export function latestKickoff(matches) {
 // der Nutzer versucht, ein laengst abgepfiffenes Spiel bei Kicktipp einzutragen.
 export function filterUnplayedMatches(matches) {
   return matches.filter((match) => !isMatchFinished(match));
+}
+
+// Trägt die Value-Bet-Empfehlung für ein Spiel in die Erfolgsbilanz ein (oder entfernt sie
+// wieder, falls der Edge in diesem Lauf verschwunden ist — siehe valueBetTrackRecord.js).
+function updateTrackRecordForMatch(trackRecord, match, prediction, recordedAt) {
+  if (prediction.valueBet) {
+    return recordPendingBet(trackRecord, match.matchID, {
+      league: prediction.league,
+      homeTeam: prediction.homeTeam,
+      awayTeam: prediction.awayTeam,
+      matchDateTime: prediction.matchDateTime,
+      ...prediction.valueBet,
+      recordedAt,
+    });
+  }
+  return removePendingBet(trackRecord, match.matchID);
 }
 
 // Rangliste über alle Teams der laufenden Saison nach Elo-Rating (nicht die offizielle Tabelle).
@@ -182,7 +207,7 @@ async function predictMatch(ratings, match, oddsEvents, highlightlyMatches, line
   return { prediction, nextStore };
 }
 
-function toMarkdown(matchday, nextMatchday, predictions, eloRanking) {
+function toMarkdown(matchday, nextMatchday, predictions, eloRanking, valueBetTrackRecord) {
   const matchdayLabel = nextMatchday != null ? `${matchday}–${nextMatchday}` : `${matchday}`;
   const matchRows = predictions
     .map(
@@ -195,6 +220,12 @@ function toMarkdown(matchday, nextMatchday, predictions, eloRanking) {
 
   const rankingRows = eloRanking.map((t) => `| ${t.rank} | ${t.teamName} | ${t.rating} |`).join("\n");
 
+  const trackRecordSection =
+    valueBetTrackRecord.resolvedBets > 0
+      ? `## Tipico-Erfolgsbilanz (bisher entschiedene Wett-Tipps)\n\n` +
+        `${valueBetTrackRecord.wins} von ${valueBetTrackRecord.resolvedBets} richtig, Bilanz ${valueBetTrackRecord.profitUnits >= 0 ? "+" : ""}${valueBetTrackRecord.profitUnits} Einheiten (${valueBetTrackRecord.roiPercent}% ROI bei 1 Einheit Einsatz je Tipp). Reine Information, keine Wettempfehlung — siehe RISKS.md.\n`
+      : `## Tipico-Erfolgsbilanz\n\nNoch keine ausgewerteten Wett-Tipps.\n`;
+
   return `# Bundesliga-Prognose – Spieltag ${matchdayLabel}\n\n` +
     `Erstellt am ${new Date().toISOString().slice(0, 10)}. Elo-basierte Tippempfehlung für Kicktipp, ohne Gewähr – reiner Unterhaltungswert.\n\n` +
     `| Liga | Spiel | Tipp | Heim% / Remis% / Auswärts% |\n` +
@@ -203,10 +234,12 @@ function toMarkdown(matchday, nextMatchday, predictions, eloRanking) {
     `## Elo-Tabelle (Modellwert, keine offizielle Tabelle)\n\n` +
     `| Rang | Team | Rating |\n` +
     `| --- | --- | --- |\n` +
-    `${rankingRows}\n`;
+    `${rankingRows}\n\n` +
+    `${trackRecordSection}`;
 }
 
 async function main() {
+  const generatedAt = new Date().toISOString();
   const season = currentSeasonStartYear();
   const { ratings, finishedMatches, seasonMatches } = await buildEloRatings(season);
   const currentSeasonTable = await getFinalTable(season);
@@ -228,6 +261,7 @@ async function main() {
   const oddsEvents = await fetchBundesligaOdds();
   const highlightlyMatches = await fetchHighlightlyMatches(season);
   let lineupStore = await loadStore(LINEUP_HISTORY_PATH);
+  let trackRecord = await loadTrackRecord(VALUE_BET_TRACK_RECORD_PATH);
 
   const predictions = [];
   for (const match of [...matchdayMatches, ...nextMatchdayMatches]) {
@@ -242,6 +276,7 @@ async function main() {
     );
     predictions.push(prediction);
     lineupStore = nextStore;
+    trackRecord = updateTrackRecordForMatch(trackRecord, match, prediction, generatedAt);
   }
 
   // Fortuna Düsseldorf (3. Liga) läuft in derselben Kicktipp-Runde mit — eigener Elo-Pool
@@ -269,26 +304,44 @@ async function main() {
       );
       predictions.push(prediction);
       lineupStore = nextStore;
+      trackRecord = updateTrackRecordForMatch(trackRecord, fortunaMatch, prediction, generatedAt);
     }
   }
 
   await saveStore(LINEUP_HISTORY_PATH, lineupStore);
 
-  const generatedAt = new Date().toISOString();
+  // Erfolgsbilanz: entscheidet alle offenen Wetten, deren Spiel inzwischen (auch außerhalb der
+  // aktuellen Vorschau, z.B. länger zurückliegende Spieltage) beendet ist, bevor sie
+  // zusammengefasst wird — siehe valueBetTrackRecord.js.
+  const finishedScoresByMatchId = Object.fromEntries(
+    [...finishedMatches, ...finishedMatches3Liga].map((m) => [m.matchID, getFinalScore(m)])
+  );
+  trackRecord = resolvePendingBets(trackRecord, finishedScoresByMatchId);
+  await saveTrackRecord(VALUE_BET_TRACK_RECORD_PATH, trackRecord);
+  const valueBetTrackRecord = summarizeTrackRecord(trackRecord);
+
   const nextMatchday = hasNextMatchday ? nextGroupOrderId : null;
 
   await mkdir(OUTPUT_DIR, { recursive: true });
   await writeFile(
     path.join(OUTPUT_DIR, "predictions.json"),
     JSON.stringify(
-      { season, matchday: currentGroup.groupOrderID, nextMatchday, generatedAt, eloRanking, matches: predictions },
+      {
+        season,
+        matchday: currentGroup.groupOrderID,
+        nextMatchday,
+        generatedAt,
+        eloRanking,
+        matches: predictions,
+        valueBetTrackRecord,
+      },
       null,
       2
     )
   );
   await writeFile(
     path.join(OUTPUT_DIR, "predictions.md"),
-    toMarkdown(currentGroup.groupOrderID, nextMatchday, predictions, eloRanking)
+    toMarkdown(currentGroup.groupOrderID, nextMatchday, predictions, eloRanking, valueBetTrackRecord)
   );
 
   const matchdayLabel = nextMatchday != null ? `${currentGroup.groupOrderID}+${nextMatchday}` : `${currentGroup.groupOrderID}`;
