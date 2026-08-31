@@ -1,6 +1,6 @@
 import { test } from "node:test";
 import assert from "node:assert/strict";
-import { findNextMatch, findUpcomingMatches, latestKickoff } from "../src/predict.js";
+import { findNextMatch, findUpcomingMatches, latestKickoff, extendWindowToInclude } from "../src/predict.js";
 
 function finishedMatch(homeTeam, awayTeam, dateTime) {
   return {
@@ -93,4 +93,25 @@ test("latestKickoff: liefert den spätesten Anstoß aus mehreren Spielen", () =>
 
 test("latestKickoff: leere Liste -> Epoch (1970)", () => {
   assert.equal(latestKickoff([]).getTime(), 0);
+});
+
+test("extendWindowToInclude: Spiel liegt nach dem Fensterende -> Fenster wird verlängert", () => {
+  const windowEnd = new Date("2026-09-06T17:30:00Z");
+  const match = openMatch("Fortuna Köln", "Fortuna Düsseldorf", "2026-09-06T19:30:00Z");
+
+  const extended = extendWindowToInclude(windowEnd, match);
+
+  assert.equal(extended.toISOString(), new Date("2026-09-06T19:30:00Z").toISOString());
+});
+
+test("extendWindowToInclude: Spiel liegt bereits innerhalb des Fensters -> unverändert", () => {
+  const windowEnd = new Date("2026-09-06T17:30:00Z");
+  const match = openMatch("A", "B", "2026-09-01T15:30:00Z");
+
+  assert.equal(extendWindowToInclude(windowEnd, match).getTime(), windowEnd.getTime());
+});
+
+test("extendWindowToInclude: kein Spiel (null) -> Fenster unverändert", () => {
+  const windowEnd = new Date("2026-09-06T17:30:00Z");
+  assert.equal(extendWindowToInclude(windowEnd, null).getTime(), windowEnd.getTime());
 });

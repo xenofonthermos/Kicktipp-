@@ -2,7 +2,7 @@
   "season": 2026,
   "matchday": 1,
   "nextMatchday": 2,
-  "generatedAt": "2026-08-31T14:15:34.125Z",
+  "generatedAt": "2026-08-31T14:42:49.406Z",
   "eloRanking": [
     {
       "rank": 1,
@@ -243,8 +243,8 @@
       "awayTeam": "RB Leipzig",
       "probabilities": {
         "home": 0.253,
-        "draw": 0.233,
-        "away": 0.514
+        "draw": 0.236,
+        "away": 0.511
       },
       "tip": "1:2",
       "tipExpectedPoints": 1.349,
@@ -277,9 +277,9 @@
       "homeTeam": "SC Paderborn 07",
       "awayTeam": "SC Freiburg",
       "probabilities": {
-        "home": 0.206,
-        "draw": 0.212,
-        "away": 0.581
+        "home": 0.21,
+        "draw": 0.216,
+        "away": 0.575
       },
       "tip": "1:2",
       "tipExpectedPoints": 1.487,
@@ -287,9 +287,9 @@
         "market": "1x2",
         "selection": "Auswärtssieg",
         "bookmaker": "Tipico",
-        "bookmakerOdds": 2.05,
-        "ourProbability": 0.581,
-        "edgePct": 11.7
+        "bookmakerOdds": 2.1,
+        "ourProbability": 0.575,
+        "edgePct": 12.4
       },
       "homeForm": [
         "U"
@@ -313,8 +313,8 @@
       "awayTeam": "FC Bayern München",
       "probabilities": {
         "home": 0.07,
-        "draw": 0.124,
-        "away": 0.806
+        "draw": 0.127,
+        "away": 0.803
       },
       "tip": "0:2",
       "tipExpectedPoints": 1.902,
@@ -400,6 +400,38 @@
         "U"
       ],
       "awayForm": [
+        "S"
+      ],
+      "homeLineup": {
+        "confirmed": false,
+        "missingRegulars": []
+      },
+      "awayLineup": {
+        "confirmed": false,
+        "missingRegulars": []
+      }
+    },
+    {
+      "matchDateTime": "2026-09-06T19:30:00",
+      "league": "3. Liga",
+      "homeTeam": "Fortuna Köln",
+      "awayTeam": "Fortuna Düsseldorf",
+      "probabilities": {
+        "home": 0.469,
+        "draw": 0.238,
+        "away": 0.293
+      },
+      "tip": "2:1",
+      "tipExpectedPoints": 1.247,
+      "valueBet": null,
+      "homeForm": [
+        "N",
+        "U",
+        "S"
+      ],
+      "awayForm": [
+        "N",
+        "N",
         "S"
       ],
       "homeLineup": {

@@ -105,6 +105,15 @@ export function latestKickoff(matches) {
   );
 }
 
+// Erweitert ein Zeitfenster bei Bedarf, damit ein bestimmtes Spiel garantiert hineinfällt — z.B.
+// wenn Fortuna Düsseldorfs nächstes Spiel knapp außerhalb des aus dem Bundesliga-Kalender
+// berechneten Fensters liegt (Kicktipps tatsächliche Rundenbündelung ist uns nicht bekannt).
+export function extendWindowToInclude(windowEnd, match) {
+  if (!match) return windowEnd;
+  const matchDate = new Date(match.matchDateTime);
+  return matchDate > windowEnd ? matchDate : windowEnd;
+}
+
 // Bug gefunden am 30.08.2026 (erster produktiver Lauf waehrend eines LAUFENDEN Spieltags --
 // vorherige Laeufe fanden immer VOR Spieltagsbeginn statt, deshalb nie aufgefallen):
 // OpenLigaDBs "getcurrentgroup" bleibt auf dem laufenden Spieltag stehen, bis WIRKLICH JEDES
@@ -289,7 +298,12 @@ async function main() {
   // ein Kalenderfakt der ganzen Runde(n), unabhaengig davon, wie viele Bundesliga-Spiele davon
   // schon gespielt sind -- sonst wuerde das Fortuna-Fenster faelschlich schrumpfen.
   const bundesligaWindowEnd = latestKickoff([...fullMatchdayMatches, ...fullNextMatchdayMatches]);
-  const fortunaMatches = findUpcomingMatches(seasonMatches3Liga, FORTUNA_DUESSELDORF, bundesligaWindowEnd);
+  // Live beobachtet (2026-08-31): Fortunas nächstes Spiel lag nur ~2 Std. NACH dem Fensterende
+  // und wäre sonst grundlos herausgefallen -- das Fenster wird deshalb bei Bedarf bis zu
+  // Fortunas nächstem Spiel verlängert, garantiert also mindestens das eine nächste Spiel.
+  const fortunaNextMatch = findNextMatch(seasonMatches3Liga, FORTUNA_DUESSELDORF);
+  const fortunaWindowEnd = extendWindowToInclude(bundesligaWindowEnd, fortunaNextMatch);
+  const fortunaMatches = findUpcomingMatches(seasonMatches3Liga, FORTUNA_DUESSELDORF, fortunaWindowEnd);
   if (fortunaMatches.length > 0) {
     const highlightlyMatches3Liga = await fetchHighlightlyMatches(season, LEAGUE_3_LIGA_ID);
     for (const fortunaMatch of fortunaMatches) {
