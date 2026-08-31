@@ -2,7 +2,7 @@
   "season": 2026,
   "matchday": 1,
   "nextMatchday": 2,
-  "generatedAt": "2026-08-31T13:31:03.392Z",
+  "generatedAt": "2026-08-31T13:58:19.063Z",
   "eloRanking": [
     {
       "rank": 1,
@@ -243,8 +243,8 @@
       "awayTeam": "RB Leipzig",
       "probabilities": {
         "home": 0.253,
-        "draw": 0.236,
-        "away": 0.511
+        "draw": 0.233,
+        "away": 0.514
       },
       "tip": "1:2",
       "tipExpectedPoints": 1.349,
@@ -277,9 +277,9 @@
       "homeTeam": "SC Paderborn 07",
       "awayTeam": "SC Freiburg",
       "probabilities": {
-        "home": 0.21,
-        "draw": 0.216,
-        "away": 0.575
+        "home": 0.206,
+        "draw": 0.212,
+        "away": 0.581
       },
       "tip": "1:2",
       "tipExpectedPoints": 1.487,
@@ -287,9 +287,9 @@
         "market": "1x2",
         "selection": "Auswärtssieg",
         "bookmaker": "Tipico",
-        "bookmakerOdds": 2.1,
-        "ourProbability": 0.575,
-        "edgePct": 12.4
+        "bookmakerOdds": 2.05,
+        "ourProbability": 0.581,
+        "edgePct": 11.7
       },
       "homeForm": [
         "U"
