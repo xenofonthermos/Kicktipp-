@@ -1,0 +1,204 @@
+{
+  "processedMatchIds": [
+    1340444924,
+    1340450030,
+    1340451732,
+    1340448328,
+    1340447477,
+    1340446626
+  ],
+  "teams": {
+    "FC Bayern München": {
+      "matchesSeen": 1,
+      "players": {
+        "Manuel Neuer": 1,
+        "Alphonso Davies": 1,
+        "Kim Min-jae": 1,
+        "Dayot Upamecano": 1,
+        "Konrad Laimer": 1,
+        "Aleksandar Pavlović": 1,
+        "Joshua Kimmich": 1,
+        "Luis Díaz": 1,
+        "Nathaniel Brown": 1,
+        "Michael Olise": 1,
+        "Harry Kane": 1
+      }
+    },
+    "VfB Stuttgart": {
+      "matchesSeen": 1,
+      "players": {
+        "Fabian Bredlow": 1,
+        "Ramon Hendriks": 1,
+        "Jeff Chabot": 1,
+        "Finn Jeltsch": 1,
+        "Maximilian Mittelstädt": 1,
+        "Angelo Stiller": 1,
+        "Grischa Prömel": 1,
+        "Josha Vagnoman": 1,
+        "Deniz Undav": 1,
+        "Tiago Tomás": 1,
+        "Dženan Pejčinović": 1
+      }
+    },
+    "1. FSV Mainz 05": {
+      "matchesSeen": 1,
+      "players": {
+        "R. Zentner": 1,
+        "D. Kohr": 1,
+        "F. Gruber": 1,
+        "D. da Costa": 1,
+        "K. Sano": 1,
+        "P. Mwene": 1,
+        "N. Amiri": 1,
+        "Lee Jae-Sung": 1,
+        "A. Caci": 1,
+        "P. Tietz": 1,
+        "S. Becker": 1
+      }
+    },
+    "SC Paderborn 07": {
+      "matchesSeen": 1,
+      "players": {
+        "N. Noll": 1,
+        "M. Hansen": 1,
+        "T. Scheller": 1,
+        "J. ter Horst": 1,
+        "R. Obermair": 1,
+        "S. Castañeda": 1,
+        "L. Ulrich": 1,
+        "L. Curda": 1,
+        "G. Vidović": 1,
+        "M. Pieringer": 1,
+        "S. Marino": 1
+      }
+    },
+    "1. FC Union Berlin": {
+      "matchesSeen": 1,
+      "players": {
+        "M. Raab": 1,
+        "T. Rothe": 1,
+        "L. Querfeld": 1,
+        "Z. Van Den Bosch": 1,
+        "J. Juranović": 1,
+        "M. Aebischer": 1,
+        "A. Kemlein": 1,
+        "R. Khedira": 1,
+        "A. Schäfer": 1,
+        "E. Latte Lath": 1,
+        "M. LjubiÄiÄ": 1
+      }
+    },
+    "Eintracht Frankfurt": {
+      "matchesSeen": 1,
+      "players": {
+        "N. Atubolu": 1,
+        "Elias Baum": 1,
+        "J. Maluze": 1,
+        "R. Koch": 1,
+        "K. Kosugi": 1,
+        "C. Uzun": 1,
+        "R. Onyedika": 1,
+        "A. Amaimouni": 1,
+        "F. Chaïbi": 1,
+        "J. Burkardt": 1,
+        "Y. Ebnoutalib": 1
+      }
+    },
+    "1. FC Köln": {
+      "matchesSeen": 1,
+      "players": {
+        "M. Schwäbe": 1,
+        "G. Mensah": 1,
+        "L. Lochoshvili": 1,
+        "Jahmai Simpson-Pusey": 1,
+        "A. Castro-Montes": 1,
+        "Í. Bergmann Jóhannesson": 1,
+        "T. Krauß": 1,
+        "Paul Michael Junior Okon-Engstler": 1,
+        "S. El Mala": 1,
+        "R. Ache": 1,
+        "J. Thielmann": 1
+      }
+    },
+    "TSG Hoffenheim": {
+      "matchesSeen": 1,
+      "players": {
+        "O. Baumann": 1,
+        "Bernardo": 1,
+        "A. Hajdari": 1,
+        "O. Kabak": 1,
+        "V. Coufal": 1,
+        "W. Burger": 1,
+        "L. Avdullahu": 1,
+        "A. Daghim": 1,
+        "P. Wimmer": 1,
+        "A. Hložek": 1,
+        "B. Conté": 1
+      }
+    },
+    "SV 07 Elversberg": {
+      "matchesSeen": 1,
+      "players": {
+        "N. Kristof": 1,
+        "L. Günther": 1,
+        "L. Pinckert": 1,
+        "M. Rohr": 1,
+        "J. Gyamerah": 1,
+        "Ł. Poręba": 1,
+        "F. Keidel": 1,
+        "William Cole Campbell": 1,
+        "Francis-Ikechukwu Onyeka": 1,
+        "L. Petkov": 1,
+        "D. Mokwa": 1
+      }
+    },
+    "Bayer 04 Leverkusen": {
+      "matchesSeen": 1,
+      "players": {
+        "M. Flekken": 1,
+        "Miguel Gutiérrez": 1,
+        "E. Tapsoba": 1,
+        "L. Badé": 1,
+        "Lucas Vázquez": 1,
+        "Aleix García": 1,
+        "E. Fernández": 1,
+        "Afonso Moreira": 1,
+        "M. Tillman": 1,
+        "I. Maza": 1,
+        "P. Schick": 1
+      }
+    },
+    "Borussia Dortmund": {
+      "matchesSeen": 1,
+      "players": {
+        "G. Kobel": 1,
+        "Kouakou Joane Gadou": 1,
+        "W. Anton": 1,
+        "J. Ryerson": 1,
+        "D. Svensson": 1,
+        "F. Nmecha": 1,
+        "J. Bellingham": 1,
+        "M. Beier": 1,
+        "G. Konstantelias": 1,
+        "S. Guirassy": 1,
+        "K. Karetsas": 1
+      }
+    },
+    "Hamburger SV": {
+      "matchesSeen": 1,
+      "players": {
+        "Daniel Heuer Fernandes": 1,
+        "J. Torunarigha": 1,
+        "S. Bornauw": 1,
+        "N. Capaldo": 1,
+        "L. Lemke": 1,
+        "A. Sambi Lokonga": 1,
+        "N. Remberg": 1,
+        "B. Jatta": 1,
+        "A. Grønbæk": 1,
+        "M. Adeline": 1,
+        "P. Daka": 1
+      }
+    }
+  }
+}

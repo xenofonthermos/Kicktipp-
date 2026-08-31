@@ -1,0 +1,11 @@
+{
+  "name": "bundesliga-kicktipp-prognose",
+  "version": "1.0.0",
+  "description": "Elo-basierte Bundesliga-Tippempfehlungen für eine private Kicktipp-Spassrunde",
+  "type": "module",
+  "scripts": {
+    "predict": "node --env-file=.env src/predict.js",
+    "test": "node --test"
+  },
+  "license": "UNLICENSED"
+}

@@ -1,0 +1,48 @@
+name: Prognose aktualisieren
+
+on:
+  schedule:
+    # 4x täglich (00:17, 06:17, 12:17, 18:17 UTC). Bewusst nicht öfter: Highlightly erlaubt nur
+    # 100 Anfragen/Tag kostenlos, ein Lauf verbraucht ca. 15-20 (Season-Matches + Lineups je Spiel).
+    - cron: "17 */6 * * *"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  predict:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Repo auschecken
+        uses: actions/checkout@v4
+
+      - name: Node.js einrichten
+        uses: actions/setup-node@v4
+        with:
+          node-version: "24"
+
+      - name: Tests ausführen
+        working-directory: app
+        run: npm test
+
+      - name: Prognose berechnen
+        working-directory: app
+        env:
+          ODDS_API_KEY: ${{ secrets.ODDS_API_KEY }}
+          HIGHLIGHTLY_API_KEY: ${{ secrets.HIGHLIGHTLY_API_KEY }}
+        run: node src/predict.js
+
+      - name: Ergebnis veröffentlichen
+        run: |
+          cp app/output/predictions.json predictions.json
+          cp app/output/predictions.md predictions.md
+          git config user.name "kicktipp-prognose-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add predictions.json predictions.md app/data/lineupHistory.json
+          if git diff --cached --quiet; then
+            echo "Keine Änderungen, nichts zu committen."
+          else
+            git commit -m "Automatische Prognose-Aktualisierung ($(date -u +%Y-%m-%dT%H:%M:%SZ))"
+            git push
+          fi
