@@ -2,7 +2,7 @@
   "season": 2026,
   "matchday": 1,
   "nextMatchday": 2,
-  "generatedAt": "2026-09-01T16:44:01.833Z",
+  "generatedAt": "2026-09-01T21:06:39.639Z",
   "eloRanking": [
     {
       "rank": 1,
@@ -102,9 +102,9 @@
       "homeTeam": "VfB Stuttgart",
       "awayTeam": "1. FC Köln",
       "probabilities": {
-        "home": 0.651,
+        "home": 0.646,
         "draw": 0.182,
-        "away": 0.167
+        "away": 0.172
       },
       "tip": "2:1",
       "tipExpectedPoints": 1.615,
@@ -208,8 +208,8 @@
       "awayTeam": "SV 07 Elversberg",
       "probabilities": {
         "home": 0.615,
-        "draw": 0.198,
-        "away": 0.187
+        "draw": 0.201,
+        "away": 0.184
       },
       "tip": "2:1",
       "tipExpectedPoints": 1.558,
@@ -242,19 +242,19 @@
       "homeTeam": "SV Werder Bremen",
       "awayTeam": "RB Leipzig",
       "probabilities": {
-        "home": 0.25,
-        "draw": 0.229,
-        "away": 0.52
+        "home": 0.245,
+        "draw": 0.23,
+        "away": 0.526
       },
       "tip": "1:2",
-      "tipExpectedPoints": 1.349,
+      "tipExpectedPoints": 1.393,
       "valueBet": {
         "market": "Über/Unter 3.5 Tore",
         "selection": "Unter 3.5",
         "bookmaker": "Tipico",
         "bookmakerOdds": 1.67,
-        "ourProbability": 0.65,
-        "edgePct": 9.3
+        "ourProbability": 0.629,
+        "edgePct": 7.2
       },
       "homeForm": [
         "N"
@@ -312,19 +312,19 @@
       "homeTeam": "FC Schalke 04",
       "awayTeam": "FC Bayern München",
       "probabilities": {
-        "home": 0.068,
-        "draw": 0.122,
-        "away": 0.81
+        "home": 0.072,
+        "draw": 0.119,
+        "away": 0.809
       },
       "tip": "0:2",
-      "tipExpectedPoints": 1.869,
+      "tipExpectedPoints": 1.827,
       "valueBet": {
         "market": "Über/Unter 3.5 Tore",
         "selection": "Unter 3.5",
         "bookmaker": "Tipico",
-        "bookmakerOdds": 2.2,
-        "ourProbability": 0.507,
-        "edgePct": 8.6
+        "bookmakerOdds": 2.3,
+        "ourProbability": 0.472,
+        "edgePct": 6.7
       },
       "homeForm": [
         "N"
@@ -347,9 +347,9 @@
       "homeTeam": "Hamburger SV",
       "awayTeam": "1. FSV Mainz 05",
       "probabilities": {
-        "home": 0.337,
-        "draw": 0.275,
-        "away": 0.389
+        "home": 0.336,
+        "draw": 0.271,
+        "away": 0.393
       },
       "tip": "0:1",
       "tipExpectedPoints": 1.099,
