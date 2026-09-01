@@ -11,8 +11,8 @@ Erstellt am 2026-09-01. Elo-basierte Tippempfehlung für Kicktipp, ohne Gewähr 
 | Bundesliga | SV Werder Bremen – RB Leipzig | 1:2 | 25% / 23% / 52% |
 | Bundesliga | SC Paderborn 07 – SC Freiburg | 1:2 | 20% / 21% / 59% |
 | Bundesliga | FC Schalke 04 – FC Bayern München | 0:2 | 7% / 12% / 81% |
-| Bundesliga | Hamburger SV – 1. FSV Mainz 05 | 0:1 | 34% / 28% / 38% |
-| Bundesliga | Eintracht Frankfurt – FC Augsburg | 2:1 | 51% / 23% / 26% |
+| Bundesliga | Hamburger SV – 1. FSV Mainz 05 | 0:1 | 34% / 28% / 39% |
+| Bundesliga | Eintracht Frankfurt – FC Augsburg | 2:1 | 52% / 22% / 26% |
 | 3. Liga | Fortuna Köln – Fortuna Düsseldorf | 2:1 | 47% / 24% / 29% |
 
 ## Elo-Tabelle (Modellwert, keine offizielle Tabelle)
