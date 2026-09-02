@@ -2,7 +2,7 @@
   "season": 2026,
   "matchday": 1,
   "nextMatchday": 2,
-  "generatedAt": "2026-09-01T21:06:39.639Z",
+  "generatedAt": "2026-09-02T04:42:57.646Z",
   "eloRanking": [
     {
       "rank": 1,
@@ -112,9 +112,9 @@
         "market": "Über/Unter 3.5 Tore",
         "selection": "Unter 3.5",
         "bookmaker": "Tipico",
-        "bookmakerOdds": 1.85,
+        "bookmakerOdds": 1.87,
         "ourProbability": 0.548,
-        "edgePct": 4.6
+        "edgePct": 5.1
       },
       "homeForm": [
         "N"
@@ -208,8 +208,8 @@
       "awayTeam": "SV 07 Elversberg",
       "probabilities": {
         "home": 0.615,
-        "draw": 0.201,
-        "away": 0.184
+        "draw": 0.198,
+        "away": 0.187
       },
       "tip": "2:1",
       "tipExpectedPoints": 1.558,
@@ -243,8 +243,8 @@
       "awayTeam": "RB Leipzig",
       "probabilities": {
         "home": 0.245,
-        "draw": 0.23,
-        "away": 0.526
+        "draw": 0.227,
+        "away": 0.528
       },
       "tip": "1:2",
       "tipExpectedPoints": 1.393,
@@ -312,19 +312,19 @@
       "homeTeam": "FC Schalke 04",
       "awayTeam": "FC Bayern München",
       "probabilities": {
-        "home": 0.072,
-        "draw": 0.119,
-        "away": 0.809
+        "home": 0.068,
+        "draw": 0.122,
+        "away": 0.81
       },
       "tip": "0:2",
-      "tipExpectedPoints": 1.827,
+      "tipExpectedPoints": 1.869,
       "valueBet": {
         "market": "Über/Unter 3.5 Tore",
         "selection": "Unter 3.5",
         "bookmaker": "Tipico",
         "bookmakerOdds": 2.3,
-        "ourProbability": 0.472,
-        "edgePct": 6.7
+        "ourProbability": 0.507,
+        "edgePct": 10.1
       },
       "homeForm": [
         "N"

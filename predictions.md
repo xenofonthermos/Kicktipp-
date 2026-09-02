@@ -1,13 +1,13 @@
 # Bundesliga-Prognose – Spieltag 1–2
 
-Erstellt am 2026-09-01. Elo-basierte Tippempfehlung für Kicktipp, ohne Gewähr – reiner Unterhaltungswert.
+Erstellt am 2026-09-02. Elo-basierte Tippempfehlung für Kicktipp, ohne Gewähr – reiner Unterhaltungswert.
 
 | Liga | Spiel | Tipp | Heim% / Remis% / Auswärts% |
 | --- | --- | --- | --- |
 | Bundesliga | VfB Stuttgart – 1. FC Köln | 2:1 | 65% / 18% / 17% |
 | Bundesliga | TSG Hoffenheim – Borussia Dortmund | 0:1 | 32% / 25% / 43% |
 | Bundesliga | Bayer 04 Leverkusen – 1. FC Union Berlin | 2:1 | 64% / 18% / 17% |
-| Bundesliga | Borussia Mönchengladbach – SV 07 Elversberg | 2:1 | 62% / 20% / 18% |
+| Bundesliga | Borussia Mönchengladbach – SV 07 Elversberg | 2:1 | 62% / 20% / 19% |
 | Bundesliga | SV Werder Bremen – RB Leipzig | 1:2 | 25% / 23% / 53% |
 | Bundesliga | SC Paderborn 07 – SC Freiburg | 1:2 | 20% / 21% / 59% |
 | Bundesliga | FC Schalke 04 – FC Bayern München | 0:2 | 7% / 12% / 81% |
