@@ -2,7 +2,7 @@
   "season": 2026,
   "matchday": 2,
   "nextMatchday": 3,
-  "generatedAt": "2026-09-02T21:07:14.432Z",
+  "generatedAt": "2026-09-03T04:39:06.408Z",
   "eloRanking": [
     {
       "rank": 1,
@@ -382,19 +382,19 @@
       "homeTeam": "Eintracht Frankfurt",
       "awayTeam": "FC Augsburg",
       "probabilities": {
-        "home": 0.517,
-        "draw": 0.229,
-        "away": 0.254
+        "home": 0.518,
+        "draw": 0.224,
+        "away": 0.258
       },
       "tip": "2:1",
-      "tipExpectedPoints": 1.349,
+      "tipExpectedPoints": 1.34,
       "valueBet": {
         "market": "Über/Unter 3.5 Tore",
         "selection": "Unter 3.5",
         "bookmaker": "Tipico",
         "bookmakerOdds": 1.7,
-        "ourProbability": 0.65,
-        "edgePct": 10.3
+        "ourProbability": 0.606,
+        "edgePct": 6
       },
       "homeForm": [
         "U"

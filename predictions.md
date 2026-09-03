@@ -1,6 +1,6 @@
 # Bundesliga-Prognose – Spieltag 2–3
 
-Erstellt am 2026-09-02. Elo-basierte Tippempfehlung für Kicktipp, ohne Gewähr – reiner Unterhaltungswert.
+Erstellt am 2026-09-03. Elo-basierte Tippempfehlung für Kicktipp, ohne Gewähr – reiner Unterhaltungswert.
 
 | Liga | Spiel | Tipp | Heim% / Remis% / Auswärts% |
 | --- | --- | --- | --- |
@@ -12,7 +12,7 @@ Erstellt am 2026-09-02. Elo-basierte Tippempfehlung für Kicktipp, ohne Gewähr 
 | Bundesliga | SC Paderborn 07 – SC Freiburg | 1:2 | 20% / 21% / 59% |
 | Bundesliga | FC Schalke 04 – FC Bayern München | 0:2 | 7% / 12% / 81% |
 | Bundesliga | Hamburger SV – 1. FSV Mainz 05 | 1:0 | 35% / 27% / 38% |
-| Bundesliga | Eintracht Frankfurt – FC Augsburg | 2:1 | 52% / 23% / 25% |
+| Bundesliga | Eintracht Frankfurt – FC Augsburg | 2:1 | 52% / 22% / 26% |
 | Bundesliga | 1. FC Union Berlin – FC Schalke 04 | 2:1 | 59% / 21% / 21% |
 | Bundesliga | Borussia Dortmund – SC Paderborn 07 | 2:0 | 81% / 13% / 7% |
 | Bundesliga | TSG Hoffenheim – VfB Stuttgart | 1:0 | 38% / 26% / 36% |
