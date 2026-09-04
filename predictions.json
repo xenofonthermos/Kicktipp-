@@ -2,7 +2,7 @@
   "season": 2026,
   "matchday": 2,
   "nextMatchday": 3,
-  "generatedAt": "2026-09-03T21:06:47.922Z",
+  "generatedAt": "2026-09-04T04:41:08.064Z",
   "eloRanking": [
     {
       "rank": 1,
@@ -102,9 +102,9 @@
       "homeTeam": "VfB Stuttgart",
       "awayTeam": "1. FC Köln",
       "probabilities": {
-        "home": 0.646,
-        "draw": 0.182,
-        "away": 0.172
+        "home": 0.652,
+        "draw": 0.179,
+        "away": 0.169
       },
       "tip": "2:1",
       "tipExpectedPoints": 1.615,
@@ -112,9 +112,9 @@
         "market": "Über/Unter 3.5 Tore",
         "selection": "Unter 3.5",
         "bookmaker": "Tipico",
-        "bookmakerOdds": 1.87,
+        "bookmakerOdds": 1.93,
         "ourProbability": 0.548,
-        "edgePct": 5.1
+        "edgePct": 6.6
       },
       "homeForm": [
         "N"
@@ -137,9 +137,9 @@
       "homeTeam": "TSG Hoffenheim",
       "awayTeam": "Borussia Dortmund",
       "probabilities": {
-        "home": 0.319,
+        "home": 0.324,
         "draw": 0.252,
-        "away": 0.429
+        "away": 0.424
       },
       "tip": "0:1",
       "tipExpectedPoints": 1.143,
@@ -242,9 +242,9 @@
       "homeTeam": "SV Werder Bremen",
       "awayTeam": "RB Leipzig",
       "probabilities": {
-        "home": 0.245,
+        "home": 0.24,
         "draw": 0.227,
-        "away": 0.528
+        "away": 0.533
       },
       "tip": "1:2",
       "tipExpectedPoints": 1.393,
@@ -277,9 +277,9 @@
       "homeTeam": "SC Paderborn 07",
       "awayTeam": "SC Freiburg",
       "probabilities": {
-        "home": 0.202,
+        "home": 0.199,
         "draw": 0.212,
-        "away": 0.586
+        "away": 0.59
       },
       "tip": "1:2",
       "tipExpectedPoints": 1.487,
@@ -287,9 +287,9 @@
         "market": "1x2",
         "selection": "Auswärtssieg",
         "bookmaker": "Tipico",
-        "bookmakerOdds": 2,
-        "ourProbability": 0.586,
-        "edgePct": 11.2
+        "bookmakerOdds": 1.97,
+        "ourProbability": 0.59,
+        "edgePct": 10.9
       },
       "homeForm": [
         "U"
@@ -357,9 +357,9 @@
         "market": "Über/Unter 2.5 Tore",
         "selection": "Unter 2.5",
         "bookmaker": "Tipico",
-        "bookmakerOdds": 2.15,
+        "bookmakerOdds": 2.2,
         "ourProbability": 0.57,
-        "edgePct": 13.3
+        "edgePct": 14.2
       },
       "homeForm": [
         "N"
@@ -382,19 +382,19 @@
       "homeTeam": "Eintracht Frankfurt",
       "awayTeam": "FC Augsburg",
       "probabilities": {
-        "home": 0.513,
-        "draw": 0.229,
-        "away": 0.257
+        "home": 0.518,
+        "draw": 0.224,
+        "away": 0.258
       },
       "tip": "2:1",
-      "tipExpectedPoints": 1.349,
+      "tipExpectedPoints": 1.34,
       "valueBet": {
         "market": "Über/Unter 3.5 Tore",
         "selection": "Unter 3.5",
         "bookmaker": "Tipico",
         "bookmakerOdds": 1.7,
-        "ourProbability": 0.65,
-        "edgePct": 10.3
+        "ourProbability": 0.606,
+        "edgePct": 6
       },
       "homeForm": [
         "U"
@@ -462,9 +462,9 @@
         "market": "Über/Unter 3.5 Tore",
         "selection": "Unter 3.5",
         "bookmaker": "Tipico",
-        "bookmakerOdds": 1.93,
+        "bookmakerOdds": 1.87,
         "ourProbability": 0.642,
-        "edgePct": 15.9
+        "edgePct": 14.5
       },
       "homeForm": [
         "S"
@@ -523,8 +523,8 @@
       "awayTeam": "Borussia Mönchengladbach",
       "probabilities": {
         "home": 0.568,
-        "draw": 0.213,
-        "away": 0.219
+        "draw": 0.21,
+        "away": 0.222
       },
       "tip": "2:1",
       "tipExpectedPoints": 1.472,
@@ -557,9 +557,9 @@
       "homeTeam": "FC Augsburg",
       "awayTeam": "Bayer 04 Leverkusen",
       "probabilities": {
-        "home": 0.279,
-        "draw": 0.243,
-        "away": 0.479
+        "home": 0.281,
+        "draw": 0.245,
+        "away": 0.474
       },
       "tip": "0:1",
       "tipExpectedPoints": 1.254,
@@ -704,12 +704,12 @@
       "tip": "0:2",
       "tipExpectedPoints": 1.818,
       "valueBet": {
-        "market": "Über/Unter 4.5 Tore",
-        "selection": "Unter 4.5",
+        "market": "Über/Unter 3.5 Tore",
+        "selection": "Unter 3.5",
         "bookmaker": "Tipico",
-        "bookmakerOdds": 1.6,
-        "ourProbability": 0.682,
-        "edgePct": 10.3
+        "bookmakerOdds": 2.2,
+        "ourProbability": 0.487,
+        "edgePct": 6.6
       },
       "homeForm": [
         "S"
