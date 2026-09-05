@@ -5,7 +5,12 @@
     1340451732,
     1340448328,
     1340447477,
-    1340446626
+    1340446626,
+    1340453434,
+    1340454285,
+    1340455987,
+    1340457689,
+    1340459391
   ],
   "teams": {
     "FC Bayern München": {
@@ -57,35 +62,39 @@
       }
     },
     "SC Paderborn 07": {
-      "matchesSeen": 1,
+      "matchesSeen": 2,
       "players": {
-        "N. Noll": 1,
-        "M. Hansen": 1,
-        "T. Scheller": 1,
-        "J. ter Horst": 1,
-        "R. Obermair": 1,
-        "S. Castañeda": 1,
-        "L. Ulrich": 1,
-        "L. Curda": 1,
-        "G. Vidović": 1,
-        "M. Pieringer": 1,
-        "S. Marino": 1
+        "N. Noll": 2,
+        "M. Hansen": 2,
+        "T. Scheller": 2,
+        "J. ter Horst": 2,
+        "R. Obermair": 2,
+        "S. Castañeda": 2,
+        "L. Ulrich": 2,
+        "L. Curda": 2,
+        "G. Vidović": 2,
+        "M. Pieringer": 2,
+        "S. Marino": 1,
+        "R. Philippe": 1
       }
     },
     "1. FC Union Berlin": {
-      "matchesSeen": 1,
+      "matchesSeen": 2,
       "players": {
         "M. Raab": 1,
-        "T. Rothe": 1,
+        "T. Rothe": 2,
         "L. Querfeld": 1,
-        "Z. Van Den Bosch": 1,
-        "J. Juranović": 1,
-        "M. Aebischer": 1,
-        "A. Kemlein": 1,
-        "R. Khedira": 1,
+        "Z. Van Den Bosch": 2,
+        "J. Juranović": 2,
+        "M. Aebischer": 2,
+        "A. Kemlein": 2,
+        "R. Khedira": 2,
         "A. Schäfer": 1,
-        "E. Latte Lath": 1,
-        "M. LjubiÄiÄ": 1
+        "E. Latte Lath": 2,
+        "M. LjubiÄiÄ": 2,
+        "F. Rønnow": 1,
+        "F. Uduokhai": 1,
+        "Livan Burcu": 1
       }
     },
     "Eintracht Frankfurt": {
@@ -121,67 +130,72 @@
       }
     },
     "TSG Hoffenheim": {
-      "matchesSeen": 1,
+      "matchesSeen": 2,
       "players": {
-        "O. Baumann": 1,
+        "O. Baumann": 2,
         "Bernardo": 1,
-        "A. Hajdari": 1,
-        "O. Kabak": 1,
-        "V. Coufal": 1,
-        "W. Burger": 1,
-        "L. Avdullahu": 1,
-        "A. Daghim": 1,
-        "P. Wimmer": 1,
-        "A. Hložek": 1,
-        "B. Conté": 1
+        "A. Hajdari": 2,
+        "O. Kabak": 2,
+        "V. Coufal": 2,
+        "W. Burger": 2,
+        "L. Avdullahu": 2,
+        "A. Daghim": 2,
+        "P. Wimmer": 2,
+        "A. Hložek": 2,
+        "B. Conté": 1,
+        "M. Rots": 1,
+        "T. Lemperle": 1
       }
     },
     "SV 07 Elversberg": {
-      "matchesSeen": 1,
+      "matchesSeen": 2,
       "players": {
-        "N. Kristof": 1,
-        "L. Günther": 1,
-        "L. Pinckert": 1,
-        "M. Rohr": 1,
-        "J. Gyamerah": 1,
-        "Ł. Poręba": 1,
-        "F. Keidel": 1,
-        "William Cole Campbell": 1,
-        "Francis-Ikechukwu Onyeka": 1,
-        "L. Petkov": 1,
-        "D. Mokwa": 1
+        "N. Kristof": 2,
+        "L. Günther": 2,
+        "L. Pinckert": 2,
+        "M. Rohr": 2,
+        "J. Gyamerah": 2,
+        "Ł. Poręba": 2,
+        "F. Keidel": 2,
+        "William Cole Campbell": 2,
+        "Francis-Ikechukwu Onyeka": 2,
+        "L. Petkov": 2,
+        "D. Mokwa": 2
       }
     },
     "Bayer 04 Leverkusen": {
-      "matchesSeen": 1,
+      "matchesSeen": 2,
       "players": {
-        "M. Flekken": 1,
-        "Miguel Gutiérrez": 1,
-        "E. Tapsoba": 1,
+        "M. Flekken": 2,
+        "Miguel Gutiérrez": 2,
+        "E. Tapsoba": 2,
         "L. Badé": 1,
         "Lucas Vázquez": 1,
-        "Aleix García": 1,
-        "E. Fernández": 1,
-        "Afonso Moreira": 1,
-        "M. Tillman": 1,
-        "I. Maza": 1,
-        "P. Schick": 1
+        "Aleix García": 2,
+        "E. Fernández": 2,
+        "Afonso Moreira": 2,
+        "M. Tillman": 2,
+        "I. Maza": 2,
+        "P. Schick": 2,
+        "F. Medina": 1,
+        "J. Quansah": 1
       }
     },
     "Borussia Dortmund": {
-      "matchesSeen": 1,
+      "matchesSeen": 2,
       "players": {
-        "G. Kobel": 1,
-        "Kouakou Joane Gadou": 1,
-        "W. Anton": 1,
-        "J. Ryerson": 1,
-        "D. Svensson": 1,
-        "F. Nmecha": 1,
-        "J. Bellingham": 1,
-        "M. Beier": 1,
+        "G. Kobel": 2,
+        "Kouakou Joane Gadou": 2,
+        "W. Anton": 2,
+        "J. Ryerson": 2,
+        "D. Svensson": 2,
+        "F. Nmecha": 2,
+        "J. Bellingham": 2,
+        "M. Beier": 2,
         "G. Konstantelias": 1,
-        "S. Guirassy": 1,
-        "K. Karetsas": 1
+        "S. Guirassy": 2,
+        "K. Karetsas": 2,
+        "F. Mané": 1
       }
     },
     "Hamburger SV": {
@@ -198,6 +212,70 @@
         "A. Grønbæk": 1,
         "M. Adeline": 1,
         "P. Daka": 1
+      }
+    },
+    "Borussia Mönchengladbach": {
+      "matchesSeen": 1,
+      "players": {
+        "M. Nicolas": 1,
+        "L. Ullrich": 1,
+        "K. Diks": 1,
+        "K. Itakura": 1,
+        "J. Scally": 1,
+        "M. Nguefack": 1,
+        "P. Sander": 1,
+        "H. Bolin": 1,
+        "W. Mohya": 1,
+        "F. Honorat": 1,
+        "T. Kleindienst": 1
+      }
+    },
+    "SV Werder Bremen": {
+      "matchesSeen": 1,
+      "players": {
+        "K. Hein": 1,
+        "O. Deman": 1,
+        "M. Friedl": 1,
+        "A. Pieper": 1,
+        "Arthur": 1,
+        "Y. Regeer": 1,
+        "M. Grüll": 1,
+        "L. Reis": 1,
+        "Chuky San José": 1,
+        "E. Dinkçi": 1,
+        "N. Füllkrug": 1
+      }
+    },
+    "RB Leipzig": {
+      "matchesSeen": 1,
+      "players": {
+        "M. Vandevoordt": 1,
+        "D. Raum": 1,
+        "M. Estève": 1,
+        "W. Orbán": 1,
+        "R. Baku": 1,
+        "E. Banzuzi": 1,
+        "N. Seiwald": 1,
+        "N. El Aynaoui": 1,
+        "A. Nusa": 1,
+        "C. Nkunku": 1,
+        "J. Bakayoko": 1
+      }
+    },
+    "SC Freiburg": {
+      "matchesSeen": 1,
+      "players": {
+        "M. Backhaus": 1,
+        "J. Makengo": 1,
+        "P. Lienhart": 1,
+        "M. Ginter": 1,
+        "P. Treu": 1,
+        "Y. Engelhardt": 1,
+        "M. Eggestein": 1,
+        "D. Scherhant": 1,
+        "Y. Suzuki": 1,
+        "J. Beste": 1,
+        "I. Matanović": 1
       }
     }
   }
