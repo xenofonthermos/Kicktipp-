@@ -183,7 +183,9 @@
       "edgePct": 27.2,
       "recordedAt": "2026-09-05T15:19:20.548Z",
       "matchId": 83166,
-      "status": "pending"
+      "status": "won",
+      "actualScore": "2:3",
+      "profitUnits": 0.4
     },
     "83167": {
       "league": "Bundesliga",
@@ -198,7 +200,9 @@
       "edgePct": 5.1,
       "recordedAt": "2026-09-05T15:19:20.548Z",
       "matchId": 83167,
-      "status": "pending"
+      "status": "lost",
+      "actualScore": "4:0",
+      "profitUnits": -1
     },
     "83168": {
       "league": "Bundesliga",
@@ -211,7 +215,7 @@
       "bookmakerOdds": 1.7,
       "ourProbability": 0.606,
       "edgePct": 6,
-      "recordedAt": "2026-09-05T15:19:20.548Z",
+      "recordedAt": "2026-09-05T20:27:35.395Z",
       "matchId": 83168,
       "status": "pending"
     },
@@ -228,7 +232,9 @@
       "edgePct": 28.9,
       "recordedAt": "2026-09-05T15:19:20.548Z",
       "matchId": 83169,
-      "status": "pending"
+      "status": "lost",
+      "actualScore": "3:4",
+      "profitUnits": -1
     },
     "83170": {
       "league": "Bundesliga",
@@ -238,10 +244,10 @@
       "market": "Über/Unter 2.5 Tore",
       "selection": "Unter 2.5",
       "bookmaker": "Tipico",
-      "bookmakerOdds": 2.15,
+      "bookmakerOdds": 2.2,
       "ourProbability": 0.57,
-      "edgePct": 13.3,
-      "recordedAt": "2026-09-05T15:19:20.548Z",
+      "edgePct": 14.2,
+      "recordedAt": "2026-09-05T20:27:35.395Z",
       "matchId": 83170,
       "status": "pending"
     },
@@ -258,7 +264,9 @@
       "edgePct": 0.9,
       "recordedAt": "2026-09-05T15:19:20.548Z",
       "matchId": 83171,
-      "status": "pending"
+      "status": "won",
+      "actualScore": "3:1",
+      "profitUnits": 1.4
     },
     "83172": {
       "league": "Bundesliga",
@@ -273,7 +281,9 @@
       "edgePct": 14.4,
       "recordedAt": "2026-09-05T15:19:20.548Z",
       "matchId": 83172,
-      "status": "pending"
+      "status": "won",
+      "actualScore": "0:0",
+      "profitUnits": 0.67
     },
     "83173": {
       "league": "Bundesliga",
@@ -288,7 +298,9 @@
       "edgePct": 62.8,
       "recordedAt": "2026-09-05T15:19:20.548Z",
       "matchId": 83173,
-      "status": "pending"
+      "status": "lost",
+      "actualScore": "0:1",
+      "profitUnits": -1
     },
     "83174": {
       "league": "Bundesliga",
@@ -298,10 +310,10 @@
       "market": "Über/Unter 3.5 Tore",
       "selection": "Unter 3.5",
       "bookmaker": "Tipico",
-      "bookmakerOdds": 1.87,
+      "bookmakerOdds": 1.93,
       "ourProbability": 0.642,
-      "edgePct": 14.5,
-      "recordedAt": "2026-09-05T15:19:20.548Z",
+      "edgePct": 15.9,
+      "recordedAt": "2026-09-05T20:27:35.395Z",
       "matchId": 83174,
       "status": "pending"
     },
@@ -314,9 +326,9 @@
       "selection": "Unter 3.5",
       "bookmaker": "Tipico",
       "bookmakerOdds": 1.75,
-      "ourProbability": 0.592,
-      "edgePct": 6.2,
-      "recordedAt": "2026-09-05T15:19:20.548Z",
+      "ourProbability": 0.57,
+      "edgePct": 4,
+      "recordedAt": "2026-09-05T20:27:35.395Z",
       "matchId": 83175,
       "status": "pending"
     },
@@ -328,10 +340,10 @@
       "market": "Über/Unter 3.5 Tore",
       "selection": "Unter 3.5",
       "bookmaker": "Tipico",
-      "bookmakerOdds": 1.7,
+      "bookmakerOdds": 1.77,
       "ourProbability": 0.737,
-      "edgePct": 19,
-      "recordedAt": "2026-09-05T15:19:20.548Z",
+      "edgePct": 21.3,
+      "recordedAt": "2026-09-05T20:27:35.395Z",
       "matchId": 83176,
       "status": "pending"
     },
@@ -344,9 +356,9 @@
       "selection": "Über 2.5",
       "bookmaker": "Tipico",
       "bookmakerOdds": 1.57,
-      "ourProbability": 0.634,
-      "edgePct": 3.5,
-      "recordedAt": "2026-09-05T15:19:20.548Z",
+      "ourProbability": 0.653,
+      "edgePct": 5.3,
+      "recordedAt": "2026-09-05T20:27:35.395Z",
       "matchId": 83177,
       "status": "pending"
     },
@@ -361,7 +373,7 @@
       "bookmakerOdds": 1.7,
       "ourProbability": 0.672,
       "edgePct": 12.5,
-      "recordedAt": "2026-09-05T15:19:20.548Z",
+      "recordedAt": "2026-09-05T20:27:35.395Z",
       "matchId": 83178,
       "status": "pending"
     },
@@ -370,13 +382,13 @@
       "homeTeam": "1. FSV Mainz 05",
       "awayTeam": "Eintracht Frankfurt",
       "matchDateTime": "2026-09-12T15:30:00",
-      "market": "Über/Unter 2.5 Tore",
-      "selection": "Unter 2.5",
+      "market": "Über/Unter 3.5 Tore",
+      "selection": "Unter 3.5",
       "bookmaker": "Tipico",
-      "bookmakerOdds": 2.35,
-      "ourProbability": 0.519,
-      "edgePct": 11.9,
-      "recordedAt": "2026-09-05T15:19:20.548Z",
+      "bookmakerOdds": 1.55,
+      "ourProbability": 0.737,
+      "edgePct": 13.9,
+      "recordedAt": "2026-09-05T20:27:35.395Z",
       "matchId": 83179,
       "status": "pending"
     },
@@ -389,9 +401,9 @@
       "selection": "Heimsieg",
       "bookmaker": "Tipico",
       "bookmakerOdds": 2.05,
-      "ourProbability": 0.594,
-      "edgePct": 13.1,
-      "recordedAt": "2026-09-05T15:19:20.548Z",
+      "ourProbability": 0.587,
+      "edgePct": 12.4,
+      "recordedAt": "2026-09-05T20:27:35.395Z",
       "matchId": 83180,
       "status": "pending"
     },
@@ -400,13 +412,13 @@
       "homeTeam": "1. FC Köln",
       "awayTeam": "SV Werder Bremen",
       "matchDateTime": "2026-09-12T18:30:00",
-      "market": "Über/Unter 2.5 Tore",
-      "selection": "Unter 2.5",
+      "market": "Über/Unter 3.5 Tore",
+      "selection": "Unter 3.5",
       "bookmaker": "Tipico",
-      "bookmakerOdds": 2.25,
-      "ourProbability": 0.545,
-      "edgePct": 12.9,
-      "recordedAt": "2026-09-05T15:19:20.548Z",
+      "bookmakerOdds": 1.55,
+      "ourProbability": 0.737,
+      "edgePct": 13.4,
+      "recordedAt": "2026-09-05T20:27:35.395Z",
       "matchId": 83181,
       "status": "pending"
     },
@@ -415,13 +427,13 @@
       "homeTeam": "SV 07 Elversberg",
       "awayTeam": "FC Bayern München",
       "matchDateTime": "2026-09-13T17:30:00",
-      "market": "Über/Unter 3.5 Tore",
-      "selection": "Unter 3.5",
+      "market": "Über/Unter 4.5 Tore",
+      "selection": "Unter 4.5",
       "bookmaker": "Tipico",
-      "bookmakerOdds": 2.2,
-      "ourProbability": 0.487,
-      "edgePct": 6.6,
-      "recordedAt": "2026-09-05T15:19:20.548Z",
+      "bookmakerOdds": 1.65,
+      "ourProbability": 0.697,
+      "edgePct": 13.1,
+      "recordedAt": "2026-09-05T20:27:35.395Z",
       "matchId": 83182,
       "status": "pending"
     }
