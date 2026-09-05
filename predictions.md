@@ -1,26 +1,26 @@
 # Bundesliga-Prognose – Spieltag 2–3
 
-Erstellt am 2026-09-04. Elo-basierte Tippempfehlung für Kicktipp, ohne Gewähr – reiner Unterhaltungswert.
+Erstellt am 2026-09-05. Elo-basierte Tippempfehlung für Kicktipp, ohne Gewähr – reiner Unterhaltungswert.
 
 | Liga | Spiel | Tipp | Heim% / Remis% / Auswärts% |
 | --- | --- | --- | --- |
-| Bundesliga | TSG Hoffenheim – Borussia Dortmund | 0:1 | 32% / 25% / 43% |
+| Bundesliga | TSG Hoffenheim – Borussia Dortmund | 0:1 | 34% / 25% / 41% |
 | Bundesliga | Bayer 04 Leverkusen – 1. FC Union Berlin | 2:1 | 64% / 18% / 17% |
 | Bundesliga | Borussia Mönchengladbach – SV 07 Elversberg | 2:1 | 61% / 20% / 19% |
 | Bundesliga | SV Werder Bremen – RB Leipzig | 1:2 | 24% / 22% / 54% |
 | Bundesliga | SC Paderborn 07 – SC Freiburg | 1:2 | 20% / 21% / 59% |
-| Bundesliga | FC Schalke 04 – FC Bayern München | 0:2 | 8% / 12% / 81% |
+| Bundesliga | FC Schalke 04 – FC Bayern München | 0:2 | 7% / 12% / 81% |
 | Bundesliga | Hamburger SV – 1. FSV Mainz 05 | 1:0 | 36% / 27% / 37% |
 | Bundesliga | Eintracht Frankfurt – FC Augsburg | 2:1 | 51% / 23% / 26% |
 | Bundesliga | 1. FC Union Berlin – FC Schalke 04 | 2:1 | 59% / 21% / 21% |
 | Bundesliga | Borussia Dortmund – SC Paderborn 07 | 2:0 | 81% / 13% / 7% |
 | Bundesliga | TSG Hoffenheim – VfB Stuttgart | 0:1 | 38% / 26% / 36% |
 | Bundesliga | SC Freiburg – Borussia Mönchengladbach | 2:1 | 57% / 21% / 22% |
-| Bundesliga | FC Augsburg – Bayer 04 Leverkusen | 0:1 | 29% / 24% / 47% |
-| Bundesliga | 1. FSV Mainz 05 – Eintracht Frankfurt | 1:0 | 42% / 27% / 32% |
+| Bundesliga | FC Augsburg – Bayer 04 Leverkusen | 0:1 | 28% / 24% / 48% |
+| Bundesliga | 1. FSV Mainz 05 – Eintracht Frankfurt | 1:0 | 41% / 26% / 33% |
 | Bundesliga | 1. FC Köln – SV Werder Bremen | 1:0 | 44% / 26% / 30% |
 | Bundesliga | RB Leipzig – Hamburger SV | 2:1 | 70% / 17% / 14% |
-| Bundesliga | SV 07 Elversberg – FC Bayern München | 0:2 | 8% / 13% / 79% |
+| Bundesliga | SV 07 Elversberg – FC Bayern München | 0:2 | 8% / 13% / 78% |
 | 3. Liga | Fortuna Köln – Fortuna Düsseldorf | 2:1 | 47% / 24% / 29% |
 | 3. Liga | Fortuna Düsseldorf – MSV Duisburg | 1:2 | 13% / 15% / 72% |
 
