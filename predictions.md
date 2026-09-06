@@ -4,17 +4,15 @@ Erstellt am 2026-09-06. Elo-basierte Tippempfehlung für Kicktipp, ohne Gewähr 
 
 | Liga | Spiel | Tipp | Heim% / Remis% / Auswärts% |
 | --- | --- | --- | --- |
-| Bundesliga | Eintracht Frankfurt – FC Augsburg | 2:1 | 51% / 23% / 26% |
 | Bundesliga | 1. FC Union Berlin – FC Schalke 04 | 2:1 | 57% / 21% / 22% |
-| Bundesliga | Borussia Dortmund – SC Paderborn 07 | 2:0 | 81% / 13% / 6% |
-| Bundesliga | TSG Hoffenheim – VfB Stuttgart | 0:1 | 37% / 26% / 36% |
+| Bundesliga | Borussia Dortmund – SC Paderborn 07 | 2:0 | 80% / 12% / 7% |
+| Bundesliga | TSG Hoffenheim – VfB Stuttgart | 1:0 | 38% / 26% / 36% |
 | Bundesliga | SC Freiburg – Borussia Mönchengladbach | 2:1 | 59% / 21% / 20% |
-| Bundesliga | FC Augsburg – Bayer 04 Leverkusen | 1:2 | 27% / 25% / 48% |
-| Bundesliga | 1. FSV Mainz 05 – Eintracht Frankfurt | 1:0 | 43% / 26% / 31% |
+| Bundesliga | FC Augsburg – Bayer 04 Leverkusen | 0:1 | 28% / 25% / 47% |
+| Bundesliga | 1. FSV Mainz 05 – Eintracht Frankfurt | 2:1 | 45% / 25% / 30% |
 | Bundesliga | 1. FC Köln – SV Werder Bremen | 1:0 | 42% / 26% / 32% |
-| Bundesliga | RB Leipzig – Hamburger SV | 2:1 | 68% / 17% / 14% |
-| Bundesliga | SV 07 Elversberg – FC Bayern München | 0:2 | 9% / 14% / 78% |
-| 3. Liga | Fortuna Köln – Fortuna Düsseldorf | 2:1 | 47% / 24% / 29% |
+| Bundesliga | RB Leipzig – Hamburger SV | 2:1 | 68% / 17% / 15% |
+| Bundesliga | SV 07 Elversberg – FC Bayern München | 0:2 | 9% / 13% / 78% |
 | 3. Liga | Fortuna Düsseldorf – MSV Duisburg | 1:2 | 12% / 15% / 73% |
 
 ## Elo-Tabelle (Modellwert, keine offizielle Tabelle)
@@ -27,10 +25,10 @@ Erstellt am 2026-09-06. Elo-basierte Tippempfehlung für Kicktipp, ohne Gewähr 
 | 4 | RB Leipzig | 1785 |
 | 5 | VfB Stuttgart | 1777 |
 | 6 | SC Freiburg | 1754 |
-| 7 | Eintracht Frankfurt | 1750 |
-| 8 | 1. FSV Mainz 05 | 1703 |
-| 9 | TSG Hoffenheim | 1703 |
-| 10 | FC Augsburg | 1683 |
+| 7 | Eintracht Frankfurt | 1726 |
+| 8 | FC Augsburg | 1707 |
+| 9 | 1. FSV Mainz 05 | 1703 |
+| 10 | TSG Hoffenheim | 1703 |
 | 11 | SV Werder Bremen | 1643 |
 | 12 | 1. FC Union Berlin | 1630 |
 | 13 | Borussia Mönchengladbach | 1620 |
@@ -42,4 +40,4 @@ Erstellt am 2026-09-06. Elo-basierte Tippempfehlung für Kicktipp, ohne Gewähr 
 
 ## Tipico-Erfolgsbilanz (bisher entschiedene Wett-Tipps)
 
-6 von 17 richtig, Bilanz -5.91 Einheiten (-34.8% ROI bei 1 Einheit Einsatz je Tipp). Reine Information, keine Wettempfehlung — siehe RISKS.md.
+6 von 18 richtig, Bilanz -6.91 Einheiten (-38.4% ROI bei 1 Einheit Einsatz je Tipp). Reine Information, keine Wettempfehlung — siehe RISKS.md.
