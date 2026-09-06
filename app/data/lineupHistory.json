@@ -10,7 +10,8 @@
     1340454285,
     1340455987,
     1340457689,
-    1340459391
+    1340459391,
+    1340455136
   ],
   "teams": {
     "FC Bayern München": {
@@ -98,19 +99,22 @@
       }
     },
     "Eintracht Frankfurt": {
-      "matchesSeen": 1,
+      "matchesSeen": 2,
       "players": {
-        "N. Atubolu": 1,
-        "Elias Baum": 1,
+        "N. Atubolu": 2,
+        "Elias Baum": 2,
         "J. Maluze": 1,
-        "R. Koch": 1,
-        "K. Kosugi": 1,
-        "C. Uzun": 1,
-        "R. Onyedika": 1,
+        "R. Koch": 2,
+        "K. Kosugi": 2,
+        "C. Uzun": 2,
+        "R. Onyedika": 2,
         "A. Amaimouni": 1,
         "F. Chaïbi": 1,
-        "J. Burkardt": 1,
-        "Y. Ebnoutalib": 1
+        "J. Burkardt": 2,
+        "Y. Ebnoutalib": 2,
+        "L. Brassier": 1,
+        "M. Götze": 1,
+        "R. Dōan": 1
       }
     },
     "1. FC Köln": {
@@ -276,6 +280,22 @@
         "Y. Suzuki": 1,
         "J. Beste": 1,
         "I. Matanović": 1
+      }
+    },
+    "FC Augsburg": {
+      "matchesSeen": 1,
+      "players": {
+        "F. Dahmen": 1,
+        "C. Brackelmann": 1,
+        "C. Matsima": 1,
+        "Noahkai Kai Daniel Banks": 1,
+        "Hennes Behrens": 1,
+        "F. Rieder": 1,
+        "H. Massengo": 1,
+        "M. Wolf": 1,
+        "R. Fellhauer": 1,
+        "A. Ibrahimović": 1,
+        "M. Gregoritsch": 1
       }
     }
   }
