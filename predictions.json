@@ -2,7 +2,7 @@
   "season": 2026,
   "matchday": 2,
   "nextMatchday": 3,
-  "generatedAt": "2026-09-06T20:28:52.362Z",
+  "generatedAt": "2026-09-07T04:51:01.737Z",
   "eloRanking": [
     {
       "rank": 1,
@@ -139,9 +139,9 @@
       "homeTeam": "Borussia Dortmund",
       "awayTeam": "SC Paderborn 07",
       "probabilities": {
-        "home": 0.803,
-        "draw": 0.123,
-        "away": 0.074
+        "home": 0.805,
+        "draw": 0.126,
+        "away": 0.069
       },
       "tip": "2:0",
       "tipExpectedPoints": 1.995,
@@ -213,9 +213,9 @@
       "homeTeam": "SC Freiburg",
       "awayTeam": "Borussia Mönchengladbach",
       "probabilities": {
-        "home": 0.588,
-        "draw": 0.209,
-        "away": 0.203
+        "home": 0.593,
+        "draw": 0.206,
+        "away": 0.201
       },
       "tip": "2:1",
       "tipExpectedPoints": 1.524,
@@ -223,9 +223,9 @@
         "market": "1x2",
         "selection": "Heimsieg",
         "bookmaker": "Tipico",
-        "bookmakerOdds": 1.7,
-        "ourProbability": 0.588,
-        "edgePct": 3
+        "bookmakerOdds": 1.67,
+        "ourProbability": 0.593,
+        "edgePct": 2.5
       },
       "homeForm": [
         "S",
@@ -334,9 +334,9 @@
         "market": "Über/Unter 3.5 Tore",
         "selection": "Unter 3.5",
         "bookmaker": "Tipico",
-        "bookmakerOdds": 1.55,
+        "bookmakerOdds": 1.6,
         "ourProbability": 0.737,
-        "edgePct": 13.9
+        "edgePct": 15.2
       },
       "homeForm": [
         "S",
@@ -368,12 +368,12 @@
       "tip": "2:1",
       "tipExpectedPoints": 1.685,
       "valueBet": {
-        "market": "1x2",
-        "selection": "Auswärtssieg",
+        "market": "Über/Unter 3.5 Tore",
+        "selection": "Unter 3.5",
         "bookmaker": "Tipico",
-        "bookmakerOdds": 7,
-        "ourProbability": 0.146,
-        "edgePct": 1
+        "bookmakerOdds": 1.8,
+        "ourProbability": 0.551,
+        "edgePct": 3.3
       },
       "homeForm": [
         "S",
