@@ -5,13 +5,13 @@ Erstellt am 2026-09-07. Elo-basierte Tippempfehlung für Kicktipp, ohne Gewähr 
 | Liga | Spiel | Tipp | Heim% / Remis% / Auswärts% |
 | --- | --- | --- | --- |
 | Bundesliga | 1. FC Union Berlin – FC Schalke 04 | 2:1 | 57% / 21% / 22% |
-| Bundesliga | Borussia Dortmund – SC Paderborn 07 | 2:0 | 81% / 13% / 7% |
-| Bundesliga | TSG Hoffenheim – VfB Stuttgart | 0:1 | 38% / 26% / 36% |
+| Bundesliga | Borussia Dortmund – SC Paderborn 07 | 2:0 | 81% / 12% / 7% |
+| Bundesliga | TSG Hoffenheim – VfB Stuttgart | 0:1 | 37% / 27% / 36% |
 | Bundesliga | SC Freiburg – Borussia Mönchengladbach | 2:1 | 59% / 21% / 20% |
-| Bundesliga | FC Augsburg – Bayer 04 Leverkusen | 0:1 | 29% / 25% / 46% |
+| Bundesliga | FC Augsburg – Bayer 04 Leverkusen | 0:1 | 29% / 26% / 45% |
 | Bundesliga | 1. FSV Mainz 05 – Eintracht Frankfurt | 2:1 | 45% / 25% / 30% |
 | Bundesliga | 1. FC Köln – SV Werder Bremen | 1:0 | 42% / 27% / 31% |
-| Bundesliga | RB Leipzig – Hamburger SV | 2:1 | 68% / 17% / 15% |
+| Bundesliga | RB Leipzig – Hamburger SV | 2:1 | 69% / 17% / 14% |
 | Bundesliga | SV 07 Elversberg – FC Bayern München | 0:2 | 9% / 13% / 79% |
 | 3. Liga | Fortuna Düsseldorf – MSV Duisburg | 1:2 | 12% / 15% / 73% |
 
