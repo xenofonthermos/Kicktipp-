@@ -2,7 +2,7 @@
   "season": 2026,
   "matchday": 2,
   "nextMatchday": 3,
-  "generatedAt": "2026-09-08T16:42:32.143Z",
+  "generatedAt": "2026-09-08T21:14:08.083Z",
   "eloRanking": [
     {
       "rank": 1,
@@ -140,8 +140,8 @@
       "awayTeam": "SC Paderborn 07",
       "probabilities": {
         "home": 0.805,
-        "draw": 0.126,
-        "away": 0.069
+        "draw": 0.123,
+        "away": 0.071
       },
       "tip": "2:0",
       "tipExpectedPoints": 1.995,
@@ -177,18 +177,18 @@
       "awayTeam": "VfB Stuttgart",
       "probabilities": {
         "home": 0.383,
-        "draw": 0.259,
-        "away": 0.358
+        "draw": 0.256,
+        "away": 0.361
       },
-      "tip": "1:0",
-      "tipExpectedPoints": 1.091,
+      "tip": "0:1",
+      "tipExpectedPoints": 1.032,
       "valueBet": {
         "market": "Über/Unter 3.5 Tore",
         "selection": "Unter 3.5",
         "bookmaker": "Tipico",
         "bookmakerOdds": 1.85,
-        "ourProbability": 0.715,
-        "edgePct": 21.2
+        "ourProbability": 0.693,
+        "edgePct": 19
       },
       "homeForm": [
         "N",
@@ -213,8 +213,8 @@
       "homeTeam": "SC Freiburg",
       "awayTeam": "Borussia Mönchengladbach",
       "probabilities": {
-        "home": 0.596,
-        "draw": 0.203,
+        "home": 0.593,
+        "draw": 0.206,
         "away": 0.201
       },
       "tip": "2:1",
@@ -260,9 +260,9 @@
         "market": "Über/Unter 3.5 Tore",
         "selection": "Unter 3.5",
         "bookmaker": "Tipico",
-        "bookmakerOdds": 1.8,
+        "bookmakerOdds": 1.75,
         "ourProbability": 0.694,
-        "edgePct": 17.6
+        "edgePct": 16.4
       },
       "homeForm": [
         "S",
@@ -288,8 +288,8 @@
       "awayTeam": "Eintracht Frankfurt",
       "probabilities": {
         "home": 0.458,
-        "draw": 0.248,
-        "away": 0.295
+        "draw": 0.251,
+        "away": 0.291
       },
       "tip": "1:0",
       "tipExpectedPoints": 1.254,
@@ -408,9 +408,9 @@
         "market": "Über/Unter 4.5 Tore",
         "selection": "Unter 4.5",
         "bookmaker": "Tipico",
-        "bookmakerOdds": 1.65,
+        "bookmakerOdds": 1.67,
         "ourProbability": 0.697,
-        "edgePct": 13.1
+        "edgePct": 14
       },
       "homeForm": [
         "S",
