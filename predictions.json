@@ -2,7 +2,7 @@
   "season": 2026,
   "matchday": 2,
   "nextMatchday": 3,
-  "generatedAt": "2026-09-07T21:34:43.918Z",
+  "generatedAt": "2026-09-08T04:46:44.411Z",
   "eloRanking": [
     {
       "rank": 1,
@@ -186,9 +186,9 @@
         "market": "Über/Unter 3.5 Tore",
         "selection": "Unter 3.5",
         "bookmaker": "Tipico",
-        "bookmakerOdds": 1.83,
+        "bookmakerOdds": 1.85,
         "ourProbability": 0.737,
-        "edgePct": 22.7
+        "edgePct": 23.4
       },
       "homeForm": [
         "N",
@@ -250,19 +250,19 @@
       "homeTeam": "FC Augsburg",
       "awayTeam": "Bayer 04 Leverkusen",
       "probabilities": {
-        "home": 0.293,
-        "draw": 0.255,
-        "away": 0.453
+        "home": 0.296,
+        "draw": 0.252,
+        "away": 0.452
       },
       "tip": "0:1",
-      "tipExpectedPoints": 1.254,
+      "tipExpectedPoints": 1.205,
       "valueBet": {
         "market": "Über/Unter 3.5 Tore",
         "selection": "Unter 3.5",
         "bookmaker": "Tipico",
         "bookmakerOdds": 1.75,
-        "ourProbability": 0.694,
-        "edgePct": 16.4
+        "ourProbability": 0.715,
+        "edgePct": 18.6
       },
       "homeForm": [
         "S",
@@ -324,9 +324,9 @@
       "homeTeam": "1. FC Köln",
       "awayTeam": "SV Werder Bremen",
       "probabilities": {
-        "home": 0.421,
-        "draw": 0.265,
-        "away": 0.314
+        "home": 0.415,
+        "draw": 0.268,
+        "away": 0.318
       },
       "tip": "1:0",
       "tipExpectedPoints": 1.153,
@@ -361,9 +361,9 @@
       "homeTeam": "RB Leipzig",
       "awayTeam": "Hamburger SV",
       "probabilities": {
-        "home": 0.689,
-        "draw": 0.167,
-        "away": 0.144
+        "home": 0.684,
+        "draw": 0.17,
+        "away": 0.146
       },
       "tip": "2:1",
       "tipExpectedPoints": 1.685,
@@ -373,7 +373,7 @@
         "bookmaker": "Tipico",
         "bookmakerOdds": 1.75,
         "ourProbability": 0.551,
-        "edgePct": 1.8
+        "edgePct": 2.1
       },
       "homeForm": [
         "S",
@@ -408,9 +408,9 @@
         "market": "Über/Unter 4.5 Tore",
         "selection": "Unter 4.5",
         "bookmaker": "Tipico",
-        "bookmakerOdds": 1.67,
+        "bookmakerOdds": 1.65,
         "ourProbability": 0.697,
-        "edgePct": 14
+        "edgePct": 13.1
       },
       "homeForm": [
         "S",
