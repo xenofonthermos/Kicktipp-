@@ -2,7 +2,7 @@
   "season": 2026,
   "matchday": 2,
   "nextMatchday": 3,
-  "generatedAt": "2026-09-08T21:14:08.083Z",
+  "generatedAt": "2026-09-09T04:49:51.720Z",
   "eloRanking": [
     {
       "rank": 1,
@@ -213,8 +213,8 @@
       "homeTeam": "SC Freiburg",
       "awayTeam": "Borussia Mönchengladbach",
       "probabilities": {
-        "home": 0.593,
-        "draw": 0.206,
+        "home": 0.596,
+        "draw": 0.203,
         "away": 0.201
       },
       "tip": "2:1",
@@ -287,8 +287,8 @@
       "homeTeam": "1. FSV Mainz 05",
       "awayTeam": "Eintracht Frankfurt",
       "probabilities": {
-        "home": 0.458,
-        "draw": 0.251,
+        "home": 0.461,
+        "draw": 0.248,
         "away": 0.291
       },
       "tip": "1:0",
@@ -324,8 +324,8 @@
       "homeTeam": "1. FC Köln",
       "awayTeam": "SV Werder Bremen",
       "probabilities": {
-        "home": 0.421,
-        "draw": 0.261,
+        "home": 0.415,
+        "draw": 0.268,
         "away": 0.318
       },
       "tip": "1:0",
