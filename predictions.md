@@ -1,13 +1,13 @@
 # Bundesliga-Prognose – Spieltag 3–4
 
-Erstellt am 2026-09-10. Elo-basierte Tippempfehlung für Kicktipp, ohne Gewähr – reiner Unterhaltungswert.
+Erstellt am 2026-09-11. Elo-basierte Tippempfehlung für Kicktipp, ohne Gewähr – reiner Unterhaltungswert.
 
 | Liga | Spiel | Tipp | Heim% / Remis% / Auswärts% |
 | --- | --- | --- | --- |
-| Bundesliga | 1. FC Union Berlin – FC Schalke 04 | 2:1 | 57% / 21% / 22% |
-| Bundesliga | Borussia Dortmund – SC Paderborn 07 | 2:0 | 81% / 12% / 7% |
+| Bundesliga | 1. FC Union Berlin – FC Schalke 04 | 2:1 | 56% / 21% / 23% |
+| Bundesliga | Borussia Dortmund – SC Paderborn 07 | 2:0 | 81% / 13% / 7% |
 | Bundesliga | TSG Hoffenheim – VfB Stuttgart | 0:1 | 38% / 25% / 37% |
-| Bundesliga | SC Freiburg – Borussia Mönchengladbach | 2:1 | 60% / 20% / 20% |
+| Bundesliga | SC Freiburg – Borussia Mönchengladbach | 2:1 | 59% / 21% / 20% |
 | Bundesliga | FC Augsburg – Bayer 04 Leverkusen | 0:1 | 29% / 25% / 46% |
 | Bundesliga | 1. FSV Mainz 05 – Eintracht Frankfurt | 1:0 | 46% / 25% / 30% |
 | Bundesliga | 1. FC Köln – SV Werder Bremen | 1:0 | 42% / 26% / 32% |
@@ -16,9 +16,9 @@ Erstellt am 2026-09-10. Elo-basierte Tippempfehlung für Kicktipp, ohne Gewähr 
 | Bundesliga | FC Bayern München – 1. FC Union Berlin | 2:0 | 79% / 12% / 10% |
 | Bundesliga | Eintracht Frankfurt – SC Freiburg | 1:0 | 41% / 26% / 33% |
 | Bundesliga | Borussia Mönchengladbach – 1. FSV Mainz 05 | 0:1 | 34% / 26% / 40% |
-| Bundesliga | Hamburger SV – 1. FC Köln | 2:1 | 41% / 25% / 34% |
+| Bundesliga | Hamburger SV – 1. FC Köln | 2:1 | 40% / 25% / 34% |
 | Bundesliga | SV Werder Bremen – FC Augsburg | 1:0 | 39% / 26% / 35% |
-| Bundesliga | VfB Stuttgart – Borussia Dortmund | 1:0 | 40% / 26% / 34% |
+| Bundesliga | VfB Stuttgart – Borussia Dortmund | 1:0 | 39% / 26% / 35% |
 | Bundesliga | Bayer 04 Leverkusen – RB Leipzig | 2:1 | 48% / 24% / 28% |
 | Bundesliga | FC Schalke 04 – SV 07 Elversberg | 1:0 | 44% / 26% / 30% |
 | Bundesliga | SC Paderborn 07 – TSG Hoffenheim | 1:2 | 18% / 20% / 62% |
