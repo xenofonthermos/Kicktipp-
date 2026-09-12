@@ -1,22 +1,22 @@
 # Bundesliga-Prognose – Spieltag 3–4
 
-Erstellt am 2026-09-11. Elo-basierte Tippempfehlung für Kicktipp, ohne Gewähr – reiner Unterhaltungswert.
+Erstellt am 2026-09-12. Elo-basierte Tippempfehlung für Kicktipp, ohne Gewähr – reiner Unterhaltungswert.
 
 | Liga | Spiel | Tipp | Heim% / Remis% / Auswärts% |
 | --- | --- | --- | --- |
 | Bundesliga | Borussia Dortmund – SC Paderborn 07 | 2:0 | 81% / 13% / 7% |
-| Bundesliga | TSG Hoffenheim – VfB Stuttgart | 0:1 | 38% / 25% / 37% |
-| Bundesliga | SC Freiburg – Borussia Mönchengladbach | 2:1 | 59% / 21% / 20% |
+| Bundesliga | TSG Hoffenheim – VfB Stuttgart | 0:1 | 37% / 25% / 38% |
+| Bundesliga | SC Freiburg – Borussia Mönchengladbach | 2:1 | 60% / 20% / 20% |
 | Bundesliga | FC Augsburg – Bayer 04 Leverkusen | 0:1 | 29% / 26% / 45% |
-| Bundesliga | 1. FSV Mainz 05 – Eintracht Frankfurt | 1:0 | 46% / 25% / 30% |
+| Bundesliga | 1. FSV Mainz 05 – Eintracht Frankfurt | 1:0 | 46% / 25% / 29% |
 | Bundesliga | 1. FC Köln – SV Werder Bremen | 1:0 | 43% / 26% / 31% |
 | Bundesliga | RB Leipzig – Hamburger SV | 2:1 | 70% / 17% / 14% |
 | Bundesliga | SV 07 Elversberg – FC Bayern München | 1:3 | 9% / 12% / 79% |
-| Bundesliga | FC Bayern München – 1. FC Union Berlin | 2:0 | 80% / 11% / 9% |
+| Bundesliga | FC Bayern München – 1. FC Union Berlin | 2:0 | 81% / 11% / 8% |
 | Bundesliga | Eintracht Frankfurt – SC Freiburg | 1:0 | 41% / 26% / 33% |
 | Bundesliga | Borussia Mönchengladbach – 1. FSV Mainz 05 | 0:1 | 34% / 27% / 39% |
 | Bundesliga | Hamburger SV – 1. FC Köln | 2:1 | 40% / 25% / 34% |
-| Bundesliga | SV Werder Bremen – FC Augsburg | 1:0 | 38% / 27% / 35% |
+| Bundesliga | SV Werder Bremen – FC Augsburg | 1:0 | 39% / 26% / 35% |
 | Bundesliga | VfB Stuttgart – Borussia Dortmund | 1:0 | 39% / 26% / 35% |
 | Bundesliga | Bayer 04 Leverkusen – RB Leipzig | 2:1 | 48% / 24% / 28% |
 | Bundesliga | FC Schalke 04 – SV 07 Elversberg | 1:0 | 46% / 26% / 29% |
