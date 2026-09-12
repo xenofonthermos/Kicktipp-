@@ -4,15 +4,15 @@ Erstellt am 2026-09-12. Elo-basierte Tippempfehlung für Kicktipp, ohne Gewähr 
 
 | Liga | Spiel | Tipp | Heim% / Remis% / Auswärts% |
 | --- | --- | --- | --- |
-| Bundesliga | Borussia Dortmund – SC Paderborn 07 | 2:0 | 81% / 13% / 7% |
-| Bundesliga | TSG Hoffenheim – VfB Stuttgart | 0:1 | 37% / 25% / 38% |
-| Bundesliga | SC Freiburg – Borussia Mönchengladbach | 2:1 | 60% / 20% / 20% |
-| Bundesliga | FC Augsburg – Bayer 04 Leverkusen | 0:1 | 29% / 26% / 45% |
-| Bundesliga | 1. FSV Mainz 05 – Eintracht Frankfurt | 1:0 | 46% / 25% / 29% |
+| Bundesliga | Borussia Dortmund – SC Paderborn 07 | 2:0 | 80% / 13% / 7% |
+| Bundesliga | TSG Hoffenheim – VfB Stuttgart | 0:1 | 38% / 25% / 36% |
+| Bundesliga | SC Freiburg – Borussia Mönchengladbach | 2:1 | 60% / 21% / 20% |
+| Bundesliga | FC Augsburg – Bayer 04 Leverkusen | 0:1 | 30% / 26% / 44% |
+| Bundesliga | 1. FSV Mainz 05 – Eintracht Frankfurt | 1:0 | 48% / 25% / 28% |
 | Bundesliga | 1. FC Köln – SV Werder Bremen | 1:0 | 43% / 26% / 31% |
 | Bundesliga | RB Leipzig – Hamburger SV | 2:1 | 70% / 17% / 14% |
-| Bundesliga | SV 07 Elversberg – FC Bayern München | 1:3 | 9% / 12% / 79% |
-| Bundesliga | FC Bayern München – 1. FC Union Berlin | 2:0 | 81% / 11% / 8% |
+| Bundesliga | SV 07 Elversberg – FC Bayern München | 0:2 | 8% / 12% / 79% |
+| Bundesliga | FC Bayern München – 1. FC Union Berlin | 2:0 | 80% / 11% / 9% |
 | Bundesliga | Eintracht Frankfurt – SC Freiburg | 1:0 | 41% / 26% / 33% |
 | Bundesliga | Borussia Mönchengladbach – 1. FSV Mainz 05 | 0:1 | 34% / 27% / 39% |
 | Bundesliga | Hamburger SV – 1. FC Köln | 2:1 | 40% / 25% / 34% |
