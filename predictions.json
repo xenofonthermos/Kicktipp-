@@ -2,7 +2,7 @@
   "season": 2026,
   "matchday": 3,
   "nextMatchday": 4,
-  "generatedAt": "2026-09-13T04:55:29.395Z",
+  "generatedAt": "2026-09-13T11:59:35.198Z",
   "eloRanking": [
     {
       "rank": 1,
@@ -112,9 +112,9 @@
         "market": "Über/Unter 3.5 Tore",
         "selection": "Unter 3.5",
         "bookmaker": "Tipico",
-        "bookmakerOdds": 1.97,
+        "bookmakerOdds": 2.1,
         "ourProbability": 0.532,
-        "edgePct": 6.2
+        "edgePct": 8.9
       },
       "homeForm": [
         "S",
@@ -139,8 +139,8 @@
       "homeTeam": "SV 07 Elversberg",
       "awayTeam": "FC Bayern München",
       "probabilities": {
-        "home": 0.08,
-        "draw": 0.12,
+        "home": 0.083,
+        "draw": 0.118,
         "away": 0.799
       },
       "tip": "1:3",
@@ -149,9 +149,9 @@
         "market": "Über/Unter 4.5 Tore",
         "selection": "Unter 4.5",
         "bookmaker": "Tipico",
-        "bookmakerOdds": 1.93,
+        "bookmakerOdds": 1.97,
         "ourProbability": 0.635,
-        "edgePct": 15.2
+        "edgePct": 16.4
       },
       "homeForm": [
         "S",
@@ -186,9 +186,9 @@
         "market": "Über/Unter 4.5 Tore",
         "selection": "Unter 4.5",
         "bookmaker": "Tipico",
-        "bookmakerOdds": 1.8,
+        "bookmakerOdds": 1.9,
         "ourProbability": 0.707,
-        "edgePct": 18.9
+        "edgePct": 21.6
       },
       "homeForm": [
         "S",
@@ -254,8 +254,8 @@
       "awayTeam": "1. FSV Mainz 05",
       "probabilities": {
         "home": 0.336,
-        "draw": 0.265,
-        "away": 0.398
+        "draw": 0.262,
+        "away": 0.403
       },
       "tip": "0:1",
       "tipExpectedPoints": 1.099,
@@ -340,9 +340,9 @@
         "market": "Über/Unter 3.5 Tore",
         "selection": "Unter 3.5",
         "bookmaker": "Tipico",
-        "bookmakerOdds": 1.65,
+        "bookmakerOdds": 1.6,
         "ourProbability": 0.758,
-        "edgePct": 19.2
+        "edgePct": 17.9
       },
       "homeForm": [
         "N",
@@ -379,9 +379,9 @@
         "market": "Über/Unter 3.5 Tore",
         "selection": "Unter 3.5",
         "bookmaker": "Tipico",
-        "bookmakerOdds": 1.85,
+        "bookmakerOdds": 1.87,
         "ourProbability": 0.715,
-        "edgePct": 21.2
+        "edgePct": 21.8
       },
       "homeForm": [
         "N",
@@ -453,12 +453,12 @@
       "tip": "1:0",
       "tipExpectedPoints": 1.27,
       "valueBet": {
-        "market": "Über/Unter 3.5 Tore",
-        "selection": "Unter 3.5",
+        "market": "Über/Unter 2.5 Tore",
+        "selection": "Unter 2.5",
         "bookmaker": "Tipico",
-        "bookmakerOdds": 1.55,
-        "ourProbability": 0.737,
-        "edgePct": 14
+        "bookmakerOdds": 2.3,
+        "ourProbability": 0.52,
+        "edgePct": 10.9
       },
       "homeForm": [
         "N",
@@ -485,8 +485,8 @@
       "awayTeam": "TSG Hoffenheim",
       "probabilities": {
         "home": 0.189,
-        "draw": 0.198,
-        "away": 0.613
+        "draw": 0.193,
+        "away": 0.618
       },
       "tip": "1:2",
       "tipExpectedPoints": 1.539,
@@ -494,9 +494,9 @@
         "market": "1x2",
         "selection": "Auswärtssieg",
         "bookmaker": "Tipico",
-        "bookmakerOdds": 1.7,
-        "ourProbability": 0.613,
-        "edgePct": 5.5
+        "bookmakerOdds": 1.67,
+        "ourProbability": 0.618,
+        "edgePct": 5
       },
       "homeForm": [
         "U",
