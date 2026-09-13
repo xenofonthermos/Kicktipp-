@@ -2,12 +2,12 @@
   "season": 2026,
   "matchday": 3,
   "nextMatchday": 4,
-  "generatedAt": "2026-09-13T16:25:09.141Z",
+  "generatedAt": "2026-09-13T20:54:26.936Z",
   "eloRanking": [
     {
       "rank": 1,
       "teamName": "FC Bayern München",
-      "rating": 1857
+      "rating": 1860
     },
     {
       "rank": 2,
@@ -82,7 +82,7 @@
     {
       "rank": 16,
       "teamName": "SV 07 Elversberg",
-      "rating": 1434
+      "rating": 1432
     },
     {
       "rank": 17,
@@ -97,77 +97,29 @@
   ],
   "matches": [
     {
-      "matchDateTime": "2026-09-13T17:30:00",
-      "league": "Bundesliga",
-      "homeTeam": "SV 07 Elversberg",
-      "awayTeam": "FC Bayern München",
-      "probabilities": {
-        "home": 0.109,
-        "draw": 0.128,
-        "away": 0.763
-      },
-      "tip": "1:3",
-      "tipExpectedPoints": 1.712,
-      "valueBet": {
-        "market": "Über/Unter 3.5 Tore",
-        "selection": "Über 3.5",
-        "bookmaker": "Tipico",
-        "bookmakerOdds": 2,
-        "ourProbability": 0.596,
-        "edgePct": 13.6
-      },
-      "homeForm": [
-        "S",
-        "S"
-      ],
-      "awayForm": [
-        "S",
-        "U"
-      ],
-      "homeLineup": {
-        "confirmed": true,
-        "missingRegulars": []
-      },
-      "awayLineup": {
-        "confirmed": true,
-        "missingRegulars": [
-          "Manuel Neuer",
-          "Alphonso Davies",
-          "Kim Min-jae",
-          "Dayot Upamecano",
-          "Konrad Laimer",
-          "Aleksandar Pavlović",
-          "Joshua Kimmich",
-          "Luis Díaz",
-          "Nathaniel Brown",
-          "Michael Olise",
-          "Harry Kane"
-        ]
-      }
-    },
-    {
       "matchDateTime": "2026-09-18T20:30:00",
       "league": "Bundesliga",
       "homeTeam": "FC Bayern München",
       "awayTeam": "1. FC Union Berlin",
       "probabilities": {
-        "home": 0.809,
-        "draw": 0.109,
-        "away": 0.083
+        "home": 0.814,
+        "draw": 0.106,
+        "away": 0.08
       },
       "tip": "2:0",
-      "tipExpectedPoints": 1.966,
+      "tipExpectedPoints": 1.971,
       "valueBet": {
         "market": "Über/Unter 4.5 Tore",
         "selection": "Unter 4.5",
         "bookmaker": "Tipico",
-        "bookmakerOdds": 1.93,
-        "ourProbability": 0.754,
-        "edgePct": 27.2
+        "bookmakerOdds": 1.83,
+        "ourProbability": 0.74,
+        "edgePct": 23.1
       },
       "homeForm": [
         "S",
-        "U"
+        "U",
+        "S"
       ],
       "awayForm": [
         "U",
@@ -238,9 +190,9 @@
         "market": "Über/Unter 3.5 Tore",
         "selection": "Unter 3.5",
         "bookmaker": "Tipico",
-        "bookmakerOdds": 1.55,
+        "bookmakerOdds": 1.6,
         "ourProbability": 0.758,
-        "edgePct": 16.1
+        "edgePct": 17.9
       },
       "homeForm": [
         "N",
@@ -267,9 +219,9 @@
       "homeTeam": "Hamburger SV",
       "awayTeam": "1. FC Köln",
       "probabilities": {
-        "home": 0.386,
+        "home": 0.392,
         "draw": 0.256,
-        "away": 0.357
+        "away": 0.352
       },
       "tip": "1:0",
       "tipExpectedPoints": 1.091,
@@ -346,18 +298,18 @@
       "awayTeam": "Borussia Dortmund",
       "probabilities": {
         "home": 0.384,
-        "draw": 0.26,
-        "away": 0.356
+        "draw": 0.267,
+        "away": 0.35
       },
       "tip": "1:0",
-      "tipExpectedPoints": 1.091,
+      "tipExpectedPoints": 1.099,
       "valueBet": {
         "market": "Über/Unter 3.5 Tore",
         "selection": "Unter 3.5",
         "bookmaker": "Tipico",
         "bookmakerOdds": 1.87,
-        "ourProbability": 0.715,
-        "edgePct": 21.8
+        "ourProbability": 0.758,
+        "edgePct": 26.1
       },
       "homeForm": [
         "N",
@@ -384,9 +336,9 @@
       "homeTeam": "Bayer 04 Leverkusen",
       "awayTeam": "RB Leipzig",
       "probabilities": {
-        "home": 0.468,
+        "home": 0.464,
         "draw": 0.24,
-        "away": 0.291
+        "away": 0.295
       },
       "tip": "2:1",
       "tipExpectedPoints": 1.247,
@@ -394,9 +346,9 @@
         "market": "Über/Unter 3.5 Tore",
         "selection": "Unter 3.5",
         "bookmaker": "Tipico",
-        "bookmakerOdds": 1.83,
+        "bookmakerOdds": 1.85,
         "ourProbability": 0.65,
-        "edgePct": 14
+        "edgePct": 14.7
       },
       "homeForm": [
         "N",
@@ -423,19 +375,19 @@
       "homeTeam": "FC Schalke 04",
       "awayTeam": "SV 07 Elversberg",
       "probabilities": {
-        "home": 0.457,
-        "draw": 0.253,
-        "away": 0.291
+        "home": 0.458,
+        "draw": 0.256,
+        "away": 0.286
       },
       "tip": "1:0",
       "tipExpectedPoints": 1.27,
       "valueBet": {
-        "market": "Über/Unter 2.5 Tore",
-        "selection": "Unter 2.5",
+        "market": "Über/Unter 3.5 Tore",
+        "selection": "Unter 3.5",
         "bookmaker": "Tipico",
-        "bookmakerOdds": 2.3,
-        "ourProbability": 0.52,
-        "edgePct": 10.9
+        "bookmakerOdds": 1.55,
+        "ourProbability": 0.737,
+        "edgePct": 14
       },
       "homeForm": [
         "N",
@@ -444,7 +396,8 @@
       ],
       "awayForm": [
         "S",
-        "S"
+        "S",
+        "N"
       ],
       "homeLineup": {
         "confirmed": false,
@@ -461,9 +414,9 @@
       "homeTeam": "SC Paderborn 07",
       "awayTeam": "TSG Hoffenheim",
       "probabilities": {
-        "home": 0.191,
-        "draw": 0.196,
-        "away": 0.613
+        "home": 0.184,
+        "draw": 0.19,
+        "away": 0.626
       },
       "tip": "1:2",
       "tipExpectedPoints": 1.539,
@@ -471,9 +424,9 @@
         "market": "1x2",
         "selection": "Auswärtssieg",
         "bookmaker": "Tipico",
-        "bookmakerOdds": 1.7,
-        "ourProbability": 0.613,
-        "edgePct": 5.5
+        "bookmakerOdds": 1.62,
+        "ourProbability": 0.626,
+        "edgePct": 4.2
       },
       "homeForm": [
         "U",
@@ -568,10 +521,10 @@
     }
   ],
   "valueBetTrackRecord": {
-    "resolvedBets": 26,
+    "resolvedBets": 27,
     "wins": 9,
-    "losses": 17,
-    "profitUnits": -9.31,
-    "roiPercent": -35.8
+    "losses": 18,
+    "profitUnits": -10.31,
+    "roiPercent": -38.2
   }
 }
