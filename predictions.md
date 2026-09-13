@@ -1,20 +1,20 @@
 # Bundesliga-Prognose – Spieltag 3–4
 
-Erstellt am 2026-09-12. Elo-basierte Tippempfehlung für Kicktipp, ohne Gewähr – reiner Unterhaltungswert.
+Erstellt am 2026-09-13. Elo-basierte Tippempfehlung für Kicktipp, ohne Gewähr – reiner Unterhaltungswert.
 
 | Liga | Spiel | Tipp | Heim% / Remis% / Auswärts% |
 | --- | --- | --- | --- |
 | Bundesliga | RB Leipzig – Hamburger SV | 2:1 | 70% / 17% / 14% |
-| Bundesliga | SV 07 Elversberg – FC Bayern München | 1:3 | 9% / 12% / 79% |
-| Bundesliga | FC Bayern München – 1. FC Union Berlin | 2:0 | 81% / 11% / 8% |
-| Bundesliga | Eintracht Frankfurt – SC Freiburg | 1:0 | 42% / 25% / 33% |
+| Bundesliga | SV 07 Elversberg – FC Bayern München | 1:3 | 8% / 12% / 80% |
+| Bundesliga | FC Bayern München – 1. FC Union Berlin | 2:0 | 80% / 11% / 9% |
+| Bundesliga | Eintracht Frankfurt – SC Freiburg | 1:0 | 42% / 26% / 33% |
 | Bundesliga | Borussia Mönchengladbach – 1. FSV Mainz 05 | 0:1 | 34% / 27% / 40% |
 | Bundesliga | Hamburger SV – 1. FC Köln | 2:1 | 40% / 25% / 34% |
 | Bundesliga | SV Werder Bremen – FC Augsburg | 1:0 | 39% / 26% / 35% |
 | Bundesliga | VfB Stuttgart – Borussia Dortmund | 1:0 | 39% / 26% / 35% |
-| Bundesliga | Bayer 04 Leverkusen – RB Leipzig | 2:1 | 48% / 24% / 28% |
+| Bundesliga | Bayer 04 Leverkusen – RB Leipzig | 2:1 | 47% / 24% / 29% |
 | Bundesliga | FC Schalke 04 – SV 07 Elversberg | 1:0 | 46% / 26% / 29% |
-| Bundesliga | SC Paderborn 07 – TSG Hoffenheim | 1:2 | 19% / 19% / 62% |
+| Bundesliga | SC Paderborn 07 – TSG Hoffenheim | 1:2 | 19% / 20% / 61% |
 | 3. Liga | Jahn Regensburg – Fortuna Düsseldorf | 2:1 | 71% / 16% / 13% |
 | 3. Liga | Alemannia Aachen – Fortuna Düsseldorf | 2:0 | 76% / 14% / 10% |
 
