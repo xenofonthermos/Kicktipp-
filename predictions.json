@@ -2,7 +2,7 @@
   "season": 2026,
   "matchday": 3,
   "nextMatchday": 4,
-  "generatedAt": "2026-09-14T12:58:24.150Z",
+  "generatedAt": "2026-09-14T21:53:14.752Z",
   "eloRanking": [
     {
       "rank": 1,
@@ -151,9 +151,9 @@
         "market": "Über/Unter 3.5 Tore",
         "selection": "Unter 3.5",
         "bookmaker": "Tipico",
-        "bookmakerOdds": 1.7,
+        "bookmakerOdds": 1.67,
         "ourProbability": 0.693,
-        "edgePct": 14.7
+        "edgePct": 13.6
       },
       "homeForm": [
         "U",
@@ -180,8 +180,8 @@
       "homeTeam": "Borussia Mönchengladbach",
       "awayTeam": "1. FSV Mainz 05",
       "probabilities": {
-        "home": 0.336,
-        "draw": 0.265,
+        "home": 0.333,
+        "draw": 0.269,
         "away": 0.398
       },
       "tip": "0:1",
@@ -229,9 +229,9 @@
         "market": "Über/Unter 2.5 Tore",
         "selection": "Unter 2.5",
         "bookmaker": "Tipico",
-        "bookmakerOdds": 2.25,
+        "bookmakerOdds": 2.35,
         "ourProbability": 0.495,
-        "edgePct": 7.9
+        "edgePct": 9.4
       },
       "homeForm": [
         "N",
@@ -336,9 +336,9 @@
       "homeTeam": "Bayer 04 Leverkusen",
       "awayTeam": "RB Leipzig",
       "probabilities": {
-        "home": 0.463,
-        "draw": 0.241,
-        "away": 0.296
+        "home": 0.461,
+        "draw": 0.238,
+        "away": 0.301
       },
       "tip": "2:1",
       "tipExpectedPoints": 1.247,
@@ -414,19 +414,19 @@
       "homeTeam": "SC Paderborn 07",
       "awayTeam": "TSG Hoffenheim",
       "probabilities": {
-        "home": 0.184,
-        "draw": 0.195,
+        "home": 0.186,
+        "draw": 0.193,
         "away": 0.621
       },
       "tip": "1:2",
-      "tipExpectedPoints": 1.558,
+      "tipExpectedPoints": 1.539,
       "valueBet": {
-        "market": "Über/Unter 3.5 Tore",
-        "selection": "Unter 3.5",
+        "market": "1x2",
+        "selection": "Auswärtssieg",
         "bookmaker": "Tipico",
-        "bookmakerOdds": 1.75,
-        "ourProbability": 0.588,
-        "edgePct": 5.8
+        "bookmakerOdds": 1.65,
+        "ourProbability": 0.621,
+        "edgePct": 4.7
       },
       "homeForm": [
         "U",
