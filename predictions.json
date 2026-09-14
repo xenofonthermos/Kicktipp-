@@ -2,7 +2,7 @@
   "season": 2026,
   "matchday": 3,
   "nextMatchday": 4,
-  "generatedAt": "2026-09-13T20:54:26.936Z",
+  "generatedAt": "2026-09-14T05:04:23.383Z",
   "eloRanking": [
     {
       "rank": 1,
@@ -112,9 +112,9 @@
         "market": "Über/Unter 4.5 Tore",
         "selection": "Unter 4.5",
         "bookmaker": "Tipico",
-        "bookmakerOdds": 1.83,
+        "bookmakerOdds": 1.93,
         "ourProbability": 0.74,
-        "edgePct": 23.1
+        "edgePct": 25.7
       },
       "homeForm": [
         "S",
@@ -141,19 +141,19 @@
       "homeTeam": "Eintracht Frankfurt",
       "awayTeam": "SC Freiburg",
       "probabilities": {
-        "home": 0.415,
-        "draw": 0.253,
-        "away": 0.331
+        "home": 0.406,
+        "draw": 0.256,
+        "away": 0.337
       },
       "tip": "1:0",
-      "tipExpectedPoints": 1.143,
+      "tipExpectedPoints": 1.153,
       "valueBet": {
         "market": "Über/Unter 3.5 Tore",
         "selection": "Unter 3.5",
         "bookmaker": "Tipico",
         "bookmakerOdds": 1.67,
-        "ourProbability": 0.693,
-        "edgePct": 13.6
+        "ourProbability": 0.737,
+        "edgePct": 18
       },
       "homeForm": [
         "U",
@@ -219,9 +219,9 @@
       "homeTeam": "Hamburger SV",
       "awayTeam": "1. FC Köln",
       "probabilities": {
-        "home": 0.392,
+        "home": 0.386,
         "draw": 0.256,
-        "away": 0.352
+        "away": 0.357
       },
       "tip": "1:0",
       "tipExpectedPoints": 1.091,
@@ -268,9 +268,9 @@
         "market": "Über/Unter 3.5 Tore",
         "selection": "Unter 3.5",
         "bookmaker": "Tipico",
-        "bookmakerOdds": 1.6,
+        "bookmakerOdds": 1.67,
         "ourProbability": 0.758,
-        "edgePct": 17.9
+        "edgePct": 20.1
       },
       "homeForm": [
         "N",
@@ -298,8 +298,8 @@
       "awayTeam": "Borussia Dortmund",
       "probabilities": {
         "home": 0.384,
-        "draw": 0.267,
-        "away": 0.35
+        "draw": 0.263,
+        "away": 0.353
       },
       "tip": "1:0",
       "tipExpectedPoints": 1.099,
@@ -336,9 +336,9 @@
       "homeTeam": "Bayer 04 Leverkusen",
       "awayTeam": "RB Leipzig",
       "probabilities": {
-        "home": 0.464,
-        "draw": 0.24,
-        "away": 0.295
+        "home": 0.462,
+        "draw": 0.238,
+        "away": 0.3
       },
       "tip": "2:1",
       "tipExpectedPoints": 1.247,
