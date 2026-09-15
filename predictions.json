@@ -2,7 +2,7 @@
   "season": 2026,
   "matchday": 3,
   "nextMatchday": 4,
-  "generatedAt": "2026-09-15T11:51:51.003Z",
+  "generatedAt": "2026-09-15T17:05:34.889Z",
   "eloRanking": [
     {
       "rank": 1,
@@ -141,19 +141,19 @@
       "homeTeam": "Eintracht Frankfurt",
       "awayTeam": "SC Freiburg",
       "probabilities": {
-        "home": 0.415,
-        "draw": 0.253,
-        "away": 0.331
+        "home": 0.406,
+        "draw": 0.25,
+        "away": 0.344
       },
-      "tip": "1:0",
-      "tipExpectedPoints": 1.143,
+      "tip": "2:1",
+      "tipExpectedPoints": 1.087,
       "valueBet": {
         "market": "Über/Unter 3.5 Tore",
         "selection": "Unter 3.5",
         "bookmaker": "Tipico",
         "bookmakerOdds": 1.7,
-        "ourProbability": 0.693,
-        "edgePct": 14.7
+        "ourProbability": 0.671,
+        "edgePct": 12.5
       },
       "homeForm": [
         "U",
@@ -229,9 +229,9 @@
         "market": "Über/Unter 2.5 Tore",
         "selection": "Unter 2.5",
         "bookmaker": "Tipico",
-        "bookmakerOdds": 2.35,
+        "bookmakerOdds": 2.25,
         "ourProbability": 0.495,
-        "edgePct": 9.4
+        "edgePct": 7.9
       },
       "homeForm": [
         "N",
@@ -336,9 +336,9 @@
       "homeTeam": "Bayer 04 Leverkusen",
       "awayTeam": "RB Leipzig",
       "probabilities": {
-        "home": 0.457,
+        "home": 0.461,
         "draw": 0.238,
-        "away": 0.305
+        "away": 0.301
       },
       "tip": "2:1",
       "tipExpectedPoints": 1.247,
@@ -385,9 +385,9 @@
         "market": "Über/Unter 3.5 Tore",
         "selection": "Unter 3.5",
         "bookmaker": "Tipico",
-        "bookmakerOdds": 1.55,
+        "bookmakerOdds": 1.6,
         "ourProbability": 0.737,
-        "edgePct": 14
+        "edgePct": 15.8
       },
       "homeForm": [
         "N",
@@ -475,11 +475,11 @@
         "S"
       ],
       "homeLineup": {
-        "confirmed": false,
+        "confirmed": true,
         "missingRegulars": []
       },
       "awayLineup": {
-        "confirmed": false,
+        "confirmed": true,
         "missingRegulars": []
       }
     },

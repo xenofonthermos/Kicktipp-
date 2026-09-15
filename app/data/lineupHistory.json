@@ -12,7 +12,8 @@
     1340457689,
     1340459391,
     1340455136,
-    1340467050
+    1340467050,
+    1347986486
   ],
   "teams": {
     "FC Bayern München": {
@@ -308,6 +309,38 @@
         "R. Fellhauer": 1,
         "A. Ibrahimović": 1,
         "M. Gregoritsch": 1
+      }
+    },
+    "Jahn Regensburg": {
+      "matchesSeen": 1,
+      "players": {
+        "H. Hermann": 1,
+        "M. Karbstein": 1,
+        "Leopold Wurm": 1,
+        "E. Majetschak": 1,
+        "F. Strauß": 1,
+        "N. Oliveira": 1,
+        "O. Schönfelder": 1,
+        "A. Fein": 1,
+        "S. Hingerl": 1,
+        "L. Hermes": 1,
+        "N. Boujellab": 1
+      }
+    },
+    "Fortuna Düsseldorf": {
+      "matchesSeen": 1,
+      "players": {
+        "L. Lord": 1,
+        "E. Wekesser": 1,
+        "E .Egouli": 1,
+        "T. Oberdorf": 1,
+        "S. van der Sloot": 1,
+        "J. Hendrix": 1,
+        "A. Müller": 1,
+        "Y. Bouchama": 1,
+        "P. Förster": 1,
+        "E. Hottmann": 1,
+        "A. Slimani": 1
       }
     }
   }
