@@ -2,7 +2,7 @@
   "season": 2026,
   "matchday": 3,
   "nextMatchday": 4,
-  "generatedAt": "2026-09-14T21:53:14.752Z",
+  "generatedAt": "2026-09-15T05:00:31.518Z",
   "eloRanking": [
     {
       "rank": 1,
@@ -151,9 +151,9 @@
         "market": "Über/Unter 3.5 Tore",
         "selection": "Unter 3.5",
         "bookmaker": "Tipico",
-        "bookmakerOdds": 1.67,
+        "bookmakerOdds": 1.7,
         "ourProbability": 0.693,
-        "edgePct": 13.6
+        "edgePct": 14.7
       },
       "homeForm": [
         "U",
@@ -229,9 +229,9 @@
         "market": "Über/Unter 2.5 Tore",
         "selection": "Unter 2.5",
         "bookmaker": "Tipico",
-        "bookmakerOdds": 2.35,
+        "bookmakerOdds": 2.4,
         "ourProbability": 0.495,
-        "edgePct": 9.4
+        "edgePct": 10.2
       },
       "homeForm": [
         "N",
@@ -297,19 +297,19 @@
       "homeTeam": "VfB Stuttgart",
       "awayTeam": "Borussia Dortmund",
       "probabilities": {
-        "home": 0.38,
-        "draw": 0.264,
-        "away": 0.356
+        "home": 0.376,
+        "draw": 0.261,
+        "away": 0.363
       },
-      "tip": "1:0",
-      "tipExpectedPoints": 1.099,
+      "tip": "0:1",
+      "tipExpectedPoints": 1.032,
       "valueBet": {
         "market": "Über/Unter 3.5 Tore",
         "selection": "Unter 3.5",
         "bookmaker": "Tipico",
         "bookmakerOdds": 1.8,
-        "ourProbability": 0.758,
-        "edgePct": 24.1
+        "ourProbability": 0.693,
+        "edgePct": 17.6
       },
       "homeForm": [
         "N",
@@ -336,9 +336,9 @@
       "homeTeam": "Bayer 04 Leverkusen",
       "awayTeam": "RB Leipzig",
       "probabilities": {
-        "home": 0.461,
+        "home": 0.457,
         "draw": 0.238,
-        "away": 0.301
+        "away": 0.305
       },
       "tip": "2:1",
       "tipExpectedPoints": 1.247,
@@ -346,9 +346,9 @@
         "market": "Über/Unter 3.5 Tore",
         "selection": "Unter 3.5",
         "bookmaker": "Tipico",
-        "bookmakerOdds": 1.87,
+        "bookmakerOdds": 1.9,
         "ourProbability": 0.65,
-        "edgePct": 15.2
+        "edgePct": 15.9
       },
       "homeForm": [
         "N",
