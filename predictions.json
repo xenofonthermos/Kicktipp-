@@ -2,7 +2,7 @@
   "season": 2026,
   "matchday": 3,
   "nextMatchday": 4,
-  "generatedAt": "2026-09-15T17:05:34.889Z",
+  "generatedAt": "2026-09-15T21:27:06.986Z",
   "eloRanking": [
     {
       "rank": 1,
@@ -151,9 +151,9 @@
         "market": "Über/Unter 3.5 Tore",
         "selection": "Unter 3.5",
         "bookmaker": "Tipico",
-        "bookmakerOdds": 1.7,
+        "bookmakerOdds": 1.75,
         "ourProbability": 0.671,
-        "edgePct": 12.5
+        "edgePct": 13.8
       },
       "homeForm": [
         "U",
@@ -192,7 +192,7 @@
         "bookmaker": "Tipico",
         "bookmakerOdds": 1.6,
         "ourProbability": 0.758,
-        "edgePct": 17.9
+        "edgePct": 17.4
       },
       "homeForm": [
         "N",
@@ -229,9 +229,9 @@
         "market": "Über/Unter 2.5 Tore",
         "selection": "Unter 2.5",
         "bookmaker": "Tipico",
-        "bookmakerOdds": 2.25,
+        "bookmakerOdds": 2.4,
         "ourProbability": 0.495,
-        "edgePct": 7.9
+        "edgePct": 10.2
       },
       "homeForm": [
         "N",
@@ -258,19 +258,19 @@
       "homeTeam": "SV Werder Bremen",
       "awayTeam": "FC Augsburg",
       "probabilities": {
-        "home": 0.387,
+        "home": 0.378,
         "draw": 0.264,
-        "away": 0.349
+        "away": 0.358
       },
-      "tip": "1:0",
-      "tipExpectedPoints": 1.099,
+      "tip": "0:1",
+      "tipExpectedPoints": 1.036,
       "valueBet": {
         "market": "Über/Unter 3.5 Tore",
         "selection": "Unter 3.5",
         "bookmaker": "Tipico",
         "bookmakerOdds": 1.7,
-        "ourProbability": 0.758,
-        "edgePct": 21.2
+        "ourProbability": 0.737,
+        "edgePct": 19
       },
       "homeForm": [
         "N",
@@ -307,9 +307,9 @@
         "market": "Über/Unter 3.5 Tore",
         "selection": "Unter 3.5",
         "bookmaker": "Tipico",
-        "bookmakerOdds": 1.8,
+        "bookmakerOdds": 1.83,
         "ourProbability": 0.693,
-        "edgePct": 17.6
+        "edgePct": 18.4
       },
       "homeForm": [
         "N",
@@ -336,9 +336,9 @@
       "homeTeam": "Bayer 04 Leverkusen",
       "awayTeam": "RB Leipzig",
       "probabilities": {
-        "home": 0.461,
+        "home": 0.457,
         "draw": 0.238,
-        "away": 0.301
+        "away": 0.305
       },
       "tip": "2:1",
       "tipExpectedPoints": 1.247,
@@ -448,66 +448,30 @@
       }
     },
     {
-      "matchDateTime": "2026-09-15T19:00:00",
-      "league": "3. Liga",
-      "homeTeam": "Jahn Regensburg",
-      "awayTeam": "Fortuna Düsseldorf",
-      "probabilities": {
-        "home": 0.71,
-        "draw": 0.157,
-        "away": 0.133
-      },
-      "tip": "2:1",
-      "tipExpectedPoints": 1.722,
-      "valueBet": null,
-      "homeForm": [
-        "S",
-        "N",
-        "N",
-        "N",
-        "U"
-      ],
-      "awayForm": [
-        "N",
-        "N",
-        "S",
-        "U",
-        "S"
-      ],
-      "homeLineup": {
-        "confirmed": true,
-        "missingRegulars": []
-      },
-      "awayLineup": {
-        "confirmed": true,
-        "missingRegulars": []
-      }
-    },
-    {
       "matchDateTime": "2026-09-19T14:00:00",
       "league": "3. Liga",
       "homeTeam": "Alemannia Aachen",
       "awayTeam": "Fortuna Düsseldorf",
       "probabilities": {
-        "home": 0.757,
-        "draw": 0.142,
-        "away": 0.101
+        "home": 0.733,
+        "draw": 0.15,
+        "away": 0.118
       },
       "tip": "2:0",
-      "tipExpectedPoints": 1.831,
+      "tipExpectedPoints": 1.774,
       "valueBet": null,
       "homeForm": [
-        "S",
         "U",
         "N",
         "S",
-        "U"
+        "U",
+        "N"
       ],
       "awayForm": [
         "N",
-        "N",
         "S",
         "U",
+        "S",
         "S"
       ],
       "homeLineup": {
