@@ -2,7 +2,7 @@
   "season": 2026,
   "matchday": 4,
   "nextMatchday": 5,
-  "generatedAt": "2026-09-17T17:06:07.441Z",
+  "generatedAt": "2026-09-17T21:27:51.024Z",
   "eloRanking": [
     {
       "rank": 1,
@@ -103,18 +103,18 @@
       "awayTeam": "1. FC Union Berlin",
       "probabilities": {
         "home": 0.82,
-        "draw": 0.103,
-        "away": 0.077
+        "draw": 0.101,
+        "away": 0.079
       },
       "tip": "2:0",
-      "tipExpectedPoints": 1.971,
+      "tipExpectedPoints": 1.973,
       "valueBet": {
         "market": "Über/Unter 4.5 Tore",
         "selection": "Unter 4.5",
         "bookmaker": "Tipico",
         "bookmakerOdds": 2.1,
-        "ourProbability": 0.74,
-        "edgePct": 29.7
+        "ourProbability": 0.726,
+        "edgePct": 28.3
       },
       "homeForm": [
         "S",
@@ -180,9 +180,9 @@
       "homeTeam": "Borussia Mönchengladbach",
       "awayTeam": "1. FSV Mainz 05",
       "probabilities": {
-        "home": 0.336,
+        "home": 0.333,
         "draw": 0.265,
-        "away": 0.398
+        "away": 0.402
       },
       "tip": "0:1",
       "tipExpectedPoints": 1.099,
@@ -268,9 +268,9 @@
         "market": "Über/Unter 3.5 Tore",
         "selection": "Unter 3.5",
         "bookmaker": "Tipico",
-        "bookmakerOdds": 1.75,
+        "bookmakerOdds": 1.77,
         "ourProbability": 0.715,
-        "edgePct": 18.6
+        "edgePct": 19.1
       },
       "homeForm": [
         "N",
@@ -336,9 +336,9 @@
       "homeTeam": "Bayer 04 Leverkusen",
       "awayTeam": "RB Leipzig",
       "probabilities": {
-        "home": 0.461,
-        "draw": 0.238,
-        "away": 0.301
+        "home": 0.463,
+        "draw": 0.241,
+        "away": 0.296
       },
       "tip": "2:1",
       "tipExpectedPoints": 1.247,
@@ -538,12 +538,12 @@
       "tip": "1:2",
       "tipExpectedPoints": 1.502,
       "valueBet": {
-        "market": "1x2",
-        "selection": "Heimsieg",
+        "market": "Über/Unter 4.5 Tore",
+        "selection": "Unter 4.5",
         "bookmaker": "Tipico",
-        "bookmakerOdds": 9,
-        "ourProbability": 0.197,
-        "edgePct": 9.1
+        "bookmakerOdds": 1.8,
+        "ourProbability": 0.611,
+        "edgePct": 9.4
       },
       "homeForm": [
         "S",
@@ -736,9 +736,9 @@
         "market": "Über/Unter 3.5 Tore",
         "selection": "Unter 3.5",
         "bookmaker": "Tipico",
-        "bookmakerOdds": 1.57,
+        "bookmakerOdds": 1.6,
         "ourProbability": 0.65,
-        "edgePct": 5.5
+        "edgePct": 7.1
       },
       "homeForm": [
         "S",

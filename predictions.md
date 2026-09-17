@@ -6,7 +6,7 @@ Erstellt am 2026-09-17. Elo-basierte Tippempfehlung für Kicktipp, ohne Gewähr 
 | --- | --- | --- | --- |
 | Bundesliga | FC Bayern München – 1. FC Union Berlin | 2:0 | 82% / 10% / 8% |
 | Bundesliga | Eintracht Frankfurt – SC Freiburg | 2:1 | 40% / 25% / 35% |
-| Bundesliga | Borussia Mönchengladbach – 1. FSV Mainz 05 | 0:1 | 34% / 27% / 40% |
+| Bundesliga | Borussia Mönchengladbach – 1. FSV Mainz 05 | 0:1 | 33% / 27% / 40% |
 | Bundesliga | Hamburger SV – 1. FC Köln | 1:0 | 39% / 26% / 35% |
 | Bundesliga | SV Werder Bremen – FC Augsburg | 1:0 | 38% / 26% / 36% |
 | Bundesliga | VfB Stuttgart – Borussia Dortmund | 0:1 | 38% / 26% / 36% |
