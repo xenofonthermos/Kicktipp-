@@ -2,7 +2,7 @@
   "season": 2026,
   "matchday": 4,
   "nextMatchday": 5,
-  "generatedAt": "2026-09-17T04:59:10.078Z",
+  "generatedAt": "2026-09-17T11:49:42.022Z",
   "eloRanking": [
     {
       "rank": 1,
@@ -112,9 +112,9 @@
         "market": "Über/Unter 4.5 Tore",
         "selection": "Unter 4.5",
         "bookmaker": "Tipico",
-        "bookmakerOdds": 1.97,
+        "bookmakerOdds": 2.05,
         "ourProbability": 0.726,
-        "edgePct": 25.6
+        "edgePct": 27.3
       },
       "homeForm": [
         "S",
@@ -180,8 +180,8 @@
       "homeTeam": "Borussia Mönchengladbach",
       "awayTeam": "1. FSV Mainz 05",
       "probabilities": {
-        "home": 0.336,
-        "draw": 0.265,
+        "home": 0.333,
+        "draw": 0.269,
         "away": 0.398
       },
       "tip": "0:1",
@@ -336,19 +336,19 @@
       "homeTeam": "Bayer 04 Leverkusen",
       "awayTeam": "RB Leipzig",
       "probabilities": {
-        "home": 0.461,
-        "draw": 0.238,
-        "away": 0.301
+        "home": 0.46,
+        "draw": 0.244,
+        "away": 0.296
       },
-      "tip": "2:1",
-      "tipExpectedPoints": 1.247,
+      "tip": "1:0",
+      "tipExpectedPoints": 1.254,
       "valueBet": {
         "market": "Über/Unter 3.5 Tore",
         "selection": "Unter 3.5",
         "bookmaker": "Tipico",
         "bookmakerOdds": 1.93,
-        "ourProbability": 0.65,
-        "edgePct": 16.7
+        "ourProbability": 0.694,
+        "edgePct": 21.1
       },
       "homeForm": [
         "N",
@@ -463,9 +463,9 @@
         "market": "Über/Unter 3.5 Tore",
         "selection": "Unter 3.5",
         "bookmaker": "Tipico",
-        "bookmakerOdds": 1.77,
+        "bookmakerOdds": 1.83,
         "ourProbability": 0.551,
-        "edgePct": 2.7
+        "edgePct": 4.2
       },
       "homeForm": [
         "S",
@@ -531,18 +531,18 @@
       "homeTeam": "FC Augsburg",
       "awayTeam": "FC Bayern München",
       "probabilities": {
-        "home": 0.194,
-        "draw": 0.174,
+        "home": 0.197,
+        "draw": 0.171,
         "away": 0.633
       },
       "tip": "1:2",
       "tipExpectedPoints": 1.502,
       "valueBet": {
-        "market": "1x2",
-        "selection": "Heimsieg",
+        "market": "Über/Unter 4.5 Tore",
+        "selection": "Unter 4.5",
         "bookmaker": "Tipico",
-        "bookmakerOdds": 9.5,
-        "ourProbability": 0.194,
+        "bookmakerOdds": 1.8,
+        "ourProbability": 0.611,
         "edgePct": 9.4
       },
       "homeForm": [
@@ -570,19 +570,19 @@
       "homeTeam": "1. FSV Mainz 05",
       "awayTeam": "Bayer 04 Leverkusen",
       "probabilities": {
-        "home": 0.341,
-        "draw": 0.259,
-        "away": 0.4
+        "home": 0.335,
+        "draw": 0.256,
+        "away": 0.409
       },
       "tip": "0:1",
-      "tipExpectedPoints": 1.091,
+      "tipExpectedPoints": 1.143,
       "valueBet": {
         "market": "Über/Unter 3.5 Tore",
         "selection": "Unter 3.5",
         "bookmaker": "Tipico",
         "bookmakerOdds": 1.67,
-        "ourProbability": 0.715,
-        "edgePct": 15.8
+        "ourProbability": 0.693,
+        "edgePct": 13.6
       },
       "homeForm": [
         "U",
@@ -697,9 +697,9 @@
         "market": "Über/Unter 3.5 Tore",
         "selection": "Unter 3.5",
         "bookmaker": "Tipico",
-        "bookmakerOdds": 1.9,
+        "bookmakerOdds": 1.97,
         "ourProbability": 0.586,
-        "edgePct": 9.6
+        "edgePct": 11.6
       },
       "homeForm": [
         "S",
@@ -736,9 +736,9 @@
         "market": "Über/Unter 3.5 Tore",
         "selection": "Unter 3.5",
         "bookmaker": "Tipico",
-        "bookmakerOdds": 1.6,
+        "bookmakerOdds": 1.57,
         "ourProbability": 0.65,
-        "edgePct": 7.1
+        "edgePct": 5.5
       },
       "homeForm": [
         "S",
