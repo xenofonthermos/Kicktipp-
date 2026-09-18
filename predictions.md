@@ -6,9 +6,9 @@ Erstellt am 2026-09-18. Elo-basierte Tippempfehlung für Kicktipp, ohne Gewähr 
 | --- | --- | --- | --- |
 | Bundesliga | FC Bayern München – 1. FC Union Berlin | 2:0 | 83% / 10% / 7% |
 | Bundesliga | Eintracht Frankfurt – SC Freiburg | 2:1 | 40% / 25% / 35% |
-| Bundesliga | Borussia Mönchengladbach – 1. FSV Mainz 05 | 0:1 | 33% / 27% / 40% |
+| Bundesliga | Borussia Mönchengladbach – 1. FSV Mainz 05 | 0:1 | 33% / 27% / 41% |
 | Bundesliga | Hamburger SV – 1. FC Köln | 1:0 | 39% / 25% / 36% |
-| Bundesliga | SV Werder Bremen – FC Augsburg | 1:0 | 38% / 26% / 36% |
+| Bundesliga | SV Werder Bremen – FC Augsburg | 0:1 | 38% / 26% / 36% |
 | Bundesliga | VfB Stuttgart – Borussia Dortmund | 0:1 | 37% / 26% / 37% |
 | Bundesliga | Bayer 04 Leverkusen – RB Leipzig | 2:1 | 47% / 24% / 30% |
 | Bundesliga | FC Schalke 04 – SV 07 Elversberg | 1:0 | 46% / 26% / 29% |
@@ -19,7 +19,7 @@ Erstellt am 2026-09-18. Elo-basierte Tippempfehlung für Kicktipp, ohne Gewähr 
 | Bundesliga | 1. FSV Mainz 05 – Bayer 04 Leverkusen | 0:1 | 34% / 26% / 41% |
 | Bundesliga | 1. FC Union Berlin – SV 07 Elversberg | 2:1 | 55% / 21% / 24% |
 | Bundesliga | SC Paderborn 07 – VfB Stuttgart | 1:2 | 16% / 18% / 66% |
-| Bundesliga | RB Leipzig – Eintracht Frankfurt | 2:1 | 57% / 20% / 23% |
+| Bundesliga | RB Leipzig – Eintracht Frankfurt | 2:1 | 57% / 21% / 23% |
 | Bundesliga | 1. FC Köln – Borussia Mönchengladbach | 2:1 | 47% / 24% / 28% |
 | Bundesliga | SC Freiburg – FC Schalke 04 | 2:1 | 70% / 17% / 13% |
 | 3. Liga | Alemannia Aachen – Fortuna Düsseldorf | 2:0 | 73% / 15% / 12% |
