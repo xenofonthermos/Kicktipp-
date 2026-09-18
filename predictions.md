@@ -1,6 +1,6 @@
 # Bundesliga-Prognose – Spieltag 4–5
 
-Erstellt am 2026-09-17. Elo-basierte Tippempfehlung für Kicktipp, ohne Gewähr – reiner Unterhaltungswert.
+Erstellt am 2026-09-18. Elo-basierte Tippempfehlung für Kicktipp, ohne Gewähr – reiner Unterhaltungswert.
 
 | Liga | Spiel | Tipp | Heim% / Remis% / Auswärts% |
 | --- | --- | --- | --- |
