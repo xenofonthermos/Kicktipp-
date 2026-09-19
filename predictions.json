@@ -2,7 +2,7 @@
   "season": 2026,
   "matchday": 4,
   "nextMatchday": 5,
-  "generatedAt": "2026-09-19T15:56:20.230Z",
+  "generatedAt": "2026-09-19T20:47:45.942Z",
   "eloRanking": [
     {
       "rank": 1,
@@ -12,7 +12,7 @@
     {
       "rank": 2,
       "teamName": "Borussia Dortmund",
-      "rating": 1837
+      "rating": 1847
     },
     {
       "rank": 3,
@@ -26,13 +26,13 @@
     },
     {
       "rank": 5,
-      "teamName": "VfB Stuttgart",
-      "rating": 1766
+      "teamName": "SC Freiburg",
+      "rating": 1765
     },
     {
       "rank": 6,
-      "teamName": "SC Freiburg",
-      "rating": 1765
+      "teamName": "VfB Stuttgart",
+      "rating": 1756
     },
     {
       "rank": 7,
@@ -96,45 +96,6 @@
     }
   ],
   "matches": [
-    {
-      "matchDateTime": "2026-09-19T18:30:00",
-      "league": "Bundesliga",
-      "homeTeam": "VfB Stuttgart",
-      "awayTeam": "Borussia Dortmund",
-      "probabilities": {
-        "home": 0.376,
-        "draw": 0.261,
-        "away": 0.363
-      },
-      "tip": "0:1",
-      "tipExpectedPoints": 1.032,
-      "valueBet": {
-        "market": "Über/Unter 3.5 Tore",
-        "selection": "Unter 3.5",
-        "bookmaker": "Tipico",
-        "bookmakerOdds": 1.93,
-        "ourProbability": 0.693,
-        "edgePct": 21.1
-      },
-      "homeForm": [
-        "N",
-        "S",
-        "N"
-      ],
-      "awayForm": [
-        "S",
-        "S",
-        "S"
-      ],
-      "homeLineup": {
-        "confirmed": false,
-        "missingRegulars": []
-      },
-      "awayLineup": {
-        "confirmed": false,
-        "missingRegulars": []
-      }
-    },
     {
       "matchDateTime": "2026-09-20T15:30:00",
       "league": "Bundesliga",
@@ -219,8 +180,8 @@
       "homeTeam": "SC Paderborn 07",
       "awayTeam": "TSG Hoffenheim",
       "probabilities": {
-        "home": 0.189,
-        "draw": 0.19,
+        "home": 0.186,
+        "draw": 0.193,
         "away": 0.621
       },
       "tip": "1:2",
@@ -258,9 +219,9 @@
       "homeTeam": "Borussia Dortmund",
       "awayTeam": "SV Werder Bremen",
       "probabilities": {
-        "home": 0.686,
-        "draw": 0.168,
-        "away": 0.146
+        "home": 0.691,
+        "draw": 0.166,
+        "away": 0.143
       },
       "tip": "2:1",
       "tipExpectedPoints": 1.685,
@@ -273,6 +234,7 @@
         "edgePct": 3.3
       },
       "homeForm": [
+        "S",
         "S",
         "S",
         "S"
@@ -459,19 +421,19 @@
       "homeTeam": "SC Paderborn 07",
       "awayTeam": "VfB Stuttgart",
       "probabilities": {
-        "home": 0.163,
-        "draw": 0.183,
-        "away": 0.655
+        "home": 0.166,
+        "draw": 0.184,
+        "away": 0.65
       },
       "tip": "1:2",
-      "tipExpectedPoints": 1.615,
+      "tipExpectedPoints": 1.588,
       "valueBet": {
         "market": "1x2",
         "selection": "Auswärtssieg",
         "bookmaker": "Tipico",
         "bookmakerOdds": 1.6,
-        "ourProbability": 0.655,
-        "edgePct": 6.2
+        "ourProbability": 0.65,
+        "edgePct": 5.8
       },
       "homeForm": [
         "U",
@@ -481,6 +443,7 @@
       "awayForm": [
         "N",
         "S",
+        "N",
         "N"
       ],
       "homeLineup": {
@@ -538,9 +501,9 @@
       "homeTeam": "1. FC Köln",
       "awayTeam": "Borussia Mönchengladbach",
       "probabilities": {
-        "home": 0.462,
+        "home": 0.458,
         "draw": 0.246,
-        "away": 0.292
+        "away": 0.296
       },
       "tip": "1:0",
       "tipExpectedPoints": 1.254,
@@ -651,10 +614,10 @@
     }
   ],
   "valueBetTrackRecord": {
-    "resolvedBets": 32,
-    "wins": 9,
+    "resolvedBets": 33,
+    "wins": 10,
     "losses": 23,
-    "profitUnits": -15.31,
-    "roiPercent": -47.8
+    "profitUnits": -14.38,
+    "roiPercent": -43.6
   }
 }

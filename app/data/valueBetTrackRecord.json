@@ -489,7 +489,9 @@
       "edgePct": 21.1,
       "recordedAt": "2026-09-19T15:56:20.230Z",
       "matchId": 83184,
-      "status": "pending"
+      "status": "won",
+      "actualScore": "0:1",
+      "profitUnits": 0.93
     },
     "83185": {
       "league": "Bundesliga",
@@ -502,7 +504,7 @@
       "bookmakerOdds": 1.95,
       "ourProbability": 0.65,
       "edgePct": 17.4,
-      "recordedAt": "2026-09-19T15:56:20.230Z",
+      "recordedAt": "2026-09-19T20:47:45.942Z",
       "matchId": 83185,
       "status": "pending"
     },
@@ -585,7 +587,7 @@
       "bookmakerOdds": 1.67,
       "ourProbability": 0.737,
       "edgePct": 18,
-      "recordedAt": "2026-09-19T15:56:20.230Z",
+      "recordedAt": "2026-09-19T20:47:45.942Z",
       "matchId": 83190,
       "status": "pending"
     },
@@ -600,7 +602,7 @@
       "bookmakerOdds": 1.65,
       "ourProbability": 0.621,
       "edgePct": 4.7,
-      "recordedAt": "2026-09-19T15:56:20.230Z",
+      "recordedAt": "2026-09-19T20:47:45.942Z",
       "matchId": 83191,
       "status": "pending"
     },
@@ -615,7 +617,7 @@
       "bookmakerOdds": 1.8,
       "ourProbability": 0.551,
       "edgePct": 3.3,
-      "recordedAt": "2026-09-19T15:56:20.230Z",
+      "recordedAt": "2026-09-19T20:47:45.942Z",
       "matchId": 83192,
       "status": "pending"
     },
@@ -630,7 +632,7 @@
       "bookmakerOdds": 1.97,
       "ourProbability": 0.544,
       "edgePct": 7.4,
-      "recordedAt": "2026-09-19T15:56:20.230Z",
+      "recordedAt": "2026-09-19T20:47:45.942Z",
       "matchId": 83193,
       "status": "pending"
     },
@@ -645,7 +647,7 @@
       "bookmakerOdds": 1.85,
       "ourProbability": 0.59,
       "edgePct": 8.7,
-      "recordedAt": "2026-09-19T15:56:20.230Z",
+      "recordedAt": "2026-09-19T20:47:45.942Z",
       "matchId": 83194,
       "status": "pending"
     },
@@ -660,7 +662,7 @@
       "bookmakerOdds": 1.6,
       "ourProbability": 0.69,
       "edgePct": 9.8,
-      "recordedAt": "2026-09-19T15:56:20.230Z",
+      "recordedAt": "2026-09-19T20:47:45.942Z",
       "matchId": 83195,
       "status": "pending"
     },
@@ -675,7 +677,7 @@
       "bookmakerOdds": 1.77,
       "ourProbability": 0.647,
       "edgePct": 12.2,
-      "recordedAt": "2026-09-19T15:56:20.230Z",
+      "recordedAt": "2026-09-19T20:47:45.942Z",
       "matchId": 83196,
       "status": "pending"
     },
@@ -690,7 +692,7 @@
       "bookmakerOdds": 1.67,
       "ourProbability": 0.715,
       "edgePct": 15.8,
-      "recordedAt": "2026-09-19T15:56:20.230Z",
+      "recordedAt": "2026-09-19T20:47:45.942Z",
       "matchId": 83197,
       "status": "pending"
     },
@@ -705,7 +707,7 @@
       "bookmakerOdds": 2.2,
       "ourProbability": 0.541,
       "edgePct": 11.2,
-      "recordedAt": "2026-09-19T15:56:20.230Z",
+      "recordedAt": "2026-09-19T20:47:45.942Z",
       "matchId": 83198,
       "status": "pending"
     },
@@ -720,7 +722,7 @@
       "bookmakerOdds": 1.6,
       "ourProbability": 0.694,
       "edgePct": 11.5,
-      "recordedAt": "2026-09-19T15:56:20.230Z",
+      "recordedAt": "2026-09-19T20:47:45.942Z",
       "matchId": 83199,
       "status": "pending"
     },
@@ -733,9 +735,9 @@
       "selection": "Auswärtssieg",
       "bookmaker": "Tipico",
       "bookmakerOdds": 1.6,
-      "ourProbability": 0.655,
-      "edgePct": 6.2,
-      "recordedAt": "2026-09-19T15:56:20.230Z",
+      "ourProbability": 0.65,
+      "edgePct": 5.8,
+      "recordedAt": "2026-09-19T20:47:45.942Z",
       "matchId": 83200,
       "status": "pending"
     }

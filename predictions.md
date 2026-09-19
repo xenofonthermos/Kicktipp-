@@ -4,18 +4,17 @@ Erstellt am 2026-09-19. Elo-basierte Tippempfehlung für Kicktipp, ohne Gewähr 
 
 | Liga | Spiel | Tipp | Heim% / Remis% / Auswärts% |
 | --- | --- | --- | --- |
-| Bundesliga | VfB Stuttgart – Borussia Dortmund | 0:1 | 38% / 26% / 36% |
 | Bundesliga | Bayer 04 Leverkusen – RB Leipzig | 2:1 | 46% / 24% / 30% |
 | Bundesliga | FC Schalke 04 – SV 07 Elversberg | 1:0 | 46% / 26% / 29% |
 | Bundesliga | SC Paderborn 07 – TSG Hoffenheim | 1:2 | 19% / 19% / 62% |
-| Bundesliga | Borussia Dortmund – SV Werder Bremen | 2:1 | 69% / 17% / 15% |
+| Bundesliga | Borussia Dortmund – SV Werder Bremen | 2:1 | 69% / 17% / 14% |
 | Bundesliga | TSG Hoffenheim – Hamburger SV | 2:1 | 66% / 18% / 16% |
 | Bundesliga | FC Augsburg – FC Bayern München | 1:2 | 19% / 17% / 64% |
 | Bundesliga | 1. FSV Mainz 05 – Bayer 04 Leverkusen | 0:1 | 34% / 26% / 40% |
 | Bundesliga | 1. FC Union Berlin – SV 07 Elversberg | 2:1 | 54% / 22% / 24% |
-| Bundesliga | SC Paderborn 07 – VfB Stuttgart | 1:2 | 16% / 18% / 66% |
+| Bundesliga | SC Paderborn 07 – VfB Stuttgart | 1:2 | 17% / 18% / 65% |
 | Bundesliga | RB Leipzig – Eintracht Frankfurt | 2:1 | 57% / 21% / 23% |
-| Bundesliga | 1. FC Köln – Borussia Mönchengladbach | 1:0 | 46% / 25% / 29% |
+| Bundesliga | 1. FC Köln – Borussia Mönchengladbach | 1:0 | 46% / 25% / 30% |
 | Bundesliga | SC Freiburg – FC Schalke 04 | 1:0 | 69% / 18% / 13% |
 | 3. Liga | Fortuna Düsseldorf – SC Verl | 1:2 | 20% / 19% / 62% |
 
@@ -24,11 +23,11 @@ Erstellt am 2026-09-19. Elo-basierte Tippempfehlung für Kicktipp, ohne Gewähr 
 | Rang | Team | Rating |
 | --- | --- | --- |
 | 1 | FC Bayern München | 1866 |
-| 2 | Borussia Dortmund | 1837 |
+| 2 | Borussia Dortmund | 1847 |
 | 3 | RB Leipzig | 1792 |
 | 4 | Bayer 04 Leverkusen | 1786 |
-| 5 | VfB Stuttgart | 1766 |
-| 6 | SC Freiburg | 1765 |
+| 5 | SC Freiburg | 1765 |
+| 6 | VfB Stuttgart | 1756 |
 | 7 | Eintracht Frankfurt | 1741 |
 | 8 | TSG Hoffenheim | 1714 |
 | 9 | FC Augsburg | 1698 |
@@ -44,4 +43,4 @@ Erstellt am 2026-09-19. Elo-basierte Tippempfehlung für Kicktipp, ohne Gewähr 
 
 ## Tipico-Erfolgsbilanz (bisher entschiedene Wett-Tipps)
 
-9 von 32 richtig, Bilanz -15.31 Einheiten (-47.8% ROI bei 1 Einheit Einsatz je Tipp). Reine Information, keine Wettempfehlung — siehe RISKS.md.
+10 von 33 richtig, Bilanz -14.38 Einheiten (-43.6% ROI bei 1 Einheit Einsatz je Tipp). Reine Information, keine Wettempfehlung — siehe RISKS.md.
