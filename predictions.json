@@ -2,7 +2,7 @@
   "season": 2026,
   "matchday": 4,
   "nextMatchday": 5,
-  "generatedAt": "2026-09-19T20:47:45.942Z",
+  "generatedAt": "2026-09-20T04:59:28.281Z",
   "eloRanking": [
     {
       "rank": 1,
@@ -112,9 +112,9 @@
         "market": "Über/Unter 3.5 Tore",
         "selection": "Unter 3.5",
         "bookmaker": "Tipico",
-        "bookmakerOdds": 1.95,
+        "bookmakerOdds": 1.97,
         "ourProbability": 0.65,
-        "edgePct": 17.4
+        "edgePct": 17.9
       },
       "homeForm": [
         "N",
@@ -141,8 +141,8 @@
       "homeTeam": "FC Schalke 04",
       "awayTeam": "SV 07 Elversberg",
       "probabilities": {
-        "home": 0.458,
-        "draw": 0.256,
+        "home": 0.462,
+        "draw": 0.252,
         "away": 0.286
       },
       "tip": "1:0",
@@ -151,9 +151,9 @@
         "market": "Über/Unter 3.5 Tore",
         "selection": "Unter 3.5",
         "bookmaker": "Tipico",
-        "bookmakerOdds": 1.67,
+        "bookmakerOdds": 1.65,
         "ourProbability": 0.737,
-        "edgePct": 18
+        "edgePct": 17.1
       },
       "homeForm": [
         "N",
@@ -180,8 +180,8 @@
       "homeTeam": "SC Paderborn 07",
       "awayTeam": "TSG Hoffenheim",
       "probabilities": {
-        "home": 0.186,
-        "draw": 0.193,
+        "home": 0.189,
+        "draw": 0.19,
         "away": 0.621
       },
       "tip": "1:2",
@@ -219,9 +219,9 @@
       "homeTeam": "Borussia Dortmund",
       "awayTeam": "SV Werder Bremen",
       "probabilities": {
-        "home": 0.691,
-        "draw": 0.166,
-        "away": 0.143
+        "home": 0.69,
+        "draw": 0.165,
+        "away": 0.145
       },
       "tip": "2:1",
       "tipExpectedPoints": 1.685,
@@ -229,9 +229,9 @@
         "market": "Über/Unter 3.5 Tore",
         "selection": "Unter 3.5",
         "bookmaker": "Tipico",
-        "bookmakerOdds": 1.8,
+        "bookmakerOdds": 1.85,
         "ourProbability": 0.551,
-        "edgePct": 3.3
+        "edgePct": 4.8
       },
       "homeForm": [
         "S",
@@ -260,19 +260,19 @@
       "homeTeam": "TSG Hoffenheim",
       "awayTeam": "Hamburger SV",
       "probabilities": {
-        "home": 0.658,
-        "draw": 0.18,
-        "away": 0.162
+        "home": 0.65,
+        "draw": 0.183,
+        "away": 0.167
       },
       "tip": "2:1",
-      "tipExpectedPoints": 1.637,
+      "tipExpectedPoints": 1.615,
       "valueBet": {
-        "market": "Über/Unter 3.5 Tore",
-        "selection": "Unter 3.5",
+        "market": "1x2",
+        "selection": "Auswärtssieg",
         "bookmaker": "Tipico",
-        "bookmakerOdds": 1.85,
-        "ourProbability": 0.59,
-        "edgePct": 8.7
+        "bookmakerOdds": 7.5,
+        "ourProbability": 0.167,
+        "edgePct": 4.1
       },
       "homeForm": [
         "N",
@@ -300,19 +300,19 @@
       "homeTeam": "FC Augsburg",
       "awayTeam": "FC Bayern München",
       "probabilities": {
-        "home": 0.19,
-        "draw": 0.173,
-        "away": 0.637
+        "home": 0.193,
+        "draw": 0.172,
+        "away": 0.636
       },
       "tip": "1:2",
-      "tipExpectedPoints": 1.524,
+      "tipExpectedPoints": 1.502,
       "valueBet": {
         "market": "Über/Unter 4.5 Tore",
         "selection": "Unter 4.5",
         "bookmaker": "Tipico",
         "bookmakerOdds": 1.77,
-        "ourProbability": 0.647,
-        "edgePct": 12.2
+        "ourProbability": 0.611,
+        "edgePct": 8.7
       },
       "homeForm": [
         "S",
@@ -381,9 +381,9 @@
       "homeTeam": "1. FC Union Berlin",
       "awayTeam": "SV 07 Elversberg",
       "probabilities": {
-        "home": 0.541,
-        "draw": 0.215,
-        "away": 0.243
+        "home": 0.532,
+        "draw": 0.219,
+        "away": 0.249
       },
       "tip": "2:1",
       "tipExpectedPoints": 1.382,
@@ -391,9 +391,9 @@
         "market": "1x2",
         "selection": "Heimsieg",
         "bookmaker": "Tipico",
-        "bookmakerOdds": 2.2,
-        "ourProbability": 0.541,
-        "edgePct": 11.2
+        "bookmakerOdds": 2.3,
+        "ourProbability": 0.532,
+        "edgePct": 12.1
       },
       "homeForm": [
         "U",
