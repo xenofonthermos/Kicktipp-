@@ -4,16 +4,15 @@ Erstellt am 2026-09-20. Elo-basierte Tippempfehlung für Kicktipp, ohne Gewähr 
 
 | Liga | Spiel | Tipp | Heim% / Remis% / Auswärts% |
 | --- | --- | --- | --- |
-| Bundesliga | Bayer 04 Leverkusen – RB Leipzig | 2:1 | 48% / 24% / 28% |
-| Bundesliga | FC Schalke 04 – SV 07 Elversberg | 1:0 | 47% / 25% / 28% |
-| Bundesliga | SC Paderborn 07 – TSG Hoffenheim | 1:2 | 19% / 20% / 61% |
+| Bundesliga | FC Schalke 04 – SV 07 Elversberg | 1:0 | 45% / 28% / 27% |
+| Bundesliga | SC Paderborn 07 – TSG Hoffenheim | 1:2 | 19% / 19% / 61% |
 | Bundesliga | Borussia Dortmund – SV Werder Bremen | 2:1 | 69% / 17% / 14% |
-| Bundesliga | TSG Hoffenheim – Hamburger SV | 2:1 | 65% / 18% / 17% |
+| Bundesliga | TSG Hoffenheim – Hamburger SV | 2:1 | 66% / 18% / 17% |
 | Bundesliga | FC Augsburg – FC Bayern München | 1:2 | 19% / 17% / 64% |
-| Bundesliga | 1. FSV Mainz 05 – Bayer 04 Leverkusen | 0:1 | 34% / 26% / 40% |
+| Bundesliga | 1. FSV Mainz 05 – Bayer 04 Leverkusen | 0:1 | 33% / 25% / 42% |
 | Bundesliga | 1. FC Union Berlin – SV 07 Elversberg | 2:1 | 53% / 22% / 25% |
 | Bundesliga | SC Paderborn 07 – VfB Stuttgart | 1:2 | 17% / 18% / 65% |
-| Bundesliga | RB Leipzig – Eintracht Frankfurt | 2:1 | 57% / 21% / 23% |
+| Bundesliga | RB Leipzig – Eintracht Frankfurt | 2:1 | 56% / 21% / 23% |
 | Bundesliga | 1. FC Köln – Borussia Mönchengladbach | 1:0 | 46% / 25% / 30% |
 | Bundesliga | SC Freiburg – FC Schalke 04 | 1:0 | 69% / 18% / 13% |
 | 3. Liga | Fortuna Düsseldorf – SC Verl | 1:2 | 20% / 19% / 62% |
@@ -24,8 +23,8 @@ Erstellt am 2026-09-20. Elo-basierte Tippempfehlung für Kicktipp, ohne Gewähr 
 | --- | --- | --- |
 | 1 | FC Bayern München | 1866 |
 | 2 | Borussia Dortmund | 1847 |
-| 3 | RB Leipzig | 1792 |
-| 4 | Bayer 04 Leverkusen | 1786 |
+| 3 | Bayer 04 Leverkusen | 1799 |
+| 4 | RB Leipzig | 1780 |
 | 5 | SC Freiburg | 1765 |
 | 6 | VfB Stuttgart | 1756 |
 | 7 | Eintracht Frankfurt | 1741 |
@@ -43,4 +42,4 @@ Erstellt am 2026-09-20. Elo-basierte Tippempfehlung für Kicktipp, ohne Gewähr 
 
 ## Tipico-Erfolgsbilanz (bisher entschiedene Wett-Tipps)
 
-10 von 33 richtig, Bilanz -14.38 Einheiten (-43.6% ROI bei 1 Einheit Einsatz je Tipp). Reine Information, keine Wettempfehlung — siehe RISKS.md.
+11 von 34 richtig, Bilanz -13.33 Einheiten (-39.2% ROI bei 1 Einheit Einsatz je Tipp). Reine Information, keine Wettempfehlung — siehe RISKS.md.

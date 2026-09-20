@@ -13,7 +13,8 @@
     1340459391,
     1340455136,
     1340467050,
-    1347986486
+    1347986486,
+    1340473007
   ],
   "teams": {
     "FC Bayern München": {
@@ -165,19 +166,20 @@
       }
     },
     "SV 07 Elversberg": {
-      "matchesSeen": 3,
+      "matchesSeen": 4,
       "players": {
-        "N. Kristof": 3,
-        "L. Günther": 3,
-        "L. Pinckert": 3,
-        "M. Rohr": 3,
-        "J. Gyamerah": 3,
-        "Ł. Poręba": 3,
-        "F. Keidel": 3,
-        "William Cole Campbell": 3,
+        "N. Kristof": 4,
+        "L. Günther": 4,
+        "L. Pinckert": 4,
+        "M. Rohr": 4,
+        "J. Gyamerah": 4,
+        "Ł. Poręba": 4,
+        "F. Keidel": 4,
+        "William Cole Campbell": 4,
         "Francis-Ikechukwu Onyeka": 3,
-        "L. Petkov": 3,
-        "D. Mokwa": 3
+        "L. Petkov": 4,
+        "D. Mokwa": 4,
+        "Noah Darvich": 1
       }
     },
     "Bayer 04 Leverkusen": {
@@ -341,6 +343,22 @@
         "P. Förster": 1,
         "E. Hottmann": 1,
         "A. Slimani": 1
+      }
+    },
+    "FC Schalke 04": {
+      "matchesSeen": 1,
+      "players": {
+        "L. Karius": 1,
+        "H. Kuruçay": 1,
+        "N. Katić": 1,
+        "T. Becker": 1,
+        "R. Gosens": 1,
+        "S. Tanaka": 1,
+        "S. El-Faouzi": 1,
+        "J. Dina Ebimbe": 1,
+        "A. Aouchiche": 1,
+        "K. Karaman": 1,
+        "E. Džeko": 1
       }
     }
   }
