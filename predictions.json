@@ -2,7 +2,7 @@
   "season": 2026,
   "matchday": 4,
   "nextMatchday": 5,
-  "generatedAt": "2026-09-20T16:13:31.831Z",
+  "generatedAt": "2026-09-20T20:54:01.304Z",
   "eloRanking": [
     {
       "rank": 1,
@@ -41,18 +41,18 @@
     },
     {
       "rank": 8,
-      "teamName": "TSG Hoffenheim",
-      "rating": 1714
-    },
-    {
-      "rank": 9,
       "teamName": "FC Augsburg",
       "rating": 1698
     },
     {
-      "rank": 10,
+      "rank": 9,
       "teamName": "1. FSV Mainz 05",
       "rating": 1696
+    },
+    {
+      "rank": 10,
+      "teamName": "TSG Hoffenheim",
+      "rating": 1689
     },
     {
       "rank": 11,
@@ -82,100 +82,20 @@
     {
       "rank": 16,
       "teamName": "SV 07 Elversberg",
-      "rating": 1432
+      "rating": 1434
     },
     {
       "rank": 17,
       "teamName": "FC Schalke 04",
-      "rating": 1429
+      "rating": 1427
     },
     {
       "rank": 18,
       "teamName": "SC Paderborn 07",
-      "rating": 1402
+      "rating": 1427
     }
   ],
   "matches": [
-    {
-      "matchDateTime": "2026-09-20T17:30:00",
-      "league": "Bundesliga",
-      "homeTeam": "FC Schalke 04",
-      "awayTeam": "SV 07 Elversberg",
-      "probabilities": {
-        "home": 0.448,
-        "draw": 0.28,
-        "away": 0.271
-      },
-      "tip": "1:0",
-      "tipExpectedPoints": 1.306,
-      "valueBet": {
-        "market": "Über/Unter 1.5 Tore",
-        "selection": "Über 1.5",
-        "bookmaker": "Tipico",
-        "bookmakerOdds": 1.65,
-        "ourProbability": 0.645,
-        "edgePct": 8.5
-      },
-      "homeForm": [
-        "N",
-        "U",
-        "S"
-      ],
-      "awayForm": [
-        "S",
-        "S",
-        "N"
-      ],
-      "homeLineup": {
-        "confirmed": true,
-        "missingRegulars": []
-      },
-      "awayLineup": {
-        "confirmed": true,
-        "missingRegulars": [
-          "Francis-Ikechukwu Onyeka"
-        ]
-      }
-    },
-    {
-      "matchDateTime": "2026-09-20T19:30:00",
-      "league": "Bundesliga",
-      "homeTeam": "SC Paderborn 07",
-      "awayTeam": "TSG Hoffenheim",
-      "probabilities": {
-        "home": 0.194,
-        "draw": 0.193,
-        "away": 0.613
-      },
-      "tip": "1:2",
-      "tipExpectedPoints": 1.519,
-      "valueBet": {
-        "market": "1x2",
-        "selection": "Auswärtssieg",
-        "bookmaker": "Tipico",
-        "bookmakerOdds": 1.7,
-        "ourProbability": 0.613,
-        "edgePct": 5.5
-      },
-      "homeForm": [
-        "U",
-        "N",
-        "N"
-      ],
-      "awayForm": [
-        "N",
-        "N",
-        "S"
-      ],
-      "homeLineup": {
-        "confirmed": false,
-        "missingRegulars": []
-      },
-      "awayLineup": {
-        "confirmed": false,
-        "missingRegulars": []
-      }
-    },
     {
       "matchDateTime": "2026-10-09T20:30:00",
       "league": "Bundesliga",
@@ -223,24 +143,25 @@
       "homeTeam": "TSG Hoffenheim",
       "awayTeam": "Hamburger SV",
       "probabilities": {
-        "home": 0.655,
-        "draw": 0.18,
-        "away": 0.165
+        "home": 0.635,
+        "draw": 0.188,
+        "away": 0.177
       },
       "tip": "2:1",
-      "tipExpectedPoints": 1.637,
+      "tipExpectedPoints": 1.588,
       "valueBet": {
         "market": "Über/Unter 3.5 Tore",
         "selection": "Unter 3.5",
         "bookmaker": "Tipico",
         "bookmakerOdds": 1.9,
-        "ourProbability": 0.59,
-        "edgePct": 9.9
+        "ourProbability": 0.568,
+        "edgePct": 7.7
       },
       "homeForm": [
         "N",
         "N",
-        "S"
+        "S",
+        "N"
       ],
       "awayForm": [
         "N",
@@ -346,8 +267,8 @@
       "awayTeam": "SV 07 Elversberg",
       "probabilities": {
         "home": 0.532,
-        "draw": 0.219,
-        "away": 0.249
+        "draw": 0.216,
+        "away": 0.253
       },
       "tip": "2:1",
       "tipExpectedPoints": 1.382,
@@ -357,7 +278,7 @@
         "bookmaker": "Tipico",
         "bookmakerOdds": 2.3,
         "ourProbability": 0.532,
-        "edgePct": 12.1
+        "edgePct": 12
       },
       "homeForm": [
         "U",
@@ -368,7 +289,8 @@
       "awayForm": [
         "S",
         "S",
-        "N"
+        "N",
+        "U"
       ],
       "homeLineup": {
         "confirmed": false,
@@ -385,24 +307,25 @@
       "homeTeam": "SC Paderborn 07",
       "awayTeam": "VfB Stuttgart",
       "probabilities": {
-        "home": 0.166,
-        "draw": 0.184,
-        "away": 0.65
+        "home": 0.173,
+        "draw": 0.187,
+        "away": 0.639
       },
       "tip": "1:2",
-      "tipExpectedPoints": 1.588,
+      "tipExpectedPoints": 1.567,
       "valueBet": {
         "market": "1x2",
         "selection": "Auswärtssieg",
         "bookmaker": "Tipico",
         "bookmakerOdds": 1.6,
-        "ourProbability": 0.65,
-        "edgePct": 5.8
+        "ourProbability": 0.639,
+        "edgePct": 4.7
       },
       "homeForm": [
         "U",
         "N",
-        "N"
+        "N",
+        "S"
       ],
       "awayForm": [
         "N",
@@ -507,19 +430,19 @@
       "homeTeam": "SC Freiburg",
       "awayTeam": "FC Schalke 04",
       "probabilities": {
-        "home": 0.687,
+        "home": 0.682,
         "draw": 0.182,
-        "away": 0.131
+        "away": 0.136
       },
-      "tip": "1:0",
-      "tipExpectedPoints": 1.72,
+      "tip": "2:1",
+      "tipExpectedPoints": 1.685,
       "valueBet": {
         "market": "1x2",
         "selection": "Heimsieg",
         "bookmaker": "Tipico",
-        "bookmakerOdds": 1.62,
-        "ourProbability": 0.687,
-        "edgePct": 10.1
+        "bookmakerOdds": 1.65,
+        "ourProbability": 0.682,
+        "edgePct": 10.7
       },
       "homeForm": [
         "S",
@@ -530,7 +453,8 @@
       "awayForm": [
         "N",
         "U",
-        "S"
+        "S",
+        "U"
       ],
       "homeLineup": {
         "confirmed": false,
@@ -579,10 +503,10 @@
     }
   ],
   "valueBetTrackRecord": {
-    "resolvedBets": 34,
+    "resolvedBets": 36,
     "wins": 11,
-    "losses": 23,
-    "profitUnits": -13.33,
-    "roiPercent": -39.2
+    "losses": 25,
+    "profitUnits": -15.33,
+    "roiPercent": -42.6
   }
 }
