@@ -4,9 +4,9 @@ Erstellt am 2026-09-20. Elo-basierte Tippempfehlung für Kicktipp, ohne Gewähr 
 
 | Liga | Spiel | Tipp | Heim% / Remis% / Auswärts% |
 | --- | --- | --- | --- |
-| Bundesliga | Bayer 04 Leverkusen – RB Leipzig | 2:1 | 46% / 24% / 30% |
-| Bundesliga | FC Schalke 04 – SV 07 Elversberg | 1:0 | 46% / 25% / 29% |
-| Bundesliga | SC Paderborn 07 – TSG Hoffenheim | 1:2 | 19% / 19% / 62% |
+| Bundesliga | Bayer 04 Leverkusen – RB Leipzig | 2:1 | 48% / 24% / 28% |
+| Bundesliga | FC Schalke 04 – SV 07 Elversberg | 1:0 | 47% / 25% / 28% |
+| Bundesliga | SC Paderborn 07 – TSG Hoffenheim | 1:2 | 19% / 20% / 61% |
 | Bundesliga | Borussia Dortmund – SV Werder Bremen | 2:1 | 69% / 17% / 14% |
 | Bundesliga | TSG Hoffenheim – Hamburger SV | 2:1 | 65% / 18% / 17% |
 | Bundesliga | FC Augsburg – FC Bayern München | 1:2 | 19% / 17% / 64% |

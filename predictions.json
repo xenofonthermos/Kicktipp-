@@ -2,7 +2,7 @@
   "season": 2026,
   "matchday": 4,
   "nextMatchday": 5,
-  "generatedAt": "2026-09-20T04:59:28.281Z",
+  "generatedAt": "2026-09-20T11:33:02.176Z",
   "eloRanking": [
     {
       "rank": 1,
@@ -102,19 +102,19 @@
       "homeTeam": "Bayer 04 Leverkusen",
       "awayTeam": "RB Leipzig",
       "probabilities": {
-        "home": 0.463,
-        "draw": 0.241,
-        "away": 0.296
+        "home": 0.479,
+        "draw": 0.236,
+        "away": 0.285
       },
       "tip": "2:1",
-      "tipExpectedPoints": 1.247,
+      "tipExpectedPoints": 1.301,
       "valueBet": {
         "market": "Über/Unter 3.5 Tore",
         "selection": "Unter 3.5",
         "bookmaker": "Tipico",
-        "bookmakerOdds": 1.97,
-        "ourProbability": 0.65,
-        "edgePct": 17.9
+        "bookmakerOdds": 2.05,
+        "ourProbability": 0.672,
+        "edgePct": 21.8
       },
       "homeForm": [
         "N",
@@ -141,19 +141,19 @@
       "homeTeam": "FC Schalke 04",
       "awayTeam": "SV 07 Elversberg",
       "probabilities": {
-        "home": 0.462,
-        "draw": 0.252,
-        "away": 0.286
+        "home": 0.471,
+        "draw": 0.249,
+        "away": 0.28
       },
       "tip": "1:0",
-      "tipExpectedPoints": 1.27,
+      "tipExpectedPoints": 1.254,
       "valueBet": {
         "market": "Über/Unter 3.5 Tore",
         "selection": "Unter 3.5",
         "bookmaker": "Tipico",
         "bookmakerOdds": 1.65,
-        "ourProbability": 0.737,
-        "edgePct": 17.1
+        "ourProbability": 0.694,
+        "edgePct": 12.8
       },
       "homeForm": [
         "N",
@@ -180,9 +180,9 @@
       "homeTeam": "SC Paderborn 07",
       "awayTeam": "TSG Hoffenheim",
       "probabilities": {
-        "home": 0.189,
-        "draw": 0.19,
-        "away": 0.621
+        "home": 0.191,
+        "draw": 0.196,
+        "away": 0.613
       },
       "tip": "1:2",
       "tipExpectedPoints": 1.539,
@@ -190,9 +190,9 @@
         "market": "1x2",
         "selection": "Auswärtssieg",
         "bookmaker": "Tipico",
-        "bookmakerOdds": 1.65,
-        "ourProbability": 0.621,
-        "edgePct": 4.7
+        "bookmakerOdds": 1.7,
+        "ourProbability": 0.613,
+        "edgePct": 5.5
       },
       "homeForm": [
         "U",
@@ -229,9 +229,9 @@
         "market": "Über/Unter 3.5 Tore",
         "selection": "Unter 3.5",
         "bookmaker": "Tipico",
-        "bookmakerOdds": 1.85,
+        "bookmakerOdds": 1.87,
         "ourProbability": 0.551,
-        "edgePct": 4.8
+        "edgePct": 5.4
       },
       "homeForm": [
         "S",
@@ -310,9 +310,9 @@
         "market": "Über/Unter 4.5 Tore",
         "selection": "Unter 4.5",
         "bookmaker": "Tipico",
-        "bookmakerOdds": 1.77,
+        "bookmakerOdds": 1.83,
         "ourProbability": 0.611,
-        "edgePct": 8.7
+        "edgePct": 10.2
       },
       "homeForm": [
         "S",
