@@ -1,6 +1,6 @@
 # Bundesliga-Prognose – Spieltag 4–5
 
-Erstellt am 2026-09-20. Elo-basierte Tippempfehlung für Kicktipp, ohne Gewähr – reiner Unterhaltungswert.
+Erstellt am 2026-09-21. Elo-basierte Tippempfehlung für Kicktipp, ohne Gewähr – reiner Unterhaltungswert.
 
 | Liga | Spiel | Tipp | Heim% / Remis% / Auswärts% |
 | --- | --- | --- | --- |
@@ -12,7 +12,7 @@ Erstellt am 2026-09-20. Elo-basierte Tippempfehlung für Kicktipp, ohne Gewähr 
 | Bundesliga | SC Paderborn 07 – VfB Stuttgart | 1:2 | 17% / 19% / 64% |
 | Bundesliga | RB Leipzig – Eintracht Frankfurt | 2:1 | 56% / 21% / 23% |
 | Bundesliga | 1. FC Köln – Borussia Mönchengladbach | 1:0 | 46% / 25% / 30% |
-| Bundesliga | SC Freiburg – FC Schalke 04 | 2:1 | 68% / 18% / 14% |
+| Bundesliga | SC Freiburg – FC Schalke 04 | 1:0 | 68% / 19% / 13% |
 | 3. Liga | Fortuna Düsseldorf – SC Verl | 1:2 | 20% / 19% / 62% |
 
 ## Elo-Tabelle (Modellwert, keine offizielle Tabelle)

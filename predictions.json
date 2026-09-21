@@ -2,7 +2,7 @@
   "season": 2026,
   "matchday": 4,
   "nextMatchday": 5,
-  "generatedAt": "2026-09-20T20:54:01.304Z",
+  "generatedAt": "2026-09-21T05:05:12.111Z",
   "eloRanking": [
     {
       "rank": 1,
@@ -184,19 +184,19 @@
       "homeTeam": "FC Augsburg",
       "awayTeam": "FC Bayern München",
       "probabilities": {
-        "home": 0.193,
-        "draw": 0.172,
-        "away": 0.636
+        "home": 0.187,
+        "draw": 0.17,
+        "away": 0.643
       },
       "tip": "1:2",
-      "tipExpectedPoints": 1.502,
+      "tipExpectedPoints": 1.523,
       "valueBet": {
-        "market": "Über/Unter 4.5 Tore",
-        "selection": "Unter 4.5",
+        "market": "1x2",
+        "selection": "Heimsieg",
         "bookmaker": "Tipico",
-        "bookmakerOdds": 1.83,
-        "ourProbability": 0.611,
-        "edgePct": 10.2
+        "bookmakerOdds": 9.5,
+        "ourProbability": 0.187,
+        "edgePct": 8.7
       },
       "homeForm": [
         "S",
@@ -389,8 +389,8 @@
       "homeTeam": "1. FC Köln",
       "awayTeam": "Borussia Mönchengladbach",
       "probabilities": {
-        "home": 0.455,
-        "draw": 0.249,
+        "home": 0.458,
+        "draw": 0.246,
         "away": 0.296
       },
       "tip": "1:0",
@@ -399,9 +399,9 @@
         "market": "Über/Unter 3.5 Tore",
         "selection": "Unter 3.5",
         "bookmaker": "Tipico",
-        "bookmakerOdds": 1.6,
+        "bookmakerOdds": 1.67,
         "ourProbability": 0.694,
-        "edgePct": 11.5
+        "edgePct": 13.6
       },
       "homeForm": [
         "S",
@@ -431,18 +431,18 @@
       "awayTeam": "FC Schalke 04",
       "probabilities": {
         "home": 0.682,
-        "draw": 0.182,
-        "away": 0.136
+        "draw": 0.185,
+        "away": 0.134
       },
-      "tip": "2:1",
-      "tipExpectedPoints": 1.685,
+      "tip": "1:0",
+      "tipExpectedPoints": 1.72,
       "valueBet": {
         "market": "1x2",
         "selection": "Heimsieg",
         "bookmaker": "Tipico",
         "bookmakerOdds": 1.65,
         "ourProbability": 0.682,
-        "edgePct": 10.7
+        "edgePct": 10.8
       },
       "homeForm": [
         "S",
