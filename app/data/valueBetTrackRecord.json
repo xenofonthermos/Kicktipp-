@@ -623,7 +623,7 @@
       "bookmakerOdds": 1.87,
       "ourProbability": 0.551,
       "edgePct": 5.4,
-      "recordedAt": "2026-09-22T17:02:06.398Z",
+      "recordedAt": "2026-09-22T21:24:53.306Z",
       "matchId": 83192,
       "status": "pending"
     },
@@ -638,7 +638,7 @@
       "bookmakerOdds": 2.05,
       "ourProbability": 0.565,
       "edgePct": 11.1,
-      "recordedAt": "2026-09-22T17:02:06.398Z",
+      "recordedAt": "2026-09-22T21:24:53.306Z",
       "matchId": 83193,
       "status": "pending"
     },
@@ -653,7 +653,7 @@
       "bookmakerOdds": 1.8,
       "ourProbability": 0.588,
       "edgePct": 7.1,
-      "recordedAt": "2026-09-22T17:02:06.398Z",
+      "recordedAt": "2026-09-22T21:24:53.306Z",
       "matchId": 83194,
       "status": "pending"
     },
@@ -668,7 +668,7 @@
       "bookmakerOdds": 1.57,
       "ourProbability": 0.696,
       "edgePct": 9.4,
-      "recordedAt": "2026-09-22T17:02:06.398Z",
+      "recordedAt": "2026-09-22T21:24:53.306Z",
       "matchId": 83195,
       "status": "pending"
     },
@@ -677,13 +677,13 @@
       "homeTeam": "FC Augsburg",
       "awayTeam": "FC Bayern München",
       "matchDateTime": "2026-10-10T15:30:00",
-      "market": "Über/Unter 4.5 Tore",
-      "selection": "Unter 4.5",
+      "market": "1x2",
+      "selection": "Heimsieg",
       "bookmaker": "Tipico",
-      "bookmakerOdds": 1.83,
-      "ourProbability": 0.611,
-      "edgePct": 10.2,
-      "recordedAt": "2026-09-22T17:02:06.398Z",
+      "bookmakerOdds": 10,
+      "ourProbability": 0.185,
+      "edgePct": 9,
+      "recordedAt": "2026-09-22T21:24:53.306Z",
       "matchId": 83196,
       "status": "pending"
     },
@@ -698,7 +698,7 @@
       "bookmakerOdds": 1.67,
       "ourProbability": 0.693,
       "edgePct": 13.6,
-      "recordedAt": "2026-09-22T17:02:06.398Z",
+      "recordedAt": "2026-09-22T21:24:53.306Z",
       "matchId": 83197,
       "status": "pending"
     },
@@ -713,7 +713,7 @@
       "bookmakerOdds": 2.25,
       "ourProbability": 0.537,
       "edgePct": 11.5,
-      "recordedAt": "2026-09-22T17:02:06.398Z",
+      "recordedAt": "2026-09-22T21:24:53.306Z",
       "matchId": 83198,
       "status": "pending"
     },
@@ -728,7 +728,7 @@
       "bookmakerOdds": 1.6,
       "ourProbability": 0.694,
       "edgePct": 11.5,
-      "recordedAt": "2026-09-22T17:02:06.398Z",
+      "recordedAt": "2026-09-22T21:24:53.306Z",
       "matchId": 83199,
       "status": "pending"
     },
@@ -743,7 +743,7 @@
       "bookmakerOdds": 1.83,
       "ourProbability": 0.568,
       "edgePct": 5.8,
-      "recordedAt": "2026-09-22T17:02:06.398Z",
+      "recordedAt": "2026-09-22T21:24:53.306Z",
       "matchId": 83200,
       "status": "pending"
     }

@@ -2,7 +2,7 @@
   "season": 2026,
   "matchday": 4,
   "nextMatchday": 5,
-  "generatedAt": "2026-09-22T17:02:06.398Z",
+  "generatedAt": "2026-09-22T21:24:53.306Z",
   "eloRanking": [
     {
       "rank": 1,
@@ -184,19 +184,19 @@
       "homeTeam": "FC Augsburg",
       "awayTeam": "FC Bayern München",
       "probabilities": {
-        "home": 0.193,
+        "home": 0.185,
         "draw": 0.172,
-        "away": 0.636
+        "away": 0.644
       },
       "tip": "1:2",
-      "tipExpectedPoints": 1.502,
+      "tipExpectedPoints": 1.523,
       "valueBet": {
-        "market": "Über/Unter 4.5 Tore",
-        "selection": "Unter 4.5",
+        "market": "1x2",
+        "selection": "Heimsieg",
         "bookmaker": "Tipico",
-        "bookmakerOdds": 1.83,
-        "ourProbability": 0.611,
-        "edgePct": 10.2
+        "bookmakerOdds": 10,
+        "ourProbability": 0.185,
+        "edgePct": 9
       },
       "homeForm": [
         "S",
