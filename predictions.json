@@ -2,7 +2,7 @@
   "season": 2026,
   "matchday": 4,
   "nextMatchday": 5,
-  "generatedAt": "2026-09-22T21:24:53.306Z",
+  "generatedAt": "2026-09-23T04:51:20.285Z",
   "eloRanking": [
     {
       "rank": 1,
@@ -143,9 +143,9 @@
       "homeTeam": "TSG Hoffenheim",
       "awayTeam": "Hamburger SV",
       "probabilities": {
-        "home": 0.617,
-        "draw": 0.192,
-        "away": 0.19
+        "home": 0.623,
+        "draw": 0.193,
+        "away": 0.185
       },
       "tip": "2:1",
       "tipExpectedPoints": 1.558,
@@ -235,9 +235,9 @@
         "market": "Über/Unter 3.5 Tore",
         "selection": "Unter 3.5",
         "bookmaker": "Tipico",
-        "bookmakerOdds": 1.67,
+        "bookmakerOdds": 1.7,
         "ourProbability": 0.693,
-        "edgePct": 13.6
+        "edgePct": 14.7
       },
       "homeForm": [
         "U",
