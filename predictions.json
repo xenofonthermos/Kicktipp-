@@ -2,7 +2,7 @@
   "season": 2026,
   "matchday": 4,
   "nextMatchday": 5,
-  "generatedAt": "2026-09-23T04:51:20.285Z",
+  "generatedAt": "2026-09-23T11:46:58.055Z",
   "eloRanking": [
     {
       "rank": 1,
@@ -307,9 +307,9 @@
       "homeTeam": "SC Paderborn 07",
       "awayTeam": "VfB Stuttgart",
       "probabilities": {
-        "home": 0.166,
+        "home": 0.17,
         "draw": 0.185,
-        "away": 0.649
+        "away": 0.645
       },
       "tip": "1:2",
       "tipExpectedPoints": 1.588,
