@@ -2,7 +2,7 @@
   "season": 2026,
   "matchday": 4,
   "nextMatchday": 5,
-  "generatedAt": "2026-09-24T11:56:34.560Z",
+  "generatedAt": "2026-09-24T17:17:20.635Z",
   "eloRanking": [
     {
       "rank": 1,
@@ -267,8 +267,8 @@
       "awayTeam": "SV 07 Elversberg",
       "probabilities": {
         "home": 0.541,
-        "draw": 0.212,
-        "away": 0.247
+        "draw": 0.215,
+        "away": 0.244
       },
       "tip": "2:1",
       "tipExpectedPoints": 1.382,

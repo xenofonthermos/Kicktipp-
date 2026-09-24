@@ -8,7 +8,7 @@ Erstellt am 2026-09-24. Elo-basierte Tippempfehlung für Kicktipp, ohne Gewähr 
 | Bundesliga | TSG Hoffenheim – Hamburger SV | 2:1 | 62% / 19% / 19% |
 | Bundesliga | FC Augsburg – FC Bayern München | 1:2 | 19% / 17% / 64% |
 | Bundesliga | 1. FSV Mainz 05 – Bayer 04 Leverkusen | 0:1 | 32% / 25% / 43% |
-| Bundesliga | 1. FC Union Berlin – SV 07 Elversberg | 2:1 | 54% / 21% / 25% |
+| Bundesliga | 1. FC Union Berlin – SV 07 Elversberg | 2:1 | 54% / 22% / 24% |
 | Bundesliga | SC Paderborn 07 – VfB Stuttgart | 1:2 | 17% / 19% / 65% |
 | Bundesliga | RB Leipzig – Eintracht Frankfurt | 2:1 | 56% / 21% / 23% |
 | Bundesliga | 1. FC Köln – Borussia Mönchengladbach | 1:0 | 46% / 24% / 30% |
