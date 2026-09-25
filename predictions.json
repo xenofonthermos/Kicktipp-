@@ -2,7 +2,7 @@
   "season": 2026,
   "matchday": 4,
   "nextMatchday": 5,
-  "generatedAt": "2026-09-25T05:04:15.088Z",
+  "generatedAt": "2026-09-25T11:57:27.155Z",
   "eloRanking": [
     {
       "rank": 1,
@@ -266,19 +266,19 @@
       "homeTeam": "1. FC Union Berlin",
       "awayTeam": "SV 07 Elversberg",
       "probabilities": {
-        "home": 0.541,
-        "draw": 0.215,
+        "home": 0.546,
+        "draw": 0.209,
         "away": 0.244
       },
       "tip": "2:1",
-      "tipExpectedPoints": 1.382,
+      "tipExpectedPoints": 1.42,
       "valueBet": {
         "market": "1x2",
         "selection": "Heimsieg",
         "bookmaker": "Tipico",
-        "bookmakerOdds": 2.2,
-        "ourProbability": 0.541,
-        "edgePct": 11.1
+        "bookmakerOdds": 2.15,
+        "ourProbability": 0.546,
+        "edgePct": 10.5
       },
       "homeForm": [
         "U",
