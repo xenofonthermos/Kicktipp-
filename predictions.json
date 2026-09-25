@@ -2,7 +2,7 @@
   "season": 2026,
   "matchday": 4,
   "nextMatchday": 5,
-  "generatedAt": "2026-09-25T17:17:39.278Z",
+  "generatedAt": "2026-09-25T21:39:17.672Z",
   "eloRanking": [
     {
       "rank": 1,
@@ -153,9 +153,9 @@
         "market": "Über/Unter 3.5 Tore",
         "selection": "Unter 3.5",
         "bookmaker": "Tipico",
-        "bookmakerOdds": 1.77,
+        "bookmakerOdds": 1.8,
         "ourProbability": 0.588,
-        "edgePct": 6.4
+        "edgePct": 7.1
       },
       "homeForm": [
         "N",
@@ -358,9 +358,9 @@
         "market": "Über/Unter 3.5 Tore",
         "selection": "Unter 3.5",
         "bookmaker": "Tipico",
-        "bookmakerOdds": 2,
+        "bookmakerOdds": 2.05,
         "ourProbability": 0.565,
-        "edgePct": 9.8
+        "edgePct": 11.1
       },
       "homeForm": [
         "S",
