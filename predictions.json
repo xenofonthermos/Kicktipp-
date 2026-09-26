@@ -2,7 +2,7 @@
   "season": 2026,
   "matchday": 4,
   "nextMatchday": 5,
-  "generatedAt": "2026-09-25T21:39:17.672Z",
+  "generatedAt": "2026-09-26T05:07:19.559Z",
   "eloRanking": [
     {
       "rank": 1,
@@ -102,9 +102,9 @@
       "homeTeam": "Borussia Dortmund",
       "awayTeam": "SV Werder Bremen",
       "probabilities": {
-        "home": 0.691,
-        "draw": 0.166,
-        "away": 0.143
+        "home": 0.69,
+        "draw": 0.165,
+        "away": 0.145
       },
       "tip": "2:1",
       "tipExpectedPoints": 1.685,
