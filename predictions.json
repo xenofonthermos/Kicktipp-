@@ -2,7 +2,7 @@
   "season": 2026,
   "matchday": 4,
   "nextMatchday": 5,
-  "generatedAt": "2026-09-27T05:25:03.300Z",
+  "generatedAt": "2026-09-27T12:10:18.180Z",
   "eloRanking": [
     {
       "rank": 1,
@@ -102,9 +102,9 @@
       "homeTeam": "Borussia Dortmund",
       "awayTeam": "SV Werder Bremen",
       "probabilities": {
-        "home": 0.69,
-        "draw": 0.165,
-        "away": 0.145
+        "home": 0.691,
+        "draw": 0.166,
+        "away": 0.143
       },
       "tip": "2:1",
       "tipExpectedPoints": 1.685,
@@ -266,19 +266,19 @@
       "homeTeam": "1. FC Union Berlin",
       "awayTeam": "SV 07 Elversberg",
       "probabilities": {
-        "home": 0.546,
-        "draw": 0.209,
+        "home": 0.541,
+        "draw": 0.215,
         "away": 0.244
       },
       "tip": "2:1",
-      "tipExpectedPoints": 1.42,
+      "tipExpectedPoints": 1.382,
       "valueBet": {
         "market": "1x2",
         "selection": "Heimsieg",
         "bookmaker": "Tipico",
-        "bookmakerOdds": 2.15,
-        "ourProbability": 0.546,
-        "edgePct": 10.5
+        "bookmakerOdds": 2.2,
+        "ourProbability": 0.541,
+        "edgePct": 11.1
       },
       "homeForm": [
         "U",
