@@ -1,6 +1,6 @@
 # Bundesliga-Prognose – Spieltag 4–5
 
-Erstellt am 2026-09-27. Elo-basierte Tippempfehlung für Kicktipp, ohne Gewähr – reiner Unterhaltungswert.
+Erstellt am 2026-09-28. Elo-basierte Tippempfehlung für Kicktipp, ohne Gewähr – reiner Unterhaltungswert.
 
 | Liga | Spiel | Tipp | Heim% / Remis% / Auswärts% |
 | --- | --- | --- | --- |
@@ -8,11 +8,11 @@ Erstellt am 2026-09-27. Elo-basierte Tippempfehlung für Kicktipp, ohne Gewähr 
 | Bundesliga | TSG Hoffenheim – Hamburger SV | 2:1 | 62% / 19% / 19% |
 | Bundesliga | FC Augsburg – FC Bayern München | 1:2 | 19% / 17% / 64% |
 | Bundesliga | 1. FSV Mainz 05 – Bayer 04 Leverkusen | 0:1 | 32% / 25% / 43% |
-| Bundesliga | 1. FC Union Berlin – SV 07 Elversberg | 2:1 | 55% / 21% / 24% |
+| Bundesliga | 1. FC Union Berlin – SV 07 Elversberg | 2:1 | 54% / 22% / 24% |
 | Bundesliga | SC Paderborn 07 – VfB Stuttgart | 1:2 | 17% / 18% / 65% |
 | Bundesliga | RB Leipzig – Eintracht Frankfurt | 2:1 | 56% / 21% / 23% |
 | Bundesliga | 1. FC Köln – Borussia Mönchengladbach | 1:0 | 46% / 24% / 30% |
-| Bundesliga | SC Freiburg – FC Schalke 04 | 1:0 | 70% / 18% / 13% |
+| Bundesliga | SC Freiburg – FC Schalke 04 | 1:0 | 69% / 18% / 13% |
 | 3. Liga | Fortuna Düsseldorf – SC Verl | 1:2 | 20% / 19% / 62% |
 
 ## Elo-Tabelle (Modellwert, keine offizielle Tabelle)
