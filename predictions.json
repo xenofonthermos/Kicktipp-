@@ -2,7 +2,7 @@
   "season": 2026,
   "matchday": 4,
   "nextMatchday": 5,
-  "generatedAt": "2026-09-28T14:07:10.418Z",
+  "generatedAt": "2026-09-28T23:20:44.903Z",
   "eloRanking": [
     {
       "rank": 1,
@@ -430,9 +430,9 @@
       "homeTeam": "SC Freiburg",
       "awayTeam": "FC Schalke 04",
       "probabilities": {
-        "home": 0.691,
+        "home": 0.687,
         "draw": 0.179,
-        "away": 0.13
+        "away": 0.134
       },
       "tip": "1:0",
       "tipExpectedPoints": 1.72,
@@ -440,9 +440,9 @@
         "market": "1x2",
         "selection": "Heimsieg",
         "bookmaker": "Tipico",
-        "bookmakerOdds": 1.6,
-        "ourProbability": 0.691,
-        "edgePct": 9.9
+        "bookmakerOdds": 1.62,
+        "ourProbability": 0.687,
+        "edgePct": 10.2
       },
       "homeForm": [
         "S",
