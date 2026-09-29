@@ -2,7 +2,7 @@
   "season": 2026,
   "matchday": 4,
   "nextMatchday": 5,
-  "generatedAt": "2026-09-29T05:50:22.777Z",
+  "generatedAt": "2026-09-29T13:01:51.817Z",
   "eloRanking": [
     {
       "rank": 1,
@@ -153,9 +153,9 @@
         "market": "Über/Unter 3.5 Tore",
         "selection": "Unter 3.5",
         "bookmaker": "Tipico",
-        "bookmakerOdds": 1.8,
+        "bookmakerOdds": 1.75,
         "ourProbability": 0.588,
-        "edgePct": 7.1
+        "edgePct": 5.8
       },
       "homeForm": [
         "N",
@@ -266,19 +266,19 @@
       "homeTeam": "1. FC Union Berlin",
       "awayTeam": "SV 07 Elversberg",
       "probabilities": {
-        "home": 0.546,
-        "draw": 0.209,
+        "home": 0.541,
+        "draw": 0.215,
         "away": 0.244
       },
       "tip": "2:1",
-      "tipExpectedPoints": 1.42,
+      "tipExpectedPoints": 1.382,
       "valueBet": {
         "market": "1x2",
         "selection": "Heimsieg",
         "bookmaker": "Tipico",
-        "bookmakerOdds": 2.15,
-        "ourProbability": 0.546,
-        "edgePct": 10.5
+        "bookmakerOdds": 2.2,
+        "ourProbability": 0.541,
+        "edgePct": 11.1
       },
       "homeForm": [
         "U",
@@ -307,19 +307,19 @@
       "homeTeam": "SC Paderborn 07",
       "awayTeam": "VfB Stuttgart",
       "probabilities": {
-        "home": 0.172,
-        "draw": 0.183,
-        "away": 0.645
+        "home": 0.166,
+        "draw": 0.185,
+        "away": 0.649
       },
       "tip": "1:2",
-      "tipExpectedPoints": 1.567,
+      "tipExpectedPoints": 1.588,
       "valueBet": {
-        "market": "1x2",
-        "selection": "Auswärtssieg",
+        "market": "Über/Unter 3.5 Tore",
+        "selection": "Unter 3.5",
         "bookmaker": "Tipico",
-        "bookmakerOdds": 1.57,
-        "ourProbability": 0.645,
-        "edgePct": 4.1
+        "bookmakerOdds": 1.85,
+        "ourProbability": 0.568,
+        "edgePct": 6.5
       },
       "homeForm": [
         "U",
