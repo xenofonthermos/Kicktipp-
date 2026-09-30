@@ -2,7 +2,7 @@
   "season": 2026,
   "matchday": 4,
   "nextMatchday": 5,
-  "generatedAt": "2026-09-29T22:21:43.213Z",
+  "generatedAt": "2026-09-30T05:40:26.136Z",
   "eloRanking": [
     {
       "rank": 1,
@@ -184,9 +184,9 @@
       "homeTeam": "FC Augsburg",
       "awayTeam": "FC Bayern München",
       "probabilities": {
-        "home": 0.187,
-        "draw": 0.17,
-        "away": 0.643
+        "home": 0.185,
+        "draw": 0.172,
+        "away": 0.644
       },
       "tip": "1:2",
       "tipExpectedPoints": 1.523,
@@ -194,9 +194,9 @@
         "market": "1x2",
         "selection": "Heimsieg",
         "bookmaker": "Tipico",
-        "bookmakerOdds": 9.5,
-        "ourProbability": 0.187,
-        "edgePct": 8.7
+        "bookmakerOdds": 10,
+        "ourProbability": 0.185,
+        "edgePct": 9
       },
       "homeForm": [
         "S",
@@ -389,8 +389,8 @@
       "homeTeam": "1. FC Köln",
       "awayTeam": "Borussia Mönchengladbach",
       "probabilities": {
-        "home": 0.458,
-        "draw": 0.246,
+        "home": 0.462,
+        "draw": 0.243,
         "away": 0.296
       },
       "tip": "1:0",
