@@ -2,7 +2,7 @@
   "season": 2026,
   "matchday": 5,
   "nextMatchday": 6,
-  "generatedAt": "2026-09-30T12:44:08.716Z",
+  "generatedAt": "2026-09-30T22:21:40.205Z",
   "eloRanking": [
     {
       "rank": 1,
@@ -102,9 +102,9 @@
       "homeTeam": "Borussia Dortmund",
       "awayTeam": "SV Werder Bremen",
       "probabilities": {
-        "home": 0.69,
-        "draw": 0.165,
-        "away": 0.145
+        "home": 0.691,
+        "draw": 0.166,
+        "away": 0.143
       },
       "tip": "2:1",
       "tipExpectedPoints": 1.685,
@@ -266,19 +266,19 @@
       "homeTeam": "1. FC Union Berlin",
       "awayTeam": "SV 07 Elversberg",
       "probabilities": {
-        "home": 0.541,
-        "draw": 0.215,
+        "home": 0.546,
+        "draw": 0.209,
         "away": 0.244
       },
       "tip": "2:1",
-      "tipExpectedPoints": 1.382,
+      "tipExpectedPoints": 1.42,
       "valueBet": {
         "market": "1x2",
         "selection": "Heimsieg",
         "bookmaker": "Tipico",
-        "bookmakerOdds": 2.2,
-        "ourProbability": 0.541,
-        "edgePct": 11.1
+        "bookmakerOdds": 2.15,
+        "ourProbability": 0.546,
+        "edgePct": 10.5
       },
       "homeForm": [
         "U",
@@ -563,9 +563,9 @@
         "market": "Über/Unter 3.5 Tore",
         "selection": "Unter 3.5",
         "bookmaker": "Tipico",
-        "bookmakerOdds": 1.87,
+        "bookmakerOdds": 1.8,
         "ourProbability": 0.65,
-        "edgePct": 15.3
+        "edgePct": 13.3
       },
       "homeForm": [
         "N",
@@ -799,19 +799,19 @@
       "homeTeam": "Borussia Mönchengladbach",
       "awayTeam": "TSG Hoffenheim",
       "probabilities": {
-        "home": 0.298,
-        "draw": 0.247,
-        "away": 0.455
+        "home": 0.306,
+        "draw": 0.244,
+        "away": 0.45
       },
-      "tip": "0:1",
-      "tipExpectedPoints": 1.205,
+      "tip": "1:2",
+      "tipExpectedPoints": 1.195,
       "valueBet": {
         "market": "Über/Unter 3.5 Tore",
         "selection": "Unter 3.5",
         "bookmaker": "Tipico",
         "bookmakerOdds": 1.83,
-        "ourProbability": 0.715,
-        "edgePct": 20.6
+        "ourProbability": 0.671,
+        "edgePct": 16.2
       },
       "homeForm": [
         "N",
