@@ -2,7 +2,7 @@
   "season": 2026,
   "matchday": 5,
   "nextMatchday": 6,
-  "generatedAt": "2026-10-01T14:38:30.154Z",
+  "generatedAt": "2026-10-01T23:51:35.228Z",
   "eloRanking": [
     {
       "rank": 1,
@@ -266,19 +266,19 @@
       "homeTeam": "1. FC Union Berlin",
       "awayTeam": "SV 07 Elversberg",
       "probabilities": {
-        "home": 0.546,
-        "draw": 0.209,
-        "away": 0.244
+        "home": 0.541,
+        "draw": 0.212,
+        "away": 0.247
       },
       "tip": "2:1",
-      "tipExpectedPoints": 1.42,
+      "tipExpectedPoints": 1.382,
       "valueBet": {
         "market": "1x2",
         "selection": "Heimsieg",
         "bookmaker": "Tipico",
-        "bookmakerOdds": 2.15,
-        "ourProbability": 0.546,
-        "edgePct": 10.5
+        "bookmakerOdds": 2.2,
+        "ourProbability": 0.541,
+        "edgePct": 11.1
       },
       "homeForm": [
         "U",
@@ -471,8 +471,8 @@
       "homeTeam": "Eintracht Frankfurt",
       "awayTeam": "1. FC Köln",
       "probabilities": {
-        "home": 0.565,
-        "draw": 0.202,
+        "home": 0.567,
+        "draw": 0.2,
         "away": 0.233
       },
       "tip": "2:1",
@@ -481,9 +481,9 @@
         "market": "1x2",
         "selection": "Heimsieg",
         "bookmaker": "Tipico",
-        "bookmakerOdds": 1.95,
-        "ourProbability": 0.565,
-        "edgePct": 7.8
+        "bookmakerOdds": 1.93,
+        "ourProbability": 0.567,
+        "edgePct": 7.6
       },
       "homeForm": [
         "U",
