@@ -73,7 +73,7 @@ test("computeValueBet: kein positiver Edge -> null", () => {
   assert.equal(computeValueBet([], matchOdds, ourProbabilities), null);
 });
 
-test("computeValueBet: findet positiven Edge im Über/Unter-Tore-Markt", () => {
+test("computeValueBet: Über/Unter-Markt nur mit includeTotals", () => {
   const grid = [
     { h: 1, a: 1, p: 0.3 },
     { h: 2, a: 1, p: 0.4 },
@@ -99,7 +99,10 @@ test("computeValueBet: findet positiven Edge im Über/Unter-Tore-Markt", () => {
     ],
   };
 
-  const result = computeValueBet(grid, matchOdds, { home: 0, draw: 0, away: 0 });
+  // Standardmäßig deaktiviert (Modellartefakt, siehe INCLUDE_TOTALS_MARKET).
+  assert.equal(computeValueBet(grid, matchOdds, { home: 0, draw: 0, away: 0 }), null);
+
+  const result = computeValueBet(grid, matchOdds, { home: 0, draw: 0, away: 0 }, { includeTotals: true });
 
   assert.equal(result.market, "Über/Unter 2.5 Tore");
   assert.equal(result.selection, "Über 2.5");

@@ -39,6 +39,15 @@ import {
   resolvePendingBets,
   summarizeTrackRecord,
 } from "./valueBetTrackRecord.js";
+import {
+  loadTipTrackRecord,
+  saveTipTrackRecord,
+  recordPendingTip,
+  resolvePendingTips,
+  summarizeTipTrackRecord,
+  baselineTips,
+} from "./tipTrackRecord.js";
+import { isBeforeKickoff, isInLineupWindow, kickoffUtc } from "./schedule.js";
 
 const FORTUNA_DUESSELDORF = "Fortuna Düsseldorf";
 
@@ -46,6 +55,20 @@ const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const OUTPUT_DIR = path.join(__dirname, "..", "output");
 const LINEUP_HISTORY_PATH = path.join(__dirname, "..", "data", "lineupHistory.json");
 const VALUE_BET_TRACK_RECORD_PATH = path.join(__dirname, "..", "data", "valueBetTrackRecord.json");
+const TIP_TRACK_RECORD_PATH = path.join(__dirname, "..", "data", "tipTrackRecord.json");
+
+// Highlightly-Tageslimit (100 Anfragen): Nachträgliches Erfassen von Aufstellungen bereits beendeter
+// Spiele (Aufbau der Stammspieler-Historie) nur Mo–Do und max. 8 Spiele je Lauf, damit an
+// Spieltagen das Kontingent für die Aufstellungs-Läufe vor Anpfiff frei bleibt.
+const LINEUP_CATCH_UP_MAX_PER_RUN = 8;
+const LINEUP_CATCH_UP_WEEKDAYS_UTC = [1, 2, 3, 4];
+
+// Lädt erst beim ersten Bedarf und merkt sich das Ergebnis (spart Highlightly-Anfragen, wenn kein
+// Spiel im Aufstellungs-Fenster liegt).
+function lazy(loader) {
+  let promise = null;
+  return () => (promise ??= loader());
+}
 
 function currentSeasonStartYear(referenceDate = new Date()) {
   // Bundesliga-Saison startet im Sommer; OpenLigaDB zählt die Saison nach dem Startjahr.
@@ -127,7 +150,9 @@ export function filterUnplayedMatches(matches) {
 
 // Trägt die Value-Bet-Empfehlung für ein Spiel in die Erfolgsbilanz ein (oder entfernt sie
 // wieder, falls der Edge in diesem Lauf verschwunden ist — siehe valueBetTrackRecord.js).
+// Nur vor Anpfiff: während des Spiels liefert die Odds-API Live-Quoten, die die Bilanz verfälschen würden.
 function updateTrackRecordForMatch(trackRecord, match, prediction, recordedAt) {
+  if (!isBeforeKickoff(match, new Date(recordedAt))) return trackRecord;
   if (prediction.valueBet) {
     return recordPendingBet(trackRecord, match.matchID, {
       league: prediction.league,
@@ -141,6 +166,45 @@ function updateTrackRecordForMatch(trackRecord, match, prediction, recordedAt) {
   return removePendingBet(trackRecord, match.matchID);
 }
 
+// Trägt den Kicktipp-Tipp samt Schatten-Strategien in die Kicktipp-Bilanz ein (nur vor Anpfiff).
+function updateTipRecordForMatch(tipRecord, match, prediction, recordedAt) {
+  if (!isBeforeKickoff(match, new Date(recordedAt))) return tipRecord;
+  return recordPendingTip(tipRecord, match.matchID, {
+    league: prediction.league,
+    homeTeam: prediction.homeTeam,
+    awayTeam: prediction.awayTeam,
+    kickoffUtc: kickoffUtc(match).toISOString(),
+    tip: prediction.tip,
+    probabilities: prediction.probabilities,
+    baselines: baselineTips(prediction.probabilities),
+    recordedAt,
+  });
+}
+
+// Baut die Stammspieler-Historie aus Aufstellungen bereits beendeter Spiele auf, die vor Anpfiff
+// nicht erfasst wurden (neueste zuerst). Ohne Historie bleibt der Aufstellungs-Abgleich wirkungslos.
+async function catchUpLineupHistory(finishedMatches, lineupStore, getHighlightlyMatches, now) {
+  if (!LINEUP_CATCH_UP_WEEKDAYS_UTC.includes(now.getUTCDay())) return lineupStore;
+  const highlightlyMatches = await getHighlightlyMatches();
+  if (!highlightlyMatches) return lineupStore;
+
+  let store = lineupStore;
+  let fetched = 0;
+  const newestFirst = [...finishedMatches].sort((a, b) => kickoffUtc(b) - kickoffUtc(a));
+  for (const match of newestFirst) {
+    if (fetched >= LINEUP_CATCH_UP_MAX_PER_RUN) break;
+    const homeTeam = match.team1.teamName;
+    const awayTeam = match.team2.teamName;
+    const highlightlyMatchId = findMatchId(highlightlyMatches, homeTeam, awayTeam);
+    if (highlightlyMatchId == null || store.processedMatchIds.includes(highlightlyMatchId)) continue;
+    fetched++;
+    const lineup = await fetchLineup(highlightlyMatchId);
+    if (lineup) store = recordLineup(store, highlightlyMatchId, homeTeam, awayTeam, lineup);
+  }
+  if (fetched > 0) console.log(`Stammspieler-Historie: ${fetched} Aufstellung(en) nachträglich abgefragt.`);
+  return store;
+}
+
 // Rangliste über alle Teams der laufenden Saison nach Elo-Rating (nicht die offizielle Tabelle).
 function buildEloRanking(currentSeasonTable, ratings) {
   return currentSeasonTable
@@ -152,14 +216,19 @@ function buildEloRanking(currentSeasonTable, ratings) {
 // Verarbeitet ein Spiel: Aufstellung best-effort abrufen, Stammspieler-Abgleich, Elo-Anpassung,
 // Kicktipp-EV-Tipp, Value-Bet, Team-Form. Gibt die Prognose sowie den (ggf. aktualisierten)
 // Lineup-Verlauf zurück, damit dieser sequentiell durch alle Spiele des Laufs weitergereicht wird.
-async function predictMatch(ratings, match, oddsEvents, highlightlyMatches, lineupStore, finishedMatches, league) {
+async function predictMatch(ratings, match, oddsEvents, getHighlightlyMatches, lineupStore, finishedMatches, league, now) {
   const homeTeam = match.team1.teamName;
   const awayTeam = match.team2.teamName;
   const ratingHome = ratingFor(ratings, homeTeam);
   const ratingAway = ratingFor(ratings, awayTeam);
 
-  const highlightlyMatchId = findMatchId(highlightlyMatches, homeTeam, awayTeam);
-  const lineup = await fetchLineup(highlightlyMatchId);
+  // Aufstellungen gibt es erst ~75 Min. vor Anpfiff — außerhalb des Fensters kein Abruf (Kontingent).
+  let highlightlyMatchId = null;
+  let lineup = null;
+  if (isInLineupWindow(match, now)) {
+    highlightlyMatchId = findMatchId(await getHighlightlyMatches(), homeTeam, awayTeam);
+    lineup = await fetchLineup(highlightlyMatchId);
+  }
 
   const homeRegulars = identifyRegulars(lineupStore, homeTeam);
   const awayRegulars = identifyRegulars(lineupStore, awayTeam);
@@ -216,7 +285,7 @@ async function predictMatch(ratings, match, oddsEvents, highlightlyMatches, line
   return { prediction, nextStore };
 }
 
-function toMarkdown(matchday, nextMatchday, predictions, eloRanking, valueBetTrackRecord) {
+function toMarkdown(matchday, nextMatchday, predictions, eloRanking, valueBetTrackRecord, tipTrackRecord) {
   const matchdayLabel = nextMatchday != null ? `${matchday}–${nextMatchday}` : `${matchday}`;
   const matchRows = predictions
     .map(
@@ -235,6 +304,13 @@ function toMarkdown(matchday, nextMatchday, predictions, eloRanking, valueBetTra
         `${valueBetTrackRecord.wins} von ${valueBetTrackRecord.resolvedBets} richtig, Bilanz ${valueBetTrackRecord.profitUnits >= 0 ? "+" : ""}${valueBetTrackRecord.profitUnits} Einheiten (${valueBetTrackRecord.roiPercent}% ROI bei 1 Einheit Einsatz je Tipp). Reine Information, keine Wettempfehlung — siehe RISKS.md.\n`
       : `## Tipico-Erfolgsbilanz\n\nNoch keine ausgewerteten Wett-Tipps.\n`;
 
+  const tipSection =
+    tipTrackRecord.resolvedTips > 0
+      ? `## Kicktipp-Bilanz (bisher ausgewertete Tipps)\n\n` +
+        `${tipTrackRecord.points} Punkte aus ${tipTrackRecord.resolvedTips} Spielen (Ø ${tipTrackRecord.avgPoints} je Spiel). ` +
+        `Vergleich: ${Object.values(tipTrackRecord.baselines).map((b) => `${b.label} Ø ${b.avgPoints}`).join(", ")}.\n\n`
+      : `## Kicktipp-Bilanz\n\nNoch keine ausgewerteten Tipps.\n\n`;
+
   return `# Bundesliga-Prognose – Spieltag ${matchdayLabel}\n\n` +
     `Erstellt am ${new Date().toISOString().slice(0, 10)}. Elo-basierte Tippempfehlung für Kicktipp, ohne Gewähr – reiner Unterhaltungswert.\n\n` +
     `| Liga | Spiel | Tipp | Heim% / Remis% / Auswärts% |\n` +
@@ -244,6 +320,7 @@ function toMarkdown(matchday, nextMatchday, predictions, eloRanking, valueBetTra
     `| Rang | Team | Rating |\n` +
     `| --- | --- | --- |\n` +
     `${rankingRows}\n\n` +
+    `${tipSection}` +
     `${trackRecordSection}`;
 }
 
@@ -268,9 +345,11 @@ async function main() {
   const hasNextMatchday = fullNextMatchdayMatches.length > 0;
 
   const oddsEvents = await fetchBundesligaOdds();
-  const highlightlyMatches = await fetchHighlightlyMatches(season);
+  const now = new Date(generatedAt);
+  const getHighlightlyMatches = lazy(() => fetchHighlightlyMatches(season));
   let lineupStore = await loadStore(LINEUP_HISTORY_PATH);
   let trackRecord = await loadTrackRecord(VALUE_BET_TRACK_RECORD_PATH);
+  let tipRecord = await loadTipTrackRecord(TIP_TRACK_RECORD_PATH);
 
   const predictions = [];
   for (const match of [...matchdayMatches, ...nextMatchdayMatches]) {
@@ -278,14 +357,16 @@ async function main() {
       ratings,
       match,
       oddsEvents,
-      highlightlyMatches,
+      getHighlightlyMatches,
       lineupStore,
       finishedMatches,
-      "Bundesliga"
+      "Bundesliga",
+      now
     );
     predictions.push(prediction);
     lineupStore = nextStore;
     trackRecord = updateTrackRecordForMatch(trackRecord, match, prediction, generatedAt);
+    tipRecord = updateTipRecordForMatch(tipRecord, match, prediction, generatedAt);
   }
 
   // Fortuna Düsseldorf (3. Liga) läuft in derselben Kicktipp-Runde mit — eigener Elo-Pool
@@ -305,23 +386,26 @@ async function main() {
   const fortunaWindowEnd = extendWindowToInclude(bundesligaWindowEnd, fortunaNextMatch);
   const fortunaMatches = findUpcomingMatches(seasonMatches3Liga, FORTUNA_DUESSELDORF, fortunaWindowEnd);
   if (fortunaMatches.length > 0) {
-    const highlightlyMatches3Liga = await fetchHighlightlyMatches(season, LEAGUE_3_LIGA_ID);
+    const getHighlightlyMatches3Liga = lazy(() => fetchHighlightlyMatches(season, LEAGUE_3_LIGA_ID));
     for (const fortunaMatch of fortunaMatches) {
       const { prediction, nextStore } = await predictMatch(
         ratings3Liga,
         fortunaMatch,
         oddsEvents,
-        highlightlyMatches3Liga,
+        getHighlightlyMatches3Liga,
         lineupStore,
         finishedMatches3Liga,
-        "3. Liga"
+        "3. Liga",
+        now
       );
       predictions.push(prediction);
       lineupStore = nextStore;
       trackRecord = updateTrackRecordForMatch(trackRecord, fortunaMatch, prediction, generatedAt);
+      tipRecord = updateTipRecordForMatch(tipRecord, fortunaMatch, prediction, generatedAt);
     }
   }
 
+  lineupStore = await catchUpLineupHistory(finishedMatches, lineupStore, getHighlightlyMatches, now);
   await saveStore(LINEUP_HISTORY_PATH, lineupStore);
 
   // Erfolgsbilanz: entscheidet alle offenen Wetten, deren Spiel inzwischen (auch außerhalb der
@@ -333,6 +417,9 @@ async function main() {
   trackRecord = resolvePendingBets(trackRecord, finishedScoresByMatchId);
   await saveTrackRecord(VALUE_BET_TRACK_RECORD_PATH, trackRecord);
   const valueBetTrackRecord = summarizeTrackRecord(trackRecord);
+  tipRecord = resolvePendingTips(tipRecord, finishedScoresByMatchId);
+  await saveTipTrackRecord(TIP_TRACK_RECORD_PATH, tipRecord);
+  const tipTrackRecord = summarizeTipTrackRecord(tipRecord);
 
   const nextMatchday = hasNextMatchday ? nextGroupOrderId : null;
 
@@ -348,6 +435,7 @@ async function main() {
         eloRanking,
         matches: predictions,
         valueBetTrackRecord,
+        tipTrackRecord,
       },
       null,
       2
@@ -355,7 +443,7 @@ async function main() {
   );
   await writeFile(
     path.join(OUTPUT_DIR, "predictions.md"),
-    toMarkdown(currentGroup.groupOrderID, nextMatchday, predictions, eloRanking, valueBetTrackRecord)
+    toMarkdown(currentGroup.groupOrderID, nextMatchday, predictions, eloRanking, valueBetTrackRecord, tipTrackRecord)
   );
 
   const matchdayLabel = nextMatchday != null ? `${currentGroup.groupOrderID}+${nextMatchday}` : `${currentGroup.groupOrderID}`;

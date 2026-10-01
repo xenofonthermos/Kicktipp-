@@ -17,10 +17,16 @@ export function outcomePrice(market, name) {
   return market?.outcomes?.find((outcome) => outcome.name === name)?.price ?? null;
 }
 
-// Vergleicht unsere Modell-Wahrscheinlichkeit (1x2 + Über/Unter-Tore) mit den entmarginalisierten
+// Über/Unter seit 2026-10-01 deaktiviert: Die Poisson-λ werden nur an die 1x2-Wahrscheinlichkeit
+// kalibriert (calibrateLambdas), die Torsumme ist dadurch implizit und nicht am Markt ausgerichtet.
+// Die Ü/U-"Edges" waren Modellartefakte (29 von 36 Wetten, −12,25 Einheiten, fast nur "Unter").
+// Erst wieder aktivieren, wenn die λ-Summe an der Ü/U-Marktlinie kalibriert wird.
+export const INCLUDE_TOTALS_MARKET = false;
+
+// Vergleicht unsere Modell-Wahrscheinlichkeit (1x2, optional Über/Unter-Tore) mit den entmarginalisierten
 // Buchmacher-Quoten. Gibt die Auswahl mit dem größten positiven Edge zurück, sonst null
 // (keine Quoten, kein passendes Spiel gefunden, oder kein positiver Edge vorhanden).
-export function computeValueBet(grid, matchOdds, ourProbabilities) {
+export function computeValueBet(grid, matchOdds, ourProbabilities, { includeTotals = INCLUDE_TOTALS_MARKET } = {}) {
   if (!matchOdds) return null;
 
   const bookmaker =
@@ -40,7 +46,7 @@ export function computeValueBet(grid, matchOdds, ourProbabilities) {
     candidates.push({ market: "1x2", selection: "Auswärtssieg", ourProbability: ourProbabilities.away, impliedProbability: impliedAway, bookmakerOdds: awayOdds });
   }
 
-  const totals = findMarket(bookmaker, "totals");
+  const totals = includeTotals ? findMarket(bookmaker, "totals") : null;
   const overOutcome = totals?.outcomes?.find((o) => o.name === "Over");
   const underOutcome = totals?.outcomes?.find((o) => o.name === "Under");
   if (overOutcome && underOutcome && overOutcome.point === underOutcome.point) {

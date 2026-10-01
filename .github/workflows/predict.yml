@@ -2,13 +2,19 @@ name: Prognose aktualisieren
 
 on:
   schedule:
-    # 4x täglich (00:17, 06:17, 12:17, 18:17 UTC). Bewusst nicht öfter: Highlightly erlaubt nur
-    # 100 Anfragen/Tag kostenlos, ein Lauf verbraucht ca. 15-20 (Season-Matches + Lineups je Spiel).
-    - cron: "17 */6 * * *"
+    # Alle 15 Min. eine kostenlose Vorprüfung (src/gate.js, nur OpenLigaDB). Gerechnet wird nur,
+    # wenn 10–70 Min. vor einem Anstoß (Aufstellungs-Lauf, max. alle 25 Min.) oder wenn der letzte
+    # Lauf mehr als ~6 Std. her ist. Hält Odds-API (500/Monat) und Highlightly (100/Tag) im Rahmen.
+    - cron: "7,22,37,52 * * * *"
   workflow_dispatch: {}
 
 permissions:
   contents: write
+
+# Keine überlappenden Läufe (sonst Push-Konflikte auf predictions.json/data).
+concurrency:
+  group: predict
+  cancel-in-progress: false
 
 jobs:
   predict:
@@ -22,11 +28,18 @@ jobs:
         with:
           node-version: "24"
 
+      - name: Vorprüfung (Lauf nötig?)
+        id: gate
+        working-directory: app
+        run: node src/gate.js ../predictions.json ${{ github.event_name == 'workflow_dispatch' && '--manual' || '' }}
+
       - name: Tests ausführen
+        if: steps.gate.outputs.run == 'true'
         working-directory: app
         run: npm test
 
       - name: Prognose berechnen
+        if: steps.gate.outputs.run == 'true'
         working-directory: app
         env:
           ODDS_API_KEY: ${{ secrets.ODDS_API_KEY }}
@@ -34,15 +47,17 @@ jobs:
         run: node src/predict.js
 
       - name: Ergebnis veröffentlichen
+        if: steps.gate.outputs.run == 'true'
         run: |
           cp app/output/predictions.json predictions.json
           cp app/output/predictions.md predictions.md
           git config user.name "kicktipp-prognose-bot"
           git config user.email "actions@users.noreply.github.com"
-          git add predictions.json predictions.md app/data/lineupHistory.json app/data/valueBetTrackRecord.json
+          git add predictions.json predictions.md app/data/lineupHistory.json app/data/valueBetTrackRecord.json app/data/tipTrackRecord.json
           if git diff --cached --quiet; then
             echo "Keine Änderungen, nichts zu committen."
           else
             git commit -m "Automatische Prognose-Aktualisierung ($(date -u +%Y-%m-%dT%H:%M:%SZ))"
+            git pull --rebase
             git push
           fi
