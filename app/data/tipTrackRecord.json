@@ -18,7 +18,13 @@
       "recordedAt": "2026-08-09T19:57:50.514Z",
       "backfilled": true,
       "matchId": 83156,
-      "status": "pending"
+      "status": "resolved",
+      "actualScore": "5:1",
+      "points": 2,
+      "baselinePoints": {
+        "immer21": 2,
+        "favorit": 2
+      }
     },
     "83157": {
       "league": "Bundesliga",
@@ -38,7 +44,13 @@
       "recordedAt": "2026-08-09T19:57:50.514Z",
       "backfilled": true,
       "matchId": 83157,
-      "status": "pending"
+      "status": "resolved",
+      "actualScore": "2:0",
+      "points": 2,
+      "baselinePoints": {
+        "immer21": 2,
+        "favorit": 2
+      }
     },
     "83158": {
       "league": "Bundesliga",
@@ -58,7 +70,13 @@
       "recordedAt": "2026-08-09T19:57:50.514Z",
       "backfilled": true,
       "matchId": 83158,
-      "status": "pending"
+      "status": "resolved",
+      "actualScore": "3:0",
+      "points": 2,
+      "baselinePoints": {
+        "immer21": 2,
+        "favorit": 2
+      }
     },
     "83159": {
       "league": "Bundesliga",
@@ -78,7 +96,13 @@
       "recordedAt": "2026-08-30T10:02:18.488Z",
       "backfilled": true,
       "matchId": 83159,
-      "status": "pending"
+      "status": "resolved",
+      "actualScore": "4:1",
+      "points": 2,
+      "baselinePoints": {
+        "immer21": 2,
+        "favorit": 2
+      }
     },
     "83160": {
       "league": "Bundesliga",
@@ -98,7 +122,13 @@
       "recordedAt": "2026-08-30T10:02:18.488Z",
       "backfilled": true,
       "matchId": 83160,
-      "status": "pending"
+      "status": "resolved",
+      "actualScore": "3:0",
+      "points": 2,
+      "baselinePoints": {
+        "immer21": 2,
+        "favorit": 2
+      }
     },
     "83161": {
       "league": "Bundesliga",
@@ -118,7 +148,13 @@
       "recordedAt": "2026-08-09T19:57:50.514Z",
       "backfilled": true,
       "matchId": 83161,
-      "status": "pending"
+      "status": "resolved",
+      "actualScore": "0:0",
+      "points": 0,
+      "baselinePoints": {
+        "immer21": 0,
+        "favorit": 0
+      }
     },
     "83162": {
       "league": "Bundesliga",
@@ -138,7 +174,13 @@
       "recordedAt": "2026-08-09T19:57:50.514Z",
       "backfilled": true,
       "matchId": 83162,
-      "status": "pending"
+      "status": "resolved",
+      "actualScore": "3:3",
+      "points": 0,
+      "baselinePoints": {
+        "immer21": 0,
+        "favorit": 0
+      }
     },
     "83163": {
       "league": "Bundesliga",
@@ -158,7 +200,13 @@
       "recordedAt": "2026-08-09T19:57:50.514Z",
       "backfilled": true,
       "matchId": 83163,
-      "status": "pending"
+      "status": "resolved",
+      "actualScore": "3:2",
+      "points": 0,
+      "baselinePoints": {
+        "immer21": 3,
+        "favorit": 0
+      }
     },
     "83164": {
       "league": "Bundesliga",
@@ -178,7 +226,13 @@
       "recordedAt": "2026-08-09T19:57:50.514Z",
       "backfilled": true,
       "matchId": 83164,
-      "status": "pending"
+      "status": "resolved",
+      "actualScore": "3:2",
+      "points": 0,
+      "baselinePoints": {
+        "immer21": 3,
+        "favorit": 0
+      }
     },
     "83165": {
       "league": "Bundesliga",
@@ -198,7 +252,13 @@
       "recordedAt": "2026-09-04T16:26:55.362Z",
       "backfilled": true,
       "matchId": 83165,
-      "status": "pending"
+      "status": "resolved",
+      "actualScore": "4:1",
+      "points": 2,
+      "baselinePoints": {
+        "immer21": 2,
+        "favorit": 2
+      }
     },
     "83166": {
       "league": "Bundesliga",
@@ -218,7 +278,13 @@
       "recordedAt": "2026-09-05T10:42:43.339Z",
       "backfilled": true,
       "matchId": 83166,
-      "status": "pending"
+      "status": "resolved",
+      "actualScore": "2:3",
+      "points": 3,
+      "baselinePoints": {
+        "immer21": 0,
+        "favorit": 3
+      }
     },
     "83167": {
       "league": "Bundesliga",
@@ -238,7 +304,13 @@
       "recordedAt": "2026-09-05T10:42:43.339Z",
       "backfilled": true,
       "matchId": 83167,
-      "status": "pending"
+      "status": "resolved",
+      "actualScore": "4:0",
+      "points": 2,
+      "baselinePoints": {
+        "immer21": 2,
+        "favorit": 2
+      }
     },
     "83168": {
       "league": "Bundesliga",
@@ -258,7 +330,13 @@
       "recordedAt": "2026-09-06T11:04:09.264Z",
       "backfilled": true,
       "matchId": 83168,
-      "status": "pending"
+      "status": "resolved",
+      "actualScore": "1:4",
+      "points": 0,
+      "baselinePoints": {
+        "immer21": 0,
+        "favorit": 0
+      }
     },
     "83169": {
       "league": "Bundesliga",
@@ -278,7 +356,13 @@
       "recordedAt": "2026-09-05T10:42:43.339Z",
       "backfilled": true,
       "matchId": 83169,
-      "status": "pending"
+      "status": "resolved",
+      "actualScore": "3:4",
+      "points": 0,
+      "baselinePoints": {
+        "immer21": 0,
+        "favorit": 0
+      }
     },
     "83170": {
       "league": "Bundesliga",
@@ -298,7 +382,13 @@
       "recordedAt": "2026-09-06T11:04:09.264Z",
       "backfilled": true,
       "matchId": 83170,
-      "status": "pending"
+      "status": "resolved",
+      "actualScore": "0:5",
+      "points": 0,
+      "baselinePoints": {
+        "immer21": 0,
+        "favorit": 2
+      }
     },
     "83171": {
       "league": "Bundesliga",
@@ -318,7 +408,13 @@
       "recordedAt": "2026-09-05T10:42:43.339Z",
       "backfilled": true,
       "matchId": 83171,
-      "status": "pending"
+      "status": "resolved",
+      "actualScore": "3:1",
+      "points": 0,
+      "baselinePoints": {
+        "immer21": 2,
+        "favorit": 0
+      }
     },
     "83172": {
       "league": "Bundesliga",
@@ -338,7 +434,13 @@
       "recordedAt": "2026-09-05T15:19:20.548Z",
       "backfilled": true,
       "matchId": 83172,
-      "status": "pending"
+      "status": "resolved",
+      "actualScore": "0:0",
+      "points": 0,
+      "baselinePoints": {
+        "immer21": 0,
+        "favorit": 0
+      }
     },
     "83173": {
       "league": "Bundesliga",
@@ -358,7 +460,13 @@
       "recordedAt": "2026-09-05T10:42:43.339Z",
       "backfilled": true,
       "matchId": 83173,
-      "status": "pending"
+      "status": "resolved",
+      "actualScore": "0:1",
+      "points": 3,
+      "baselinePoints": {
+        "immer21": 0,
+        "favorit": 3
+      }
     },
     "83174": {
       "league": "Bundesliga",
@@ -378,7 +486,13 @@
       "recordedAt": "2026-09-12T10:54:39.377Z",
       "backfilled": true,
       "matchId": 83174,
-      "status": "pending"
+      "status": "resolved",
+      "actualScore": "3:0",
+      "points": 2,
+      "baselinePoints": {
+        "immer21": 2,
+        "favorit": 2
+      }
     },
     "83175": {
       "league": "Bundesliga",
@@ -398,7 +512,13 @@
       "recordedAt": "2026-09-13T11:59:35.198Z",
       "backfilled": true,
       "matchId": 83175,
-      "status": "pending"
+      "status": "resolved",
+      "actualScore": "5:0",
+      "points": 2,
+      "baselinePoints": {
+        "immer21": 2,
+        "favorit": 2
+      }
     },
     "83176": {
       "league": "Bundesliga",
@@ -418,7 +538,13 @@
       "recordedAt": "2026-09-12T10:54:39.377Z",
       "backfilled": true,
       "matchId": 83176,
-      "status": "pending"
+      "status": "resolved",
+      "actualScore": "2:1",
+      "points": 0,
+      "baselinePoints": {
+        "immer21": 4,
+        "favorit": 4
+      }
     },
     "83177": {
       "league": "Bundesliga",
@@ -438,7 +564,13 @@
       "recordedAt": "2026-09-12T10:54:39.377Z",
       "backfilled": true,
       "matchId": 83177,
-      "status": "pending"
+      "status": "resolved",
+      "actualScore": "5:0",
+      "points": 2,
+      "baselinePoints": {
+        "immer21": 2,
+        "favorit": 2
+      }
     },
     "83178": {
       "league": "Bundesliga",
@@ -458,7 +590,13 @@
       "recordedAt": "2026-09-12T10:54:39.377Z",
       "backfilled": true,
       "matchId": 83178,
-      "status": "pending"
+      "status": "resolved",
+      "actualScore": "2:2",
+      "points": 0,
+      "baselinePoints": {
+        "immer21": 0,
+        "favorit": 0
+      }
     },
     "83179": {
       "league": "Bundesliga",
@@ -478,7 +616,13 @@
       "recordedAt": "2026-09-12T10:54:39.377Z",
       "backfilled": true,
       "matchId": 83179,
-      "status": "pending"
+      "status": "resolved",
+      "actualScore": "1:3",
+      "points": 0,
+      "baselinePoints": {
+        "immer21": 0,
+        "favorit": 0
+      }
     },
     "83180": {
       "league": "Bundesliga",
@@ -498,7 +642,13 @@
       "recordedAt": "2026-09-11T16:34:13.356Z",
       "backfilled": true,
       "matchId": 83180,
-      "status": "pending"
+      "status": "resolved",
+      "actualScore": "1:3",
+      "points": 0,
+      "baselinePoints": {
+        "immer21": 0,
+        "favorit": 0
+      }
     },
     "83181": {
       "league": "Bundesliga",
@@ -518,7 +668,13 @@
       "recordedAt": "2026-09-12T15:36:25.098Z",
       "backfilled": true,
       "matchId": 83181,
-      "status": "pending"
+      "status": "resolved",
+      "actualScore": "1:1",
+      "points": 0,
+      "baselinePoints": {
+        "immer21": 0,
+        "favorit": 0
+      }
     },
     "83182": {
       "league": "Bundesliga",
@@ -538,7 +694,13 @@
       "recordedAt": "2026-09-13T11:59:35.198Z",
       "backfilled": true,
       "matchId": 83182,
-      "status": "pending"
+      "status": "resolved",
+      "actualScore": "1:2",
+      "points": 2,
+      "baselinePoints": {
+        "immer21": 0,
+        "favorit": 4
+      }
     },
     "83183": {
       "league": "Bundesliga",
@@ -558,7 +720,13 @@
       "recordedAt": "2026-09-18T16:30:39.001Z",
       "backfilled": true,
       "matchId": 83183,
-      "status": "pending"
+      "status": "resolved",
+      "actualScore": "7:0",
+      "points": 2,
+      "baselinePoints": {
+        "immer21": 2,
+        "favorit": 2
+      }
     },
     "83184": {
       "league": "Bundesliga",
@@ -578,7 +746,13 @@
       "recordedAt": "2026-09-19T15:56:20.230Z",
       "backfilled": true,
       "matchId": 83184,
-      "status": "pending"
+      "status": "resolved",
+      "actualScore": "0:1",
+      "points": 4,
+      "baselinePoints": {
+        "immer21": 0,
+        "favorit": 0
+      }
     },
     "83185": {
       "league": "Bundesliga",
@@ -598,7 +772,13 @@
       "recordedAt": "2026-09-20T11:33:02.176Z",
       "backfilled": true,
       "matchId": 83185,
-      "status": "pending"
+      "status": "resolved",
+      "actualScore": "2:0",
+      "points": 2,
+      "baselinePoints": {
+        "immer21": 2,
+        "favorit": 2
+      }
     },
     "83186": {
       "league": "Bundesliga",
@@ -618,7 +798,13 @@
       "recordedAt": "2026-09-19T11:08:42.775Z",
       "backfilled": true,
       "matchId": 83186,
-      "status": "pending"
+      "status": "resolved",
+      "actualScore": "2:2",
+      "points": 0,
+      "baselinePoints": {
+        "immer21": 0,
+        "favorit": 0
+      }
     },
     "83187": {
       "league": "Bundesliga",
@@ -638,7 +824,13 @@
       "recordedAt": "2026-09-19T11:08:42.775Z",
       "backfilled": true,
       "matchId": 83187,
-      "status": "pending"
+      "status": "resolved",
+      "actualScore": "3:4",
+      "points": 3,
+      "baselinePoints": {
+        "immer21": 0,
+        "favorit": 3
+      }
     },
     "83188": {
       "league": "Bundesliga",
@@ -658,7 +850,13 @@
       "recordedAt": "2026-09-19T11:08:42.775Z",
       "backfilled": true,
       "matchId": 83188,
-      "status": "pending"
+      "status": "resolved",
+      "actualScore": "2:1",
+      "points": 3,
+      "baselinePoints": {
+        "immer21": 4,
+        "favorit": 4
+      }
     },
     "83189": {
       "league": "Bundesliga",
@@ -678,7 +876,13 @@
       "recordedAt": "2026-09-19T11:08:42.775Z",
       "backfilled": true,
       "matchId": 83189,
-      "status": "pending"
+      "status": "resolved",
+      "actualScore": "3:2",
+      "points": 0,
+      "baselinePoints": {
+        "immer21": 3,
+        "favorit": 3
+      }
     },
     "83190": {
       "league": "Bundesliga",
@@ -698,7 +902,13 @@
       "recordedAt": "2026-09-20T11:33:02.176Z",
       "backfilled": true,
       "matchId": 83190,
-      "status": "pending"
+      "status": "resolved",
+      "actualScore": "0:0",
+      "points": 0,
+      "baselinePoints": {
+        "immer21": 0,
+        "favorit": 0
+      }
     },
     "83191": {
       "league": "Bundesliga",
@@ -718,7 +928,13 @@
       "recordedAt": "2026-09-20T16:13:31.831Z",
       "backfilled": true,
       "matchId": 83191,
-      "status": "pending"
+      "status": "resolved",
+      "actualScore": "3:1",
+      "points": 0,
+      "baselinePoints": {
+        "immer21": 2,
+        "favorit": 0
+      }
     },
     "83192": {
       "league": "Bundesliga",
@@ -727,16 +943,15 @@
       "kickoffUtc": "2026-10-09T18:30:00.000Z",
       "tip": "2:1",
       "probabilities": {
-        "home": 0.691,
-        "draw": 0.166,
-        "away": 0.143
+        "home": 0.69,
+        "draw": 0.165,
+        "away": 0.145
       },
       "baselines": {
         "immer21": "2:1",
         "favorit": "2:1"
       },
-      "recordedAt": "2026-10-01T06:05:48.720Z",
-      "backfilled": true,
+      "recordedAt": "2026-10-01T14:38:30.154Z",
       "matchId": 83192,
       "status": "pending"
     },
@@ -755,8 +970,7 @@
         "immer21": "2:1",
         "favorit": "2:1"
       },
-      "recordedAt": "2026-10-01T06:05:48.720Z",
-      "backfilled": true,
+      "recordedAt": "2026-10-01T14:38:30.154Z",
       "matchId": 83193,
       "status": "pending"
     },
@@ -775,8 +989,7 @@
         "immer21": "2:1",
         "favorit": "2:1"
       },
-      "recordedAt": "2026-10-01T06:05:48.720Z",
-      "backfilled": true,
+      "recordedAt": "2026-10-01T14:38:30.154Z",
       "matchId": 83194,
       "status": "pending"
     },
@@ -795,8 +1008,7 @@
         "immer21": "2:1",
         "favorit": "2:1"
       },
-      "recordedAt": "2026-10-01T06:05:48.720Z",
-      "backfilled": true,
+      "recordedAt": "2026-10-01T14:38:30.154Z",
       "matchId": 83195,
       "status": "pending"
     },
@@ -815,8 +1027,7 @@
         "immer21": "2:1",
         "favorit": "1:2"
       },
-      "recordedAt": "2026-10-01T06:05:48.720Z",
-      "backfilled": true,
+      "recordedAt": "2026-10-01T14:38:30.154Z",
       "matchId": 83196,
       "status": "pending"
     },
@@ -835,8 +1046,7 @@
         "immer21": "2:1",
         "favorit": "1:2"
       },
-      "recordedAt": "2026-10-01T06:05:48.720Z",
-      "backfilled": true,
+      "recordedAt": "2026-10-01T14:38:30.154Z",
       "matchId": 83197,
       "status": "pending"
     },
@@ -855,8 +1065,7 @@
         "immer21": "2:1",
         "favorit": "2:1"
       },
-      "recordedAt": "2026-10-01T06:05:48.720Z",
-      "backfilled": true,
+      "recordedAt": "2026-10-01T14:38:30.154Z",
       "matchId": 83198,
       "status": "pending"
     },
@@ -867,16 +1076,15 @@
       "kickoffUtc": "2026-10-11T13:30:00.000Z",
       "tip": "1:0",
       "probabilities": {
-        "home": 0.458,
-        "draw": 0.246,
+        "home": 0.462,
+        "draw": 0.243,
         "away": 0.296
       },
       "baselines": {
         "immer21": "2:1",
         "favorit": "2:1"
       },
-      "recordedAt": "2026-10-01T06:05:48.720Z",
-      "backfilled": true,
+      "recordedAt": "2026-10-01T14:38:30.154Z",
       "matchId": 83199,
       "status": "pending"
     },
@@ -887,16 +1095,15 @@
       "kickoffUtc": "2026-10-10T13:30:00.000Z",
       "tip": "1:2",
       "probabilities": {
-        "home": 0.166,
+        "home": 0.17,
         "draw": 0.185,
-        "away": 0.649
+        "away": 0.645
       },
       "baselines": {
         "immer21": "2:1",
         "favorit": "1:2"
       },
-      "recordedAt": "2026-10-01T06:05:48.720Z",
-      "backfilled": true,
+      "recordedAt": "2026-10-01T14:38:30.154Z",
       "matchId": 83200,
       "status": "pending"
     },
@@ -915,8 +1122,7 @@
         "immer21": "2:1",
         "favorit": "2:1"
       },
-      "recordedAt": "2026-10-01T06:05:48.720Z",
-      "backfilled": true,
+      "recordedAt": "2026-10-01T14:38:30.154Z",
       "matchId": 83201,
       "status": "pending"
     },
@@ -935,8 +1141,7 @@
         "immer21": "2:1",
         "favorit": "2:1"
       },
-      "recordedAt": "2026-10-01T06:05:48.720Z",
-      "backfilled": true,
+      "recordedAt": "2026-10-01T14:38:30.154Z",
       "matchId": 83202,
       "status": "pending"
     },
@@ -955,8 +1160,7 @@
         "immer21": "2:1",
         "favorit": "2:1"
       },
-      "recordedAt": "2026-10-01T06:05:48.720Z",
-      "backfilled": true,
+      "recordedAt": "2026-10-01T14:38:30.154Z",
       "matchId": 83203,
       "status": "pending"
     },
@@ -975,8 +1179,7 @@
         "immer21": "2:1",
         "favorit": "1:2"
       },
-      "recordedAt": "2026-10-01T06:05:48.720Z",
-      "backfilled": true,
+      "recordedAt": "2026-10-01T14:38:30.154Z",
       "matchId": 83204,
       "status": "pending"
     },
@@ -995,8 +1198,7 @@
         "immer21": "2:1",
         "favorit": "1:2"
       },
-      "recordedAt": "2026-10-01T06:05:48.720Z",
-      "backfilled": true,
+      "recordedAt": "2026-10-01T14:38:30.154Z",
       "matchId": 83205,
       "status": "pending"
     },
@@ -1015,8 +1217,7 @@
         "immer21": "2:1",
         "favorit": "1:2"
       },
-      "recordedAt": "2026-10-01T06:05:48.720Z",
-      "backfilled": true,
+      "recordedAt": "2026-10-01T14:38:30.154Z",
       "matchId": 83206,
       "status": "pending"
     },
@@ -1035,8 +1236,7 @@
         "immer21": "2:1",
         "favorit": "2:1"
       },
-      "recordedAt": "2026-10-01T06:05:48.720Z",
-      "backfilled": true,
+      "recordedAt": "2026-10-01T14:38:30.154Z",
       "matchId": 83207,
       "status": "pending"
     },
@@ -1047,16 +1247,15 @@
       "kickoffUtc": "2026-10-17T13:30:00.000Z",
       "tip": "1:2",
       "probabilities": {
-        "home": 0.254,
+        "home": 0.249,
         "draw": 0.224,
-        "away": 0.522
+        "away": 0.526
       },
       "baselines": {
         "immer21": "2:1",
         "favorit": "1:2"
       },
-      "recordedAt": "2026-10-01T06:05:48.720Z",
-      "backfilled": true,
+      "recordedAt": "2026-10-01T14:38:30.154Z",
       "matchId": 83208,
       "status": "pending"
     },
@@ -1075,8 +1274,7 @@
         "immer21": "2:1",
         "favorit": "1:2"
       },
-      "recordedAt": "2026-10-01T06:05:48.720Z",
-      "backfilled": true,
+      "recordedAt": "2026-10-01T14:38:30.154Z",
       "matchId": 83209,
       "status": "pending"
     },
@@ -1098,7 +1296,13 @@
       "recordedAt": "2026-08-05T12:20:59.982Z",
       "backfilled": true,
       "matchId": 84745,
-      "status": "pending"
+      "status": "resolved",
+      "actualScore": "2:1",
+      "points": 4,
+      "baselinePoints": {
+        "immer21": 4,
+        "favorit": 4
+      }
     },
     "84755": {
       "league": "3. Liga",
@@ -1118,7 +1322,13 @@
       "recordedAt": "2026-08-09T19:57:50.514Z",
       "backfilled": true,
       "matchId": 84755,
-      "status": "pending"
+      "status": "resolved",
+      "actualScore": "0:2",
+      "points": 2,
+      "baselinePoints": {
+        "immer21": 0,
+        "favorit": 2
+      }
     },
     "84766": {
       "league": "3. Liga",
@@ -1138,7 +1348,13 @@
       "recordedAt": "2026-08-09T19:57:50.514Z",
       "backfilled": true,
       "matchId": 84766,
-      "status": "pending"
+      "status": "resolved",
+      "actualScore": "1:0",
+      "points": 0,
+      "baselinePoints": {
+        "immer21": 3,
+        "favorit": 0
+      }
     },
     "84781": {
       "league": "3. Liga",
@@ -1158,7 +1374,13 @@
       "recordedAt": "2026-09-06T15:31:58.465Z",
       "backfilled": true,
       "matchId": 84781,
-      "status": "pending"
+      "status": "resolved",
+      "actualScore": "0:0",
+      "points": 0,
+      "baselinePoints": {
+        "immer21": 0,
+        "favorit": 0
+      }
     },
     "84786": {
       "league": "3. Liga",
@@ -1178,7 +1400,13 @@
       "recordedAt": "2026-09-12T10:54:39.377Z",
       "backfilled": true,
       "matchId": 84786,
-      "status": "pending"
+      "status": "resolved",
+      "actualScore": "2:1",
+      "points": 0,
+      "baselinePoints": {
+        "immer21": 4,
+        "favorit": 0
+      }
     },
     "84800": {
       "league": "3. Liga",
@@ -1198,7 +1426,13 @@
       "recordedAt": "2026-09-15T11:51:51.003Z",
       "backfilled": true,
       "matchId": 84800,
-      "status": "pending"
+      "status": "resolved",
+      "actualScore": "1:2",
+      "points": 0,
+      "baselinePoints": {
+        "immer21": 0,
+        "favorit": 0
+      }
     },
     "84806": {
       "league": "3. Liga",
@@ -1218,7 +1452,13 @@
       "recordedAt": "2026-09-19T11:08:42.775Z",
       "backfilled": true,
       "matchId": 84806,
-      "status": "pending"
+      "status": "resolved",
+      "actualScore": "1:0",
+      "points": 2,
+      "baselinePoints": {
+        "immer21": 3,
+        "favorit": 3
+      }
     },
     "84824": {
       "league": "3. Liga",
@@ -1235,8 +1475,7 @@
         "immer21": "2:1",
         "favorit": "1:2"
       },
-      "recordedAt": "2026-10-01T06:05:48.720Z",
-      "backfilled": true,
+      "recordedAt": "2026-10-01T14:38:30.154Z",
       "matchId": 84824,
       "status": "pending"
     },
@@ -1255,8 +1494,7 @@
         "immer21": "2:1",
         "favorit": "2:1"
       },
-      "recordedAt": "2026-10-01T06:05:48.720Z",
-      "backfilled": true,
+      "recordedAt": "2026-10-01T14:38:30.154Z",
       "matchId": 84826,
       "status": "pending"
     },
@@ -1275,8 +1513,7 @@
         "immer21": "2:1",
         "favorit": "1:2"
       },
-      "recordedAt": "2026-10-01T06:05:48.720Z",
-      "backfilled": true,
+      "recordedAt": "2026-10-01T14:38:30.154Z",
       "matchId": 84835,
       "status": "pending"
     }
