@@ -2,7 +2,7 @@
   "season": 2026,
   "matchday": 5,
   "nextMatchday": 6,
-  "generatedAt": "2026-09-30T22:21:40.205Z",
+  "generatedAt": "2026-10-01T06:05:48.720Z",
   "eloRanking": [
     {
       "rank": 1,
@@ -471,19 +471,19 @@
       "homeTeam": "Eintracht Frankfurt",
       "awayTeam": "1. FC Köln",
       "probabilities": {
-        "home": 0.567,
-        "draw": 0.205,
-        "away": 0.229
+        "home": 0.565,
+        "draw": 0.202,
+        "away": 0.233
       },
       "tip": "2:1",
-      "tipExpectedPoints": 1.456,
+      "tipExpectedPoints": 1.44,
       "valueBet": {
         "market": "1x2",
         "selection": "Heimsieg",
         "bookmaker": "Tipico",
-        "bookmakerOdds": 1.93,
-        "ourProbability": 0.567,
-        "edgePct": 7.6
+        "bookmakerOdds": 1.95,
+        "ourProbability": 0.565,
+        "edgePct": 7.8
       },
       "homeForm": [
         "U",
@@ -800,18 +800,18 @@
       "awayTeam": "TSG Hoffenheim",
       "probabilities": {
         "home": 0.306,
-        "draw": 0.244,
-        "away": 0.45
+        "draw": 0.249,
+        "away": 0.445
       },
-      "tip": "1:2",
-      "tipExpectedPoints": 1.195,
+      "tip": "0:1",
+      "tipExpectedPoints": 1.205,
       "valueBet": {
         "market": "Über/Unter 3.5 Tore",
         "selection": "Unter 3.5",
         "bookmaker": "Tipico",
         "bookmakerOdds": 1.83,
-        "ourProbability": 0.671,
-        "edgePct": 16.2
+        "ourProbability": 0.715,
+        "edgePct": 20.6
       },
       "homeForm": [
         "N",

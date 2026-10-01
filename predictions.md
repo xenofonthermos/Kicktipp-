@@ -1,6 +1,6 @@
 # Bundesliga-Prognose – Spieltag 5–6
 
-Erstellt am 2026-09-30. Elo-basierte Tippempfehlung für Kicktipp, ohne Gewähr – reiner Unterhaltungswert.
+Erstellt am 2026-10-01. Elo-basierte Tippempfehlung für Kicktipp, ohne Gewähr – reiner Unterhaltungswert.
 
 | Liga | Spiel | Tipp | Heim% / Remis% / Auswärts% |
 | --- | --- | --- | --- |
@@ -13,7 +13,7 @@ Erstellt am 2026-09-30. Elo-basierte Tippempfehlung für Kicktipp, ohne Gewähr 
 | Bundesliga | RB Leipzig – Eintracht Frankfurt | 2:1 | 56% / 21% / 23% |
 | Bundesliga | 1. FC Köln – Borussia Mönchengladbach | 1:0 | 46% / 25% / 30% |
 | Bundesliga | SC Freiburg – FC Schalke 04 | 1:0 | 69% / 18% / 13% |
-| Bundesliga | Eintracht Frankfurt – 1. FC Köln | 2:1 | 57% / 21% / 23% |
+| Bundesliga | Eintracht Frankfurt – 1. FC Köln | 2:1 | 56% / 20% / 23% |
 | Bundesliga | 1. FC Union Berlin – Borussia Dortmund | 1:2 | 21% / 21% / 58% |
 | Bundesliga | Hamburger SV – VfB Stuttgart | 1:2 | 26% / 23% / 51% |
 | Bundesliga | SV Werder Bremen – SC Paderborn 07 | 2:1 | 63% / 19% / 18% |
@@ -21,7 +21,7 @@ Erstellt am 2026-09-30. Elo-basierte Tippempfehlung für Kicktipp, ohne Gewähr 
 | Bundesliga | SV 07 Elversberg – FC Augsburg | 1:2 | 29% / 22% / 49% |
 | Bundesliga | FC Bayern München – RB Leipzig | 2:1 | 67% / 16% / 17% |
 | Bundesliga | Bayer 04 Leverkusen – SC Freiburg | 2:1 | 53% / 22% / 25% |
-| Bundesliga | Borussia Mönchengladbach – TSG Hoffenheim | 1:2 | 31% / 24% / 45% |
+| Bundesliga | Borussia Mönchengladbach – TSG Hoffenheim | 0:1 | 31% / 25% / 45% |
 | 3. Liga | Fortuna Düsseldorf – SC Verl | 1:2 | 20% / 19% / 62% |
 | 3. Liga | Preußen Münster – Fortuna Düsseldorf | 2:0 | 81% / 13% / 7% |
 | 3. Liga | Fortuna Düsseldorf – 1. FC Saarbrücken | 1:2 | 20% / 19% / 61% |
