@@ -1,9 +1,10 @@
 import { readFile, appendFile } from "node:fs/promises";
 import { getSeasonMatches, isMatchFinished, LEAGUE_BUNDESLIGA, LEAGUE_3_LIGA } from "./openligadb.js";
-import { decideRun, kickoffUtc } from "./schedule.js";
+import { planRun, kickoffUtc } from "./schedule.js";
 
-// Vorprüfung für den 15-Minuten-Cron (GitHub Actions): entscheidet ohne Odds-/Highlightly-Anfrage,
-// ob ein Prognose-Lauf nötig ist. Nutzt nur OpenLigaDB (ohne Kontingent).
+// Vorprüfung für den Workflow (GitHub Actions): plant ohne Odds-/Highlightly-Anfrage, ob sofort
+// gerechnet, bis zu einem Zielzeitpunkt vor Anstoß gewartet oder nur überbrückt wird, und ob sich
+// der Workflow danach selbst neu anstoßen soll. Nutzt nur OpenLigaDB (ohne Kontingent).
 // Aufruf: node src/gate.js <pfad-zu-predictions.json> [--manual]
 const FORTUNA_DUESSELDORF = "Fortuna Düsseldorf";
 
@@ -35,20 +36,25 @@ async function main() {
   );
   const kickoffs = [...bundesliga, ...fortuna].filter((m) => !isMatchFinished(m)).map(kickoffUtc);
 
-  const decision = decideRun({
+  const plan = planRun({
     now,
     lastRun: await readLastRun(predictionsPath),
     kickoffs,
     manual: flag === "--manual",
   });
-  console.log(`Gate: ${decision.run ? "Lauf" : "kein Lauf"} – ${decision.reason}`);
-  if (process.env.GITHUB_OUTPUT) {
-    await appendFile(process.env.GITHUB_OUTPUT, `run=${decision.run}\n`);
-  }
+  console.log(`Gate: ${plan.action}, warte ${plan.sleepSeconds} s, Kette ${plan.chain} – ${plan.reason}`);
+  await writeOutputs(plan);
+}
+
+async function writeOutputs({ action, sleepSeconds, chain }) {
+  if (!process.env.GITHUB_OUTPUT) return;
+  const run = action === "run" || action === "wait-run";
+  await appendFile(process.env.GITHUB_OUTPUT, `run=${run}\nsleep_seconds=${sleepSeconds}\nchain=${chain}\n`);
 }
 
 main().catch(async (error) => {
-  // OpenLigaDB nicht erreichbar -> kein Lauf (predict.js würde ohnehin scheitern).
+  // OpenLigaDB nicht erreichbar -> kein Lauf, keine Kette (predict.js würde ohnehin scheitern;
+  // der Fallback-Cron versucht es später erneut).
   console.error("Gate fehlgeschlagen:", error.message);
-  if (process.env.GITHUB_OUTPUT) await appendFile(process.env.GITHUB_OUTPUT, "run=false\n");
+  await writeOutputs({ action: "none", sleepSeconds: 0, chain: false });
 });

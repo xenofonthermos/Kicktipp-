@@ -2,16 +2,21 @@ name: Prognose aktualisieren
 
 on:
   schedule:
-    # Alle 15 Min. eine kostenlose Vorprüfung (src/gate.js, nur OpenLigaDB). Gerechnet wird nur,
-    # wenn 10–70 Min. vor einem Anstoß (Aufstellungs-Lauf, max. alle 25 Min.) oder wenn der letzte
-    # Lauf mehr als ~6 Std. her ist. Hält Odds-API (500/Monat) und Highlightly (100/Tag) im Rahmen.
-    - cron: "7,22,37,52 * * * *"
-  workflow_dispatch: {}
+    # Nur Fallback: GitHub startet geplante Läufe stark verzögert oder gar nicht (gemessen 2026-10-01:
+    # 4 von 96 Viertelstunden-Läufen). Der eigentliche Takt entsteht durch Selbst-Anstoß (Kette, s.u.).
+    - cron: "23 * * * *"
+  workflow_dispatch:
+    inputs:
+      chained:
+        description: "Intern: vom vorherigen Lauf angestoßen (nicht manuell setzen)"
+        type: boolean
+        default: false
 
 permissions:
   contents: write
+  actions: write # für den Selbst-Anstoß per workflow_dispatch
 
-# Keine überlappenden Läufe (sonst Push-Konflikte auf predictions.json/data).
+# Nie zwei Läufe gleichzeitig (Push-Konflikte); ein neuer Anstoß wartet, bis der laufende fertig ist.
 concurrency:
   group: predict
   cancel-in-progress: false
@@ -19,6 +24,7 @@ concurrency:
 jobs:
   predict:
     runs-on: ubuntu-latest
+    timeout-minutes: 358
     steps:
       - name: Repo auschecken
         uses: actions/checkout@v4
@@ -28,10 +34,17 @@ jobs:
         with:
           node-version: "24"
 
-      - name: Vorprüfung (Lauf nötig?)
+      # Plant den Lauf (src/gate.js, nur OpenLigaDB): sofort rechnen, bis 55/25 Min. vor einem Anstoß
+      # warten, nur überbrücken oder nichts tun — und ob danach der nächste Lauf angestoßen wird.
+      - name: Vorprüfung (Lauf planen)
         id: gate
         working-directory: app
-        run: node src/gate.js ../predictions.json ${{ github.event_name == 'workflow_dispatch' && '--manual' || '' }}
+        # Nur ein von Hand ausgelöster Lauf rechnet sofort; Kettenläufe (chained=true) planen normal.
+        run: node src/gate.js ../predictions.json ${{ github.event_name == 'workflow_dispatch' && !inputs.chained && '--manual' || '' }}
+
+      - name: Bis zum Zielzeitpunkt warten
+        if: steps.gate.outputs.sleep_seconds != '' && steps.gate.outputs.sleep_seconds != '0'
+        run: sleep ${{ steps.gate.outputs.sleep_seconds }}
 
       - name: Tests ausführen
         if: steps.gate.outputs.run == 'true'
@@ -61,3 +74,11 @@ jobs:
             git pull --rebase
             git push
           fi
+
+      # Kette: nur nach erfolgreichem Lauf (sonst keine Endlosschleife bei Fehlern, der stündliche
+      # Fallback-Cron versucht es später erneut). GITHUB_TOKEN darf workflow_dispatch auslösen.
+      - name: Nächsten Lauf anstoßen
+        if: success() && steps.gate.outputs.chain == 'true'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh workflow run predict.yml --ref main --repo "${{ github.repository }}" -f chained=true
