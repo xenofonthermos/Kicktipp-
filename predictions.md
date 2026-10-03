@@ -1,14 +1,14 @@
 # Bundesliga-Prognose – Spieltag 5–6
 
-Erstellt am 2026-10-02. Elo-basierte Tippempfehlung für Kicktipp, ohne Gewähr – reiner Unterhaltungswert.
+Erstellt am 2026-10-03. Elo-basierte Tippempfehlung für Kicktipp, ohne Gewähr – reiner Unterhaltungswert.
 
 | Liga | Spiel | Tipp | Heim% / Remis% / Auswärts% |
 | --- | --- | --- | --- |
 | Bundesliga | Borussia Dortmund – SV Werder Bremen | 2:1 | 69% / 17% / 14% |
 | Bundesliga | TSG Hoffenheim – Hamburger SV | 2:1 | 62% / 19% / 19% |
 | Bundesliga | FC Augsburg – FC Bayern München | 1:2 | 19% / 17% / 64% |
-| Bundesliga | 1. FSV Mainz 05 – Bayer 04 Leverkusen | 0:1 | 32% / 25% / 43% |
-| Bundesliga | 1. FC Union Berlin – SV 07 Elversberg | 2:1 | 55% / 21% / 24% |
+| Bundesliga | 1. FSV Mainz 05 – Bayer 04 Leverkusen | 0:1 | 33% / 25% / 42% |
+| Bundesliga | 1. FC Union Berlin – SV 07 Elversberg | 2:1 | 54% / 21% / 25% |
 | Bundesliga | SC Paderborn 07 – VfB Stuttgart | 1:2 | 17% / 19% / 65% |
 | Bundesliga | RB Leipzig – Eintracht Frankfurt | 2:1 | 56% / 21% / 23% |
 | Bundesliga | 1. FC Köln – Borussia Mönchengladbach | 1:0 | 46% / 24% / 30% |
@@ -17,7 +17,7 @@ Erstellt am 2026-10-02. Elo-basierte Tippempfehlung für Kicktipp, ohne Gewähr 
 | Bundesliga | 1. FC Union Berlin – Borussia Dortmund | 1:2 | 21% / 21% / 58% |
 | Bundesliga | Hamburger SV – VfB Stuttgart | 1:2 | 26% / 23% / 51% |
 | Bundesliga | SV Werder Bremen – SC Paderborn 07 | 2:1 | 63% / 19% / 18% |
-| Bundesliga | FC Schalke 04 – 1. FSV Mainz 05 | 1:2 | 25% / 22% / 52% |
+| Bundesliga | FC Schalke 04 – 1. FSV Mainz 05 | 1:2 | 25% / 22% / 53% |
 | Bundesliga | SV 07 Elversberg – FC Augsburg | 1:2 | 29% / 22% / 49% |
 | Bundesliga | FC Bayern München – RB Leipzig | 2:1 | 67% / 16% / 17% |
 | Bundesliga | Bayer 04 Leverkusen – SC Freiburg | 2:1 | 53% / 22% / 25% |
