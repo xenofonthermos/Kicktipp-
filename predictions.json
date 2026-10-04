@@ -2,7 +2,7 @@
   "season": 2026,
   "matchday": 5,
   "nextMatchday": 6,
-  "generatedAt": "2026-10-04T12:27:31.012Z",
+  "generatedAt": "2026-10-04T21:33:34.488Z",
   "eloRanking": [
     {
       "rank": 1,
@@ -184,9 +184,9 @@
       "homeTeam": "FC Augsburg",
       "awayTeam": "FC Bayern München",
       "probabilities": {
-        "home": 0.187,
-        "draw": 0.17,
-        "away": 0.643
+        "home": 0.182,
+        "draw": 0.167,
+        "away": 0.651
       },
       "tip": "1:2",
       "tipExpectedPoints": 1.523,
@@ -194,9 +194,9 @@
         "market": "1x2",
         "selection": "Heimsieg",
         "bookmaker": "Tipico",
-        "bookmakerOdds": 9.5,
-        "ourProbability": 0.187,
-        "edgePct": 8.7
+        "bookmakerOdds": 10.5,
+        "ourProbability": 0.182,
+        "edgePct": 9.2
       },
       "homeForm": [
         "S",
@@ -267,11 +267,11 @@
       "awayTeam": "SV 07 Elversberg",
       "probabilities": {
         "home": 0.532,
-        "draw": 0.216,
-        "away": 0.253
+        "draw": 0.206,
+        "away": 0.262
       },
       "tip": "2:1",
-      "tipExpectedPoints": 1.382,
+      "tipExpectedPoints": 1.369,
       "valueBet": {
         "market": "1x2",
         "selection": "Heimsieg",
@@ -759,8 +759,8 @@
       "awayTeam": "SC Freiburg",
       "probabilities": {
         "home": 0.533,
-        "draw": 0.22,
-        "away": 0.247
+        "draw": 0.223,
+        "away": 0.244
       },
       "tip": "2:1",
       "tipExpectedPoints": 1.393,
@@ -768,9 +768,9 @@
         "market": "1x2",
         "selection": "Auswärtssieg",
         "bookmaker": "Tipico",
-        "bookmakerOdds": 4.4,
-        "ourProbability": 0.247,
-        "edgePct": 3.1
+        "bookmakerOdds": 4.5,
+        "ourProbability": 0.244,
+        "edgePct": 3.4
       },
       "homeForm": [
         "N",
