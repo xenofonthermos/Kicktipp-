@@ -2,7 +2,7 @@
   "season": 2026,
   "matchday": 5,
   "nextMatchday": 6,
-  "generatedAt": "2026-10-03T23:54:22.809Z",
+  "generatedAt": "2026-10-04T05:59:23.731Z",
   "eloRanking": [
     {
       "rank": 1,
@@ -102,9 +102,9 @@
       "homeTeam": "Borussia Dortmund",
       "awayTeam": "SV Werder Bremen",
       "probabilities": {
-        "home": 0.691,
-        "draw": 0.166,
-        "away": 0.143
+        "home": 0.686,
+        "draw": 0.169,
+        "away": 0.145
       },
       "tip": "2:1",
       "tipExpectedPoints": 1.685,
@@ -112,9 +112,9 @@
         "market": "1x2",
         "selection": "Auswärtssieg",
         "bookmaker": "Tipico",
-        "bookmakerOdds": 7.2,
-        "ourProbability": 0.143,
-        "edgePct": 1.1
+        "bookmakerOdds": 7,
+        "ourProbability": 0.145,
+        "edgePct": 0.9
       },
       "homeForm": [
         "S",
@@ -225,9 +225,9 @@
       "homeTeam": "1. FSV Mainz 05",
       "awayTeam": "Bayer 04 Leverkusen",
       "probabilities": {
-        "home": 0.328,
+        "home": 0.323,
         "draw": 0.252,
-        "away": 0.42
+        "away": 0.425
       },
       "tip": "0:1",
       "tipExpectedPoints": 1.143,
@@ -307,19 +307,19 @@
       "homeTeam": "SC Paderborn 07",
       "awayTeam": "VfB Stuttgart",
       "probabilities": {
-        "home": 0.166,
-        "draw": 0.185,
-        "away": 0.649
+        "home": 0.172,
+        "draw": 0.183,
+        "away": 0.645
       },
       "tip": "1:2",
-      "tipExpectedPoints": 1.588,
+      "tipExpectedPoints": 1.567,
       "valueBet": {
         "market": "1x2",
         "selection": "Auswärtssieg",
         "bookmaker": "Tipico",
-        "bookmakerOdds": 1.55,
-        "ourProbability": 0.649,
-        "edgePct": 3.7
+        "bookmakerOdds": 1.57,
+        "ourProbability": 0.645,
+        "edgePct": 4.1
       },
       "homeForm": [
         "U",
