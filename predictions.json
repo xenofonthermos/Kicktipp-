@@ -2,7 +2,7 @@
   "season": 2026,
   "matchday": 5,
   "nextMatchday": 6,
-  "generatedAt": "2026-10-05T16:06:23.733Z",
+  "generatedAt": "2026-10-05T22:42:07.986Z",
   "eloRanking": [
     {
       "rank": 1,
@@ -102,19 +102,19 @@
       "homeTeam": "Borussia Dortmund",
       "awayTeam": "SV Werder Bremen",
       "probabilities": {
-        "home": 0.687,
-        "draw": 0.17,
-        "away": 0.143
+        "home": 0.693,
+        "draw": 0.167,
+        "away": 0.141
       },
       "tip": "2:1",
-      "tipExpectedPoints": 1.685,
+      "tipExpectedPoints": 1.709,
       "valueBet": {
         "market": "1x2",
         "selection": "Auswärtssieg",
         "bookmaker": "Tipico",
-        "bookmakerOdds": 7.2,
-        "ourProbability": 0.143,
-        "edgePct": 1.1
+        "bookmakerOdds": 7.5,
+        "ourProbability": 0.141,
+        "edgePct": 1.3
       },
       "homeForm": [
         "S",
@@ -225,19 +225,19 @@
       "homeTeam": "1. FSV Mainz 05",
       "awayTeam": "Bayer 04 Leverkusen",
       "probabilities": {
-        "home": 0.323,
-        "draw": 0.252,
+        "home": 0.317,
+        "draw": 0.258,
         "away": 0.425
       },
       "tip": "0:1",
-      "tipExpectedPoints": 1.143,
+      "tipExpectedPoints": 1.153,
       "valueBet": {
         "market": "1x2",
-        "selection": "Remis",
+        "selection": "Heimsieg",
         "bookmaker": "Tipico",
-        "bookmakerOdds": 3.9,
-        "ourProbability": 0.252,
-        "edgePct": 0.9
+        "bookmakerOdds": 3.1,
+        "ourProbability": 0.317,
+        "edgePct": 1.2
       },
       "homeForm": [
         "U",
@@ -266,9 +266,9 @@
       "homeTeam": "1. FC Union Berlin",
       "awayTeam": "SV 07 Elversberg",
       "probabilities": {
-        "home": 0.523,
-        "draw": 0.212,
-        "away": 0.265
+        "home": 0.532,
+        "draw": 0.206,
+        "away": 0.262
       },
       "tip": "2:1",
       "tipExpectedPoints": 1.369,
@@ -276,9 +276,9 @@
         "market": "1x2",
         "selection": "Heimsieg",
         "bookmaker": "Tipico",
-        "bookmakerOdds": 2.4,
-        "ourProbability": 0.523,
-        "edgePct": 12.9
+        "bookmakerOdds": 2.3,
+        "ourProbability": 0.532,
+        "edgePct": 12
       },
       "homeForm": [
         "U",
@@ -430,19 +430,19 @@
       "homeTeam": "SC Freiburg",
       "awayTeam": "FC Schalke 04",
       "probabilities": {
-        "home": 0.682,
-        "draw": 0.182,
-        "away": 0.136
+        "home": 0.687,
+        "draw": 0.179,
+        "away": 0.134
       },
-      "tip": "2:1",
-      "tipExpectedPoints": 1.685,
+      "tip": "1:0",
+      "tipExpectedPoints": 1.72,
       "valueBet": {
         "market": "1x2",
         "selection": "Heimsieg",
         "bookmaker": "Tipico",
-        "bookmakerOdds": 1.65,
-        "ourProbability": 0.682,
-        "edgePct": 10.7
+        "bookmakerOdds": 1.62,
+        "ourProbability": 0.687,
+        "edgePct": 10.2
       },
       "homeForm": [
         "S",
@@ -512,9 +512,9 @@
       "homeTeam": "1. FC Union Berlin",
       "awayTeam": "Borussia Dortmund",
       "probabilities": {
-        "home": 0.208,
-        "draw": 0.21,
-        "away": 0.583
+        "home": 0.21,
+        "draw": 0.204,
+        "away": 0.586
       },
       "tip": "1:2",
       "tipExpectedPoints": 1.472,
@@ -522,9 +522,9 @@
         "market": "1x2",
         "selection": "Auswärtssieg",
         "bookmaker": "Tipico",
-        "bookmakerOdds": 1.67,
-        "ourProbability": 0.583,
-        "edgePct": 1.5
+        "bookmakerOdds": 1.65,
+        "ourProbability": 0.586,
+        "edgePct": 1.2
       },
       "homeForm": [
         "U",
@@ -717,19 +717,19 @@
       "homeTeam": "FC Bayern München",
       "awayTeam": "RB Leipzig",
       "probabilities": {
-        "home": 0.675,
-        "draw": 0.163,
-        "away": 0.162
+        "home": 0.668,
+        "draw": 0.162,
+        "away": 0.17
       },
       "tip": "2:1",
-      "tipExpectedPoints": 1.661,
+      "tipExpectedPoints": 1.636,
       "valueBet": {
         "market": "1x2",
         "selection": "Auswärtssieg",
         "bookmaker": "Tipico",
-        "bookmakerOdds": 10.5,
-        "ourProbability": 0.162,
-        "edgePct": 7.2
+        "bookmakerOdds": 9,
+        "ourProbability": 0.17,
+        "edgePct": 6.5
       },
       "homeForm": [
         "S",
@@ -800,8 +800,8 @@
       "awayTeam": "TSG Hoffenheim",
       "probabilities": {
         "home": 0.314,
-        "draw": 0.247,
-        "away": 0.439
+        "draw": 0.244,
+        "away": 0.442
       },
       "tip": "1:2",
       "tipExpectedPoints": 1.195,
