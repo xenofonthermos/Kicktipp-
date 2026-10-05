@@ -30,11 +30,16 @@
     1340462795,
     1340463646,
     1340464497,
-    1340465348
+    1340465348,
+    1340456838,
+    1340458540,
+    1340452583,
+    1340445775,
+    1340449179
   ],
   "teams": {
     "FC Bayern München": {
-      "matchesSeen": 3,
+      "matchesSeen": 4,
       "players": {
         "Manuel Neuer": 1,
         "Alphonso Davies": 1,
@@ -48,31 +53,32 @@
         "Michael Olise": 1,
         "Harry Kane": 1,
         "J. Urbig": 1,
-        "N. Brown": 1,
+        "N. Brown": 2,
         "Kim Min-Jae": 1,
-        "D. Upamecano": 2,
+        "D. Upamecano": 3,
         "J. Stanišić": 2,
-        "A. Pavlović": 2,
+        "A. Pavlović": 3,
         "T. Bischof": 1,
-        "I. Saibari": 1,
+        "I. Saibari": 2,
         "M. Olise": 2,
-        "L. Karl": 1,
+        "L. Karl": 2,
         "H. Kane": 2,
-        "M. Neuer": 1,
-        "A. Davies": 1,
-        "J. Tah": 1,
-        "J. Kimmich": 1,
-        "L. Díaz": 1,
-        "J. Musiala": 1
+        "M. Neuer": 2,
+        "A. Davies": 2,
+        "J. Tah": 2,
+        "J. Kimmich": 2,
+        "L. Díaz": 2,
+        "J. Musiala": 1,
+        "K. Laimer": 1
       }
     },
     "VfB Stuttgart": {
-      "matchesSeen": 3,
+      "matchesSeen": 4,
       "players": {
         "Fabian Bredlow": 1,
         "Ramon Hendriks": 1,
         "Jeff Chabot": 1,
-        "Finn Jeltsch": 3,
+        "Finn Jeltsch": 4,
         "Maximilian Mittelstädt": 1,
         "Angelo Stiller": 1,
         "Grischa Prömel": 1,
@@ -80,37 +86,37 @@
         "Deniz Undav": 1,
         "Tiago Tomás": 1,
         "Dženan Pejčinović": 1,
-        "F. Bredlow": 2,
-        "M. Mittelstädt": 2,
-        "J. Chabot": 2,
-        "C. Führich": 2,
-        "A. Stiller": 2,
-        "G. Prömel": 2,
-        "J. Vagnoman": 2,
-        "D. Undav": 1,
-        "B. El Khannouss": 1,
+        "F. Bredlow": 3,
+        "M. Mittelstädt": 3,
+        "J. Chabot": 3,
+        "C. Führich": 3,
+        "A. Stiller": 3,
+        "G. Prömel": 3,
+        "J. Vagnoman": 3,
+        "D. Undav": 2,
+        "B. El Khannouss": 2,
         "E. Demirović": 2,
         "R. Hendriks": 1,
-        "D. Pejčinović": 1
+        "D. Pejčinović": 2
       }
     },
     "1. FSV Mainz 05": {
-      "matchesSeen": 3,
+      "matchesSeen": 4,
       "players": {
         "R. Zentner": 2,
         "D. Kohr": 1,
-        "F. Gruber": 3,
+        "F. Gruber": 4,
         "D. da Costa": 1,
-        "K. Sano": 3,
-        "P. Mwene": 3,
-        "N. Amiri": 3,
-        "Lee Jae-Sung": 3,
-        "A. Caci": 3,
-        "P. Tietz": 3,
-        "S. Becker": 3,
-        "A. Schwolow": 1,
-        "K. Potulski": 2,
-        "S. Posch": 2
+        "K. Sano": 4,
+        "P. Mwene": 4,
+        "N. Amiri": 4,
+        "Lee Jae-Sung": 4,
+        "A. Caci": 4,
+        "P. Tietz": 4,
+        "S. Becker": 4,
+        "A. Schwolow": 2,
+        "K. Potulski": 3,
+        "S. Posch": 3
       }
     },
     "SC Paderborn 07": {
@@ -173,22 +179,22 @@
       }
     },
     "1. FC Köln": {
-      "matchesSeen": 3,
+      "matchesSeen": 4,
       "players": {
-        "M. Schwäbe": 3,
-        "G. Mensah": 3,
-        "L. Lochoshvili": 3,
-        "Jahmai Simpson-Pusey": 3,
-        "A. Castro-Montes": 3,
-        "Í. Bergmann Jóhannesson": 1,
-        "T. Krauß": 3,
-        "Paul Michael Junior Okon-Engstler": 1,
+        "M. Schwäbe": 4,
+        "G. Mensah": 4,
+        "L. Lochoshvili": 4,
+        "Jahmai Simpson-Pusey": 4,
+        "A. Castro-Montes": 4,
+        "Í. Bergmann Jóhannesson": 2,
+        "T. Krauß": 4,
+        "Paul Michael Junior Okon-Engstler": 2,
         "S. El Mala": 2,
-        "R. Ache": 1,
-        "J. Thielmann": 1,
+        "R. Ache": 2,
+        "J. Thielmann": 2,
         "E. Skhiri": 2,
         "M. Moore": 2,
-        "L. Maina": 2,
+        "L. Maina": 3,
         "T. Dallinga": 2,
         "M. Bülter": 1
       }
@@ -272,26 +278,27 @@
       }
     },
     "Hamburger SV": {
-      "matchesSeen": 3,
+      "matchesSeen": 4,
       "players": {
-        "Daniel Heuer Fernandes": 3,
-        "J. Torunarigha": 3,
-        "S. Bornauw": 1,
-        "N. Capaldo": 3,
+        "Daniel Heuer Fernandes": 4,
+        "J. Torunarigha": 4,
+        "S. Bornauw": 2,
+        "N. Capaldo": 4,
         "L. Lemke": 1,
         "A. Sambi Lokonga": 3,
-        "N. Remberg": 3,
+        "N. Remberg": 4,
         "B. Jatta": 1,
-        "A. Grønbæk": 3,
-        "M. Adeline": 1,
+        "A. Grønbæk": 4,
+        "M. Adeline": 2,
         "P. Daka": 2,
         "W. Omari": 1,
-        "D. Møller Wolfe": 2,
-        "Z. El Ouahdi": 2,
+        "D. Møller Wolfe": 3,
+        "Z. El Ouahdi": 3,
         "Fábio Vieira": 1,
-        "T. Moffi": 1,
+        "T. Moffi": 2,
         "S. Nandja": 1,
-        "Y. Poulsen": 1
+        "Y. Poulsen": 1,
+        "B. Nadir": 1
       }
     },
     "Borussia Mönchengladbach": {
@@ -317,7 +324,7 @@
       }
     },
     "SV Werder Bremen": {
-      "matchesSeen": 3,
+      "matchesSeen": 4,
       "players": {
         "K. Hein": 3,
         "O. Deman": 3,
@@ -329,7 +336,18 @@
         "L. Reis": 3,
         "Chuky San José": 3,
         "E. Dinkçi": 3,
-        "N. Füllkrug": 3
+        "N. Füllkrug": 3,
+        "Karl Hein": 1,
+        "Olivier Deman": 1,
+        "Marco Friedl": 1,
+        "Amos Pieper": 1,
+        "Mick Schmetgens": 1,
+        "Ludovit Reis": 1,
+        "Senne Lynen": 1,
+        "Chuki": 1,
+        "Marco Grüll": 1,
+        "Niclas Füllkrug": 1,
+        "Justin Njinmah": 1
       }
     },
     "RB Leipzig": {
@@ -355,7 +373,7 @@
       }
     },
     "SC Freiburg": {
-      "matchesSeen": 3,
+      "matchesSeen": 4,
       "players": {
         "M. Backhaus": 3,
         "J. Makengo": 3,
@@ -367,24 +385,45 @@
         "D. Scherhant": 3,
         "Y. Suzuki": 3,
         "J. Beste": 3,
-        "I. Matanović": 3
+        "I. Matanović": 3,
+        "Mio Backhaus": 1,
+        "Jordy Makengo": 1,
+        "Philipp Lienhart": 1,
+        "Matthias Ginter": 1,
+        "Lukas Kübler": 1,
+        "Yannick Engelhardt": 1,
+        "Maximilian Eggestein": 1,
+        "Derry Scherhant": 1,
+        "Yuito Suzuki": 1,
+        "Jan-Niklas Beste": 1,
+        "Igor Matanović": 1
       }
     },
     "FC Augsburg": {
-      "matchesSeen": 3,
+      "matchesSeen": 4,
       "players": {
         "F. Dahmen": 3,
         "C. Brackelmann": 3,
         "C. Matsima": 3,
         "Noahkai Kai Daniel Banks": 3,
-        "Hennes Behrens": 3,
+        "Hennes Behrens": 4,
         "F. Rieder": 3,
         "H. Massengo": 3,
         "M. Wolf": 3,
         "R. Fellhauer": 3,
         "A. Ibrahimović": 2,
         "M. Gregoritsch": 3,
-        "M. Kömür": 1
+        "M. Kömür": 1,
+        "Finn Dahmen": 1,
+        "Calvin Brackelmann": 1,
+        "Chrislain Matsima": 1,
+        "Noahkai Banks": 1,
+        "Fabian Rieder": 1,
+        "Han-Noah Massengo": 1,
+        "Marius Wolf": 1,
+        "Robin Fellhauer": 1,
+        "Anton Kade": 1,
+        "Michael Gregoritsch": 1
       }
     },
     "Jahn Regensburg": {
@@ -420,21 +459,33 @@
       }
     },
     "FC Schalke 04": {
-      "matchesSeen": 2,
+      "matchesSeen": 4,
       "players": {
-        "L. Karius": 2,
-        "H. Kuruçay": 2,
-        "N. Katić": 2,
-        "T. Becker": 2,
-        "R. Gosens": 2,
-        "S. Tanaka": 2,
-        "S. El-Faouzi": 2,
-        "J. Dina Ebimbe": 1,
-        "A. Aouchiche": 2,
+        "L. Karius": 3,
+        "H. Kuruçay": 3,
+        "N. Katić": 3,
+        "T. Becker": 3,
+        "R. Gosens": 3,
+        "S. Tanaka": 3,
+        "S. El-Faouzi": 3,
+        "J. Dina Ebimbe": 2,
+        "A. Aouchiche": 3,
         "K. Karaman": 2,
         "E. Džeko": 1,
         "J. Adamu": 1,
-        "D. Ljubičić": 1
+        "D. Ljubičić": 2,
+        "M. Sylla": 1,
+        "Loris Karius": 1,
+        "Hasan Kuruçay": 1,
+        "Nikola Katić": 1,
+        "Timo Becker": 1,
+        "Vitalie Becker": 1,
+        "Ron Schallenberg": 1,
+        "Soufiane El-Faouzi": 1,
+        "Junior Adamu": 1,
+        "Adil Aouchiche": 1,
+        "Dejan Ljubičić": 1,
+        "Moussa Sylla": 1
       }
     }
   }
