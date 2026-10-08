@@ -4,23 +4,23 @@ Erstellt am 2026-10-08. Elo-basierte Tippempfehlung für Kicktipp, ohne Gewähr 
 
 | Liga | Spiel | Tipp | Heim% / Remis% / Auswärts% |
 | --- | --- | --- | --- |
-| Bundesliga | Borussia Dortmund – SV Werder Bremen | 2:1 | 70% / 16% / 14% |
+| Bundesliga | Borussia Dortmund – SV Werder Bremen | 2:1 | 70% / 17% / 14% |
 | Bundesliga | TSG Hoffenheim – Hamburger SV | 2:1 | 62% / 19% / 19% |
 | Bundesliga | FC Augsburg – FC Bayern München | 1:2 | 18% / 17% / 65% |
 | Bundesliga | 1. FSV Mainz 05 – Bayer 04 Leverkusen | 0:1 | 32% / 26% / 43% |
-| Bundesliga | 1. FC Union Berlin – SV 07 Elversberg | 2:1 | 52% / 22% / 26% |
-| Bundesliga | SC Paderborn 07 – VfB Stuttgart | 1:2 | 17% / 18% / 65% |
+| Bundesliga | 1. FC Union Berlin – SV 07 Elversberg | 2:1 | 52% / 21% / 27% |
+| Bundesliga | SC Paderborn 07 – VfB Stuttgart | 1:2 | 17% / 19% / 65% |
 | Bundesliga | RB Leipzig – Eintracht Frankfurt | 2:1 | 56% / 21% / 24% |
-| Bundesliga | 1. FC Köln – Borussia Mönchengladbach | 2:1 | 45% / 25% / 30% |
+| Bundesliga | 1. FC Köln – Borussia Mönchengladbach | 2:1 | 44% / 25% / 31% |
 | Bundesliga | SC Freiburg – FC Schalke 04 | 1:0 | 68% / 19% / 13% |
 | Bundesliga | Eintracht Frankfurt – 1. FC Köln | 2:1 | 57% / 21% / 23% |
 | Bundesliga | 1. FC Union Berlin – Borussia Dortmund | 1:2 | 20% / 21% / 59% |
 | Bundesliga | Hamburger SV – VfB Stuttgart | 1:2 | 26% / 23% / 51% |
 | Bundesliga | SV Werder Bremen – SC Paderborn 07 | 2:1 | 63% / 19% / 18% |
 | Bundesliga | FC Schalke 04 – 1. FSV Mainz 05 | 1:2 | 26% / 22% / 51% |
-| Bundesliga | SV 07 Elversberg – FC Augsburg | 1:2 | 29% / 22% / 49% |
-| Bundesliga | FC Bayern München – RB Leipzig | 2:1 | 68% / 16% / 16% |
-| Bundesliga | Bayer 04 Leverkusen – SC Freiburg | 2:1 | 53% / 22% / 25% |
+| Bundesliga | SV 07 Elversberg – FC Augsburg | 1:2 | 30% / 22% / 49% |
+| Bundesliga | FC Bayern München – RB Leipzig | 2:1 | 67% / 16% / 17% |
+| Bundesliga | Bayer 04 Leverkusen – SC Freiburg | 2:1 | 54% / 22% / 24% |
 | Bundesliga | Borussia Mönchengladbach – TSG Hoffenheim | 1:2 | 31% / 25% / 44% |
 | 3. Liga | Fortuna Düsseldorf – SC Verl | 1:2 | 20% / 19% / 62% |
 | 3. Liga | Preußen Münster – Fortuna Düsseldorf | 2:0 | 81% / 13% / 7% |
