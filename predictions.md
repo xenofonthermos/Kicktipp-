@@ -1,6 +1,6 @@
 # Bundesliga-Prognose – Spieltag 5–6
 
-Erstellt am 2026-10-08. Elo-basierte Tippempfehlung für Kicktipp, ohne Gewähr – reiner Unterhaltungswert.
+Erstellt am 2026-10-09. Elo-basierte Tippempfehlung für Kicktipp, ohne Gewähr – reiner Unterhaltungswert.
 
 | Liga | Spiel | Tipp | Heim% / Remis% / Auswärts% |
 | --- | --- | --- | --- |
@@ -12,13 +12,13 @@ Erstellt am 2026-10-08. Elo-basierte Tippempfehlung für Kicktipp, ohne Gewähr 
 | Bundesliga | SC Paderborn 07 – VfB Stuttgart | 1:2 | 17% / 19% / 65% |
 | Bundesliga | RB Leipzig – Eintracht Frankfurt | 2:1 | 56% / 21% / 24% |
 | Bundesliga | 1. FC Köln – Borussia Mönchengladbach | 2:1 | 44% / 25% / 31% |
-| Bundesliga | SC Freiburg – FC Schalke 04 | 1:0 | 68% / 19% / 13% |
+| Bundesliga | SC Freiburg – FC Schalke 04 | 1:0 | 69% / 19% / 13% |
 | Bundesliga | Eintracht Frankfurt – 1. FC Köln | 2:1 | 57% / 21% / 23% |
-| Bundesliga | 1. FC Union Berlin – Borussia Dortmund | 1:2 | 20% / 21% / 59% |
+| Bundesliga | 1. FC Union Berlin – Borussia Dortmund | 1:2 | 20% / 20% / 60% |
 | Bundesliga | Hamburger SV – VfB Stuttgart | 1:2 | 26% / 23% / 51% |
 | Bundesliga | SV Werder Bremen – SC Paderborn 07 | 2:1 | 63% / 19% / 18% |
-| Bundesliga | FC Schalke 04 – 1. FSV Mainz 05 | 1:2 | 26% / 22% / 51% |
-| Bundesliga | SV 07 Elversberg – FC Augsburg | 1:2 | 30% / 22% / 49% |
+| Bundesliga | FC Schalke 04 – 1. FSV Mainz 05 | 1:2 | 26% / 23% / 51% |
+| Bundesliga | SV 07 Elversberg – FC Augsburg | 1:2 | 29% / 22% / 49% |
 | Bundesliga | FC Bayern München – RB Leipzig | 2:1 | 67% / 16% / 17% |
 | Bundesliga | Bayer 04 Leverkusen – SC Freiburg | 2:1 | 54% / 22% / 24% |
 | Bundesliga | Borussia Mönchengladbach – TSG Hoffenheim | 1:2 | 31% / 25% / 44% |
