@@ -2,7 +2,7 @@
   "season": 2026,
   "matchday": 5,
   "nextMatchday": 6,
-  "generatedAt": "2026-10-09T17:35:00.849Z",
+  "generatedAt": "2026-10-09T18:05:01.900Z",
   "eloRanking": [
     {
       "rank": 1,
@@ -102,19 +102,19 @@
       "homeTeam": "Borussia Dortmund",
       "awayTeam": "SV Werder Bremen",
       "probabilities": {
-        "home": 0.692,
-        "draw": 0.17,
-        "away": 0.138
+        "home": 0.686,
+        "draw": 0.172,
+        "away": 0.143
       },
       "tip": "2:1",
-      "tipExpectedPoints": 1.709,
+      "tipExpectedPoints": 1.685,
       "valueBet": {
         "market": "1x2",
         "selection": "Auswärtssieg",
         "bookmaker": "Tipico",
         "bookmakerOdds": 7.8,
-        "ourProbability": 0.138,
-        "edgePct": 1.6
+        "ourProbability": 0.143,
+        "edgePct": 2
       },
       "homeForm": [
         "S",
@@ -129,11 +129,13 @@
         "S"
       ],
       "homeLineup": {
-        "confirmed": false,
-        "missingRegulars": []
+        "confirmed": true,
+        "missingRegulars": [
+          "J. Ryerson"
+        ]
       },
       "awayLineup": {
-        "confirmed": false,
+        "confirmed": true,
         "missingRegulars": []
       }
     },

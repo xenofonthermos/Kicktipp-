@@ -35,7 +35,8 @@
     1340458540,
     1340452583,
     1340445775,
-    1340449179
+    1340449179,
+    1340475560
   ],
   "teams": {
     "FC Bayern München": {
@@ -257,24 +258,25 @@
       }
     },
     "Borussia Dortmund": {
-      "matchesSeen": 4,
+      "matchesSeen": 5,
       "players": {
-        "G. Kobel": 4,
-        "Kouakou Joane Gadou": 4,
-        "W. Anton": 4,
+        "G. Kobel": 5,
+        "Kouakou Joane Gadou": 5,
+        "W. Anton": 5,
         "J. Ryerson": 4,
-        "D. Svensson": 4,
-        "F. Nmecha": 3,
-        "J. Bellingham": 3,
-        "M. Beier": 3,
+        "D. Svensson": 5,
+        "F. Nmecha": 4,
+        "J. Bellingham": 4,
+        "M. Beier": 4,
         "G. Konstantelias": 1,
-        "S. Guirassy": 4,
+        "S. Guirassy": 5,
         "K. Karetsas": 2,
         "F. Mané": 1,
-        "N. Schlotterbeck": 2,
+        "N. Schlotterbeck": 3,
         "J. Veerman": 2,
-        "E. Nwaneri": 2,
-        "Fábio Silva": 1
+        "E. Nwaneri": 3,
+        "Fábio Silva": 1,
+        "M. Sabitzer": 1
       }
     },
     "Hamburger SV": {
@@ -324,19 +326,19 @@
       }
     },
     "SV Werder Bremen": {
-      "matchesSeen": 4,
+      "matchesSeen": 5,
       "players": {
-        "K. Hein": 3,
-        "O. Deman": 3,
-        "M. Friedl": 3,
-        "A. Pieper": 3,
-        "Arthur": 3,
-        "Y. Regeer": 3,
-        "M. Grüll": 3,
-        "L. Reis": 3,
-        "Chuky San José": 3,
-        "E. Dinkçi": 3,
-        "N. Füllkrug": 3,
+        "K. Hein": 4,
+        "O. Deman": 4,
+        "M. Friedl": 4,
+        "A. Pieper": 4,
+        "Arthur": 4,
+        "Y. Regeer": 4,
+        "M. Grüll": 4,
+        "L. Reis": 4,
+        "Chuky San José": 4,
+        "E. Dinkçi": 4,
+        "N. Füllkrug": 4,
         "Karl Hein": 1,
         "Olivier Deman": 1,
         "Marco Friedl": 1,
