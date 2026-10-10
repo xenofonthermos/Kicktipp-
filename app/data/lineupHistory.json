@@ -36,7 +36,10 @@
     1340452583,
     1340445775,
     1340449179,
-    1340475560
+    1340475560,
+    1340477262,
+    1340480666,
+    1340482368
   ],
   "teams": {
     "FC Bayern München": {
@@ -74,7 +77,7 @@
       }
     },
     "VfB Stuttgart": {
-      "matchesSeen": 4,
+      "matchesSeen": 5,
       "players": {
         "Fabian Bredlow": 1,
         "Ramon Hendriks": 1,
@@ -88,17 +91,20 @@
         "Tiago Tomás": 1,
         "Dženan Pejčinović": 1,
         "F. Bredlow": 3,
-        "M. Mittelstädt": 3,
-        "J. Chabot": 3,
-        "C. Führich": 3,
-        "A. Stiller": 3,
+        "M. Mittelstädt": 4,
+        "J. Chabot": 4,
+        "C. Führich": 4,
+        "A. Stiller": 4,
         "G. Prömel": 3,
-        "J. Vagnoman": 3,
-        "D. Undav": 2,
+        "J. Vagnoman": 4,
+        "D. Undav": 3,
         "B. El Khannouss": 2,
-        "E. Demirović": 2,
-        "R. Hendriks": 1,
-        "D. Pejčinović": 2
+        "E. Demirović": 3,
+        "R. Hendriks": 2,
+        "D. Pejčinović": 2,
+        "D. Seimen": 1,
+        "A. Karazor": 1,
+        "J. Leweling": 1
       }
     },
     "1. FSV Mainz 05": {
@@ -121,42 +127,44 @@
       }
     },
     "SC Paderborn 07": {
-      "matchesSeen": 4,
+      "matchesSeen": 5,
       "players": {
-        "N. Noll": 4,
-        "M. Hansen": 4,
-        "T. Scheller": 4,
-        "J. ter Horst": 4,
-        "R. Obermair": 4,
-        "S. Castañeda": 4,
-        "L. Ulrich": 4,
-        "L. Curda": 4,
-        "G. Vidović": 4,
-        "M. Pieringer": 4,
-        "S. Marino": 3,
+        "N. Noll": 5,
+        "M. Hansen": 5,
+        "T. Scheller": 5,
+        "J. ter Horst": 5,
+        "R. Obermair": 5,
+        "S. Castañeda": 5,
+        "L. Ulrich": 5,
+        "L. Curda": 5,
+        "G. Vidović": 5,
+        "M. Pieringer": 5,
+        "S. Marino": 4,
         "R. Philippe": 1
       }
     },
     "1. FC Union Berlin": {
-      "matchesSeen": 4,
+      "matchesSeen": 5,
       "players": {
         "M. Raab": 1,
-        "T. Rothe": 4,
+        "T. Rothe": 5,
         "L. Querfeld": 3,
-        "Z. Van Den Bosch": 2,
+        "Z. Van Den Bosch": 3,
         "J. Juranović": 3,
-        "M. Aebischer": 4,
+        "M. Aebischer": 5,
         "A. Kemlein": 3,
-        "R. Khedira": 4,
-        "A. Schäfer": 2,
+        "R. Khedira": 5,
+        "A. Schäfer": 3,
         "E. Latte Lath": 4,
         "M. LjubiÄiÄ": 2,
-        "F. Rønnow": 3,
-        "F. Uduokhai": 3,
+        "F. Rønnow": 4,
+        "F. Uduokhai": 4,
         "Livan Burcu": 2,
         "C. Trimmel": 1,
-        "Jeong Woo-Yeong": 2,
-        "J. Haberer": 1
+        "Jeong Woo-Yeong": 3,
+        "J. Haberer": 2,
+        "K. Imeri": 1,
+        "T. Skarke": 1
       }
     },
     "Eintracht Frankfurt": {
@@ -201,40 +209,44 @@
       }
     },
     "TSG Hoffenheim": {
-      "matchesSeen": 4,
+      "matchesSeen": 5,
       "players": {
-        "O. Baumann": 4,
-        "Bernardo": 1,
+        "O. Baumann": 5,
+        "Bernardo": 2,
         "A. Hajdari": 3,
-        "O. Kabak": 4,
-        "V. Coufal": 4,
-        "W. Burger": 4,
-        "L. Avdullahu": 4,
-        "A. Daghim": 4,
+        "O. Kabak": 5,
+        "V. Coufal": 5,
+        "W. Burger": 5,
+        "L. Avdullahu": 5,
+        "A. Daghim": 5,
         "P. Wimmer": 2,
         "A. Hložek": 4,
-        "B. Conté": 3,
+        "B. Conté": 4,
         "M. Rots": 3,
-        "T. Lemperle": 2,
-        "K. Machida": 1,
-        "Max Moerstedt": 1
+        "T. Lemperle": 3,
+        "K. Machida": 2,
+        "Max Moerstedt": 1,
+        "F. Asllani": 1
       }
     },
     "SV 07 Elversberg": {
-      "matchesSeen": 4,
+      "matchesSeen": 5,
       "players": {
-        "N. Kristof": 4,
-        "L. Günther": 4,
-        "L. Pinckert": 4,
-        "M. Rohr": 4,
+        "N. Kristof": 5,
+        "L. Günther": 5,
+        "L. Pinckert": 5,
+        "M. Rohr": 5,
         "J. Gyamerah": 4,
-        "Ł. Poręba": 4,
-        "F. Keidel": 4,
+        "Ł. Poręba": 5,
+        "F. Keidel": 5,
         "William Cole Campbell": 4,
         "Francis-Ikechukwu Onyeka": 3,
-        "L. Petkov": 4,
+        "L. Petkov": 5,
         "D. Mokwa": 4,
-        "Noah Darvich": 1
+        "Noah Darvich": 2,
+        "L. Sirch": 1,
+        "T. Zimmerschied": 1,
+        "N. Futkeu": 1
       }
     },
     "Bayer 04 Leverkusen": {
@@ -280,26 +292,26 @@
       }
     },
     "Hamburger SV": {
-      "matchesSeen": 4,
+      "matchesSeen": 5,
       "players": {
-        "Daniel Heuer Fernandes": 4,
+        "Daniel Heuer Fernandes": 5,
         "J. Torunarigha": 4,
-        "S. Bornauw": 2,
-        "N. Capaldo": 4,
-        "L. Lemke": 1,
-        "A. Sambi Lokonga": 3,
-        "N. Remberg": 4,
+        "S. Bornauw": 3,
+        "N. Capaldo": 5,
+        "L. Lemke": 2,
+        "A. Sambi Lokonga": 4,
+        "N. Remberg": 5,
         "B. Jatta": 1,
         "A. Grønbæk": 4,
-        "M. Adeline": 2,
+        "M. Adeline": 3,
         "P. Daka": 2,
-        "W. Omari": 1,
-        "D. Møller Wolfe": 3,
+        "W. Omari": 2,
+        "D. Møller Wolfe": 4,
         "Z. El Ouahdi": 3,
-        "Fábio Vieira": 1,
+        "Fábio Vieira": 2,
         "T. Moffi": 2,
         "S. Nandja": 1,
-        "Y. Poulsen": 1,
+        "Y. Poulsen": 2,
         "B. Nadir": 1
       }
     },

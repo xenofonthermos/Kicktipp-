@@ -2,7 +2,7 @@
   "season": 2026,
   "matchday": 5,
   "nextMatchday": 6,
-  "generatedAt": "2026-10-10T12:35:00.727Z",
+  "generatedAt": "2026-10-10T13:05:01.470Z",
   "eloRanking": [
     {
       "rank": 1,
@@ -102,19 +102,19 @@
       "homeTeam": "TSG Hoffenheim",
       "awayTeam": "Hamburger SV",
       "probabilities": {
-        "home": 0.623,
-        "draw": 0.193,
-        "away": 0.185
+        "home": 0.628,
+        "draw": 0.191,
+        "away": 0.181
       },
       "tip": "2:1",
-      "tipExpectedPoints": 1.558,
+      "tipExpectedPoints": 1.588,
       "valueBet": {
         "market": "1x2",
         "selection": "Auswärtssieg",
         "bookmaker": "Tipico",
         "bookmakerOdds": 6.7,
-        "ourProbability": 0.185,
-        "edgePct": 4.3
+        "ourProbability": 0.181,
+        "edgePct": 4
       },
       "homeForm": [
         "N",
@@ -129,12 +129,20 @@
         "S"
       ],
       "homeLineup": {
-        "confirmed": false,
-        "missingRegulars": []
+        "confirmed": true,
+        "missingRegulars": [
+          "A. Hajdari",
+          "A. Hložek",
+          "M. Rots"
+        ]
       },
       "awayLineup": {
-        "confirmed": false,
-        "missingRegulars": []
+        "confirmed": true,
+        "missingRegulars": [
+          "J. Torunarigha",
+          "A. Grønbæk",
+          "Z. El Ouahdi"
+        ]
       }
     },
     {
@@ -144,11 +152,11 @@
       "awayTeam": "FC Bayern München",
       "probabilities": {
         "home": 0.174,
-        "draw": 0.167,
-        "away": 0.659
+        "draw": 0.17,
+        "away": 0.656
       },
       "tip": "1:2",
-      "tipExpectedPoints": 1.567,
+      "tipExpectedPoints": 1.57,
       "valueBet": {
         "market": "1x2",
         "selection": "Heimsieg",
@@ -225,9 +233,9 @@
       "homeTeam": "1. FC Union Berlin",
       "awayTeam": "SV 07 Elversberg",
       "probabilities": {
-        "home": 0.512,
-        "draw": 0.216,
-        "away": 0.272
+        "home": 0.506,
+        "draw": 0.218,
+        "away": 0.276
       },
       "tip": "2:1",
       "tipExpectedPoints": 1.33,
@@ -236,8 +244,8 @@
         "selection": "Heimsieg",
         "bookmaker": "Tipico",
         "bookmakerOdds": 2.55,
-        "ourProbability": 0.512,
-        "edgePct": 14
+        "ourProbability": 0.506,
+        "edgePct": 13.5
       },
       "homeForm": [
         "U",
@@ -252,12 +260,22 @@
         "U"
       ],
       "homeLineup": {
-        "confirmed": false,
-        "missingRegulars": []
+        "confirmed": true,
+        "missingRegulars": [
+          "L. Querfeld",
+          "J. Juranović",
+          "A. Kemlein",
+          "E. Latte Lath"
+        ]
       },
       "awayLineup": {
-        "confirmed": false,
-        "missingRegulars": []
+        "confirmed": true,
+        "missingRegulars": [
+          "J. Gyamerah",
+          "William Cole Campbell",
+          "Francis-Ikechukwu Onyeka",
+          "D. Mokwa"
+        ]
       }
     },
     {
@@ -266,19 +284,19 @@
       "homeTeam": "SC Paderborn 07",
       "awayTeam": "VfB Stuttgart",
       "probabilities": {
-        "home": 0.174,
-        "draw": 0.181,
-        "away": 0.645
+        "home": 0.191,
+        "draw": 0.193,
+        "away": 0.616
       },
       "tip": "1:2",
-      "tipExpectedPoints": 1.567,
+      "tipExpectedPoints": 1.539,
       "valueBet": {
         "market": "1x2",
         "selection": "Auswärtssieg",
         "bookmaker": "Tipico",
-        "bookmakerOdds": 1.57,
-        "ourProbability": 0.645,
-        "edgePct": 4.1
+        "bookmakerOdds": 1.6,
+        "ourProbability": 0.616,
+        "edgePct": 2.4
       },
       "homeForm": [
         "U",
@@ -293,12 +311,16 @@
         "N"
       ],
       "homeLineup": {
-        "confirmed": false,
+        "confirmed": true,
         "missingRegulars": []
       },
       "awayLineup": {
-        "confirmed": false,
-        "missingRegulars": []
+        "confirmed": true,
+        "missingRegulars": [
+          "Finn Jeltsch",
+          "F. Bredlow",
+          "G. Prömel"
+        ]
       }
     },
     {
