@@ -2,7 +2,7 @@
   "season": 2026,
   "matchday": 5,
   "nextMatchday": 6,
-  "generatedAt": "2026-10-10T15:35:01.818Z",
+  "generatedAt": "2026-10-10T16:05:02.163Z",
   "eloRanking": [
     {
       "rank": 1,
@@ -52,7 +52,7 @@
     {
       "rank": 10,
       "teamName": "TSG Hoffenheim",
-      "rating": 1685
+      "rating": 1675
     },
     {
       "rank": 11,
@@ -61,13 +61,13 @@
     },
     {
       "rank": 12,
-      "teamName": "1. FC Union Berlin",
-      "rating": 1603
+      "teamName": "Hamburger SV",
+      "rating": 1610
     },
     {
       "rank": 13,
-      "teamName": "Hamburger SV",
-      "rating": 1600
+      "teamName": "1. FC Union Berlin",
+      "rating": 1603
     },
     {
       "rank": 14,
@@ -103,18 +103,18 @@
       "awayTeam": "Eintracht Frankfurt",
       "probabilities": {
         "home": 0.545,
-        "draw": 0.215,
-        "away": 0.24
+        "draw": 0.217,
+        "away": 0.238
       },
       "tip": "2:1",
-      "tipExpectedPoints": 1.42,
+      "tipExpectedPoints": 1.434,
       "valueBet": {
         "market": "1x2",
         "selection": "Auswärtssieg",
         "bookmaker": "Tipico",
-        "bookmakerOdds": 4.6,
-        "ourProbability": 0.24,
-        "edgePct": 3.4
+        "bookmakerOdds": 4.7,
+        "ourProbability": 0.238,
+        "edgePct": 3.6
       },
       "homeForm": [
         "S",
@@ -184,9 +184,9 @@
       "homeTeam": "SC Freiburg",
       "awayTeam": "FC Schalke 04",
       "probabilities": {
-        "home": 0.691,
-        "draw": 0.184,
-        "away": 0.125
+        "home": 0.687,
+        "draw": 0.185,
+        "away": 0.128
       },
       "tip": "1:0",
       "tipExpectedPoints": 1.72,
@@ -194,9 +194,9 @@
         "market": "1x2",
         "selection": "Heimsieg",
         "bookmaker": "Tipico",
-        "bookmakerOdds": 1.6,
-        "ourProbability": 0.691,
-        "edgePct": 9.9
+        "bookmakerOdds": 1.62,
+        "ourProbability": 0.687,
+        "edgePct": 10.3
       },
       "homeForm": [
         "S",
@@ -225,19 +225,19 @@
       "homeTeam": "Eintracht Frankfurt",
       "awayTeam": "1. FC Köln",
       "probabilities": {
-        "home": 0.571,
-        "draw": 0.208,
-        "away": 0.221
+        "home": 0.575,
+        "draw": 0.2,
+        "away": 0.225
       },
       "tip": "2:1",
-      "tipExpectedPoints": 1.472,
+      "tipExpectedPoints": 1.456,
       "valueBet": {
         "market": "1x2",
         "selection": "Heimsieg",
         "bookmaker": "Tipico",
-        "bookmakerOdds": 1.9,
-        "ourProbability": 0.571,
-        "edgePct": 7.2
+        "bookmakerOdds": 1.87,
+        "ourProbability": 0.575,
+        "edgePct": 6.7
       },
       "homeForm": [
         "U",
@@ -309,26 +309,26 @@
       "homeTeam": "Hamburger SV",
       "awayTeam": "VfB Stuttgart",
       "probabilities": {
-        "home": 0.258,
-        "draw": 0.234,
-        "away": 0.508
+        "home": 0.263,
+        "draw": 0.236,
+        "away": 0.501
       },
       "tip": "1:2",
-      "tipExpectedPoints": 1.349,
+      "tipExpectedPoints": 1.301,
       "valueBet": {
         "market": "1x2",
         "selection": "Heimsieg",
         "bookmaker": "Tipico",
         "bookmakerOdds": 4,
-        "ourProbability": 0.258,
-        "edgePct": 2.2
+        "ourProbability": 0.263,
+        "edgePct": 2.6
       },
       "homeForm": [
         "N",
         "N",
         "N",
         "S",
-        "U"
+        "S"
       ],
       "awayForm": [
         "N",
@@ -564,9 +564,9 @@
       "homeTeam": "Borussia Mönchengladbach",
       "awayTeam": "TSG Hoffenheim",
       "probabilities": {
-        "home": 0.311,
-        "draw": 0.25,
-        "away": 0.438
+        "home": 0.315,
+        "draw": 0.253,
+        "away": 0.432
       },
       "tip": "1:2",
       "tipExpectedPoints": 1.195,
@@ -575,8 +575,8 @@
         "selection": "Heimsieg",
         "bookmaker": "Tipico",
         "bookmakerOdds": 3.4,
-        "ourProbability": 0.311,
-        "edgePct": 3.3
+        "ourProbability": 0.315,
+        "edgePct": 3.7
       },
       "homeForm": [
         "N",
@@ -589,7 +589,7 @@
         "N",
         "S",
         "N",
-        "U"
+        "N"
       ],
       "homeLineup": {
         "confirmed": false,
