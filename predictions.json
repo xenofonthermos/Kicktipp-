@@ -2,7 +2,7 @@
   "season": 2026,
   "matchday": 5,
   "nextMatchday": 6,
-  "generatedAt": "2026-10-09T18:05:01.900Z",
+  "generatedAt": "2026-10-10T05:05:44.552Z",
   "eloRanking": [
     {
       "rank": 1,
@@ -12,7 +12,7 @@
     {
       "rank": 2,
       "teamName": "Borussia Dortmund",
-      "rating": 1847
+      "rating": 1840
     },
     {
       "rank": 3,
@@ -57,7 +57,7 @@
     {
       "rank": 11,
       "teamName": "SV Werder Bremen",
-      "rating": 1654
+      "rating": 1660
     },
     {
       "rank": 12,
@@ -96,49 +96,6 @@
     }
   ],
   "matches": [
-    {
-      "matchDateTime": "2026-10-09T20:30:00",
-      "league": "Bundesliga",
-      "homeTeam": "Borussia Dortmund",
-      "awayTeam": "SV Werder Bremen",
-      "probabilities": {
-        "home": 0.686,
-        "draw": 0.172,
-        "away": 0.143
-      },
-      "tip": "2:1",
-      "tipExpectedPoints": 1.685,
-      "valueBet": {
-        "market": "1x2",
-        "selection": "Auswärtssieg",
-        "bookmaker": "Tipico",
-        "bookmakerOdds": 7.8,
-        "ourProbability": 0.143,
-        "edgePct": 2
-      },
-      "homeForm": [
-        "S",
-        "S",
-        "S",
-        "S"
-      ],
-      "awayForm": [
-        "N",
-        "S",
-        "U",
-        "S"
-      ],
-      "homeLineup": {
-        "confirmed": true,
-        "missingRegulars": [
-          "J. Ryerson"
-        ]
-      },
-      "awayLineup": {
-        "confirmed": true,
-        "missingRegulars": []
-      }
-    },
     {
       "matchDateTime": "2026-10-10T15:30:00",
       "league": "Bundesliga",
@@ -268,19 +225,19 @@
       "homeTeam": "1. FC Union Berlin",
       "awayTeam": "SV 07 Elversberg",
       "probabilities": {
-        "home": 0.523,
+        "home": 0.519,
         "draw": 0.212,
-        "away": 0.265
+        "away": 0.269
       },
       "tip": "2:1",
-      "tipExpectedPoints": 1.369,
+      "tipExpectedPoints": 1.33,
       "valueBet": {
         "market": "1x2",
         "selection": "Heimsieg",
         "bookmaker": "Tipico",
-        "bookmakerOdds": 2.4,
-        "ourProbability": 0.523,
-        "edgePct": 12.9
+        "bookmakerOdds": 2.45,
+        "ourProbability": 0.519,
+        "edgePct": 13.2
       },
       "homeForm": [
         "U",
@@ -309,19 +266,19 @@
       "homeTeam": "SC Paderborn 07",
       "awayTeam": "VfB Stuttgart",
       "probabilities": {
-        "home": 0.17,
-        "draw": 0.181,
-        "away": 0.649
+        "home": 0.172,
+        "draw": 0.183,
+        "away": 0.645
       },
       "tip": "1:2",
-      "tipExpectedPoints": 1.593,
+      "tipExpectedPoints": 1.567,
       "valueBet": {
         "market": "1x2",
         "selection": "Auswärtssieg",
         "bookmaker": "Tipico",
-        "bookmakerOdds": 1.55,
-        "ourProbability": 0.649,
-        "edgePct": 3.7
+        "bookmakerOdds": 1.57,
+        "ourProbability": 0.645,
+        "edgePct": 4.1
       },
       "homeForm": [
         "U",
@@ -351,18 +308,18 @@
       "awayTeam": "Eintracht Frankfurt",
       "probabilities": {
         "home": 0.551,
-        "draw": 0.213,
-        "away": 0.236
+        "draw": 0.215,
+        "away": 0.234
       },
       "tip": "2:1",
-      "tipExpectedPoints": 1.42,
+      "tipExpectedPoints": 1.434,
       "valueBet": {
         "market": "1x2",
         "selection": "Auswärtssieg",
         "bookmaker": "Tipico",
-        "bookmakerOdds": 4.8,
-        "ourProbability": 0.236,
-        "edgePct": 3.8
+        "bookmakerOdds": 4.9,
+        "ourProbability": 0.234,
+        "edgePct": 4
       },
       "homeForm": [
         "S",
@@ -432,9 +389,9 @@
       "homeTeam": "SC Freiburg",
       "awayTeam": "FC Schalke 04",
       "probabilities": {
-        "home": 0.691,
-        "draw": 0.184,
-        "away": 0.125
+        "home": 0.687,
+        "draw": 0.185,
+        "away": 0.128
       },
       "tip": "1:0",
       "tipExpectedPoints": 1.72,
@@ -442,9 +399,9 @@
         "market": "1x2",
         "selection": "Heimsieg",
         "bookmaker": "Tipico",
-        "bookmakerOdds": 1.6,
-        "ourProbability": 0.691,
-        "edgePct": 9.9
+        "bookmakerOdds": 1.62,
+        "ourProbability": 0.687,
+        "edgePct": 10.3
       },
       "homeForm": [
         "S",
@@ -474,11 +431,11 @@
       "awayTeam": "1. FC Köln",
       "probabilities": {
         "home": 0.571,
-        "draw": 0.205,
-        "away": 0.225
+        "draw": 0.208,
+        "away": 0.221
       },
       "tip": "2:1",
-      "tipExpectedPoints": 1.456,
+      "tipExpectedPoints": 1.472,
       "valueBet": {
         "market": "1x2",
         "selection": "Heimsieg",
@@ -514,19 +471,19 @@
       "homeTeam": "1. FC Union Berlin",
       "awayTeam": "Borussia Dortmund",
       "probabilities": {
-        "home": 0.203,
-        "draw": 0.202,
-        "away": 0.595
+        "home": 0.206,
+        "draw": 0.206,
+        "away": 0.588
       },
       "tip": "1:2",
-      "tipExpectedPoints": 1.507,
+      "tipExpectedPoints": 1.472,
       "valueBet": {
         "market": "1x2",
         "selection": "Heimsieg",
         "bookmaker": "Tipico",
         "bookmakerOdds": 4.8,
-        "ourProbability": 0.203,
-        "edgePct": 0.6
+        "ourProbability": 0.206,
+        "edgePct": 0.8
       },
       "homeForm": [
         "U",
@@ -538,7 +495,8 @@
         "S",
         "S",
         "S",
-        "S"
+        "S",
+        "U"
       ],
       "homeLineup": {
         "confirmed": false,
@@ -596,9 +554,9 @@
       "homeTeam": "SV Werder Bremen",
       "awayTeam": "SC Paderborn 07",
       "probabilities": {
-        "home": 0.627,
-        "draw": 0.191,
-        "away": 0.182
+        "home": 0.63,
+        "draw": 0.19,
+        "away": 0.18
       },
       "tip": "2:1",
       "tipExpectedPoints": 1.588,
@@ -607,14 +565,15 @@
         "selection": "Heimsieg",
         "bookmaker": "Tipico",
         "bookmakerOdds": 1.75,
-        "ourProbability": 0.627,
-        "edgePct": 8.4
+        "ourProbability": 0.63,
+        "edgePct": 8.7
       },
       "homeForm": [
         "N",
         "S",
         "U",
-        "S"
+        "S",
+        "U"
       ],
       "awayForm": [
         "U",
@@ -719,9 +678,9 @@
       "homeTeam": "FC Bayern München",
       "awayTeam": "RB Leipzig",
       "probabilities": {
-        "home": 0.667,
-        "draw": 0.164,
-        "away": 0.17
+        "home": 0.674,
+        "draw": 0.161,
+        "away": 0.165
       },
       "tip": "2:1",
       "tipExpectedPoints": 1.636,
@@ -729,9 +688,9 @@
         "market": "1x2",
         "selection": "Auswärtssieg",
         "bookmaker": "Tipico",
-        "bookmakerOdds": 9,
-        "ourProbability": 0.17,
-        "edgePct": 6.5
+        "bookmakerOdds": 10,
+        "ourProbability": 0.165,
+        "edgePct": 7
       },
       "homeForm": [
         "S",
@@ -878,7 +837,7 @@
       "homeTeam": "Preußen Münster",
       "awayTeam": "Fortuna Düsseldorf",
       "probabilities": {
-        "home": 0.807,
+        "home": 0.806,
         "draw": 0.127,
         "away": 0.066
       },
@@ -886,11 +845,11 @@
       "tipExpectedPoints": 1.995,
       "valueBet": null,
       "homeForm": [
-        "N",
         "S",
         "S",
         "U",
-        "N"
+        "N",
+        "U"
       ],
       "awayForm": [
         "S",
@@ -946,18 +905,18 @@
     }
   ],
   "valueBetTrackRecord": {
-    "resolvedBets": 36,
+    "resolvedBets": 37,
     "wins": 11,
-    "losses": 25,
-    "profitUnits": -15.33,
-    "roiPercent": -42.6
+    "losses": 26,
+    "profitUnits": -16.33,
+    "roiPercent": -44.1
   },
   "tipTrackRecord": {
-    "resolvedTips": 43,
+    "resolvedTips": 44,
     "points": 50,
-    "avgPoints": 1.16,
+    "avgPoints": 1.14,
     "distribution": {
-      "0": 22,
+      "0": 23,
       "2": 15,
       "3": 4,
       "4": 2
@@ -966,12 +925,12 @@
       "immer21": {
         "label": "Immer 2:1",
         "points": 59,
-        "avgPoints": 1.37
+        "avgPoints": 1.34
       },
       "favorit": {
         "label": "Favorit 2:1 / 1:2",
         "points": 59,
-        "avgPoints": 1.37
+        "avgPoints": 1.34
       }
     }
   }
