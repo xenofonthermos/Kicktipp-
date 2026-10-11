@@ -2,7 +2,7 @@
   "season": 2026,
   "matchday": 5,
   "nextMatchday": 6,
-  "generatedAt": "2026-10-11T15:05:01.769Z",
+  "generatedAt": "2026-10-11T16:35:01.596Z",
   "eloRanking": [
     {
       "rank": 1,
@@ -71,13 +71,13 @@
     },
     {
       "rank": 14,
-      "teamName": "Borussia Mönchengladbach",
-      "rating": 1600
+      "teamName": "1. FC Köln",
+      "rating": 1593
     },
     {
       "rank": 15,
-      "teamName": "1. FC Köln",
-      "rating": 1584
+      "teamName": "Borussia Mönchengladbach",
+      "rating": 1592
     },
     {
       "rank": 16,
@@ -97,72 +97,24 @@
   ],
   "matches": [
     {
-      "matchDateTime": "2026-10-11T15:30:00",
-      "league": "Bundesliga",
-      "homeTeam": "1. FC Köln",
-      "awayTeam": "Borussia Mönchengladbach",
-      "probabilities": {
-        "home": 0.58,
-        "draw": 0.236,
-        "away": 0.184
-      },
-      "tip": "1:0",
-      "tipExpectedPoints": 1.571,
-      "valueBet": {
-        "market": "1x2",
-        "selection": "Auswärtssieg",
-        "bookmaker": "Tipico",
-        "bookmakerOdds": 20,
-        "ourProbability": 0.184,
-        "edgePct": 13.8
-      },
-      "homeForm": [
-        "S",
-        "N",
-        "U",
-        "N"
-      ],
-      "awayForm": [
-        "N",
-        "N",
-        "N",
-        "N"
-      ],
-      "homeLineup": {
-        "confirmed": true,
-        "missingRegulars": [
-          "G. Mensah",
-          "A. Castro-Montes",
-          "T. Krauß"
-        ]
-      },
-      "awayLineup": {
-        "confirmed": true,
-        "missingRegulars": [
-          "K. Itakura",
-          "F. Honorat"
-        ]
-      }
-    },
-    {
       "matchDateTime": "2026-10-11T17:30:00",
       "league": "Bundesliga",
       "homeTeam": "SC Freiburg",
       "awayTeam": "FC Schalke 04",
       "probabilities": {
-        "home": 0.699,
-        "draw": 0.177,
-        "away": 0.125
+        "home": 0.65,
+        "draw": 0.228,
+        "away": 0.122
       },
       "tip": "1:0",
-      "tipExpectedPoints": 1.741,
+      "tipExpectedPoints": 1.723,
       "valueBet": {
         "market": "1x2",
         "selection": "Heimsieg",
         "bookmaker": "Tipico",
-        "bookmakerOdds": 1.6,
-        "ourProbability": 0.699,
-        "edgePct": 10.7
+        "bookmakerOdds": 1.85,
+        "ourProbability": 0.65,
+        "edgePct": 15.4
       },
       "homeForm": [
         "S",
@@ -194,19 +146,19 @@
       "homeTeam": "Eintracht Frankfurt",
       "awayTeam": "1. FC Köln",
       "probabilities": {
-        "home": 0.569,
-        "draw": 0.208,
-        "away": 0.223
+        "home": 0.564,
+        "draw": 0.209,
+        "away": 0.226
       },
       "tip": "2:1",
-      "tipExpectedPoints": 1.472,
+      "tipExpectedPoints": 1.456,
       "valueBet": {
         "market": "1x2",
         "selection": "Heimsieg",
         "bookmaker": "Tipico",
         "bookmakerOdds": 1.85,
-        "ourProbability": 0.569,
-        "edgePct": 5.7
+        "ourProbability": 0.564,
+        "edgePct": 5.2
       },
       "homeForm": [
         "U",
@@ -219,7 +171,8 @@
         "S",
         "N",
         "U",
-        "N"
+        "N",
+        "S"
       ],
       "homeLineup": {
         "confirmed": false,
@@ -365,9 +318,9 @@
       "homeTeam": "FC Schalke 04",
       "awayTeam": "1. FSV Mainz 05",
       "probabilities": {
-        "home": 0.266,
+        "home": 0.258,
         "draw": 0.226,
-        "away": 0.508
+        "away": 0.516
       },
       "tip": "1:2",
       "tipExpectedPoints": 1.34,
@@ -375,9 +328,9 @@
         "market": "1x2",
         "selection": "Auswärtssieg",
         "bookmaker": "Tipico",
-        "bookmakerOdds": 2.35,
-        "ourProbability": 0.508,
-        "edgePct": 10.4
+        "bookmakerOdds": 2.25,
+        "ourProbability": 0.516,
+        "edgePct": 9.5
       },
       "homeForm": [
         "N",
@@ -535,9 +488,9 @@
       "homeTeam": "Borussia Mönchengladbach",
       "awayTeam": "TSG Hoffenheim",
       "probabilities": {
-        "home": 0.315,
-        "draw": 0.253,
-        "away": 0.432
+        "home": 0.316,
+        "draw": 0.248,
+        "away": 0.435
       },
       "tip": "1:2",
       "tipExpectedPoints": 1.195,
@@ -545,11 +498,12 @@
         "market": "1x2",
         "selection": "Heimsieg",
         "bookmaker": "Tipico",
-        "bookmakerOdds": 3.4,
-        "ourProbability": 0.315,
-        "edgePct": 3.7
+        "bookmakerOdds": 3.3,
+        "ourProbability": 0.316,
+        "edgePct": 2.9
       },
       "homeForm": [
+        "N",
         "N",
         "N",
         "N",
@@ -681,32 +635,32 @@
     }
   ],
   "valueBetTrackRecord": {
-    "resolvedBets": 43,
+    "resolvedBets": 44,
     "wins": 13,
-    "losses": 30,
-    "profitUnits": -18.18,
-    "roiPercent": -42.3
+    "losses": 31,
+    "profitUnits": -19.18,
+    "roiPercent": -43.6
   },
   "tipTrackRecord": {
-    "resolvedTips": 50,
-    "points": 60,
-    "avgPoints": 1.2,
+    "resolvedTips": 51,
+    "points": 63,
+    "avgPoints": 1.24,
     "distribution": {
       "0": 25,
       "2": 17,
-      "3": 6,
+      "3": 7,
       "4": 2
     },
     "baselines": {
       "immer21": {
         "label": "Immer 2:1",
-        "points": 64,
-        "avgPoints": 1.28
+        "points": 68,
+        "avgPoints": 1.33
       },
       "favorit": {
         "label": "Favorit 2:1 / 1:2",
-        "points": 69,
-        "avgPoints": 1.38
+        "points": 73,
+        "avgPoints": 1.43
       }
     }
   }
