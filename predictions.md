@@ -1,19 +1,18 @@
 # Bundesliga-Prognose – Spieltag 5–6
 
-Erstellt am 2026-10-10. Elo-basierte Tippempfehlung für Kicktipp, ohne Gewähr – reiner Unterhaltungswert.
+Erstellt am 2026-10-11. Elo-basierte Tippempfehlung für Kicktipp, ohne Gewähr – reiner Unterhaltungswert.
 
 | Liga | Spiel | Tipp | Heim% / Remis% / Auswärts% |
 | --- | --- | --- | --- |
-| Bundesliga | RB Leipzig – Eintracht Frankfurt | 2:1 | 55% / 22% / 24% |
-| Bundesliga | 1. FC Köln – Borussia Mönchengladbach | 1:0 | 44% / 25% / 30% |
-| Bundesliga | SC Freiburg – FC Schalke 04 | 1:0 | 69% / 19% / 13% |
-| Bundesliga | Eintracht Frankfurt – 1. FC Köln | 2:1 | 57% / 20% / 23% |
-| Bundesliga | 1. FC Union Berlin – Borussia Dortmund | 1:2 | 21% / 20% / 59% |
-| Bundesliga | Hamburger SV – VfB Stuttgart | 1:2 | 26% / 24% / 50% |
+| Bundesliga | 1. FC Köln – Borussia Mönchengladbach | 1:0 | 45% / 26% / 30% |
+| Bundesliga | SC Freiburg – FC Schalke 04 | 1:0 | 70% / 18% / 12% |
+| Bundesliga | Eintracht Frankfurt – 1. FC Köln | 2:1 | 57% / 21% / 23% |
+| Bundesliga | 1. FC Union Berlin – Borussia Dortmund | 1:2 | 21% / 21% / 59% |
+| Bundesliga | Hamburger SV – VfB Stuttgart | 1:2 | 27% / 23% / 50% |
 | Bundesliga | SV Werder Bremen – SC Paderborn 07 | 2:1 | 63% / 19% / 18% |
 | Bundesliga | FC Schalke 04 – 1. FSV Mainz 05 | 1:2 | 26% / 23% / 51% |
 | Bundesliga | SV 07 Elversberg – FC Augsburg | 1:2 | 29% / 22% / 49% |
-| Bundesliga | FC Bayern München – RB Leipzig | 2:1 | 67% / 16% / 17% |
+| Bundesliga | FC Bayern München – RB Leipzig | 2:1 | 66% / 17% / 18% |
 | Bundesliga | Bayer 04 Leverkusen – SC Freiburg | 2:1 | 54% / 22% / 24% |
 | Bundesliga | Borussia Mönchengladbach – TSG Hoffenheim | 1:2 | 32% / 25% / 43% |
 | 3. Liga | Fortuna Düsseldorf – SC Verl | 1:2 | 20% / 19% / 62% |
@@ -27,10 +26,10 @@ Erstellt am 2026-10-10. Elo-basierte Tippempfehlung für Kicktipp, ohne Gewähr 
 | 1 | FC Bayern München | 1863 |
 | 2 | Borussia Dortmund | 1840 |
 | 3 | Bayer 04 Leverkusen | 1807 |
-| 4 | RB Leipzig | 1780 |
+| 4 | RB Leipzig | 1795 |
 | 5 | SC Freiburg | 1765 |
 | 6 | VfB Stuttgart | 1762 |
-| 7 | Eintracht Frankfurt | 1741 |
+| 7 | Eintracht Frankfurt | 1726 |
 | 8 | FC Augsburg | 1700 |
 | 9 | 1. FSV Mainz 05 | 1687 |
 | 10 | TSG Hoffenheim | 1675 |
@@ -45,8 +44,8 @@ Erstellt am 2026-10-10. Elo-basierte Tippempfehlung für Kicktipp, ohne Gewähr 
 
 ## Kicktipp-Bilanz (bisher ausgewertete Tipps)
 
-58 Punkte aus 49 Spielen (Ø 1.18 je Spiel). Vergleich: Immer 2:1 Ø 1.27, Favorit 2:1 / 1:2 Ø 1.37.
+60 Punkte aus 50 Spielen (Ø 1.2 je Spiel). Vergleich: Immer 2:1 Ø 1.28, Favorit 2:1 / 1:2 Ø 1.38.
 
 ## Tipico-Erfolgsbilanz (bisher entschiedene Wett-Tipps)
 
-13 von 42 richtig, Bilanz -17.18 Einheiten (-40.9% ROI bei 1 Einheit Einsatz je Tipp). Reine Information, keine Wettempfehlung — siehe RISKS.md.
+13 von 43 richtig, Bilanz -18.18 Einheiten (-42.3% ROI bei 1 Einheit Einsatz je Tipp). Reine Information, keine Wettempfehlung — siehe RISKS.md.
