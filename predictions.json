@@ -2,7 +2,7 @@
   "season": 2026,
   "matchday": 5,
   "nextMatchday": 6,
-  "generatedAt": "2026-10-11T12:35:02.058Z",
+  "generatedAt": "2026-10-11T13:05:01.120Z",
   "eloRanking": [
     {
       "rank": 1,
@@ -102,9 +102,9 @@
       "homeTeam": "1. FC Köln",
       "awayTeam": "Borussia Mönchengladbach",
       "probabilities": {
-        "home": 0.456,
+        "home": 0.458,
         "draw": 0.252,
-        "away": 0.292
+        "away": 0.29
       },
       "tip": "1:0",
       "tipExpectedPoints": 1.27,
@@ -112,9 +112,9 @@
         "market": "1x2",
         "selection": "Auswärtssieg",
         "bookmaker": "Tipico",
-        "bookmakerOdds": 3.6,
-        "ourProbability": 0.292,
-        "edgePct": 2.8
+        "bookmakerOdds": 3.8,
+        "ourProbability": 0.29,
+        "edgePct": 4
       },
       "homeForm": [
         "S",
@@ -129,12 +129,20 @@
         "N"
       ],
       "homeLineup": {
-        "confirmed": false,
-        "missingRegulars": []
+        "confirmed": true,
+        "missingRegulars": [
+          "G. Mensah",
+          "A. Castro-Montes",
+          "T. Krauß"
+        ]
       },
       "awayLineup": {
-        "confirmed": false,
-        "missingRegulars": []
+        "confirmed": true,
+        "missingRegulars": [
+          "K. Itakura",
+          "F. Honorat",
+          "T. Kleindienst"
+        ]
       }
     },
     {
@@ -143,18 +151,18 @@
       "homeTeam": "SC Freiburg",
       "awayTeam": "FC Schalke 04",
       "probabilities": {
-        "home": 0.674,
-        "draw": 0.188,
-        "away": 0.138
+        "home": 0.673,
+        "draw": 0.185,
+        "away": 0.142
       },
-      "tip": "1:0",
-      "tipExpectedPoints": 1.697,
+      "tip": "2:1",
+      "tipExpectedPoints": 1.685,
       "valueBet": {
         "market": "1x2",
         "selection": "Heimsieg",
         "bookmaker": "Tipico",
         "bookmakerOdds": 1.7,
-        "ourProbability": 0.674,
+        "ourProbability": 0.673,
         "edgePct": 11.6
       },
       "homeForm": [

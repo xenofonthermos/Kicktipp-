@@ -39,7 +39,8 @@
     1340475560,
     1340477262,
     1340480666,
-    1340482368
+    1340482368,
+    1340481517
   ],
   "teams": {
     "FC Bayern München": {
@@ -188,24 +189,26 @@
       }
     },
     "1. FC Köln": {
-      "matchesSeen": 4,
+      "matchesSeen": 5,
       "players": {
-        "M. Schwäbe": 4,
+        "M. Schwäbe": 5,
         "G. Mensah": 4,
-        "L. Lochoshvili": 4,
-        "Jahmai Simpson-Pusey": 4,
+        "L. Lochoshvili": 5,
+        "Jahmai Simpson-Pusey": 5,
         "A. Castro-Montes": 4,
-        "Í. Bergmann Jóhannesson": 2,
+        "Í. Bergmann Jóhannesson": 3,
         "T. Krauß": 4,
         "Paul Michael Junior Okon-Engstler": 2,
-        "S. El Mala": 2,
+        "S. El Mala": 3,
         "R. Ache": 2,
         "J. Thielmann": 2,
-        "E. Skhiri": 2,
-        "M. Moore": 2,
-        "L. Maina": 3,
+        "E. Skhiri": 3,
+        "M. Moore": 3,
+        "L. Maina": 4,
         "T. Dallinga": 2,
-        "M. Bülter": 1
+        "M. Bülter": 2,
+        "B. Sosa": 1,
+        "S. Sebulonsen": 1
       }
     },
     "TSG Hoffenheim": {
@@ -316,25 +319,26 @@
       }
     },
     "Borussia Mönchengladbach": {
-      "matchesSeen": 3,
+      "matchesSeen": 4,
       "players": {
-        "M. Nicolas": 3,
-        "L. Ullrich": 2,
-        "K. Diks": 3,
+        "M. Nicolas": 4,
+        "L. Ullrich": 3,
+        "K. Diks": 4,
         "K. Itakura": 3,
-        "J. Scally": 3,
+        "J. Scally": 4,
         "M. Nguefack": 1,
-        "P. Sander": 3,
-        "H. Bolin": 3,
+        "P. Sander": 4,
+        "H. Bolin": 4,
         "W. Mohya": 1,
         "F. Honorat": 3,
         "T. Kleindienst": 2,
-        "J. Leszczyński": 1,
-        "F. Neuhaus": 1,
-        "I. Lidberg": 1,
+        "J. Leszczyński": 2,
+        "F. Neuhaus": 2,
+        "I. Lidberg": 2,
         "D. Herold": 1,
-        "R. Hack": 1,
-        "K. Stöger": 1
+        "R. Hack": 2,
+        "K. Stöger": 1,
+        "D. Hashioka": 1
       }
     },
     "SV Werder Bremen": {

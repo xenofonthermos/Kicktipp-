@@ -1016,17 +1016,17 @@
       "homeTeam": "SC Freiburg",
       "awayTeam": "FC Schalke 04",
       "kickoffUtc": "2026-10-11T15:30:00.000Z",
-      "tip": "1:0",
+      "tip": "2:1",
       "probabilities": {
-        "home": 0.674,
-        "draw": 0.188,
-        "away": 0.138
+        "home": 0.673,
+        "draw": 0.185,
+        "away": 0.142
       },
       "baselines": {
         "immer21": "2:1",
         "favorit": "2:1"
       },
-      "recordedAt": "2026-10-11T12:35:02.058Z",
+      "recordedAt": "2026-10-11T13:05:01.120Z",
       "matchId": 83195,
       "status": "pending"
     },
@@ -1112,15 +1112,15 @@
       "kickoffUtc": "2026-10-11T13:30:00.000Z",
       "tip": "1:0",
       "probabilities": {
-        "home": 0.456,
+        "home": 0.458,
         "draw": 0.252,
-        "away": 0.292
+        "away": 0.29
       },
       "baselines": {
         "immer21": "2:1",
         "favorit": "2:1"
       },
-      "recordedAt": "2026-10-11T12:35:02.058Z",
+      "recordedAt": "2026-10-11T13:05:01.120Z",
       "matchId": 83199,
       "status": "pending"
     },
@@ -1164,7 +1164,7 @@
         "immer21": "2:1",
         "favorit": "2:1"
       },
-      "recordedAt": "2026-10-11T12:35:02.058Z",
+      "recordedAt": "2026-10-11T13:05:01.120Z",
       "matchId": 83201,
       "status": "pending"
     },
@@ -1183,7 +1183,7 @@
         "immer21": "2:1",
         "favorit": "2:1"
       },
-      "recordedAt": "2026-10-11T12:35:02.058Z",
+      "recordedAt": "2026-10-11T13:05:01.120Z",
       "matchId": 83202,
       "status": "pending"
     },
@@ -1202,7 +1202,7 @@
         "immer21": "2:1",
         "favorit": "2:1"
       },
-      "recordedAt": "2026-10-11T12:35:02.058Z",
+      "recordedAt": "2026-10-11T13:05:01.120Z",
       "matchId": 83203,
       "status": "pending"
     },
@@ -1221,7 +1221,7 @@
         "immer21": "2:1",
         "favorit": "1:2"
       },
-      "recordedAt": "2026-10-11T12:35:02.058Z",
+      "recordedAt": "2026-10-11T13:05:01.120Z",
       "matchId": 83204,
       "status": "pending"
     },
@@ -1240,7 +1240,7 @@
         "immer21": "2:1",
         "favorit": "1:2"
       },
-      "recordedAt": "2026-10-11T12:35:02.058Z",
+      "recordedAt": "2026-10-11T13:05:01.120Z",
       "matchId": 83205,
       "status": "pending"
     },
@@ -1259,7 +1259,7 @@
         "immer21": "2:1",
         "favorit": "1:2"
       },
-      "recordedAt": "2026-10-11T12:35:02.058Z",
+      "recordedAt": "2026-10-11T13:05:01.120Z",
       "matchId": 83206,
       "status": "pending"
     },
@@ -1278,7 +1278,7 @@
         "immer21": "2:1",
         "favorit": "2:1"
       },
-      "recordedAt": "2026-10-11T12:35:02.058Z",
+      "recordedAt": "2026-10-11T13:05:01.120Z",
       "matchId": 83207,
       "status": "pending"
     },
@@ -1297,7 +1297,7 @@
         "immer21": "2:1",
         "favorit": "1:2"
       },
-      "recordedAt": "2026-10-11T12:35:02.058Z",
+      "recordedAt": "2026-10-11T13:05:01.120Z",
       "matchId": 83208,
       "status": "pending"
     },
@@ -1316,7 +1316,7 @@
         "immer21": "2:1",
         "favorit": "1:2"
       },
-      "recordedAt": "2026-10-11T12:35:02.058Z",
+      "recordedAt": "2026-10-11T13:05:01.120Z",
       "matchId": 83209,
       "status": "pending"
     },
@@ -1517,7 +1517,7 @@
         "immer21": "2:1",
         "favorit": "1:2"
       },
-      "recordedAt": "2026-10-11T12:35:02.058Z",
+      "recordedAt": "2026-10-11T13:05:01.120Z",
       "matchId": 84824,
       "status": "pending"
     },
@@ -1536,7 +1536,7 @@
         "immer21": "2:1",
         "favorit": "2:1"
       },
-      "recordedAt": "2026-10-11T12:35:02.058Z",
+      "recordedAt": "2026-10-11T13:05:01.120Z",
       "matchId": 84826,
       "status": "pending"
     },
@@ -1555,7 +1555,7 @@
         "immer21": "2:1",
         "favorit": "1:2"
       },
-      "recordedAt": "2026-10-11T12:35:02.058Z",
+      "recordedAt": "2026-10-11T13:05:01.120Z",
       "matchId": 84835,
       "status": "pending"
     }
