@@ -40,7 +40,8 @@
     1340477262,
     1340480666,
     1340482368,
-    1340481517
+    1340481517,
+    1340478113
   ],
   "teams": {
     "FC Bayern München": {
@@ -391,19 +392,19 @@
       }
     },
     "SC Freiburg": {
-      "matchesSeen": 4,
+      "matchesSeen": 5,
       "players": {
-        "M. Backhaus": 3,
-        "J. Makengo": 3,
-        "P. Lienhart": 3,
-        "M. Ginter": 3,
-        "P. Treu": 3,
-        "Y. Engelhardt": 3,
-        "M. Eggestein": 3,
-        "D. Scherhant": 3,
-        "Y. Suzuki": 3,
-        "J. Beste": 3,
-        "I. Matanović": 3,
+        "M. Backhaus": 4,
+        "J. Makengo": 4,
+        "P. Lienhart": 4,
+        "M. Ginter": 4,
+        "P. Treu": 4,
+        "Y. Engelhardt": 4,
+        "M. Eggestein": 4,
+        "D. Scherhant": 4,
+        "Y. Suzuki": 4,
+        "J. Beste": 4,
+        "I. Matanović": 4,
         "Mio Backhaus": 1,
         "Jordy Makengo": 1,
         "Philipp Lienhart": 1,
@@ -477,22 +478,22 @@
       }
     },
     "FC Schalke 04": {
-      "matchesSeen": 4,
+      "matchesSeen": 5,
       "players": {
-        "L. Karius": 3,
-        "H. Kuruçay": 3,
-        "N. Katić": 3,
+        "L. Karius": 4,
+        "H. Kuruçay": 4,
+        "N. Katić": 4,
         "T. Becker": 3,
-        "R. Gosens": 3,
-        "S. Tanaka": 3,
-        "S. El-Faouzi": 3,
+        "R. Gosens": 4,
+        "S. Tanaka": 4,
+        "S. El-Faouzi": 4,
         "J. Dina Ebimbe": 2,
         "A. Aouchiche": 3,
-        "K. Karaman": 2,
+        "K. Karaman": 3,
         "E. Džeko": 1,
-        "J. Adamu": 1,
+        "J. Adamu": 2,
         "D. Ljubičić": 2,
-        "M. Sylla": 1,
+        "M. Sylla": 2,
         "Loris Karius": 1,
         "Hasan Kuruçay": 1,
         "Nikola Katić": 1,
@@ -503,7 +504,9 @@
         "Junior Adamu": 1,
         "Adil Aouchiche": 1,
         "Dejan Ljubičić": 1,
-        "Moussa Sylla": 1
+        "Moussa Sylla": 1,
+        "M. Wöber": 1,
+        "A. Gantenbein": 1
       }
     }
   }

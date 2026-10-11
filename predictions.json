@@ -2,7 +2,7 @@
   "season": 2026,
   "matchday": 5,
   "nextMatchday": 6,
-  "generatedAt": "2026-10-11T14:35:01.343Z",
+  "generatedAt": "2026-10-11T15:05:01.769Z",
   "eloRanking": [
     {
       "rank": 1,
@@ -102,19 +102,19 @@
       "homeTeam": "1. FC Köln",
       "awayTeam": "Borussia Mönchengladbach",
       "probabilities": {
-        "home": 0.394,
-        "draw": 0.286,
-        "away": 0.32
+        "home": 0.58,
+        "draw": 0.236,
+        "away": 0.184
       },
       "tip": "1:0",
-      "tipExpectedPoints": 1.174,
+      "tipExpectedPoints": 1.571,
       "valueBet": {
         "market": "1x2",
-        "selection": "Heimsieg",
+        "selection": "Auswärtssieg",
         "bookmaker": "Tipico",
-        "bookmakerOdds": 2.5,
-        "ourProbability": 0.394,
-        "edgePct": 2.7
+        "bookmakerOdds": 20,
+        "ourProbability": 0.184,
+        "edgePct": 13.8
       },
       "homeForm": [
         "S",
@@ -150,19 +150,19 @@
       "homeTeam": "SC Freiburg",
       "awayTeam": "FC Schalke 04",
       "probabilities": {
-        "home": 0.69,
-        "draw": 0.181,
-        "away": 0.128
+        "home": 0.699,
+        "draw": 0.177,
+        "away": 0.125
       },
       "tip": "1:0",
-      "tipExpectedPoints": 1.72,
+      "tipExpectedPoints": 1.741,
       "valueBet": {
         "market": "1x2",
         "selection": "Heimsieg",
         "bookmaker": "Tipico",
         "bookmakerOdds": 1.6,
-        "ourProbability": 0.69,
-        "edgePct": 9.9
+        "ourProbability": 0.699,
+        "edgePct": 10.7
       },
       "homeForm": [
         "S",
@@ -177,12 +177,15 @@
         "U"
       ],
       "homeLineup": {
-        "confirmed": false,
+        "confirmed": true,
         "missingRegulars": []
       },
       "awayLineup": {
-        "confirmed": false,
-        "missingRegulars": []
+        "confirmed": true,
+        "missingRegulars": [
+          "T. Becker",
+          "A. Aouchiche"
+        ]
       }
     },
     {

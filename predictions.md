@@ -4,8 +4,8 @@ Erstellt am 2026-10-11. Elo-basierte Tippempfehlung für Kicktipp, ohne Gewähr 
 
 | Liga | Spiel | Tipp | Heim% / Remis% / Auswärts% |
 | --- | --- | --- | --- |
-| Bundesliga | 1. FC Köln – Borussia Mönchengladbach | 1:0 | 39% / 29% / 32% |
-| Bundesliga | SC Freiburg – FC Schalke 04 | 1:0 | 69% / 18% / 13% |
+| Bundesliga | 1. FC Köln – Borussia Mönchengladbach | 1:0 | 58% / 24% / 18% |
+| Bundesliga | SC Freiburg – FC Schalke 04 | 1:0 | 70% / 18% / 13% |
 | Bundesliga | Eintracht Frankfurt – 1. FC Köln | 2:1 | 57% / 21% / 22% |
 | Bundesliga | 1. FC Union Berlin – Borussia Dortmund | 1:2 | 21% / 21% / 59% |
 | Bundesliga | Hamburger SV – VfB Stuttgart | 1:2 | 26% / 24% / 50% |
