@@ -1168,15 +1168,15 @@
       "kickoffUtc": "2026-10-17T16:30:00.000Z",
       "tip": "2:1",
       "probabilities": {
-        "home": 0.656,
-        "draw": 0.166,
+        "home": 0.657,
+        "draw": 0.165,
         "away": 0.177
       },
       "baselines": {
         "immer21": "2:1",
         "favorit": "2:1"
       },
-      "recordedAt": "2026-10-12T06:05:11.078Z",
+      "recordedAt": "2026-10-12T15:35:43.695Z",
       "matchId": 83201,
       "status": "pending"
     },
@@ -1188,14 +1188,14 @@
       "tip": "2:1",
       "probabilities": {
         "home": 0.53,
-        "draw": 0.226,
-        "away": 0.244
+        "draw": 0.221,
+        "away": 0.249
       },
       "baselines": {
         "immer21": "2:1",
         "favorit": "2:1"
       },
-      "recordedAt": "2026-10-12T06:05:11.078Z",
+      "recordedAt": "2026-10-12T15:35:43.695Z",
       "matchId": 83202,
       "status": "pending"
     },
@@ -1206,15 +1206,15 @@
       "kickoffUtc": "2026-10-16T18:30:00.000Z",
       "tip": "2:1",
       "probabilities": {
-        "home": 0.554,
+        "home": 0.557,
         "draw": 0.209,
-        "away": 0.238
+        "away": 0.234
       },
       "baselines": {
         "immer21": "2:1",
         "favorit": "2:1"
       },
-      "recordedAt": "2026-10-12T06:05:11.078Z",
+      "recordedAt": "2026-10-12T15:35:43.695Z",
       "matchId": 83203,
       "status": "pending"
     },
@@ -1225,15 +1225,15 @@
       "kickoffUtc": "2026-10-17T13:30:00.000Z",
       "tip": "1:2",
       "probabilities": {
-        "home": 0.208,
-        "draw": 0.207,
-        "away": 0.586
+        "home": 0.205,
+        "draw": 0.209,
+        "away": 0.585
       },
       "baselines": {
         "immer21": "2:1",
         "favorit": "1:2"
       },
-      "recordedAt": "2026-10-12T06:05:11.078Z",
+      "recordedAt": "2026-10-12T15:35:43.695Z",
       "matchId": 83204,
       "status": "pending"
     },
@@ -1242,17 +1242,17 @@
       "homeTeam": "Borussia Mönchengladbach",
       "awayTeam": "TSG Hoffenheim",
       "kickoffUtc": "2026-10-18T15:30:00.000Z",
-      "tip": "1:2",
+      "tip": "0:1",
       "probabilities": {
-        "home": 0.316,
-        "draw": 0.246,
-        "away": 0.438
+        "home": 0.32,
+        "draw": 0.253,
+        "away": 0.427
       },
       "baselines": {
         "immer21": "2:1",
         "favorit": "1:2"
       },
-      "recordedAt": "2026-10-12T06:05:11.078Z",
+      "recordedAt": "2026-10-12T15:35:43.695Z",
       "matchId": 83205,
       "status": "pending"
     },
@@ -1271,7 +1271,7 @@
         "immer21": "2:1",
         "favorit": "1:2"
       },
-      "recordedAt": "2026-10-12T06:05:11.078Z",
+      "recordedAt": "2026-10-12T15:35:43.695Z",
       "matchId": 83206,
       "status": "pending"
     },
@@ -1283,14 +1283,14 @@
       "tip": "2:1",
       "probabilities": {
         "home": 0.632,
-        "draw": 0.192,
-        "away": 0.176
+        "draw": 0.19,
+        "away": 0.178
       },
       "baselines": {
         "immer21": "2:1",
         "favorit": "2:1"
       },
-      "recordedAt": "2026-10-12T06:05:11.078Z",
+      "recordedAt": "2026-10-12T15:35:43.695Z",
       "matchId": 83207,
       "status": "pending"
     },
@@ -1309,7 +1309,7 @@
         "immer21": "2:1",
         "favorit": "1:2"
       },
-      "recordedAt": "2026-10-12T06:05:11.078Z",
+      "recordedAt": "2026-10-12T15:35:43.695Z",
       "matchId": 83208,
       "status": "pending"
     },
@@ -1328,7 +1328,7 @@
         "immer21": "2:1",
         "favorit": "1:2"
       },
-      "recordedAt": "2026-10-12T06:05:11.078Z",
+      "recordedAt": "2026-10-12T15:35:43.695Z",
       "matchId": 83209,
       "status": "pending"
     },
@@ -1554,7 +1554,7 @@
         "immer21": "2:1",
         "favorit": "2:1"
       },
-      "recordedAt": "2026-10-12T06:05:11.078Z",
+      "recordedAt": "2026-10-12T15:35:43.695Z",
       "matchId": 84826,
       "status": "pending"
     },
@@ -1573,7 +1573,7 @@
         "immer21": "2:1",
         "favorit": "1:2"
       },
-      "recordedAt": "2026-10-12T06:05:11.078Z",
+      "recordedAt": "2026-10-12T15:35:43.695Z",
       "matchId": 84835,
       "status": "pending"
     }
