@@ -41,11 +41,14 @@
     1340480666,
     1340482368,
     1340481517,
-    1340478113
+    1340478113,
+    1340476411,
+    1340478964,
+    1340479815
   ],
   "teams": {
     "FC Bayern München": {
-      "matchesSeen": 4,
+      "matchesSeen": 5,
       "players": {
         "Manuel Neuer": 1,
         "Alphonso Davies": 1,
@@ -61,19 +64,19 @@
         "J. Urbig": 1,
         "N. Brown": 2,
         "Kim Min-Jae": 1,
-        "D. Upamecano": 3,
-        "J. Stanišić": 2,
-        "A. Pavlović": 3,
+        "D. Upamecano": 4,
+        "J. Stanišić": 3,
+        "A. Pavlović": 4,
         "T. Bischof": 1,
-        "I. Saibari": 2,
-        "M. Olise": 2,
+        "I. Saibari": 3,
+        "M. Olise": 3,
         "L. Karl": 2,
-        "H. Kane": 2,
-        "M. Neuer": 2,
-        "A. Davies": 2,
-        "J. Tah": 2,
-        "J. Kimmich": 2,
-        "L. Díaz": 2,
+        "H. Kane": 3,
+        "M. Neuer": 3,
+        "A. Davies": 3,
+        "J. Tah": 3,
+        "J. Kimmich": 3,
+        "L. Díaz": 3,
         "J. Musiala": 1,
         "K. Laimer": 1
       }
@@ -110,22 +113,23 @@
       }
     },
     "1. FSV Mainz 05": {
-      "matchesSeen": 4,
+      "matchesSeen": 5,
       "players": {
         "R. Zentner": 2,
         "D. Kohr": 1,
-        "F. Gruber": 4,
+        "F. Gruber": 5,
         "D. da Costa": 1,
-        "K. Sano": 4,
-        "P. Mwene": 4,
-        "N. Amiri": 4,
+        "K. Sano": 5,
+        "P. Mwene": 5,
+        "N. Amiri": 5,
         "Lee Jae-Sung": 4,
-        "A. Caci": 4,
-        "P. Tietz": 4,
-        "S. Becker": 4,
-        "A. Schwolow": 2,
-        "K. Potulski": 3,
-        "S. Posch": 3
+        "A. Caci": 5,
+        "P. Tietz": 5,
+        "S. Becker": 5,
+        "A. Schwolow": 3,
+        "K. Potulski": 4,
+        "S. Posch": 4,
+        "E. Martel": 1
       }
     },
     "SC Paderborn 07": {
@@ -170,23 +174,25 @@
       }
     },
     "Eintracht Frankfurt": {
-      "matchesSeen": 4,
+      "matchesSeen": 5,
       "players": {
-        "N. Atubolu": 4,
+        "N. Atubolu": 5,
         "Elias Baum": 4,
         "J. Maluze": 2,
-        "R. Koch": 4,
-        "K. Kosugi": 4,
-        "C. Uzun": 4,
-        "R. Onyedika": 4,
+        "R. Koch": 5,
+        "K. Kosugi": 5,
+        "C. Uzun": 5,
+        "R. Onyedika": 5,
         "A. Amaimouni": 1,
         "F. Chaïbi": 1,
-        "J. Burkardt": 4,
+        "J. Burkardt": 5,
         "Y. Ebnoutalib": 3,
-        "L. Brassier": 3,
+        "L. Brassier": 4,
         "M. Götze": 1,
-        "R. Dōan": 3,
-        "N. Aséko Nkili": 2
+        "R. Dōan": 4,
+        "N. Aséko Nkili": 3,
+        "N. Collins": 1,
+        "A. Knauff": 1
       }
     },
     "1. FC Köln": {
@@ -254,23 +260,24 @@
       }
     },
     "Bayer 04 Leverkusen": {
-      "matchesSeen": 4,
+      "matchesSeen": 5,
       "players": {
-        "M. Flekken": 4,
-        "Miguel Gutiérrez": 4,
-        "E. Tapsoba": 4,
+        "M. Flekken": 5,
+        "Miguel Gutiérrez": 5,
+        "E. Tapsoba": 5,
         "L. Badé": 1,
         "Lucas Vázquez": 1,
-        "Aleix García": 4,
+        "Aleix García": 5,
         "E. Fernández": 4,
-        "Afonso Moreira": 4,
+        "Afonso Moreira": 5,
         "M. Tillman": 2,
-        "I. Maza": 4,
-        "P. Schick": 3,
-        "F. Medina": 3,
-        "J. Quansah": 3,
-        "M. Diaby": 2,
-        "Christian Kofane": 1
+        "I. Maza": 5,
+        "P. Schick": 4,
+        "F. Medina": 4,
+        "J. Quansah": 4,
+        "M. Diaby": 3,
+        "Christian Kofane": 1,
+        "R. Andrich": 1
       }
     },
     "Borussia Dortmund": {
@@ -370,25 +377,26 @@
       }
     },
     "RB Leipzig": {
-      "matchesSeen": 3,
+      "matchesSeen": 4,
       "players": {
-        "M. Vandevoordt": 3,
-        "D. Raum": 3,
+        "M. Vandevoordt": 4,
+        "D. Raum": 4,
         "M. Estève": 2,
-        "W. Orbán": 3,
-        "R. Baku": 2,
-        "E. Banzuzi": 3,
+        "W. Orbán": 4,
+        "R. Baku": 3,
+        "E. Banzuzi": 4,
         "N. Seiwald": 1,
-        "N. El Aynaoui": 3,
-        "A. Nusa": 3,
-        "C. Nkunku": 2,
+        "N. El Aynaoui": 4,
+        "A. Nusa": 4,
+        "C. Nkunku": 3,
         "J. Bakayoko": 1,
-        "Rômulo": 1,
+        "Rômulo": 2,
         "B. Gruda": 2,
-        "C. Lukeba": 1,
+        "C. Lukeba": 2,
         "B. Henrichs": 1,
         "A. Ouédraogo": 1,
-        "T. Gomis": 1
+        "T. Gomis": 1,
+        "A. MaksimoviÄ": 1
       }
     },
     "SC Freiburg": {
@@ -419,18 +427,18 @@
       }
     },
     "FC Augsburg": {
-      "matchesSeen": 4,
+      "matchesSeen": 5,
       "players": {
-        "F. Dahmen": 3,
-        "C. Brackelmann": 3,
-        "C. Matsima": 3,
+        "F. Dahmen": 4,
+        "C. Brackelmann": 4,
+        "C. Matsima": 4,
         "Noahkai Kai Daniel Banks": 3,
-        "Hennes Behrens": 4,
-        "F. Rieder": 3,
-        "H. Massengo": 3,
+        "Hennes Behrens": 5,
+        "F. Rieder": 4,
+        "H. Massengo": 4,
         "M. Wolf": 3,
-        "R. Fellhauer": 3,
-        "A. Ibrahimović": 2,
+        "R. Fellhauer": 4,
+        "A. Ibrahimović": 3,
         "M. Gregoritsch": 3,
         "M. Kömür": 1,
         "Finn Dahmen": 1,
@@ -442,7 +450,10 @@
         "Marius Wolf": 1,
         "Robin Fellhauer": 1,
         "Anton Kade": 1,
-        "Michael Gregoritsch": 1
+        "Michael Gregoritsch": 1,
+        "Abdulay Bah": 1,
+        "Seol Young-Woo": 1,
+        "Rodrigo Ribeiro": 1
       }
     },
     "Jahn Regensburg": {

@@ -2,7 +2,7 @@
   "season": 2026,
   "matchday": 5,
   "nextMatchday": 6,
-  "generatedAt": "2026-10-11T23:44:38.766Z",
+  "generatedAt": "2026-10-12T06:05:11.078Z",
   "eloRanking": [
     {
       "rank": 1,
@@ -102,9 +102,9 @@
       "homeTeam": "Eintracht Frankfurt",
       "awayTeam": "1. FC Köln",
       "probabilities": {
-        "home": 0.557,
+        "home": 0.554,
         "draw": 0.209,
-        "away": 0.234
+        "away": 0.238
       },
       "tip": "2:1",
       "tipExpectedPoints": 1.42,
@@ -112,9 +112,9 @@
         "market": "1x2",
         "selection": "Heimsieg",
         "bookmaker": "Tipico",
-        "bookmakerOdds": 1.9,
-        "ourProbability": 0.557,
-        "edgePct": 5.9
+        "bookmakerOdds": 1.93,
+        "ourProbability": 0.554,
+        "edgePct": 6.3
       },
       "homeForm": [
         "U",
@@ -274,9 +274,9 @@
       "homeTeam": "FC Schalke 04",
       "awayTeam": "1. FSV Mainz 05",
       "probabilities": {
-        "home": 0.262,
-        "draw": 0.225,
-        "away": 0.513
+        "home": 0.257,
+        "draw": 0.226,
+        "away": 0.517
       },
       "tip": "1:2",
       "tipExpectedPoints": 1.34,
@@ -284,9 +284,9 @@
         "market": "1x2",
         "selection": "Auswärtssieg",
         "bookmaker": "Tipico",
-        "bookmakerOdds": 2.3,
-        "ourProbability": 0.513,
-        "edgePct": 10.1
+        "bookmakerOdds": 2.25,
+        "ourProbability": 0.517,
+        "edgePct": 9.6
       },
       "homeForm": [
         "N",
@@ -404,8 +404,8 @@
       "awayTeam": "SC Freiburg",
       "probabilities": {
         "home": 0.53,
-        "draw": 0.224,
-        "away": 0.247
+        "draw": 0.226,
+        "away": 0.244
       },
       "tip": "2:1",
       "tipExpectedPoints": 1.393,
@@ -413,9 +413,9 @@
         "market": "1x2",
         "selection": "Auswärtssieg",
         "bookmaker": "Tipico",
-        "bookmakerOdds": 4.3,
-        "ourProbability": 0.247,
-        "edgePct": 2.6
+        "bookmakerOdds": 4.4,
+        "ourProbability": 0.244,
+        "edgePct": 2.8
       },
       "homeForm": [
         "N",
@@ -447,8 +447,8 @@
       "awayTeam": "TSG Hoffenheim",
       "probabilities": {
         "home": 0.316,
-        "draw": 0.248,
-        "away": 0.435
+        "draw": 0.246,
+        "away": 0.438
       },
       "tip": "1:2",
       "tipExpectedPoints": 1.195,
