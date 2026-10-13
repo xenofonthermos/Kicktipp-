@@ -1176,7 +1176,7 @@
         "immer21": "2:1",
         "favorit": "2:1"
       },
-      "recordedAt": "2026-10-13T11:52:01.116Z",
+      "recordedAt": "2026-10-13T19:20:08.614Z",
       "matchId": 83201,
       "status": "pending"
     },
@@ -1195,7 +1195,7 @@
         "immer21": "2:1",
         "favorit": "2:1"
       },
-      "recordedAt": "2026-10-13T11:52:01.116Z",
+      "recordedAt": "2026-10-13T19:20:08.614Z",
       "matchId": 83202,
       "status": "pending"
     },
@@ -1214,7 +1214,7 @@
         "immer21": "2:1",
         "favorit": "2:1"
       },
-      "recordedAt": "2026-10-13T11:52:01.116Z",
+      "recordedAt": "2026-10-13T19:20:08.614Z",
       "matchId": 83203,
       "status": "pending"
     },
@@ -1233,7 +1233,7 @@
         "immer21": "2:1",
         "favorit": "1:2"
       },
-      "recordedAt": "2026-10-13T11:52:01.116Z",
+      "recordedAt": "2026-10-13T19:20:08.614Z",
       "matchId": 83204,
       "status": "pending"
     },
@@ -1244,15 +1244,15 @@
       "kickoffUtc": "2026-10-18T15:30:00.000Z",
       "tip": "0:1",
       "probabilities": {
-        "home": 0.32,
+        "home": 0.325,
         "draw": 0.253,
-        "away": 0.427
+        "away": 0.422
       },
       "baselines": {
         "immer21": "2:1",
         "favorit": "1:2"
       },
-      "recordedAt": "2026-10-13T11:52:01.116Z",
+      "recordedAt": "2026-10-13T19:20:08.614Z",
       "matchId": 83205,
       "status": "pending"
     },
@@ -1263,15 +1263,15 @@
       "kickoffUtc": "2026-10-17T13:30:00.000Z",
       "tip": "1:2",
       "probabilities": {
-        "home": 0.266,
-        "draw": 0.233,
-        "away": 0.501
+        "home": 0.257,
+        "draw": 0.234,
+        "away": 0.509
       },
       "baselines": {
         "immer21": "2:1",
         "favorit": "1:2"
       },
-      "recordedAt": "2026-10-13T11:52:01.116Z",
+      "recordedAt": "2026-10-13T19:20:08.614Z",
       "matchId": 83206,
       "status": "pending"
     },
@@ -1283,14 +1283,14 @@
       "tip": "2:1",
       "probabilities": {
         "home": 0.632,
-        "draw": 0.19,
-        "away": 0.178
+        "draw": 0.192,
+        "away": 0.176
       },
       "baselines": {
         "immer21": "2:1",
         "favorit": "2:1"
       },
-      "recordedAt": "2026-10-13T11:52:01.116Z",
+      "recordedAt": "2026-10-13T19:20:08.614Z",
       "matchId": 83207,
       "status": "pending"
     },
@@ -1301,15 +1301,15 @@
       "kickoffUtc": "2026-10-17T13:30:00.000Z",
       "tip": "1:2",
       "probabilities": {
-        "home": 0.257,
+        "home": 0.252,
         "draw": 0.226,
-        "away": 0.517
+        "away": 0.522
       },
       "baselines": {
         "immer21": "2:1",
         "favorit": "1:2"
       },
-      "recordedAt": "2026-10-13T11:52:01.116Z",
+      "recordedAt": "2026-10-13T19:20:08.614Z",
       "matchId": 83208,
       "status": "pending"
     },
@@ -1321,14 +1321,14 @@
       "tip": "1:2",
       "probabilities": {
         "home": 0.285,
-        "draw": 0.224,
-        "away": 0.491
+        "draw": 0.22,
+        "away": 0.495
       },
       "baselines": {
         "immer21": "2:1",
         "favorit": "1:2"
       },
-      "recordedAt": "2026-10-13T11:52:01.116Z",
+      "recordedAt": "2026-10-13T19:20:08.614Z",
       "matchId": 83209,
       "status": "pending"
     },
@@ -1554,7 +1554,7 @@
         "immer21": "2:1",
         "favorit": "2:1"
       },
-      "recordedAt": "2026-10-13T11:52:01.116Z",
+      "recordedAt": "2026-10-13T19:20:08.614Z",
       "matchId": 84826,
       "status": "pending"
     },
@@ -1565,15 +1565,15 @@
       "kickoffUtc": "2026-10-17T12:00:00.000Z",
       "tip": "1:2",
       "probabilities": {
-        "home": 0.208,
-        "draw": 0.193,
-        "away": 0.599
+        "home": 0.219,
+        "draw": 0.198,
+        "away": 0.583
       },
       "baselines": {
         "immer21": "2:1",
         "favorit": "1:2"
       },
-      "recordedAt": "2026-10-13T11:52:01.116Z",
+      "recordedAt": "2026-10-13T19:20:08.614Z",
       "matchId": 84835,
       "status": "pending"
     }
