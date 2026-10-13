@@ -2,7 +2,7 @@
   "season": 2026,
   "matchday": 5,
   "nextMatchday": 6,
-  "generatedAt": "2026-10-12T23:02:02.392Z",
+  "generatedAt": "2026-10-13T11:52:01.116Z",
   "eloRanking": [
     {
       "rank": 1,
@@ -360,19 +360,19 @@
       "homeTeam": "FC Bayern München",
       "awayTeam": "RB Leipzig",
       "probabilities": {
-        "home": 0.665,
-        "draw": 0.163,
-        "away": 0.172
+        "home": 0.657,
+        "draw": 0.165,
+        "away": 0.177
       },
       "tip": "2:1",
-      "tipExpectedPoints": 1.61,
+      "tipExpectedPoints": 1.616,
       "valueBet": {
         "market": "1x2",
         "selection": "Auswärtssieg",
         "bookmaker": "Tipico",
-        "bookmakerOdds": 10,
-        "ourProbability": 0.172,
-        "edgePct": 7.7
+        "bookmakerOdds": 9,
+        "ourProbability": 0.177,
+        "edgePct": 7.2
       },
       "homeForm": [
         "S",
