@@ -1,20 +1,30 @@
-# Bundesliga-Prognose – Spieltag 5–6
+# Bundesliga-Prognose – Spieltag 6–7
 
 Erstellt am 2026-10-14. Elo-basierte Tippempfehlung für Kicktipp, ohne Gewähr – reiner Unterhaltungswert.
 
 | Liga | Spiel | Tipp | Heim% / Remis% / Auswärts% |
 | --- | --- | --- | --- |
 | Bundesliga | Eintracht Frankfurt – 1. FC Köln | 2:1 | 56% / 21% / 23% |
-| Bundesliga | 1. FC Union Berlin – Borussia Dortmund | 1:2 | 21% / 21% / 59% |
+| Bundesliga | 1. FC Union Berlin – Borussia Dortmund | 1:2 | 20% / 21% / 59% |
 | Bundesliga | Hamburger SV – VfB Stuttgart | 1:2 | 26% / 23% / 51% |
 | Bundesliga | SV Werder Bremen – SC Paderborn 07 | 2:1 | 63% / 19% / 18% |
 | Bundesliga | FC Schalke 04 – 1. FSV Mainz 05 | 1:2 | 25% / 23% / 52% |
 | Bundesliga | SV 07 Elversberg – FC Augsburg | 1:2 | 28% / 22% / 50% |
 | Bundesliga | FC Bayern München – RB Leipzig | 2:1 | 66% / 17% / 18% |
-| Bundesliga | Bayer 04 Leverkusen – SC Freiburg | 2:1 | 53% / 22% / 25% |
+| Bundesliga | Bayer 04 Leverkusen – SC Freiburg | 2:1 | 53% / 23% / 25% |
 | Bundesliga | Borussia Mönchengladbach – TSG Hoffenheim | 0:1 | 33% / 25% / 42% |
+| Bundesliga | VfB Stuttgart – Borussia Mönchengladbach | 2:1 | 67% / 17% / 16% |
+| Bundesliga | RB Leipzig – SV 07 Elversberg | 2:0 | 76% / 15% / 9% |
+| Bundesliga | FC Augsburg – 1. FC Union Berlin | 2:1 | 54% / 22% / 24% |
+| Bundesliga | 1. FSV Mainz 05 – SV Werder Bremen | 2:1 | 53% / 22% / 25% |
+| Bundesliga | 1. FC Köln – FC Schalke 04 | 2:1 | 57% / 21% / 22% |
+| Bundesliga | SC Paderborn 07 – Hamburger SV | 1:2 | 33% / 24% / 43% |
+| Bundesliga | Borussia Dortmund – Eintracht Frankfurt | 2:1 | 63% / 18% / 19% |
+| Bundesliga | TSG Hoffenheim – Bayer 04 Leverkusen | 0:1 | 33% / 24% / 43% |
+| Bundesliga | SC Freiburg – FC Bayern München | 1:2 | 24% / 21% / 55% |
 | 3. Liga | Preußen Münster – Fortuna Düsseldorf | 2:0 | 80% / 13% / 7% |
 | 3. Liga | Fortuna Düsseldorf – 1. FC Saarbrücken | 1:2 | 22% / 20% / 58% |
+| 3. Liga | Hansa Rostock – Fortuna Düsseldorf | 2:0 | 78% / 14% / 9% |
 
 ## Elo-Tabelle (Modellwert, keine offizielle Tabelle)
 
