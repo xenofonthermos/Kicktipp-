@@ -1,6 +1,6 @@
 # Bundesliga-Prognose – Spieltag 5–6
 
-Erstellt am 2026-10-13. Elo-basierte Tippempfehlung für Kicktipp, ohne Gewähr – reiner Unterhaltungswert.
+Erstellt am 2026-10-14. Elo-basierte Tippempfehlung für Kicktipp, ohne Gewähr – reiner Unterhaltungswert.
 
 | Liga | Spiel | Tipp | Heim% / Remis% / Auswärts% |
 | --- | --- | --- | --- |
@@ -11,7 +11,7 @@ Erstellt am 2026-10-13. Elo-basierte Tippempfehlung für Kicktipp, ohne Gewähr 
 | Bundesliga | FC Schalke 04 – 1. FSV Mainz 05 | 1:2 | 25% / 23% / 52% |
 | Bundesliga | SV 07 Elversberg – FC Augsburg | 1:2 | 28% / 22% / 50% |
 | Bundesliga | FC Bayern München – RB Leipzig | 2:1 | 66% / 17% / 18% |
-| Bundesliga | Bayer 04 Leverkusen – SC Freiburg | 2:1 | 53% / 23% / 24% |
+| Bundesliga | Bayer 04 Leverkusen – SC Freiburg | 2:1 | 53% / 22% / 25% |
 | Bundesliga | Borussia Mönchengladbach – TSG Hoffenheim | 0:1 | 33% / 25% / 42% |
 | 3. Liga | Preußen Münster – Fortuna Düsseldorf | 2:0 | 80% / 13% / 7% |
 | 3. Liga | Fortuna Düsseldorf – 1. FC Saarbrücken | 1:2 | 22% / 20% / 58% |

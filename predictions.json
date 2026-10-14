@@ -2,7 +2,7 @@
   "season": 2026,
   "matchday": 5,
   "nextMatchday": 6,
-  "generatedAt": "2026-10-13T19:20:08.614Z",
+  "generatedAt": "2026-10-14T06:20:55.285Z",
   "eloRanking": [
     {
       "rank": 1,
@@ -146,11 +146,11 @@
       "awayTeam": "Borussia Dortmund",
       "probabilities": {
         "home": 0.205,
-        "draw": 0.209,
-        "away": 0.585
+        "draw": 0.206,
+        "away": 0.588
       },
       "tip": "1:2",
-      "tipExpectedPoints": 1.487,
+      "tipExpectedPoints": 1.472,
       "valueBet": {
         "market": "1x2",
         "selection": "Heimsieg",
@@ -232,8 +232,8 @@
       "awayTeam": "SC Paderborn 07",
       "probabilities": {
         "home": 0.632,
-        "draw": 0.192,
-        "away": 0.176
+        "draw": 0.19,
+        "away": 0.178
       },
       "tip": "2:1",
       "tipExpectedPoints": 1.588,
@@ -404,8 +404,8 @@
       "awayTeam": "SC Freiburg",
       "probabilities": {
         "home": 0.53,
-        "draw": 0.226,
-        "away": 0.244
+        "draw": 0.224,
+        "away": 0.247
       },
       "tip": "2:1",
       "tipExpectedPoints": 1.393,
@@ -413,9 +413,9 @@
         "market": "1x2",
         "selection": "Auswärtssieg",
         "bookmaker": "Tipico",
-        "bookmakerOdds": 4.4,
-        "ourProbability": 0.244,
-        "edgePct": 2.8
+        "bookmakerOdds": 4.3,
+        "ourProbability": 0.247,
+        "edgePct": 2.6
       },
       "homeForm": [
         "N",
