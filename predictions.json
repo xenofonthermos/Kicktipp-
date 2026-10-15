@@ -2,7 +2,7 @@
   "season": 2026,
   "matchday": 6,
   "nextMatchday": 7,
-  "generatedAt": "2026-10-14T16:35:01.851Z",
+  "generatedAt": "2026-10-15T00:34:54.500Z",
   "eloRanking": [
     {
       "rank": 1,
@@ -188,8 +188,8 @@
       "homeTeam": "Hamburger SV",
       "awayTeam": "VfB Stuttgart",
       "probabilities": {
-        "home": 0.257,
-        "draw": 0.234,
+        "home": 0.26,
+        "draw": 0.231,
         "away": 0.509
       },
       "tip": "1:2",
@@ -198,9 +198,9 @@
         "market": "1x2",
         "selection": "Heimsieg",
         "bookmaker": "Tipico",
-        "bookmakerOdds": 4.2,
-        "ourProbability": 0.257,
-        "edgePct": 3.1
+        "bookmakerOdds": 4.1,
+        "ourProbability": 0.26,
+        "edgePct": 2.8
       },
       "homeForm": [
         "N",
@@ -317,9 +317,9 @@
       "homeTeam": "SV 07 Elversberg",
       "awayTeam": "FC Augsburg",
       "probabilities": {
-        "home": 0.285,
-        "draw": 0.22,
-        "away": 0.495
+        "home": 0.281,
+        "draw": 0.217,
+        "away": 0.502
       },
       "tip": "1:2",
       "tipExpectedPoints": 1.287,
@@ -327,9 +327,9 @@
         "market": "1x2",
         "selection": "Auswärtssieg",
         "bookmaker": "Tipico",
-        "bookmakerOdds": 2.6,
-        "ourProbability": 0.495,
-        "edgePct": 13
+        "bookmakerOdds": 2.5,
+        "ourProbability": 0.502,
+        "edgePct": 12.3
       },
       "homeForm": [
         "S",
@@ -403,9 +403,9 @@
       "homeTeam": "Bayer 04 Leverkusen",
       "awayTeam": "SC Freiburg",
       "probabilities": {
-        "home": 0.525,
-        "draw": 0.226,
-        "away": 0.249
+        "home": 0.53,
+        "draw": 0.224,
+        "away": 0.247
       },
       "tip": "2:1",
       "tipExpectedPoints": 1.393,
@@ -413,9 +413,9 @@
         "market": "1x2",
         "selection": "Auswärtssieg",
         "bookmaker": "Tipico",
-        "bookmakerOdds": 4.2,
-        "ourProbability": 0.249,
-        "edgePct": 2.4
+        "bookmakerOdds": 4.3,
+        "ourProbability": 0.247,
+        "edgePct": 2.6
       },
       "homeForm": [
         "N",
@@ -871,60 +871,24 @@
       }
     },
     {
-      "matchDateTime": "2026-10-14T19:00:00",
-      "league": "3. Liga",
-      "homeTeam": "Preußen Münster",
-      "awayTeam": "Fortuna Düsseldorf",
-      "probabilities": {
-        "home": 0.804,
-        "draw": 0.128,
-        "away": 0.068
-      },
-      "tip": "2:0",
-      "tipExpectedPoints": 1.995,
-      "valueBet": null,
-      "homeForm": [
-        "S",
-        "S",
-        "U",
-        "N",
-        "U"
-      ],
-      "awayForm": [
-        "U",
-        "S",
-        "S",
-        "N",
-        "U"
-      ],
-      "homeLineup": {
-        "confirmed": false,
-        "missingRegulars": []
-      },
-      "awayLineup": {
-        "confirmed": false,
-        "missingRegulars": []
-      }
-    },
-    {
       "matchDateTime": "2026-10-17T14:00:00",
       "league": "3. Liga",
       "homeTeam": "Fortuna Düsseldorf",
       "awayTeam": "1. FC Saarbrücken",
       "probabilities": {
-        "home": 0.219,
-        "draw": 0.198,
-        "away": 0.583
+        "home": 0.234,
+        "draw": 0.206,
+        "away": 0.56
       },
       "tip": "1:2",
-      "tipExpectedPoints": 1.456,
+      "tipExpectedPoints": 1.42,
       "valueBet": null,
       "homeForm": [
-        "U",
         "S",
         "S",
         "N",
-        "U"
+        "U",
+        "S"
       ],
       "awayForm": [
         "N",
@@ -948,12 +912,12 @@
       "homeTeam": "Hansa Rostock",
       "awayTeam": "Fortuna Düsseldorf",
       "probabilities": {
-        "home": 0.776,
-        "draw": 0.137,
-        "away": 0.088
+        "home": 0.764,
+        "draw": 0.14,
+        "away": 0.096
       },
       "tip": "2:0",
-      "tipExpectedPoints": 1.889,
+      "tipExpectedPoints": 1.872,
       "valueBet": null,
       "homeForm": [
         "N",
@@ -963,11 +927,11 @@
         "N"
       ],
       "awayForm": [
-        "U",
         "S",
         "S",
         "N",
-        "U"
+        "U",
+        "S"
       ],
       "homeLineup": {
         "confirmed": false,
@@ -987,11 +951,11 @@
     "roiPercent": -41.3
   },
   "tipTrackRecord": {
-    "resolvedTips": 53,
+    "resolvedTips": 54,
     "points": 66,
-    "avgPoints": 1.25,
+    "avgPoints": 1.22,
     "distribution": {
-      "0": 26,
+      "0": 27,
       "2": 17,
       "3": 8,
       "4": 2
@@ -1000,12 +964,12 @@
       "immer21": {
         "label": "Immer 2:1",
         "points": 72,
-        "avgPoints": 1.36
+        "avgPoints": 1.33
       },
       "favorit": {
         "label": "Favorit 2:1 / 1:2",
         "points": 77,
-        "avgPoints": 1.45
+        "avgPoints": 1.43
       }
     }
   }

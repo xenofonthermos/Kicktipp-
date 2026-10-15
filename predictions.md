@@ -1,6 +1,6 @@
 # Bundesliga-Prognose – Spieltag 6–7
 
-Erstellt am 2026-10-14. Elo-basierte Tippempfehlung für Kicktipp, ohne Gewähr – reiner Unterhaltungswert.
+Erstellt am 2026-10-15. Elo-basierte Tippempfehlung für Kicktipp, ohne Gewähr – reiner Unterhaltungswert.
 
 | Liga | Spiel | Tipp | Heim% / Remis% / Auswärts% |
 | --- | --- | --- | --- |
@@ -11,7 +11,7 @@ Erstellt am 2026-10-14. Elo-basierte Tippempfehlung für Kicktipp, ohne Gewähr 
 | Bundesliga | FC Schalke 04 – 1. FSV Mainz 05 | 1:2 | 25% / 23% / 52% |
 | Bundesliga | SV 07 Elversberg – FC Augsburg | 1:2 | 28% / 22% / 50% |
 | Bundesliga | FC Bayern München – RB Leipzig | 2:1 | 66% / 17% / 18% |
-| Bundesliga | Bayer 04 Leverkusen – SC Freiburg | 2:1 | 53% / 23% / 25% |
+| Bundesliga | Bayer 04 Leverkusen – SC Freiburg | 2:1 | 53% / 22% / 25% |
 | Bundesliga | Borussia Mönchengladbach – TSG Hoffenheim | 0:1 | 33% / 25% / 42% |
 | Bundesliga | VfB Stuttgart – Borussia Mönchengladbach | 2:1 | 67% / 17% / 16% |
 | Bundesliga | RB Leipzig – SV 07 Elversberg | 2:0 | 76% / 15% / 9% |
@@ -22,9 +22,8 @@ Erstellt am 2026-10-14. Elo-basierte Tippempfehlung für Kicktipp, ohne Gewähr 
 | Bundesliga | Borussia Dortmund – Eintracht Frankfurt | 2:1 | 63% / 18% / 19% |
 | Bundesliga | TSG Hoffenheim – Bayer 04 Leverkusen | 0:1 | 33% / 24% / 43% |
 | Bundesliga | SC Freiburg – FC Bayern München | 1:2 | 24% / 21% / 55% |
-| 3. Liga | Preußen Münster – Fortuna Düsseldorf | 2:0 | 80% / 13% / 7% |
-| 3. Liga | Fortuna Düsseldorf – 1. FC Saarbrücken | 1:2 | 22% / 20% / 58% |
-| 3. Liga | Hansa Rostock – Fortuna Düsseldorf | 2:0 | 78% / 14% / 9% |
+| 3. Liga | Fortuna Düsseldorf – 1. FC Saarbrücken | 1:2 | 23% / 21% / 56% |
+| 3. Liga | Hansa Rostock – Fortuna Düsseldorf | 2:0 | 76% / 14% / 10% |
 
 ## Elo-Tabelle (Modellwert, keine offizielle Tabelle)
 
@@ -51,7 +50,7 @@ Erstellt am 2026-10-14. Elo-basierte Tippempfehlung für Kicktipp, ohne Gewähr 
 
 ## Kicktipp-Bilanz (bisher ausgewertete Tipps)
 
-66 Punkte aus 53 Spielen (Ø 1.25 je Spiel). Vergleich: Immer 2:1 Ø 1.36, Favorit 2:1 / 1:2 Ø 1.45.
+66 Punkte aus 54 Spielen (Ø 1.22 je Spiel). Vergleich: Immer 2:1 Ø 1.33, Favorit 2:1 / 1:2 Ø 1.43.
 
 ## Tipico-Erfolgsbilanz (bisher entschiedene Wett-Tipps)
 
