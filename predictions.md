@@ -1,13 +1,13 @@
 # Bundesliga-Prognose – Spieltag 6–7
 
-Erstellt am 2026-10-15. Elo-basierte Tippempfehlung für Kicktipp, ohne Gewähr – reiner Unterhaltungswert.
+Erstellt am 2026-10-16. Elo-basierte Tippempfehlung für Kicktipp, ohne Gewähr – reiner Unterhaltungswert.
 
 | Liga | Spiel | Tipp | Heim% / Remis% / Auswärts% |
 | --- | --- | --- | --- |
-| Bundesliga | Eintracht Frankfurt – 1. FC Köln | 2:1 | 56% / 21% / 23% |
+| Bundesliga | Eintracht Frankfurt – 1. FC Köln | 2:1 | 57% / 21% / 23% |
 | Bundesliga | 1. FC Union Berlin – Borussia Dortmund | 1:2 | 20% / 20% / 60% |
-| Bundesliga | Hamburger SV – VfB Stuttgart | 1:2 | 26% / 23% / 51% |
-| Bundesliga | SV Werder Bremen – SC Paderborn 07 | 2:1 | 63% / 20% / 17% |
+| Bundesliga | Hamburger SV – VfB Stuttgart | 1:2 | 27% / 23% / 50% |
+| Bundesliga | SV Werder Bremen – SC Paderborn 07 | 2:1 | 63% / 19% / 18% |
 | Bundesliga | FC Schalke 04 – 1. FSV Mainz 05 | 1:2 | 25% / 23% / 52% |
 | Bundesliga | SV 07 Elversberg – FC Augsburg | 1:2 | 28% / 22% / 50% |
 | Bundesliga | FC Bayern München – RB Leipzig | 2:1 | 66% / 17% / 18% |
@@ -20,7 +20,7 @@ Erstellt am 2026-10-15. Elo-basierte Tippempfehlung für Kicktipp, ohne Gewähr 
 | Bundesliga | 1. FC Köln – FC Schalke 04 | 2:1 | 57% / 21% / 22% |
 | Bundesliga | SC Paderborn 07 – Hamburger SV | 1:2 | 33% / 24% / 43% |
 | Bundesliga | Borussia Dortmund – Eintracht Frankfurt | 2:1 | 63% / 18% / 19% |
-| Bundesliga | TSG Hoffenheim – Bayer 04 Leverkusen | 0:1 | 33% / 24% / 43% |
+| Bundesliga | TSG Hoffenheim – Bayer 04 Leverkusen | 0:1 | 32% / 25% / 43% |
 | Bundesliga | SC Freiburg – FC Bayern München | 1:2 | 26% / 21% / 53% |
 | 3. Liga | Fortuna Düsseldorf – 1. FC Saarbrücken | 1:2 | 23% / 21% / 56% |
 | 3. Liga | Hansa Rostock – Fortuna Düsseldorf | 2:0 | 76% / 14% / 10% |
