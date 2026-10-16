@@ -4,7 +4,7 @@ Erstellt am 2026-10-16. Elo-basierte Tippempfehlung für Kicktipp, ohne Gewähr 
 
 | Liga | Spiel | Tipp | Heim% / Remis% / Auswärts% |
 | --- | --- | --- | --- |
-| Bundesliga | Eintracht Frankfurt – 1. FC Köln | 2:1 | 58% / 20% / 22% |
+| Bundesliga | Eintracht Frankfurt – 1. FC Köln | 2:1 | 59% / 20% / 21% |
 | Bundesliga | 1. FC Union Berlin – Borussia Dortmund | 1:2 | 20% / 21% / 59% |
 | Bundesliga | Hamburger SV – VfB Stuttgart | 1:2 | 26% / 23% / 51% |
 | Bundesliga | SV Werder Bremen – SC Paderborn 07 | 2:1 | 63% / 19% / 18% |

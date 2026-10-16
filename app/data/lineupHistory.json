@@ -44,7 +44,8 @@
     1340478113,
     1340476411,
     1340478964,
-    1340479815
+    1340479815,
+    1340484921
   ],
   "teams": {
     "FC Bayern München": {
@@ -174,48 +175,49 @@
       }
     },
     "Eintracht Frankfurt": {
-      "matchesSeen": 5,
+      "matchesSeen": 6,
       "players": {
-        "N. Atubolu": 5,
+        "N. Atubolu": 6,
         "Elias Baum": 4,
         "J. Maluze": 2,
-        "R. Koch": 5,
-        "K. Kosugi": 5,
+        "R. Koch": 6,
+        "K. Kosugi": 6,
         "C. Uzun": 5,
-        "R. Onyedika": 5,
+        "R. Onyedika": 6,
         "A. Amaimouni": 1,
-        "F. Chaïbi": 1,
-        "J. Burkardt": 5,
-        "Y. Ebnoutalib": 3,
-        "L. Brassier": 4,
-        "M. Götze": 1,
-        "R. Dōan": 4,
+        "F. Chaïbi": 2,
+        "J. Burkardt": 6,
+        "Y. Ebnoutalib": 4,
+        "L. Brassier": 5,
+        "M. Götze": 2,
+        "R. Dōan": 5,
         "N. Aséko Nkili": 3,
-        "N. Collins": 1,
+        "N. Collins": 2,
         "A. Knauff": 1
       }
     },
     "1. FC Köln": {
-      "matchesSeen": 5,
+      "matchesSeen": 6,
       "players": {
-        "M. Schwäbe": 5,
+        "M. Schwäbe": 6,
         "G. Mensah": 4,
-        "L. Lochoshvili": 5,
-        "Jahmai Simpson-Pusey": 5,
+        "L. Lochoshvili": 6,
+        "Jahmai Simpson-Pusey": 6,
         "A. Castro-Montes": 4,
-        "Í. Bergmann Jóhannesson": 3,
-        "T. Krauß": 4,
+        "Í. Bergmann Jóhannesson": 4,
+        "T. Krauß": 5,
         "Paul Michael Junior Okon-Engstler": 2,
-        "S. El Mala": 3,
+        "S. El Mala": 4,
         "R. Ache": 2,
         "J. Thielmann": 2,
         "E. Skhiri": 3,
         "M. Moore": 3,
-        "L. Maina": 4,
+        "L. Maina": 5,
         "T. Dallinga": 2,
-        "M. Bülter": 2,
-        "B. Sosa": 1,
-        "S. Sebulonsen": 1
+        "M. Bülter": 3,
+        "B. Sosa": 2,
+        "S. Sebulonsen": 2,
+        "J. Schmied": 1
       }
     },
     "TSG Hoffenheim": {

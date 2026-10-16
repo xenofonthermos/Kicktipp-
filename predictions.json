@@ -2,7 +2,7 @@
   "season": 2026,
   "matchday": 6,
   "nextMatchday": 7,
-  "generatedAt": "2026-10-16T17:35:01.880Z",
+  "generatedAt": "2026-10-16T18:05:01.473Z",
   "eloRanking": [
     {
       "rank": 1,
@@ -102,19 +102,19 @@
       "homeTeam": "Eintracht Frankfurt",
       "awayTeam": "1. FC Köln",
       "probabilities": {
-        "home": 0.576,
-        "draw": 0.204,
-        "away": 0.22
+        "home": 0.585,
+        "draw": 0.202,
+        "away": 0.213
       },
       "tip": "2:1",
-      "tipExpectedPoints": 1.472,
+      "tipExpectedPoints": 1.489,
       "valueBet": {
         "market": "1x2",
         "selection": "Heimsieg",
         "bookmaker": "Tipico",
-        "bookmakerOdds": 1.77,
-        "ourProbability": 0.576,
-        "edgePct": 4
+        "bookmakerOdds": 1.75,
+        "ourProbability": 0.585,
+        "edgePct": 4.3
       },
       "homeForm": [
         "U",
@@ -131,12 +131,21 @@
         "S"
       ],
       "homeLineup": {
-        "confirmed": false,
-        "missingRegulars": []
+        "confirmed": true,
+        "missingRegulars": [
+          "Elias Baum",
+          "C. Uzun",
+          "N. Aséko Nkili"
+        ]
       },
       "awayLineup": {
-        "confirmed": false,
-        "missingRegulars": []
+        "confirmed": true,
+        "missingRegulars": [
+          "G. Mensah",
+          "A. Castro-Montes",
+          "E. Skhiri",
+          "M. Moore"
+        ]
       }
     },
     {
