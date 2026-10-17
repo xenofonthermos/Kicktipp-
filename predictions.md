@@ -4,7 +4,7 @@ Erstellt am 2026-10-17. Elo-basierte Tippempfehlung für Kicktipp, ohne Gewähr 
 
 | Liga | Spiel | Tipp | Heim% / Remis% / Auswärts% |
 | --- | --- | --- | --- |
-| Bundesliga | 1. FC Union Berlin – Borussia Dortmund | 1:2 | 19% / 20% / 60% |
+| Bundesliga | 1. FC Union Berlin – Borussia Dortmund | 1:2 | 19% / 20% / 61% |
 | Bundesliga | Hamburger SV – VfB Stuttgart | 1:2 | 26% / 24% / 50% |
 | Bundesliga | SV Werder Bremen – SC Paderborn 07 | 2:1 | 64% / 19% / 17% |
 | Bundesliga | FC Schalke 04 – 1. FSV Mainz 05 | 1:2 | 26% / 23% / 51% |

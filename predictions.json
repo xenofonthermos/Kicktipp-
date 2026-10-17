@@ -2,7 +2,7 @@
   "season": 2026,
   "matchday": 6,
   "nextMatchday": 7,
-  "generatedAt": "2026-10-17T11:35:00.938Z",
+  "generatedAt": "2026-10-17T12:35:01.199Z",
   "eloRanking": [
     {
       "rank": 1,
@@ -102,9 +102,9 @@
       "homeTeam": "1. FC Union Berlin",
       "awayTeam": "Borussia Dortmund",
       "probabilities": {
-        "home": 0.192,
+        "home": 0.188,
         "draw": 0.204,
-        "away": 0.604
+        "away": 0.608
       },
       "tip": "1:2",
       "tipExpectedPoints": 1.524,
@@ -112,9 +112,9 @@
         "market": "1x2",
         "selection": "Heimsieg",
         "bookmaker": "Tipico",
-        "bookmakerOdds": 5.7,
-        "ourProbability": 0.192,
-        "edgePct": 2.6
+        "bookmakerOdds": 6,
+        "ourProbability": 0.188,
+        "edgePct": 3
       },
       "homeForm": [
         "U",
@@ -360,9 +360,9 @@
       "homeTeam": "Bayer 04 Leverkusen",
       "awayTeam": "SC Freiburg",
       "probabilities": {
-        "home": 0.543,
-        "draw": 0.216,
-        "away": 0.241
+        "home": 0.538,
+        "draw": 0.219,
+        "away": 0.244
       },
       "tip": "2:1",
       "tipExpectedPoints": 1.382,
@@ -370,9 +370,9 @@
         "market": "1x2",
         "selection": "Auswärtssieg",
         "bookmaker": "Tipico",
-        "bookmakerOdds": 4.5,
-        "ourProbability": 0.241,
-        "edgePct": 3.1
+        "bookmakerOdds": 4.4,
+        "ourProbability": 0.244,
+        "edgePct": 2.8
       },
       "homeForm": [
         "N",
