@@ -50,11 +50,12 @@
     1340487474,
     1340488325,
     1340489176,
-    1340490027
+    1340490027,
+    1340483219
   ],
   "teams": {
     "FC Bayern München": {
-      "matchesSeen": 5,
+      "matchesSeen": 6,
       "players": {
         "Manuel Neuer": 1,
         "Alphonso Davies": 1,
@@ -67,24 +68,24 @@
         "Nathaniel Brown": 1,
         "Michael Olise": 1,
         "Harry Kane": 1,
-        "J. Urbig": 1,
-        "N. Brown": 2,
-        "Kim Min-Jae": 1,
-        "D. Upamecano": 4,
+        "J. Urbig": 2,
+        "N. Brown": 3,
+        "Kim Min-Jae": 2,
+        "D. Upamecano": 5,
         "J. Stanišić": 3,
-        "A. Pavlović": 4,
+        "A. Pavlović": 5,
         "T. Bischof": 1,
-        "I. Saibari": 3,
-        "M. Olise": 3,
+        "I. Saibari": 4,
+        "M. Olise": 4,
         "L. Karl": 2,
-        "H. Kane": 3,
+        "H. Kane": 4,
         "M. Neuer": 3,
         "A. Davies": 3,
         "J. Tah": 3,
-        "J. Kimmich": 3,
-        "L. Díaz": 3,
+        "J. Kimmich": 4,
+        "L. Díaz": 4,
         "J. Musiala": 1,
-        "K. Laimer": 1
+        "K. Laimer": 2
       }
     },
     "VfB Stuttgart": {
@@ -387,26 +388,28 @@
       }
     },
     "RB Leipzig": {
-      "matchesSeen": 4,
+      "matchesSeen": 5,
       "players": {
-        "M. Vandevoordt": 4,
-        "D. Raum": 4,
+        "M. Vandevoordt": 5,
+        "D. Raum": 5,
         "M. Estève": 2,
-        "W. Orbán": 4,
+        "W. Orbán": 5,
         "R. Baku": 3,
-        "E. Banzuzi": 4,
+        "E. Banzuzi": 5,
         "N. Seiwald": 1,
-        "N. El Aynaoui": 4,
-        "A. Nusa": 4,
-        "C. Nkunku": 3,
+        "N. El Aynaoui": 5,
+        "A. Nusa": 5,
+        "C. Nkunku": 4,
         "J. Bakayoko": 1,
         "Rômulo": 2,
-        "B. Gruda": 2,
-        "C. Lukeba": 2,
+        "B. Gruda": 3,
+        "C. Lukeba": 3,
         "B. Henrichs": 1,
         "A. Ouédraogo": 1,
         "T. Gomis": 1,
-        "A. MaksimoviÄ": 1
+        "A. MaksimoviÄ": 1,
+        "L. Klostermann": 1,
+        "R. Reitz": 1
       }
     },
     "SC Freiburg": {
