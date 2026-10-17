@@ -4,24 +4,19 @@ Erstellt am 2026-10-17. Elo-basierte Tippempfehlung für Kicktipp, ohne Gewähr 
 
 | Liga | Spiel | Tipp | Heim% / Remis% / Auswärts% |
 | --- | --- | --- | --- |
-| Bundesliga | 1. FC Union Berlin – Borussia Dortmund | 1:2 | 17% / 20% / 63% |
-| Bundesliga | Hamburger SV – VfB Stuttgart | 1:2 | 25% / 23% / 53% |
-| Bundesliga | SV Werder Bremen – SC Paderborn 07 | 2:1 | 65% / 19% / 16% |
-| Bundesliga | FC Schalke 04 – 1. FSV Mainz 05 | 1:2 | 26% / 23% / 51% |
-| Bundesliga | SV 07 Elversberg – FC Augsburg | 1:2 | 28% / 22% / 50% |
-| Bundesliga | FC Bayern München – RB Leipzig | 2:1 | 67% / 16% / 17% |
+| Bundesliga | SV 07 Elversberg – FC Augsburg | 3:2 | 54% / 14% / 32% |
+| Bundesliga | FC Bayern München – RB Leipzig | 2:1 | 67% / 17% / 17% |
 | Bundesliga | Bayer 04 Leverkusen – SC Freiburg | 2:1 | 54% / 22% / 24% |
 | Bundesliga | Borussia Mönchengladbach – TSG Hoffenheim | 0:1 | 33% / 25% / 42% |
 | Bundesliga | VfB Stuttgart – Borussia Mönchengladbach | 2:1 | 67% / 17% / 16% |
 | Bundesliga | RB Leipzig – SV 07 Elversberg | 2:0 | 76% / 15% / 9% |
 | Bundesliga | FC Augsburg – 1. FC Union Berlin | 2:1 | 54% / 22% / 24% |
-| Bundesliga | 1. FSV Mainz 05 – SV Werder Bremen | 2:1 | 53% / 22% / 25% |
-| Bundesliga | 1. FC Köln – FC Schalke 04 | 2:1 | 56% / 21% / 22% |
+| Bundesliga | 1. FSV Mainz 05 – SV Werder Bremen | 2:1 | 54% / 22% / 24% |
+| Bundesliga | 1. FC Köln – FC Schalke 04 | 2:1 | 57% / 21% / 22% |
 | Bundesliga | SC Paderborn 07 – Hamburger SV | 1:2 | 33% / 24% / 43% |
 | Bundesliga | Borussia Dortmund – Eintracht Frankfurt | 2:1 | 63% / 19% / 19% |
 | Bundesliga | TSG Hoffenheim – Bayer 04 Leverkusen | 0:1 | 32% / 25% / 43% |
 | Bundesliga | SC Freiburg – FC Bayern München | 1:2 | 26% / 21% / 54% |
-| 3. Liga | Fortuna Düsseldorf – 1. FC Saarbrücken | 1:2 | 23% / 21% / 56% |
 | 3. Liga | Hansa Rostock – Fortuna Düsseldorf | 2:0 | 76% / 14% / 10% |
 
 ## Elo-Tabelle (Modellwert, keine offizielle Tabelle)
@@ -29,28 +24,28 @@ Erstellt am 2026-10-17. Elo-basierte Tippempfehlung für Kicktipp, ohne Gewähr 
 | Rang | Team | Rating |
 | --- | --- | --- |
 | 1 | FC Bayern München | 1863 |
-| 2 | Borussia Dortmund | 1840 |
+| 2 | Borussia Dortmund | 1836 |
 | 3 | Bayer 04 Leverkusen | 1807 |
 | 4 | RB Leipzig | 1795 |
 | 5 | SC Freiburg | 1767 |
-| 6 | VfB Stuttgart | 1762 |
+| 6 | VfB Stuttgart | 1749 |
 | 7 | Eintracht Frankfurt | 1731 |
 | 8 | FC Augsburg | 1700 |
-| 9 | 1. FSV Mainz 05 | 1687 |
+| 9 | 1. FSV Mainz 05 | 1692 |
 | 10 | TSG Hoffenheim | 1675 |
-| 11 | SV Werder Bremen | 1660 |
-| 12 | Hamburger SV | 1610 |
-| 13 | 1. FC Union Berlin | 1603 |
+| 11 | SV Werder Bremen | 1653 |
+| 12 | Hamburger SV | 1622 |
+| 13 | 1. FC Union Berlin | 1608 |
 | 14 | Borussia Mönchengladbach | 1592 |
 | 15 | 1. FC Köln | 1588 |
 | 16 | SV 07 Elversberg | 1429 |
-| 17 | FC Schalke 04 | 1426 |
-| 18 | SC Paderborn 07 | 1421 |
+| 17 | SC Paderborn 07 | 1428 |
+| 18 | FC Schalke 04 | 1421 |
 
 ## Kicktipp-Bilanz (bisher ausgewertete Tipps)
 
-69 Punkte aus 55 Spielen (Ø 1.25 je Spiel). Vergleich: Immer 2:1 Ø 1.36, Favorit 2:1 / 1:2 Ø 1.45.
+74 Punkte aus 60 Spielen (Ø 1.23 je Spiel). Vergleich: Immer 2:1 Ø 1.3, Favorit 2:1 / 1:2 Ø 1.42.
 
 ## Tipico-Erfolgsbilanz (bisher entschiedene Wett-Tipps)
 
-15 von 46 richtig, Bilanz -17.83 Einheiten (-38.8% ROI bei 1 Einheit Einsatz je Tipp). Reine Information, keine Wettempfehlung — siehe RISKS.md.
+17 von 50 richtig, Bilanz -15.23 Einheiten (-30.5% ROI bei 1 Einheit Einsatz je Tipp). Reine Information, keine Wettempfehlung — siehe RISKS.md.
