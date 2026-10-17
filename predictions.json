@@ -2,7 +2,7 @@
   "season": 2026,
   "matchday": 6,
   "nextMatchday": 7,
-  "generatedAt": "2026-10-17T12:35:01.199Z",
+  "generatedAt": "2026-10-17T13:05:01.415Z",
   "eloRanking": [
     {
       "rank": 1,
@@ -102,19 +102,19 @@
       "homeTeam": "1. FC Union Berlin",
       "awayTeam": "Borussia Dortmund",
       "probabilities": {
-        "home": 0.188,
-        "draw": 0.204,
-        "away": 0.608
+        "home": 0.172,
+        "draw": 0.196,
+        "away": 0.632
       },
       "tip": "1:2",
-      "tipExpectedPoints": 1.524,
+      "tipExpectedPoints": 1.576,
       "valueBet": {
         "market": "1x2",
         "selection": "Heimsieg",
         "bookmaker": "Tipico",
         "bookmakerOdds": 6,
-        "ourProbability": 0.188,
-        "edgePct": 3
+        "ourProbability": 0.172,
+        "edgePct": 1.4
       },
       "homeForm": [
         "U",
@@ -131,11 +131,16 @@
         "U"
       ],
       "homeLineup": {
-        "confirmed": false,
-        "missingRegulars": []
+        "confirmed": true,
+        "missingRegulars": [
+          "L. Querfeld",
+          "J. Juranović",
+          "A. Kemlein",
+          "E. Latte Lath"
+        ]
       },
       "awayLineup": {
-        "confirmed": false,
+        "confirmed": true,
         "missingRegulars": []
       }
     },
@@ -145,19 +150,19 @@
       "homeTeam": "Hamburger SV",
       "awayTeam": "VfB Stuttgart",
       "probabilities": {
-        "home": 0.263,
-        "draw": 0.236,
-        "away": 0.501
+        "home": 0.25,
+        "draw": 0.225,
+        "away": 0.525
       },
       "tip": "1:2",
-      "tipExpectedPoints": 1.301,
+      "tipExpectedPoints": 1.349,
       "valueBet": {
         "market": "1x2",
         "selection": "Heimsieg",
         "bookmaker": "Tipico",
-        "bookmakerOdds": 4,
-        "ourProbability": 0.263,
-        "edgePct": 2.6
+        "bookmakerOdds": 4.3,
+        "ourProbability": 0.25,
+        "edgePct": 2.9
       },
       "homeForm": [
         "N",
@@ -174,12 +179,23 @@
         "S"
       ],
       "homeLineup": {
-        "confirmed": false,
-        "missingRegulars": []
+        "confirmed": true,
+        "missingRegulars": [
+          "J. Torunarigha",
+          "A. Sambi Lokonga",
+          "N. Remberg",
+          "A. Grønbæk",
+          "Z. El Ouahdi"
+        ]
       },
       "awayLineup": {
-        "confirmed": false,
-        "missingRegulars": []
+        "confirmed": true,
+        "missingRegulars": [
+          "F. Bredlow",
+          "M. Mittelstädt",
+          "C. Führich",
+          "G. Prömel"
+        ]
       }
     },
     {
@@ -188,19 +204,19 @@
       "homeTeam": "SV Werder Bremen",
       "awayTeam": "SC Paderborn 07",
       "probabilities": {
-        "home": 0.64,
-        "draw": 0.19,
-        "away": 0.171
+        "home": 0.652,
+        "draw": 0.188,
+        "away": 0.16
       },
       "tip": "2:1",
-      "tipExpectedPoints": 1.608,
+      "tipExpectedPoints": 1.637,
       "valueBet": {
         "market": "1x2",
         "selection": "Heimsieg",
         "bookmaker": "Tipico",
-        "bookmakerOdds": 1.7,
-        "ourProbability": 0.64,
-        "edgePct": 8.1
+        "bookmakerOdds": 1.65,
+        "ourProbability": 0.652,
+        "edgePct": 7.8
       },
       "homeForm": [
         "N",
@@ -217,12 +233,14 @@
         "N"
       ],
       "homeLineup": {
-        "confirmed": false,
+        "confirmed": true,
         "missingRegulars": []
       },
       "awayLineup": {
-        "confirmed": false,
-        "missingRegulars": []
+        "confirmed": true,
+        "missingRegulars": [
+          "M. Pieringer"
+        ]
       }
     },
     {
@@ -231,9 +249,9 @@
       "homeTeam": "FC Schalke 04",
       "awayTeam": "1. FSV Mainz 05",
       "probabilities": {
-        "home": 0.257,
-        "draw": 0.23,
-        "away": 0.513
+        "home": 0.262,
+        "draw": 0.232,
+        "away": 0.507
       },
       "tip": "1:2",
       "tipExpectedPoints": 1.349,
@@ -242,8 +260,8 @@
         "selection": "Auswärtssieg",
         "bookmaker": "Tipico",
         "bookmakerOdds": 2.3,
-        "ourProbability": 0.513,
-        "edgePct": 10.1
+        "ourProbability": 0.507,
+        "edgePct": 9.4
       },
       "homeForm": [
         "N",
@@ -260,12 +278,14 @@
         "N"
       ],
       "homeLineup": {
-        "confirmed": false,
+        "confirmed": true,
         "missingRegulars": []
       },
       "awayLineup": {
-        "confirmed": false,
-        "missingRegulars": []
+        "confirmed": true,
+        "missingRegulars": [
+          "F. Gruber"
+        ]
       }
     },
     {
@@ -303,12 +323,18 @@
         "U"
       ],
       "homeLineup": {
-        "confirmed": false,
-        "missingRegulars": []
+        "confirmed": true,
+        "missingRegulars": [
+          "William Cole Campbell",
+          "Francis-Ikechukwu Onyeka"
+        ]
       },
       "awayLineup": {
-        "confirmed": false,
-        "missingRegulars": []
+        "confirmed": true,
+        "missingRegulars": [
+          "Noahkai Kai Daniel Banks",
+          "M. Gregoritsch"
+        ]
       }
     },
     {
@@ -360,9 +386,9 @@
       "homeTeam": "Bayer 04 Leverkusen",
       "awayTeam": "SC Freiburg",
       "probabilities": {
-        "home": 0.538,
-        "draw": 0.219,
-        "away": 0.244
+        "home": 0.543,
+        "draw": 0.216,
+        "away": 0.241
       },
       "tip": "2:1",
       "tipExpectedPoints": 1.382,
@@ -370,9 +396,9 @@
         "market": "1x2",
         "selection": "Auswärtssieg",
         "bookmaker": "Tipico",
-        "bookmakerOdds": 4.4,
-        "ourProbability": 0.244,
-        "edgePct": 2.8
+        "bookmakerOdds": 4.5,
+        "ourProbability": 0.241,
+        "edgePct": 3.1
       },
       "homeForm": [
         "N",
