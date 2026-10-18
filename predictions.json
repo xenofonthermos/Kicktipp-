@@ -2,7 +2,7 @@
   "season": 2026,
   "matchday": 6,
   "nextMatchday": 7,
-  "generatedAt": "2026-10-18T12:35:01.797Z",
+  "generatedAt": "2026-10-18T13:05:02.088Z",
   "eloRanking": [
     {
       "rank": 1,
@@ -102,9 +102,9 @@
       "homeTeam": "Bayer 04 Leverkusen",
       "awayTeam": "SC Freiburg",
       "probabilities": {
-        "home": 0.553,
+        "home": 0.554,
         "draw": 0.216,
-        "away": 0.231
+        "away": 0.23
       },
       "tip": "2:1",
       "tipExpectedPoints": 1.434,
@@ -112,9 +112,9 @@
         "market": "1x2",
         "selection": "Auswärtssieg",
         "bookmaker": "Tipico",
-        "bookmakerOdds": 5,
-        "ourProbability": 0.231,
-        "edgePct": 4.1
+        "bookmakerOdds": 4.8,
+        "ourProbability": 0.23,
+        "edgePct": 3.3
       },
       "homeForm": [
         "N",
@@ -131,12 +131,14 @@
         "S"
       ],
       "homeLineup": {
-        "confirmed": false,
+        "confirmed": true,
         "missingRegulars": []
       },
       "awayLineup": {
-        "confirmed": false,
-        "missingRegulars": []
+        "confirmed": true,
+        "missingRegulars": [
+          "Y. Suzuki"
+        ]
       }
     },
     {

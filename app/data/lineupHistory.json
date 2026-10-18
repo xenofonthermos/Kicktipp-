@@ -51,7 +51,8 @@
     1340488325,
     1340489176,
     1340490027,
-    1340483219
+    1340483219,
+    1340484070
   ],
   "teams": {
     "FC Bayern München": {
@@ -270,22 +271,22 @@
       }
     },
     "Bayer 04 Leverkusen": {
-      "matchesSeen": 5,
+      "matchesSeen": 6,
       "players": {
-        "M. Flekken": 5,
-        "Miguel Gutiérrez": 5,
-        "E. Tapsoba": 5,
+        "M. Flekken": 6,
+        "Miguel Gutiérrez": 6,
+        "E. Tapsoba": 6,
         "L. Badé": 1,
         "Lucas Vázquez": 1,
-        "Aleix García": 5,
-        "E. Fernández": 4,
-        "Afonso Moreira": 5,
+        "Aleix García": 6,
+        "E. Fernández": 5,
+        "Afonso Moreira": 6,
         "M. Tillman": 2,
-        "I. Maza": 5,
-        "P. Schick": 4,
-        "F. Medina": 4,
-        "J. Quansah": 4,
-        "M. Diaby": 3,
+        "I. Maza": 6,
+        "P. Schick": 5,
+        "F. Medina": 5,
+        "J. Quansah": 5,
+        "M. Diaby": 4,
         "Christian Kofane": 1,
         "R. Andrich": 1
       }
@@ -413,19 +414,19 @@
       }
     },
     "SC Freiburg": {
-      "matchesSeen": 5,
+      "matchesSeen": 6,
       "players": {
-        "M. Backhaus": 4,
-        "J. Makengo": 4,
-        "P. Lienhart": 4,
-        "M. Ginter": 4,
-        "P. Treu": 4,
-        "Y. Engelhardt": 4,
-        "M. Eggestein": 4,
-        "D. Scherhant": 4,
+        "M. Backhaus": 5,
+        "J. Makengo": 5,
+        "P. Lienhart": 5,
+        "M. Ginter": 5,
+        "P. Treu": 5,
+        "Y. Engelhardt": 5,
+        "M. Eggestein": 5,
+        "D. Scherhant": 5,
         "Y. Suzuki": 4,
-        "J. Beste": 4,
-        "I. Matanović": 4,
+        "J. Beste": 5,
+        "I. Matanović": 5,
         "Mio Backhaus": 1,
         "Jordy Makengo": 1,
         "Philipp Lienhart": 1,
@@ -436,7 +437,8 @@
         "Derry Scherhant": 1,
         "Yuito Suzuki": 1,
         "Jan-Niklas Beste": 1,
-        "Igor Matanović": 1
+        "Igor Matanović": 1,
+        "K. Goto": 1
       }
     },
     "FC Augsburg": {
