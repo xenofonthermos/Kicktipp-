@@ -2,7 +2,7 @@
   "season": 2026,
   "matchday": 6,
   "nextMatchday": 7,
-  "generatedAt": "2026-10-18T14:35:01.323Z",
+  "generatedAt": "2026-10-18T15:05:01.899Z",
   "eloRanking": [
     {
       "rank": 1,
@@ -102,19 +102,19 @@
       "homeTeam": "Bayer 04 Leverkusen",
       "awayTeam": "SC Freiburg",
       "probabilities": {
-        "home": 0.506,
-        "draw": 0.264,
-        "away": 0.229
+        "home": 0.441,
+        "draw": 0.34,
+        "away": 0.22
       },
       "tip": "1:0",
-      "tipExpectedPoints": 1.41,
+      "tipExpectedPoints": 1.355,
       "valueBet": {
         "market": "1x2",
-        "selection": "Auswärtssieg",
+        "selection": "Heimsieg",
         "bookmaker": "Tipico",
-        "bookmakerOdds": 4.7,
-        "ourProbability": 0.229,
-        "edgePct": 3.4
+        "bookmakerOdds": 2.5,
+        "ourProbability": 0.441,
+        "edgePct": 7.5
       },
       "homeForm": [
         "N",
@@ -147,19 +147,19 @@
       "homeTeam": "Borussia Mönchengladbach",
       "awayTeam": "TSG Hoffenheim",
       "probabilities": {
-        "home": 0.333,
-        "draw": 0.25,
-        "away": 0.417
+        "home": 0.335,
+        "draw": 0.257,
+        "away": 0.408
       },
       "tip": "0:1",
       "tipExpectedPoints": 1.143,
       "valueBet": {
         "market": "1x2",
-        "selection": "Remis",
+        "selection": "Heimsieg",
         "bookmaker": "Tipico",
-        "bookmakerOdds": 4.1,
-        "ourProbability": 0.25,
-        "edgePct": 2
+        "bookmakerOdds": 3,
+        "ourProbability": 0.335,
+        "edgePct": 2.1
       },
       "homeForm": [
         "N",
@@ -176,12 +176,20 @@
         "N"
       ],
       "homeLineup": {
-        "confirmed": false,
-        "missingRegulars": []
+        "confirmed": true,
+        "missingRegulars": [
+          "K. Itakura",
+          "F. Honorat"
+        ]
       },
       "awayLineup": {
-        "confirmed": false,
-        "missingRegulars": []
+        "confirmed": true,
+        "missingRegulars": [
+          "A. Hajdari",
+          "O. Kabak",
+          "W. Burger",
+          "A. Daghim"
+        ]
       }
     },
     {

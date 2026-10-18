@@ -52,7 +52,8 @@
     1340489176,
     1340490027,
     1340483219,
-    1340484070
+    1340484070,
+    1340486623
   ],
   "teams": {
     "FC Bayern München": {
@@ -229,24 +230,26 @@
       }
     },
     "TSG Hoffenheim": {
-      "matchesSeen": 5,
+      "matchesSeen": 6,
       "players": {
-        "O. Baumann": 5,
+        "O. Baumann": 6,
         "Bernardo": 2,
         "A. Hajdari": 3,
         "O. Kabak": 5,
-        "V. Coufal": 5,
+        "V. Coufal": 6,
         "W. Burger": 5,
-        "L. Avdullahu": 5,
+        "L. Avdullahu": 6,
         "A. Daghim": 5,
         "P. Wimmer": 2,
-        "A. Hložek": 4,
-        "B. Conté": 4,
-        "M. Rots": 3,
-        "T. Lemperle": 3,
-        "K. Machida": 2,
+        "A. Hložek": 5,
+        "B. Conté": 5,
+        "M. Rots": 4,
+        "T. Lemperle": 4,
+        "K. Machida": 3,
         "Max Moerstedt": 1,
-        "F. Asllani": 1
+        "F. Asllani": 2,
+        "R. Hranáč": 1,
+        "A. Prass": 1
       }
     },
     "SV 07 Elversberg": {
@@ -339,26 +342,28 @@
       }
     },
     "Borussia Mönchengladbach": {
-      "matchesSeen": 4,
+      "matchesSeen": 5,
       "players": {
-        "M. Nicolas": 4,
-        "L. Ullrich": 3,
-        "K. Diks": 4,
+        "M. Nicolas": 5,
+        "L. Ullrich": 4,
+        "K. Diks": 5,
         "K. Itakura": 3,
-        "J. Scally": 4,
+        "J. Scally": 5,
         "M. Nguefack": 1,
-        "P. Sander": 4,
-        "H. Bolin": 4,
-        "W. Mohya": 1,
+        "P. Sander": 5,
+        "H. Bolin": 5,
+        "W. Mohya": 2,
         "F. Honorat": 3,
         "T. Kleindienst": 2,
         "J. Leszczyński": 2,
-        "F. Neuhaus": 2,
-        "I. Lidberg": 2,
+        "F. Neuhaus": 3,
+        "I. Lidberg": 3,
         "D. Herold": 1,
         "R. Hack": 2,
         "K. Stöger": 1,
-        "D. Hashioka": 1
+        "D. Hashioka": 1,
+        "F. Chiarodia": 1,
+        "Z. Uno": 1
       }
     },
     "SV Werder Bremen": {
