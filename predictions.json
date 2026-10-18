@@ -2,7 +2,7 @@
   "season": 2026,
   "matchday": 6,
   "nextMatchday": 7,
-  "generatedAt": "2026-10-18T13:05:02.088Z",
+  "generatedAt": "2026-10-18T14:35:01.323Z",
   "eloRanking": [
     {
       "rank": 1,
@@ -102,19 +102,19 @@
       "homeTeam": "Bayer 04 Leverkusen",
       "awayTeam": "SC Freiburg",
       "probabilities": {
-        "home": 0.554,
-        "draw": 0.216,
-        "away": 0.23
+        "home": 0.506,
+        "draw": 0.264,
+        "away": 0.229
       },
-      "tip": "2:1",
-      "tipExpectedPoints": 1.434,
+      "tip": "1:0",
+      "tipExpectedPoints": 1.41,
       "valueBet": {
         "market": "1x2",
         "selection": "Auswärtssieg",
         "bookmaker": "Tipico",
-        "bookmakerOdds": 4.8,
-        "ourProbability": 0.23,
-        "edgePct": 3.3
+        "bookmakerOdds": 4.7,
+        "ourProbability": 0.229,
+        "edgePct": 3.4
       },
       "homeForm": [
         "N",
@@ -147,19 +147,19 @@
       "homeTeam": "Borussia Mönchengladbach",
       "awayTeam": "TSG Hoffenheim",
       "probabilities": {
-        "home": 0.325,
-        "draw": 0.253,
-        "away": 0.422
+        "home": 0.333,
+        "draw": 0.25,
+        "away": 0.417
       },
       "tip": "0:1",
       "tipExpectedPoints": 1.143,
       "valueBet": {
         "market": "1x2",
-        "selection": "Heimsieg",
+        "selection": "Remis",
         "bookmaker": "Tipico",
-        "bookmakerOdds": 3.1,
-        "ourProbability": 0.325,
-        "edgePct": 2.1
+        "bookmakerOdds": 4.1,
+        "ourProbability": 0.25,
+        "edgePct": 2
       },
       "homeForm": [
         "N",
@@ -320,8 +320,8 @@
       "awayTeam": "SV Werder Bremen",
       "probabilities": {
         "home": 0.536,
-        "draw": 0.224,
-        "away": 0.24
+        "draw": 0.222,
+        "away": 0.242
       },
       "tip": "2:1",
       "tipExpectedPoints": 1.393,
@@ -329,9 +329,9 @@
         "market": "1x2",
         "selection": "Auswärtssieg",
         "bookmaker": "Tipico",
-        "bookmakerOdds": 4.6,
-        "ourProbability": 0.24,
-        "edgePct": 3.4
+        "bookmakerOdds": 4.5,
+        "ourProbability": 0.242,
+        "edgePct": 3.2
       },
       "homeForm": [
         "S",
