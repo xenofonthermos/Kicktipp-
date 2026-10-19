@@ -5,7 +5,7 @@ Erstellt am 2026-10-19. Elo-basierte Tippempfehlung für Kicktipp, ohne Gewähr 
 | Liga | Spiel | Tipp | Heim% / Remis% / Auswärts% |
 | --- | --- | --- | --- |
 | Bundesliga | VfB Stuttgart – Borussia Mönchengladbach | 2:1 | 68% / 17% / 16% |
-| Bundesliga | RB Leipzig – SV 07 Elversberg | 2:0 | 73% / 16% / 11% |
+| Bundesliga | RB Leipzig – SV 07 Elversberg | 2:0 | 74% / 15% / 11% |
 | Bundesliga | FC Augsburg – 1. FC Union Berlin | 2:1 | 54% / 22% / 24% |
 | Bundesliga | 1. FSV Mainz 05 – SV Werder Bremen | 2:1 | 52% / 23% / 25% |
 | Bundesliga | 1. FC Köln – FC Schalke 04 | 2:1 | 56% / 22% / 22% |

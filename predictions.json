@@ -2,7 +2,7 @@
   "season": 2026,
   "matchday": 6,
   "nextMatchday": 7,
-  "generatedAt": "2026-10-19T13:28:13.126Z",
+  "generatedAt": "2026-10-19T19:58:36.521Z",
   "eloRanking": [
     {
       "rank": 1,
@@ -145,19 +145,19 @@
       "homeTeam": "RB Leipzig",
       "awayTeam": "SV 07 Elversberg",
       "probabilities": {
-        "home": 0.733,
-        "draw": 0.155,
-        "away": 0.112
+        "home": 0.741,
+        "draw": 0.149,
+        "away": 0.11
       },
       "tip": "2:0",
-      "tipExpectedPoints": 1.79,
+      "tipExpectedPoints": 1.812,
       "valueBet": {
         "market": "1x2",
         "selection": "Heimsieg",
         "bookmaker": "Tipico",
-        "bookmakerOdds": 1.4,
-        "ourProbability": 0.733,
-        "edgePct": 5.7
+        "bookmakerOdds": 1.37,
+        "ourProbability": 0.741,
+        "edgePct": 4.9
       },
       "homeForm": [
         "N",
