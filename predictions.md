@@ -1,13 +1,13 @@
 # Bundesliga-Prognose – Spieltag 6–7
 
-Erstellt am 2026-10-18. Elo-basierte Tippempfehlung für Kicktipp, ohne Gewähr – reiner Unterhaltungswert.
+Erstellt am 2026-10-19. Elo-basierte Tippempfehlung für Kicktipp, ohne Gewähr – reiner Unterhaltungswert.
 
 | Liga | Spiel | Tipp | Heim% / Remis% / Auswärts% |
 | --- | --- | --- | --- |
 | Bundesliga | VfB Stuttgart – Borussia Mönchengladbach | 2:1 | 67% / 17% / 16% |
-| Bundesliga | RB Leipzig – SV 07 Elversberg | 2:0 | 74% / 15% / 11% |
+| Bundesliga | RB Leipzig – SV 07 Elversberg | 2:0 | 73% / 16% / 11% |
 | Bundesliga | FC Augsburg – 1. FC Union Berlin | 2:1 | 54% / 22% / 24% |
-| Bundesliga | 1. FSV Mainz 05 – SV Werder Bremen | 2:1 | 54% / 22% / 24% |
+| Bundesliga | 1. FSV Mainz 05 – SV Werder Bremen | 2:1 | 53% / 22% / 24% |
 | Bundesliga | 1. FC Köln – FC Schalke 04 | 2:1 | 56% / 21% / 23% |
 | Bundesliga | SC Paderborn 07 – Hamburger SV | 1:2 | 34% / 24% / 42% |
 | Bundesliga | Borussia Dortmund – Eintracht Frankfurt | 2:1 | 62% / 19% / 19% |
