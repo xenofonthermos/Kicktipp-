@@ -2,7 +2,7 @@
   "season": 2026,
   "matchday": 6,
   "nextMatchday": 7,
-  "generatedAt": "2026-10-20T04:56:57.503Z",
+  "generatedAt": "2026-10-20T15:08:31.540Z",
   "eloRanking": [
     {
       "rank": 1,
@@ -145,19 +145,19 @@
       "homeTeam": "RB Leipzig",
       "awayTeam": "SV 07 Elversberg",
       "probabilities": {
-        "home": 0.741,
-        "draw": 0.149,
-        "away": 0.11
+        "home": 0.733,
+        "draw": 0.155,
+        "away": 0.112
       },
       "tip": "2:0",
-      "tipExpectedPoints": 1.812,
+      "tipExpectedPoints": 1.79,
       "valueBet": {
         "market": "1x2",
         "selection": "Heimsieg",
         "bookmaker": "Tipico",
-        "bookmakerOdds": 1.37,
-        "ourProbability": 0.741,
-        "edgePct": 4.9
+        "bookmakerOdds": 1.4,
+        "ourProbability": 0.733,
+        "edgePct": 5.7
       },
       "homeForm": [
         "N",
@@ -274,9 +274,9 @@
       "homeTeam": "1. FC Köln",
       "awayTeam": "FC Schalke 04",
       "probabilities": {
-        "home": 0.558,
-        "draw": 0.212,
-        "away": 0.23
+        "home": 0.563,
+        "draw": 0.215,
+        "away": 0.221
       },
       "tip": "2:1",
       "tipExpectedPoints": 1.434,
@@ -284,9 +284,9 @@
         "market": "1x2",
         "selection": "Heimsieg",
         "bookmaker": "Tipico",
-        "bookmakerOdds": 2.05,
-        "ourProbability": 0.558,
-        "edgePct": 9.5
+        "bookmakerOdds": 2,
+        "ourProbability": 0.563,
+        "edgePct": 9
       },
       "homeForm": [
         "N",
