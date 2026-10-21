@@ -2,7 +2,7 @@
   "season": 2026,
   "matchday": 6,
   "nextMatchday": 7,
-  "generatedAt": "2026-10-20T22:22:47.613Z",
+  "generatedAt": "2026-10-21T06:05:47.746Z",
   "eloRanking": [
     {
       "rank": 1,
@@ -231,9 +231,9 @@
       "homeTeam": "1. FSV Mainz 05",
       "awayTeam": "SV Werder Bremen",
       "probabilities": {
-        "home": 0.524,
-        "draw": 0.226,
-        "away": 0.25
+        "home": 0.528,
+        "draw": 0.224,
+        "away": 0.247
       },
       "tip": "2:1",
       "tipExpectedPoints": 1.393,
@@ -241,9 +241,9 @@
         "market": "1x2",
         "selection": "Auswärtssieg",
         "bookmaker": "Tipico",
-        "bookmakerOdds": 4.2,
-        "ourProbability": 0.25,
-        "edgePct": 2.4
+        "bookmakerOdds": 4.3,
+        "ourProbability": 0.247,
+        "edgePct": 2.7
       },
       "homeForm": [
         "S",
@@ -403,8 +403,8 @@
       "homeTeam": "TSG Hoffenheim",
       "awayTeam": "Bayer 04 Leverkusen",
       "probabilities": {
-        "home": 0.326,
-        "draw": 0.245,
+        "home": 0.323,
+        "draw": 0.248,
         "away": 0.429
       },
       "tip": "0:1",
