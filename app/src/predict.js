@@ -22,7 +22,8 @@ import { calibrateLambdas, buildScoreGrid } from "./poissonModel.js";
 import { bestTip } from "./kicktippScoring.js";
 import { fetchBundesligaOdds, matchOddsToFixture } from "./oddsApi.js";
 import { computeValueBet } from "./valueBet.js";
-import { blendWithMarket } from "./marketBlend.js";
+import { blendWithMarket, marketProbabilities } from "./marketBlend.js";
+import { DEFAULT_PARAMS, tipGrid, loadLearningState, saveLearningState, learn, summarizeLearning } from "./learning.js";
 import {
   fetchSeasonMatches as fetchHighlightlyMatches,
   findMatchId,
@@ -56,6 +57,7 @@ const OUTPUT_DIR = path.join(__dirname, "..", "output");
 const LINEUP_HISTORY_PATH = path.join(__dirname, "..", "data", "lineupHistory.json");
 const VALUE_BET_TRACK_RECORD_PATH = path.join(__dirname, "..", "data", "valueBetTrackRecord.json");
 const TIP_TRACK_RECORD_PATH = path.join(__dirname, "..", "data", "tipTrackRecord.json");
+const LEARNING_STATE_PATH = path.join(__dirname, "..", "data", "learning.json");
 
 // Highlightly-Tageslimit (100 Anfragen): Nachträgliches Erfassen von Aufstellungen bereits beendeter
 // Spiele (Aufbau der Stammspieler-Historie) nur Mo–Do und max. 8 Spiele je Lauf, damit an
@@ -167,7 +169,8 @@ function updateTrackRecordForMatch(trackRecord, match, prediction, recordedAt) {
 }
 
 // Trägt den Kicktipp-Tipp samt Schatten-Strategien in die Kicktipp-Bilanz ein (nur vor Anpfiff).
-function updateTipRecordForMatch(tipRecord, match, prediction, recordedAt) {
+// learningInputs: Basis-Tipp und Einzelwahrscheinlichkeiten (Elo/Markt) für die Lernschleife.
+function updateTipRecordForMatch(tipRecord, match, prediction, learningInputs, recordedAt) {
   if (!isBeforeKickoff(match, new Date(recordedAt))) return tipRecord;
   return recordPendingTip(tipRecord, match.matchID, {
     league: prediction.league,
@@ -176,7 +179,10 @@ function updateTipRecordForMatch(tipRecord, match, prediction, recordedAt) {
     kickoffUtc: kickoffUtc(match).toISOString(),
     tip: prediction.tip,
     probabilities: prediction.probabilities,
-    baselines: baselineTips(prediction.probabilities),
+    baselines: baselineTips(prediction.probabilities, learningInputs.basisTip),
+    eloProbabilities: learningInputs.eloProbabilities,
+    marketProbabilities: learningInputs.marketProbabilities,
+    params: learningInputs.params,
     recordedAt,
   });
 }
@@ -216,7 +222,7 @@ function buildEloRanking(currentSeasonTable, ratings) {
 // Verarbeitet ein Spiel: Aufstellung best-effort abrufen, Stammspieler-Abgleich, Elo-Anpassung,
 // Kicktipp-EV-Tipp, Value-Bet, Team-Form. Gibt die Prognose sowie den (ggf. aktualisierten)
 // Lineup-Verlauf zurück, damit dieser sequentiell durch alle Spiele des Laufs weitergereicht wird.
-async function predictMatch(ratings, match, oddsEvents, getHighlightlyMatches, lineupStore, finishedMatches, league, now) {
+async function predictMatch(ratings, match, oddsEvents, getHighlightlyMatches, lineupStore, finishedMatches, league, now, params) {
   const homeTeam = match.team1.teamName;
   const awayTeam = match.team2.teamName;
   const ratingHome = ratingFor(ratings, homeTeam);
@@ -249,12 +255,27 @@ async function predictMatch(ratings, match, oddsEvents, getHighlightlyMatches, l
   const matchOdds = matchOddsToFixture(oddsEvents, homeTeam, awayTeam);
   // Mischt die Elo-Wahrscheinlichkeit mit der (entmarginalisierten) Buchmacher-Quote, falls
   // vorhanden — sonst bleibt es bei der reinen Elo-Schätzung (siehe marketBlend.js).
-  const probabilities = blendWithMarket(eloProbabilities, matchOdds);
+  // Das Markt-Gewicht stellt die Lernschleife ein (learning.js).
+  const probabilities = blendWithMarket(eloProbabilities, matchOdds, params.marketBlendWeight);
 
-  // Score-Wahrscheinlichkeits-Grid (Poisson, kalibriert) -> Grundlage für Kicktipp-EV-Tipp UND Value-Bet.
+  // Score-Wahrscheinlichkeits-Grid (Poisson, kalibriert) -> Grundlage für Value-Bet; für den
+  // Kicktipp-Tipp mit den gelernten Korrekturen (Torerwartung, Remis-Gewicht).
   const { lambdaHome, lambdaAway } = calibrateLambdas(probabilities);
   const grid = buildScoreGrid(lambdaHome, lambdaAway);
-  const { tip, expectedPoints } = bestTip(grid);
+  const { tip, expectedPoints } = bestTip(tipGrid(lambdaHome, lambdaAway, params));
+
+  // Vergleichstipp ohne Lernen (Ausgangsparameter), für die Schatten-Strategie in der Bilanz.
+  const basisProbabilities = blendWithMarket(eloProbabilities, matchOdds, DEFAULT_PARAMS.marketBlendWeight);
+  const basisLambdas = calibrateLambdas(basisProbabilities);
+  const basisTip = bestTip(buildScoreGrid(basisLambdas.lambdaHome, basisLambdas.lambdaAway)).tip;
+  const market = marketProbabilities(matchOdds);
+  const round3 = (p) => p && { home: Number(p.home.toFixed(3)), draw: Number(p.draw.toFixed(3)), away: Number(p.away.toFixed(3)) };
+  const learningInputs = {
+    basisTip,
+    eloProbabilities: round3(eloProbabilities),
+    marketProbabilities: round3(market),
+    params,
+  };
 
   const valueBet = computeValueBet(grid, matchOdds, probabilities);
 
@@ -282,10 +303,10 @@ async function predictMatch(ratings, match, oddsEvents, getHighlightlyMatches, l
       ? recordLineup(lineupStore, highlightlyMatchId, homeTeam, awayTeam, lineup)
       : lineupStore;
 
-  return { prediction, nextStore };
+  return { prediction, nextStore, learningInputs };
 }
 
-function toMarkdown(matchday, nextMatchday, predictions, eloRanking, valueBetTrackRecord, tipTrackRecord) {
+function toMarkdown(matchday, nextMatchday, predictions, eloRanking, valueBetTrackRecord, tipTrackRecord, learning) {
   const matchdayLabel = nextMatchday != null ? `${matchday}–${nextMatchday}` : `${matchday}`;
   const matchRows = predictions
     .map(
@@ -311,6 +332,19 @@ function toMarkdown(matchday, nextMatchday, predictions, eloRanking, valueBetTra
         `Vergleich: ${Object.values(tipTrackRecord.baselines).map((b) => `${b.label} Ø ${b.avgPoints}`).join(", ")}.\n\n`
       : `## Kicktipp-Bilanz\n\nNoch keine ausgewerteten Tipps.\n\n`;
 
+  const p = learning.params;
+  const learningSection =
+    `## Lernschleife
+
+` +
+    `Aktive Parameter: Torerwartung ×${p.goalScale}, Remis-Gewicht ×${p.drawFactor}, Markt-Gewicht ${p.marketBlendWeight}. ` +
+    (learning.activeAvg != null
+      ? `Rückblickend auf ${learning.sample} Spiele: Ø ${learning.activeAvg.toFixed(2)} Punkte (Ausgangsmodell Ø ${learning.defaultAvg.toFixed(2)}). `
+      : `Noch zu wenig ausgewertete Spiele (${learning.sample}). `) +
+    `Bisher ${learning.changes} Anpassung(en).
+
+`;
+
   return `# Bundesliga-Prognose – Spieltag ${matchdayLabel}\n\n` +
     `Erstellt am ${new Date().toISOString().slice(0, 10)}. Elo-basierte Tippempfehlung für Kicktipp, ohne Gewähr – reiner Unterhaltungswert.\n\n` +
     `| Liga | Spiel | Tipp | Heim% / Remis% / Auswärts% |\n` +
@@ -321,6 +355,7 @@ function toMarkdown(matchday, nextMatchday, predictions, eloRanking, valueBetTra
     `| --- | --- | --- |\n` +
     `${rankingRows}\n\n` +
     `${tipSection}` +
+    `${learningSection}` +
     `${trackRecordSection}`;
 }
 
@@ -350,10 +385,12 @@ async function main() {
   let lineupStore = await loadStore(LINEUP_HISTORY_PATH);
   let trackRecord = await loadTrackRecord(VALUE_BET_TRACK_RECORD_PATH);
   let tipRecord = await loadTipTrackRecord(TIP_TRACK_RECORD_PATH);
+  // Gelernte Parameter aus dem vorigen Lauf; der nächste Lernschritt folgt nach der Auswertung unten.
+  let learningState = await loadLearningState(LEARNING_STATE_PATH);
 
   const predictions = [];
   for (const match of [...matchdayMatches, ...nextMatchdayMatches]) {
-    const { prediction, nextStore } = await predictMatch(
+    const { prediction, nextStore, learningInputs } = await predictMatch(
       ratings,
       match,
       oddsEvents,
@@ -361,12 +398,13 @@ async function main() {
       lineupStore,
       finishedMatches,
       "Bundesliga",
-      now
+      now,
+      learningState.params
     );
     predictions.push(prediction);
     lineupStore = nextStore;
     trackRecord = updateTrackRecordForMatch(trackRecord, match, prediction, generatedAt);
-    tipRecord = updateTipRecordForMatch(tipRecord, match, prediction, generatedAt);
+    tipRecord = updateTipRecordForMatch(tipRecord, match, prediction, learningInputs, generatedAt);
   }
 
   // Fortuna Düsseldorf (3. Liga) läuft in derselben Kicktipp-Runde mit — eigener Elo-Pool
@@ -388,7 +426,7 @@ async function main() {
   if (fortunaMatches.length > 0) {
     const getHighlightlyMatches3Liga = lazy(() => fetchHighlightlyMatches(season, LEAGUE_3_LIGA_ID));
     for (const fortunaMatch of fortunaMatches) {
-      const { prediction, nextStore } = await predictMatch(
+      const { prediction, nextStore, learningInputs } = await predictMatch(
         ratings3Liga,
         fortunaMatch,
         oddsEvents,
@@ -396,12 +434,13 @@ async function main() {
         lineupStore,
         finishedMatches3Liga,
         "3. Liga",
-        now
+        now,
+        learningState.params
       );
       predictions.push(prediction);
       lineupStore = nextStore;
       trackRecord = updateTrackRecordForMatch(trackRecord, fortunaMatch, prediction, generatedAt);
-      tipRecord = updateTipRecordForMatch(tipRecord, fortunaMatch, prediction, generatedAt);
+      tipRecord = updateTipRecordForMatch(tipRecord, fortunaMatch, prediction, learningInputs, generatedAt);
     }
   }
 
@@ -420,6 +459,13 @@ async function main() {
   tipRecord = resolvePendingTips(tipRecord, finishedScoresByMatchId);
   await saveTipTrackRecord(TIP_TRACK_RECORD_PATH, tipRecord);
   const tipTrackRecord = summarizeTipTrackRecord(tipRecord);
+  const previousParams = learningState.params;
+  learningState = learn(learningState, tipRecord, now);
+  await saveLearningState(LEARNING_STATE_PATH, learningState);
+  if (JSON.stringify(previousParams) !== JSON.stringify(learningState.params)) {
+    console.log(`Lernschleife: Parameter angepasst ${JSON.stringify(previousParams)} -> ${JSON.stringify(learningState.params)}`);
+  }
+  const learning = summarizeLearning(learningState);
 
   const nextMatchday = hasNextMatchday ? nextGroupOrderId : null;
 
@@ -436,6 +482,7 @@ async function main() {
         matches: predictions,
         valueBetTrackRecord,
         tipTrackRecord,
+        learning,
       },
       null,
       2
@@ -443,7 +490,7 @@ async function main() {
   );
   await writeFile(
     path.join(OUTPUT_DIR, "predictions.md"),
-    toMarkdown(currentGroup.groupOrderID, nextMatchday, predictions, eloRanking, valueBetTrackRecord, tipTrackRecord)
+    toMarkdown(currentGroup.groupOrderID, nextMatchday, predictions, eloRanking, valueBetTrackRecord, tipTrackRecord, learning)
   );
 
   const matchdayLabel = nextMatchday != null ? `${currentGroup.groupOrderID}+${nextMatchday}` : `${currentGroup.groupOrderID}`;

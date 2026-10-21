@@ -55,3 +55,30 @@ test("summarize: leere Bilanz liefert avgPoints null", () => {
   assert.equal(summary.resolvedTips, 0);
   assert.equal(summary.avgPoints, null);
 });
+
+test("Basis-Vergleich: alte Einträge ohne Basis-Tipp zählen mit dem echten Tipp", () => {
+  const record = {
+    tips: {
+      1: { tip: "1:0", baselines: { immer21: "2:1", favorit: "2:1" }, status: "resolved", actualScore: "1:0", points: 4, baselinePoints: { immer21: 0, favorit: 0 } },
+      2: { tip: "2:1", baselines: { immer21: "2:1", favorit: "2:1" }, status: "pending" },
+    },
+  };
+  const resolved = resolvePendingTips(record, { 2: { home: 3, away: 1 } });
+  assert.equal(resolved.tips[1].baselinePoints.basis, 4);
+  assert.equal(resolved.tips[2].baselines.basis, "2:1");
+  assert.equal(resolved.tips[2].baselinePoints.basis, 2);
+  const summary = summarizeTipTrackRecord(resolved);
+  assert.equal(summary.baselines.basis.games, 2);
+  assert.equal(summary.baselines.basis.points, 6);
+});
+
+test("Basis-Vergleich: abweichender Basis-Tipp wird getrennt gewertet", () => {
+  let record = recordPendingTip(createEmptyTipTrackRecord(), 1, {
+    tip: "2:2",
+    probabilities: { home: 0.4, draw: 0.3, away: 0.3 },
+    baselines: baselineTips({ home: 0.4, draw: 0.3, away: 0.3 }, "1:0"),
+  });
+  record = resolvePendingTips(record, { 1: { home: 1, away: 1 } });
+  assert.equal(record.tips[1].points, 3);
+  assert.equal(record.tips[1].baselinePoints.basis, 0);
+});
