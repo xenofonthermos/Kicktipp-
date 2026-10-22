@@ -2,7 +2,7 @@
   "season": 2026,
   "matchday": 7,
   "nextMatchday": 8,
-  "generatedAt": "2026-10-22T04:56:19.201Z",
+  "generatedAt": "2026-10-22T15:19:53.272Z",
   "eloRanking": [
     {
       "rank": 1,
@@ -317,19 +317,19 @@
       "homeTeam": "SC Paderborn 07",
       "awayTeam": "Hamburger SV",
       "probabilities": {
-        "home": 0.342,
-        "draw": 0.24,
-        "away": 0.419
+        "home": 0.323,
+        "draw": 0.236,
+        "away": 0.441
       },
       "tip": "1:2",
-      "tipExpectedPoints": 1.141,
+      "tipExpectedPoints": 1.193,
       "valueBet": {
         "market": "1x2",
         "selection": "Auswärtssieg",
         "bookmaker": "Tipico",
-        "bookmakerOdds": 3.1,
-        "ourProbability": 0.419,
-        "edgePct": 11.3
+        "bookmakerOdds": 2.7,
+        "ourProbability": 0.441,
+        "edgePct": 9.1
       },
       "homeForm": [
         "N",
