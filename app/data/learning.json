@@ -1,0 +1,32 @@
+{
+  "params": {
+    "goalScale": 1,
+    "drawFactor": 1,
+    "marketBlendWeight": 0.5
+  },
+  "sample": 64,
+  "updatedAt": null,
+  "lastEvaluation": {
+    "at": "2026-10-22T04:56:19.201Z",
+    "tips": {
+      "sample": 64,
+      "recentSample": 26,
+      "activeAvg": 1.297,
+      "activeRecentAvg": 1.5,
+      "activeLogLikelihood": -3.4847,
+      "defaultAvg": 1.297,
+      "bestAvg": 1.344,
+      "bestRecentAvg": 1.462,
+      "bestLogLikelihood": -3.4718,
+      "bestParams": {
+        "goalScale": 1.1,
+        "drawFactor": 1.2
+      }
+    },
+    "blend": {
+      "sample": 0
+    }
+  },
+  "activeAvg": 1.297,
+  "history": []
+}
