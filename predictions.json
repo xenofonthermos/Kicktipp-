@@ -2,7 +2,7 @@
   "season": 2026,
   "matchday": 7,
   "nextMatchday": 8,
-  "generatedAt": "2026-10-23T11:46:40.792Z",
+  "generatedAt": "2026-10-23T17:35:02.879Z",
   "eloRanking": [
     {
       "rank": 1,
@@ -102,19 +102,19 @@
       "homeTeam": "VfB Stuttgart",
       "awayTeam": "Borussia Mönchengladbach",
       "probabilities": {
-        "home": 0.682,
-        "draw": 0.166,
-        "away": 0.151
+        "home": 0.687,
+        "draw": 0.167,
+        "away": 0.147
       },
       "tip": "2:1",
-      "tipExpectedPoints": 1.661,
+      "tipExpectedPoints": 1.685,
       "valueBet": {
         "market": "1x2",
         "selection": "Auswärtssieg",
         "bookmaker": "Tipico",
-        "bookmakerOdds": 7.2,
-        "ourProbability": 0.151,
-        "edgePct": 2
+        "bookmakerOdds": 7.8,
+        "ourProbability": 0.147,
+        "edgePct": 2.5
       },
       "homeForm": [
         "S",
@@ -145,9 +145,9 @@
       "homeTeam": "RB Leipzig",
       "awayTeam": "SV 07 Elversberg",
       "probabilities": {
-        "home": 0.733,
-        "draw": 0.157,
-        "away": 0.11
+        "home": 0.729,
+        "draw": 0.156,
+        "away": 0.115
       },
       "tip": "2:0",
       "tipExpectedPoints": 1.79,
@@ -155,9 +155,9 @@
         "market": "1x2",
         "selection": "Heimsieg",
         "bookmaker": "Tipico",
-        "bookmakerOdds": 1.4,
-        "ourProbability": 0.733,
-        "edgePct": 5.7
+        "bookmakerOdds": 1.42,
+        "ourProbability": 0.729,
+        "edgePct": 6.1
       },
       "homeForm": [
         "N",
@@ -231,9 +231,9 @@
       "homeTeam": "1. FSV Mainz 05",
       "awayTeam": "SV Werder Bremen",
       "probabilities": {
-        "home": 0.524,
-        "draw": 0.226,
-        "away": 0.25
+        "home": 0.528,
+        "draw": 0.227,
+        "away": 0.245
       },
       "tip": "2:1",
       "tipExpectedPoints": 1.393,
@@ -241,9 +241,9 @@
         "market": "1x2",
         "selection": "Auswärtssieg",
         "bookmaker": "Tipico",
-        "bookmakerOdds": 4.2,
-        "ourProbability": 0.25,
-        "edgePct": 2.4
+        "bookmakerOdds": 4.4,
+        "ourProbability": 0.245,
+        "edgePct": 2.9
       },
       "homeForm": [
         "S",
@@ -317,9 +317,9 @@
       "homeTeam": "SC Paderborn 07",
       "awayTeam": "Hamburger SV",
       "probabilities": {
-        "home": 0.328,
+        "home": 0.332,
         "draw": 0.236,
-        "away": 0.435
+        "away": 0.432
       },
       "tip": "1:2",
       "tipExpectedPoints": 1.142,
@@ -327,9 +327,9 @@
         "market": "1x2",
         "selection": "Auswärtssieg",
         "bookmaker": "Tipico",
-        "bookmakerOdds": 2.8,
-        "ourProbability": 0.435,
-        "edgePct": 9.6
+        "bookmakerOdds": 2.85,
+        "ourProbability": 0.432,
+        "edgePct": 10
       },
       "homeForm": [
         "N",
@@ -446,8 +446,8 @@
       "homeTeam": "SC Freiburg",
       "awayTeam": "FC Bayern München",
       "probabilities": {
-        "home": 0.227,
-        "draw": 0.208,
+        "home": 0.232,
+        "draw": 0.203,
         "away": 0.565
       },
       "tip": "1:2",
@@ -456,9 +456,9 @@
         "market": "1x2",
         "selection": "Heimsieg",
         "bookmaker": "Tipico",
-        "bookmakerOdds": 7,
-        "ourProbability": 0.227,
-        "edgePct": 9.2
+        "bookmakerOdds": 6.5,
+        "ourProbability": 0.232,
+        "edgePct": 8.6
       },
       "homeForm": [
         "S",
@@ -661,19 +661,19 @@
       "homeTeam": "SV Werder Bremen",
       "awayTeam": "TSG Hoffenheim",
       "probabilities": {
-        "home": 0.36,
-        "draw": 0.253,
-        "away": 0.387
+        "home": 0.363,
+        "draw": 0.26,
+        "away": 0.378
       },
-      "tip": "1:2",
-      "tipExpectedPoints": 1.087,
+      "tip": "0:1",
+      "tipExpectedPoints": 1.036,
       "valueBet": {
         "market": "1x2",
         "selection": "Heimsieg",
         "bookmaker": "Tipico",
-        "bookmakerOdds": 3,
-        "ourProbability": 0.36,
-        "edgePct": 4.4
+        "bookmakerOdds": 2.95,
+        "ourProbability": 0.363,
+        "edgePct": 4.1
       },
       "homeForm": [
         "S",
