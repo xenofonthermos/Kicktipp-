@@ -53,7 +53,8 @@
     1340490027,
     1340483219,
     1340484070,
-    1340486623
+    1340486623,
+    1340492580
   ],
   "teams": {
     "FC Bayern München": {
@@ -91,12 +92,12 @@
       }
     },
     "VfB Stuttgart": {
-      "matchesSeen": 6,
+      "matchesSeen": 7,
       "players": {
         "Fabian Bredlow": 1,
         "Ramon Hendriks": 1,
         "Jeff Chabot": 1,
-        "Finn Jeltsch": 5,
+        "Finn Jeltsch": 6,
         "Maximilian Mittelstädt": 1,
         "Angelo Stiller": 1,
         "Grischa Prömel": 1,
@@ -105,20 +106,22 @@
         "Tiago Tomás": 1,
         "Dženan Pejčinović": 1,
         "F. Bredlow": 3,
-        "M. Mittelstädt": 4,
+        "M. Mittelstädt": 5,
         "J. Chabot": 5,
-        "C. Führich": 4,
-        "A. Stiller": 5,
+        "C. Führich": 5,
+        "A. Stiller": 6,
         "G. Prömel": 3,
         "J. Vagnoman": 5,
         "D. Undav": 4,
         "B. El Khannouss": 3,
-        "E. Demirović": 4,
-        "R. Hendriks": 3,
-        "D. Pejčinović": 2,
-        "D. Seimen": 2,
-        "A. Karazor": 2,
-        "J. Leweling": 2
+        "E. Demirović": 5,
+        "R. Hendriks": 4,
+        "D. Pejčinović": 3,
+        "D. Seimen": 3,
+        "A. Karazor": 3,
+        "J. Leweling": 2,
+        "L. Assignon": 1,
+        "L. Sauer": 1
       }
     },
     "1. FSV Mainz 05": {
@@ -342,28 +345,29 @@
       }
     },
     "Borussia Mönchengladbach": {
-      "matchesSeen": 5,
+      "matchesSeen": 6,
       "players": {
-        "M. Nicolas": 5,
-        "L. Ullrich": 4,
+        "M. Nicolas": 6,
+        "L. Ullrich": 5,
         "K. Diks": 5,
         "K. Itakura": 3,
-        "J. Scally": 5,
+        "J. Scally": 6,
         "M. Nguefack": 1,
-        "P. Sander": 5,
-        "H. Bolin": 5,
-        "W. Mohya": 2,
+        "P. Sander": 6,
+        "H. Bolin": 6,
+        "W. Mohya": 3,
         "F. Honorat": 3,
         "T. Kleindienst": 2,
         "J. Leszczyński": 2,
-        "F. Neuhaus": 3,
+        "F. Neuhaus": 4,
         "I. Lidberg": 3,
         "D. Herold": 1,
         "R. Hack": 2,
         "K. Stöger": 1,
-        "D. Hashioka": 1,
-        "F. Chiarodia": 1,
-        "Z. Uno": 1
+        "D. Hashioka": 2,
+        "F. Chiarodia": 2,
+        "Z. Uno": 2,
+        "S. Machino": 1
       }
     },
     "SV Werder Bremen": {
