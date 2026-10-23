@@ -1,19 +1,19 @@
 # Bundesliga-Prognose – Spieltag 7–8
 
-Erstellt am 2026-10-22. Elo-basierte Tippempfehlung für Kicktipp, ohne Gewähr – reiner Unterhaltungswert.
+Erstellt am 2026-10-23. Elo-basierte Tippempfehlung für Kicktipp, ohne Gewähr – reiner Unterhaltungswert.
 
 | Liga | Spiel | Tipp | Heim% / Remis% / Auswärts% |
 | --- | --- | --- | --- |
 | Bundesliga | VfB Stuttgart – Borussia Mönchengladbach | 2:1 | 68% / 17% / 15% |
-| Bundesliga | RB Leipzig – SV 07 Elversberg | 2:0 | 73% / 15% / 12% |
+| Bundesliga | RB Leipzig – SV 07 Elversberg | 2:0 | 73% / 16% / 11% |
 | Bundesliga | FC Augsburg – 1. FC Union Berlin | 2:1 | 54% / 22% / 24% |
-| Bundesliga | 1. FSV Mainz 05 – SV Werder Bremen | 2:1 | 52% / 23% / 25% |
+| Bundesliga | 1. FSV Mainz 05 – SV Werder Bremen | 2:1 | 53% / 22% / 25% |
 | Bundesliga | 1. FC Köln – FC Schalke 04 | 2:1 | 56% / 21% / 23% |
-| Bundesliga | SC Paderborn 07 – Hamburger SV | 1:2 | 32% / 24% / 44% |
+| Bundesliga | SC Paderborn 07 – Hamburger SV | 1:2 | 33% / 24% / 44% |
 | Bundesliga | Borussia Dortmund – Eintracht Frankfurt | 2:1 | 62% / 19% / 19% |
 | Bundesliga | TSG Hoffenheim – Bayer 04 Leverkusen | 0:1 | 32% / 25% / 43% |
 | Bundesliga | SC Freiburg – FC Bayern München | 1:2 | 23% / 21% / 56% |
-| Bundesliga | SV 07 Elversberg – 1. FSV Mainz 05 | 1:2 | 24% / 23% / 54% |
+| Bundesliga | SV 07 Elversberg – 1. FSV Mainz 05 | 1:2 | 24% / 23% / 53% |
 | Bundesliga | Bayer 04 Leverkusen – VfB Stuttgart | 2:1 | 54% / 22% / 25% |
 | Bundesliga | FC Augsburg – SC Freiburg | 0:1 | 33% / 27% / 41% |
 | Bundesliga | Borussia Mönchengladbach – SC Paderborn 07 | 2:1 | 58% / 21% / 22% |

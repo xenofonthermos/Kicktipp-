@@ -2,7 +2,7 @@
   "season": 2026,
   "matchday": 7,
   "nextMatchday": 8,
-  "generatedAt": "2026-10-22T15:19:53.272Z",
+  "generatedAt": "2026-10-23T00:46:08.149Z",
   "eloRanking": [
     {
       "rank": 1,
@@ -145,9 +145,9 @@
       "homeTeam": "RB Leipzig",
       "awayTeam": "SV 07 Elversberg",
       "probabilities": {
-        "home": 0.729,
-        "draw": 0.153,
-        "away": 0.118
+        "home": 0.733,
+        "draw": 0.155,
+        "away": 0.112
       },
       "tip": "2:0",
       "tipExpectedPoints": 1.79,
@@ -155,9 +155,9 @@
         "market": "1x2",
         "selection": "Heimsieg",
         "bookmaker": "Tipico",
-        "bookmakerOdds": 1.42,
-        "ourProbability": 0.729,
-        "edgePct": 6
+        "bookmakerOdds": 1.4,
+        "ourProbability": 0.733,
+        "edgePct": 5.7
       },
       "homeForm": [
         "N",
@@ -231,9 +231,9 @@
       "homeTeam": "1. FSV Mainz 05",
       "awayTeam": "SV Werder Bremen",
       "probabilities": {
-        "home": 0.524,
-        "draw": 0.226,
-        "away": 0.25
+        "home": 0.528,
+        "draw": 0.224,
+        "away": 0.247
       },
       "tip": "2:1",
       "tipExpectedPoints": 1.393,
@@ -241,9 +241,9 @@
         "market": "1x2",
         "selection": "Auswärtssieg",
         "bookmaker": "Tipico",
-        "bookmakerOdds": 4.2,
-        "ourProbability": 0.25,
-        "edgePct": 2.4
+        "bookmakerOdds": 4.3,
+        "ourProbability": 0.247,
+        "edgePct": 2.7
       },
       "homeForm": [
         "S",
@@ -317,19 +317,19 @@
       "homeTeam": "SC Paderborn 07",
       "awayTeam": "Hamburger SV",
       "probabilities": {
-        "home": 0.323,
+        "home": 0.328,
         "draw": 0.236,
-        "away": 0.441
+        "away": 0.435
       },
       "tip": "1:2",
-      "tipExpectedPoints": 1.193,
+      "tipExpectedPoints": 1.142,
       "valueBet": {
         "market": "1x2",
         "selection": "Auswärtssieg",
         "bookmaker": "Tipico",
-        "bookmakerOdds": 2.7,
-        "ourProbability": 0.441,
-        "edgePct": 9.1
+        "bookmakerOdds": 2.8,
+        "ourProbability": 0.435,
+        "edgePct": 9.6
       },
       "homeForm": [
         "N",
@@ -489,9 +489,9 @@
       "homeTeam": "SV 07 Elversberg",
       "awayTeam": "1. FSV Mainz 05",
       "probabilities": {
-        "home": 0.24,
+        "home": 0.244,
         "draw": 0.225,
-        "away": 0.535
+        "away": 0.53
       },
       "tip": "1:2",
       "tipExpectedPoints": 1.393,
@@ -499,9 +499,9 @@
         "market": "1x2",
         "selection": "Auswärtssieg",
         "bookmaker": "Tipico",
-        "bookmakerOdds": 2,
-        "ourProbability": 0.535,
-        "edgePct": 6.2
+        "bookmakerOdds": 2.05,
+        "ourProbability": 0.53,
+        "edgePct": 6.7
       },
       "homeForm": [
         "S",
