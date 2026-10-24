@@ -2,7 +2,7 @@
   "season": 2026,
   "matchday": 7,
   "nextMatchday": 8,
-  "generatedAt": "2026-10-24T11:05:03.193Z",
+  "generatedAt": "2026-10-24T11:35:02.176Z",
   "eloRanking": [
     {
       "rank": 1,
@@ -188,9 +188,9 @@
       "homeTeam": "1. FSV Mainz 05",
       "awayTeam": "SV Werder Bremen",
       "probabilities": {
-        "home": 0.528,
+        "home": 0.533,
         "draw": 0.227,
-        "away": 0.245
+        "away": 0.24
       },
       "tip": "2:1",
       "tipExpectedPoints": 1.393,
@@ -198,9 +198,9 @@
         "market": "1x2",
         "selection": "Auswärtssieg",
         "bookmaker": "Tipico",
-        "bookmakerOdds": 4.4,
-        "ourProbability": 0.245,
-        "edgePct": 2.9
+        "bookmakerOdds": 4.6,
+        "ourProbability": 0.24,
+        "edgePct": 3.4
       },
       "homeForm": [
         "S",
@@ -231,9 +231,9 @@
       "homeTeam": "1. FC Köln",
       "awayTeam": "FC Schalke 04",
       "probabilities": {
-        "home": 0.558,
-        "draw": 0.216,
-        "away": 0.226
+        "home": 0.552,
+        "draw": 0.219,
+        "away": 0.229
       },
       "tip": "2:1",
       "tipExpectedPoints": 1.434,
@@ -241,9 +241,9 @@
         "market": "1x2",
         "selection": "Heimsieg",
         "bookmaker": "Tipico",
-        "bookmakerOdds": 2.05,
-        "ourProbability": 0.558,
-        "edgePct": 9.5
+        "bookmakerOdds": 2.1,
+        "ourProbability": 0.552,
+        "edgePct": 10.1
       },
       "homeForm": [
         "N",
