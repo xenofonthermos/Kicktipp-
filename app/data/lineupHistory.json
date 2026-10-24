@@ -54,7 +54,8 @@
     1340483219,
     1340484070,
     1340486623,
-    1340492580
+    1340492580,
+    1348022228
   ],
   "teams": {
     "FC Bayern München": {
@@ -497,19 +498,22 @@
       }
     },
     "Fortuna Düsseldorf": {
-      "matchesSeen": 1,
+      "matchesSeen": 2,
       "players": {
-        "L. Lord": 1,
-        "E. Wekesser": 1,
+        "L. Lord": 2,
+        "E. Wekesser": 2,
         "E .Egouli": 1,
-        "T. Oberdorf": 1,
-        "S. van der Sloot": 1,
-        "J. Hendrix": 1,
-        "A. Müller": 1,
+        "T. Oberdorf": 2,
+        "S. van der Sloot": 2,
+        "J. Hendrix": 2,
+        "A. Müller": 2,
         "Y. Bouchama": 1,
         "P. Förster": 1,
-        "E. Hottmann": 1,
-        "A. Slimani": 1
+        "E. Hottmann": 2,
+        "A. Slimani": 2,
+        "L. Bornschein": 1,
+        "M. Zimmermann": 1,
+        "E. Arden": 1
       }
     },
     "FC Schalke 04": {
@@ -542,6 +546,22 @@
         "Moussa Sylla": 1,
         "M. Wöber": 1,
         "A. Gantenbein": 2
+      }
+    },
+    "Hansa Rostock": {
+      "matchesSeen": 1,
+      "players": {
+        "P. Klewin": 1,
+        "N. Kölle": 1,
+        "F. Carstens": 1,
+        "L. Wallner": 1,
+        "F. Pfanne": 1,
+        "K. Fatkić": 1,
+        "M. Schuster": 1,
+        "L. Dajaku": 1,
+        "Y. Michaelis": 1,
+        "Ouassim Karada": 1,
+        "A. Voglsammer": 1
       }
     }
   }

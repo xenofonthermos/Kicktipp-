@@ -2,7 +2,7 @@
   "season": 2026,
   "matchday": 7,
   "nextMatchday": 8,
-  "generatedAt": "2026-10-24T11:35:02.176Z",
+  "generatedAt": "2026-10-24T12:35:03.059Z",
   "eloRanking": [
     {
       "rank": 1,
@@ -102,19 +102,19 @@
       "homeTeam": "RB Leipzig",
       "awayTeam": "SV 07 Elversberg",
       "probabilities": {
-        "home": 0.729,
-        "draw": 0.153,
-        "away": 0.118
+        "home": 0.711,
+        "draw": 0.161,
+        "away": 0.128
       },
-      "tip": "2:0",
-      "tipExpectedPoints": 1.79,
+      "tip": "2:1",
+      "tipExpectedPoints": 1.73,
       "valueBet": {
         "market": "1x2",
         "selection": "Heimsieg",
         "bookmaker": "Tipico",
-        "bookmakerOdds": 1.42,
-        "ourProbability": 0.729,
-        "edgePct": 6
+        "bookmakerOdds": 1.5,
+        "ourProbability": 0.711,
+        "edgePct": 7.9
       },
       "homeForm": [
         "N",
@@ -188,9 +188,9 @@
       "homeTeam": "1. FSV Mainz 05",
       "awayTeam": "SV Werder Bremen",
       "probabilities": {
-        "home": 0.533,
+        "home": 0.528,
         "draw": 0.227,
-        "away": 0.24
+        "away": 0.245
       },
       "tip": "2:1",
       "tipExpectedPoints": 1.393,
@@ -198,9 +198,9 @@
         "market": "1x2",
         "selection": "Auswärtssieg",
         "bookmaker": "Tipico",
-        "bookmakerOdds": 4.6,
-        "ourProbability": 0.24,
-        "edgePct": 3.4
+        "bookmakerOdds": 4.4,
+        "ourProbability": 0.245,
+        "edgePct": 2.9
       },
       "homeForm": [
         "S",
@@ -231,19 +231,19 @@
       "homeTeam": "1. FC Köln",
       "awayTeam": "FC Schalke 04",
       "probabilities": {
-        "home": 0.552,
+        "home": 0.567,
         "draw": 0.219,
-        "away": 0.229
+        "away": 0.214
       },
       "tip": "2:1",
-      "tipExpectedPoints": 1.434,
+      "tipExpectedPoints": 1.447,
       "valueBet": {
         "market": "1x2",
         "selection": "Heimsieg",
         "bookmaker": "Tipico",
-        "bookmakerOdds": 2.1,
-        "ourProbability": 0.552,
-        "edgePct": 10.1
+        "bookmakerOdds": 1.97,
+        "ourProbability": 0.567,
+        "edgePct": 8.6
       },
       "homeForm": [
         "N",
@@ -274,19 +274,19 @@
       "homeTeam": "SC Paderborn 07",
       "awayTeam": "Hamburger SV",
       "probabilities": {
-        "home": 0.316,
-        "draw": 0.243,
-        "away": 0.441
+        "home": 0.328,
+        "draw": 0.24,
+        "away": 0.432
       },
       "tip": "1:2",
-      "tipExpectedPoints": 1.195,
+      "tipExpectedPoints": 1.142,
       "valueBet": {
         "market": "1x2",
         "selection": "Auswärtssieg",
         "bookmaker": "Tipico",
-        "bookmakerOdds": 2.7,
-        "ourProbability": 0.441,
-        "edgePct": 9
+        "bookmakerOdds": 2.85,
+        "ourProbability": 0.432,
+        "edgePct": 9.9
       },
       "homeForm": [
         "N",
@@ -833,12 +833,12 @@
       "homeTeam": "Hansa Rostock",
       "awayTeam": "Fortuna Düsseldorf",
       "probabilities": {
-        "home": 0.759,
-        "draw": 0.142,
-        "away": 0.099
+        "home": 0.78,
+        "draw": 0.135,
+        "away": 0.085
       },
       "tip": "2:0",
-      "tipExpectedPoints": 1.872,
+      "tipExpectedPoints": 1.933,
       "valueBet": null,
       "homeForm": [
         "S",
@@ -855,12 +855,16 @@
         "N"
       ],
       "homeLineup": {
-        "confirmed": false,
+        "confirmed": true,
         "missingRegulars": []
       },
       "awayLineup": {
-        "confirmed": false,
-        "missingRegulars": []
+        "confirmed": true,
+        "missingRegulars": [
+          "E .Egouli",
+          "Y. Bouchama",
+          "P. Förster"
+        ]
       }
     },
     {

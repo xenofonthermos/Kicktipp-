@@ -4,11 +4,11 @@ Erstellt am 2026-10-24. Elo-basierte Tippempfehlung für Kicktipp, ohne Gewähr 
 
 | Liga | Spiel | Tipp | Heim% / Remis% / Auswärts% |
 | --- | --- | --- | --- |
-| Bundesliga | RB Leipzig – SV 07 Elversberg | 2:0 | 73% / 15% / 12% |
+| Bundesliga | RB Leipzig – SV 07 Elversberg | 2:1 | 71% / 16% / 13% |
 | Bundesliga | FC Augsburg – 1. FC Union Berlin | 2:1 | 55% / 22% / 23% |
-| Bundesliga | 1. FSV Mainz 05 – SV Werder Bremen | 2:1 | 53% / 23% / 24% |
-| Bundesliga | 1. FC Köln – FC Schalke 04 | 2:1 | 55% / 22% / 23% |
-| Bundesliga | SC Paderborn 07 – Hamburger SV | 1:2 | 32% / 24% / 44% |
+| Bundesliga | 1. FSV Mainz 05 – SV Werder Bremen | 2:1 | 53% / 23% / 25% |
+| Bundesliga | 1. FC Köln – FC Schalke 04 | 2:1 | 57% / 22% / 21% |
+| Bundesliga | SC Paderborn 07 – Hamburger SV | 1:2 | 33% / 24% / 43% |
 | Bundesliga | Borussia Dortmund – Eintracht Frankfurt | 2:1 | 61% / 19% / 20% |
 | Bundesliga | TSG Hoffenheim – Bayer 04 Leverkusen | 0:1 | 32% / 25% / 43% |
 | Bundesliga | SC Freiburg – FC Bayern München | 1:2 | 23% / 21% / 56% |
@@ -21,7 +21,7 @@ Erstellt am 2026-10-24. Elo-basierte Tippempfehlung für Kicktipp, ohne Gewähr 
 | Bundesliga | FC Bayern München – Borussia Dortmund | 2:1 | 61% / 19% / 20% |
 | Bundesliga | 1. FC Union Berlin – 1. FC Köln | 1:0 | 43% / 25% / 32% |
 | Bundesliga | Eintracht Frankfurt – Hamburger SV | 2:1 | 58% / 20% / 22% |
-| 3. Liga | Hansa Rostock – Fortuna Düsseldorf | 2:0 | 76% / 14% / 10% |
+| 3. Liga | Hansa Rostock – Fortuna Düsseldorf | 2:0 | 78% / 14% / 9% |
 | 3. Liga | Fortuna Düsseldorf – SV Meppen | 1:0 | 44% / 25% / 31% |
 
 ## Elo-Tabelle (Modellwert, keine offizielle Tabelle)
