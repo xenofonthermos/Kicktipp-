@@ -60,7 +60,8 @@
     1340495133,
     1340495984,
     1340496835,
-    1340497686
+    1340497686,
+    1340490878
   ],
   "teams": {
     "FC Bayern München": {
@@ -193,24 +194,24 @@
       }
     },
     "Eintracht Frankfurt": {
-      "matchesSeen": 6,
+      "matchesSeen": 7,
       "players": {
-        "N. Atubolu": 6,
-        "Elias Baum": 4,
+        "N. Atubolu": 7,
+        "Elias Baum": 5,
         "J. Maluze": 2,
-        "R. Koch": 6,
+        "R. Koch": 7,
         "K. Kosugi": 6,
         "C. Uzun": 5,
-        "R. Onyedika": 6,
+        "R. Onyedika": 7,
         "A. Amaimouni": 1,
-        "F. Chaïbi": 2,
-        "J. Burkardt": 6,
-        "Y. Ebnoutalib": 4,
-        "L. Brassier": 5,
+        "F. Chaïbi": 3,
+        "J. Burkardt": 7,
+        "Y. Ebnoutalib": 5,
+        "L. Brassier": 6,
         "M. Götze": 2,
-        "R. Dōan": 5,
-        "N. Aséko Nkili": 3,
-        "N. Collins": 2,
+        "R. Dōan": 6,
+        "N. Aséko Nkili": 4,
+        "N. Collins": 3,
         "A. Knauff": 1
       }
     },
@@ -305,25 +306,26 @@
       }
     },
     "Borussia Dortmund": {
-      "matchesSeen": 6,
+      "matchesSeen": 7,
       "players": {
-        "G. Kobel": 6,
+        "G. Kobel": 7,
         "Kouakou Joane Gadou": 6,
-        "W. Anton": 6,
-        "J. Ryerson": 5,
-        "D. Svensson": 6,
-        "F. Nmecha": 5,
+        "W. Anton": 7,
+        "J. Ryerson": 6,
+        "D. Svensson": 7,
+        "F. Nmecha": 6,
         "J. Bellingham": 5,
         "M. Beier": 5,
         "G. Konstantelias": 1,
-        "S. Guirassy": 6,
+        "S. Guirassy": 7,
         "K. Karetsas": 2,
         "F. Mané": 1,
-        "N. Schlotterbeck": 4,
-        "J. Veerman": 2,
+        "N. Schlotterbeck": 5,
+        "J. Veerman": 3,
         "E. Nwaneri": 4,
-        "Fábio Silva": 1,
-        "M. Sabitzer": 1
+        "Fábio Silva": 2,
+        "M. Sabitzer": 2,
+        "R. Bensebaïni": 1
       }
     },
     "Hamburger SV": {
