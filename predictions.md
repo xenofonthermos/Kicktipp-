@@ -5,18 +5,18 @@ Erstellt am 2026-10-24. Elo-basierte Tippempfehlung für Kicktipp, ohne Gewähr 
 | Liga | Spiel | Tipp | Heim% / Remis% / Auswärts% |
 | --- | --- | --- | --- |
 | Bundesliga | RB Leipzig – SV 07 Elversberg | 2:0 | 73% / 15% / 12% |
-| Bundesliga | FC Augsburg – 1. FC Union Berlin | 2:1 | 54% / 23% / 24% |
-| Bundesliga | 1. FSV Mainz 05 – SV Werder Bremen | 2:1 | 52% / 23% / 25% |
-| Bundesliga | 1. FC Köln – FC Schalke 04 | 2:1 | 55% / 22% / 23% |
-| Bundesliga | SC Paderborn 07 – Hamburger SV | 1:2 | 33% / 24% / 43% |
+| Bundesliga | FC Augsburg – 1. FC Union Berlin | 2:1 | 55% / 22% / 23% |
+| Bundesliga | 1. FSV Mainz 05 – SV Werder Bremen | 2:1 | 53% / 23% / 25% |
+| Bundesliga | 1. FC Köln – FC Schalke 04 | 2:1 | 56% / 22% / 23% |
+| Bundesliga | SC Paderborn 07 – Hamburger SV | 1:2 | 32% / 24% / 44% |
 | Bundesliga | Borussia Dortmund – Eintracht Frankfurt | 2:1 | 61% / 19% / 20% |
-| Bundesliga | TSG Hoffenheim – Bayer 04 Leverkusen | 1:2 | 32% / 24% / 44% |
+| Bundesliga | TSG Hoffenheim – Bayer 04 Leverkusen | 0:1 | 32% / 25% / 43% |
 | Bundesliga | SC Freiburg – FC Bayern München | 1:2 | 23% / 21% / 56% |
 | Bundesliga | SV 07 Elversberg – 1. FSV Mainz 05 | 1:2 | 24% / 23% / 54% |
 | Bundesliga | Bayer 04 Leverkusen – VfB Stuttgart | 2:1 | 55% / 21% / 24% |
 | Bundesliga | FC Augsburg – SC Freiburg | 0:1 | 33% / 27% / 41% |
 | Bundesliga | Borussia Mönchengladbach – SC Paderborn 07 | 2:1 | 59% / 20% / 21% |
-| Bundesliga | SV Werder Bremen – TSG Hoffenheim | 0:1 | 36% / 26% / 38% |
+| Bundesliga | SV Werder Bremen – TSG Hoffenheim | 1:2 | 36% / 25% / 39% |
 | Bundesliga | FC Schalke 04 – RB Leipzig | 0:1 | 18% / 21% / 61% |
 | Bundesliga | FC Bayern München – Borussia Dortmund | 2:1 | 61% / 19% / 20% |
 | Bundesliga | 1. FC Union Berlin – 1. FC Köln | 1:0 | 43% / 25% / 32% |
