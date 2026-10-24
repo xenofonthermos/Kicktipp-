@@ -1501,9 +1501,9 @@
       "kickoffUtc": "2026-10-24T16:30:00.000Z",
       "tip": "2:1",
       "probabilities": {
-        "home": 0.614,
+        "home": 0.618,
         "draw": 0.19,
-        "away": 0.196
+        "away": 0.191
       },
       "baselines": {
         "immer21": "2:1",
@@ -1516,16 +1516,16 @@
         "away": 0.219
       },
       "marketProbabilities": {
-        "home": 0.645,
+        "home": 0.654,
         "draw": 0.182,
-        "away": 0.172
+        "away": 0.164
       },
       "params": {
         "goalScale": 1,
         "drawFactor": 1,
         "marketBlendWeight": 0.5
       },
-      "recordedAt": "2026-10-24T13:05:02.728Z",
+      "recordedAt": "2026-10-24T15:35:03.414Z",
       "matchId": 83210,
       "status": "pending"
     },
@@ -1562,7 +1562,14 @@
       },
       "recordedAt": "2026-10-24T13:05:02.728Z",
       "matchId": 83211,
-      "status": "pending"
+      "status": "resolved",
+      "actualScore": "4:0",
+      "points": 2,
+      "baselinePoints": {
+        "immer21": 2,
+        "favorit": 2,
+        "basis": 2
+      }
     },
     "83212": {
       "league": "Bundesliga",
@@ -1611,16 +1618,16 @@
       "homeTeam": "TSG Hoffenheim",
       "awayTeam": "Bayer 04 Leverkusen",
       "kickoffUtc": "2026-10-25T14:30:00.000Z",
-      "tip": "0:1",
+      "tip": "1:2",
       "probabilities": {
-        "home": 0.323,
-        "draw": 0.248,
-        "away": 0.429
+        "home": 0.32,
+        "draw": 0.242,
+        "away": 0.438
       },
       "baselines": {
         "immer21": "2:1",
         "favorit": "1:2",
-        "basis": "0:1"
+        "basis": "1:2"
       },
       "eloProbabilities": {
         "home": 0.307,
@@ -1628,16 +1635,16 @@
         "away": 0.446
       },
       "marketProbabilities": {
-        "home": 0.338,
-        "draw": 0.249,
-        "away": 0.412
+        "home": 0.332,
+        "draw": 0.237,
+        "away": 0.431
       },
       "params": {
         "goalScale": 1,
         "drawFactor": 1,
         "marketBlendWeight": 0.5
       },
-      "recordedAt": "2026-10-24T13:05:02.728Z",
+      "recordedAt": "2026-10-24T15:35:03.414Z",
       "matchId": 83213,
       "status": "pending"
     },
@@ -1672,7 +1679,7 @@
         "drawFactor": 1,
         "marketBlendWeight": 0.5
       },
-      "recordedAt": "2026-10-24T13:05:02.728Z",
+      "recordedAt": "2026-10-24T15:35:03.414Z",
       "matchId": 83214,
       "status": "pending"
     },
@@ -1709,7 +1716,14 @@
       },
       "recordedAt": "2026-10-24T13:05:02.728Z",
       "matchId": 83215,
-      "status": "pending"
+      "status": "resolved",
+      "actualScore": "1:1",
+      "points": 0,
+      "baselinePoints": {
+        "immer21": 0,
+        "favorit": 0,
+        "basis": 0
+      }
     },
     "83216": {
       "league": "Bundesliga",
@@ -1744,7 +1758,14 @@
       },
       "recordedAt": "2026-10-24T13:05:02.728Z",
       "matchId": 83216,
-      "status": "pending"
+      "status": "resolved",
+      "actualScore": "2:3",
+      "points": 0,
+      "baselinePoints": {
+        "immer21": 0,
+        "favorit": 0,
+        "basis": 0
+      }
     },
     "83217": {
       "league": "Bundesliga",
@@ -1779,7 +1800,14 @@
       },
       "recordedAt": "2026-10-24T13:05:02.728Z",
       "matchId": 83217,
-      "status": "pending"
+      "status": "resolved",
+      "actualScore": "0:0",
+      "points": 0,
+      "baselinePoints": {
+        "immer21": 0,
+        "favorit": 0,
+        "basis": 0
+      }
     },
     "83218": {
       "league": "Bundesliga",
@@ -1814,7 +1842,14 @@
       },
       "recordedAt": "2026-10-24T13:05:02.728Z",
       "matchId": 83218,
-      "status": "pending"
+      "status": "resolved",
+      "actualScore": "1:0",
+      "points": 0,
+      "baselinePoints": {
+        "immer21": 3,
+        "favorit": 0,
+        "basis": 0
+      }
     },
     "83219": {
       "league": "Bundesliga",
@@ -1847,7 +1882,7 @@
         "drawFactor": 1,
         "marketBlendWeight": 0.5
       },
-      "recordedAt": "2026-10-24T13:05:02.728Z",
+      "recordedAt": "2026-10-24T15:35:03.414Z",
       "matchId": 83219,
       "status": "pending"
     },
@@ -1882,7 +1917,7 @@
         "drawFactor": 1,
         "marketBlendWeight": 0.5
       },
-      "recordedAt": "2026-10-24T13:05:02.728Z",
+      "recordedAt": "2026-10-24T15:35:03.414Z",
       "matchId": 83220,
       "status": "pending"
     },
@@ -1893,9 +1928,9 @@
       "kickoffUtc": "2026-11-01T16:30:00.000Z",
       "tip": "2:1",
       "probabilities": {
-        "home": 0.581,
-        "draw": 0.204,
-        "away": 0.216
+        "home": 0.589,
+        "draw": 0.201,
+        "away": 0.21
       },
       "baselines": {
         "immer21": "2:1",
@@ -1903,9 +1938,9 @@
         "basis": "2:1"
       },
       "eloProbabilities": {
-        "home": 0.587,
-        "draw": 0.197,
-        "away": 0.216
+        "home": 0.603,
+        "draw": 0.191,
+        "away": 0.205
       },
       "marketProbabilities": {
         "home": 0.574,
@@ -1917,7 +1952,7 @@
         "drawFactor": 1,
         "marketBlendWeight": 0.5
       },
-      "recordedAt": "2026-10-24T13:05:02.728Z",
+      "recordedAt": "2026-10-24T15:35:03.414Z",
       "matchId": 83221,
       "status": "pending"
     },
@@ -1928,9 +1963,9 @@
       "kickoffUtc": "2026-10-31T14:30:00.000Z",
       "tip": "0:1",
       "probabilities": {
-        "home": 0.329,
-        "draw": 0.265,
-        "away": 0.406
+        "home": 0.327,
+        "draw": 0.264,
+        "away": 0.408
       },
       "baselines": {
         "immer21": "2:1",
@@ -1938,9 +1973,9 @@
         "basis": "0:1"
       },
       "eloProbabilities": {
-        "home": 0.353,
-        "draw": 0.275,
-        "away": 0.372
+        "home": 0.35,
+        "draw": 0.273,
+        "away": 0.377
       },
       "marketProbabilities": {
         "home": 0.305,
@@ -1952,7 +1987,7 @@
         "drawFactor": 1,
         "marketBlendWeight": 0.5
       },
-      "recordedAt": "2026-10-24T13:05:02.728Z",
+      "recordedAt": "2026-10-24T15:35:03.414Z",
       "matchId": 83222,
       "status": "pending"
     },
@@ -1963,9 +1998,9 @@
       "kickoffUtc": "2026-11-01T14:30:00.000Z",
       "tip": "1:0",
       "probabilities": {
-        "home": 0.426,
-        "draw": 0.254,
-        "away": 0.32
+        "home": 0.432,
+        "draw": 0.251,
+        "away": 0.316
       },
       "baselines": {
         "immer21": "2:1",
@@ -1973,9 +2008,9 @@
         "basis": "1:0"
       },
       "eloProbabilities": {
-        "home": 0.473,
-        "draw": 0.237,
-        "away": 0.29
+        "home": 0.486,
+        "draw": 0.232,
+        "away": 0.282
       },
       "marketProbabilities": {
         "home": 0.379,
@@ -1987,7 +2022,7 @@
         "drawFactor": 1,
         "marketBlendWeight": 0.5
       },
-      "recordedAt": "2026-10-24T13:05:02.728Z",
+      "recordedAt": "2026-10-24T15:35:03.414Z",
       "matchId": 83223,
       "status": "pending"
     },
@@ -1998,9 +2033,9 @@
       "kickoffUtc": "2026-10-31T14:30:00.000Z",
       "tip": "2:1",
       "probabilities": {
-        "home": 0.591,
-        "draw": 0.203,
-        "away": 0.206
+        "home": 0.584,
+        "draw": 0.205,
+        "away": 0.211
       },
       "baselines": {
         "immer21": "2:1",
@@ -2008,9 +2043,9 @@
         "basis": "2:1"
       },
       "eloProbabilities": {
-        "home": 0.656,
-        "draw": 0.174,
-        "away": 0.17
+        "home": 0.642,
+        "draw": 0.179,
+        "away": 0.18
       },
       "marketProbabilities": {
         "home": 0.526,
@@ -2022,7 +2057,7 @@
         "drawFactor": 1,
         "marketBlendWeight": 0.5
       },
-      "recordedAt": "2026-10-24T13:05:02.728Z",
+      "recordedAt": "2026-10-24T15:35:03.414Z",
       "matchId": 83224,
       "status": "pending"
     },
@@ -2031,21 +2066,21 @@
       "homeTeam": "SV Werder Bremen",
       "awayTeam": "TSG Hoffenheim",
       "kickoffUtc": "2026-10-31T14:30:00.000Z",
-      "tip": "1:2",
+      "tip": "0:1",
       "probabilities": {
-        "home": 0.36,
-        "draw": 0.253,
-        "away": 0.387
+        "home": 0.369,
+        "draw": 0.25,
+        "away": 0.382
       },
       "baselines": {
         "immer21": "2:1",
         "favorit": "1:2",
-        "basis": "1:2"
+        "basis": "0:1"
       },
       "eloProbabilities": {
-        "home": 0.404,
-        "draw": 0.263,
-        "away": 0.333
+        "home": 0.421,
+        "draw": 0.256,
+        "away": 0.323
       },
       "marketProbabilities": {
         "home": 0.316,
@@ -2057,7 +2092,7 @@
         "drawFactor": 1,
         "marketBlendWeight": 0.5
       },
-      "recordedAt": "2026-10-24T13:05:02.728Z",
+      "recordedAt": "2026-10-24T15:35:03.414Z",
       "matchId": 83225,
       "status": "pending"
     },
@@ -2066,33 +2101,33 @@
       "homeTeam": "FC Schalke 04",
       "awayTeam": "RB Leipzig",
       "kickoffUtc": "2026-10-31T14:30:00.000Z",
-      "tip": "0:1",
+      "tip": "1:2",
       "probabilities": {
-        "home": 0.183,
-        "draw": 0.206,
-        "away": 0.611
+        "home": 0.181,
+        "draw": 0.199,
+        "away": 0.62
       },
       "baselines": {
         "immer21": "2:1",
         "favorit": "1:2",
-        "basis": "0:1"
+        "basis": "1:2"
       },
       "eloProbabilities": {
-        "home": 0.13,
-        "draw": 0.155,
-        "away": 0.715
+        "home": 0.131,
+        "draw": 0.156,
+        "away": 0.713
       },
       "marketProbabilities": {
-        "home": 0.237,
-        "draw": 0.256,
-        "away": 0.507
+        "home": 0.231,
+        "draw": 0.243,
+        "away": 0.526
       },
       "params": {
         "goalScale": 1,
         "drawFactor": 1,
         "marketBlendWeight": 0.5
       },
-      "recordedAt": "2026-10-24T13:05:02.728Z",
+      "recordedAt": "2026-10-24T15:35:03.414Z",
       "matchId": 83226,
       "status": "pending"
     },
@@ -2103,9 +2138,9 @@
       "kickoffUtc": "2026-10-30T19:30:00.000Z",
       "tip": "1:2",
       "probabilities": {
-        "home": 0.24,
-        "draw": 0.225,
-        "away": 0.535
+        "home": 0.252,
+        "draw": 0.223,
+        "away": 0.524
       },
       "baselines": {
         "immer21": "2:1",
@@ -2113,21 +2148,21 @@
         "basis": "1:2"
       },
       "eloProbabilities": {
-        "home": 0.209,
-        "draw": 0.193,
-        "away": 0.597
+        "home": 0.217,
+        "draw": 0.197,
+        "away": 0.586
       },
       "marketProbabilities": {
-        "home": 0.271,
-        "draw": 0.256,
-        "away": 0.473
+        "home": 0.288,
+        "draw": 0.25,
+        "away": 0.463
       },
       "params": {
         "goalScale": 1,
         "drawFactor": 1,
         "marketBlendWeight": 0.5
       },
-      "recordedAt": "2026-10-24T13:05:02.728Z",
+      "recordedAt": "2026-10-24T15:35:03.414Z",
       "matchId": 83227,
       "status": "pending"
     },
@@ -2437,7 +2472,14 @@
       },
       "recordedAt": "2026-10-24T11:35:02.176Z",
       "matchId": 84848,
-      "status": "pending"
+      "status": "resolved",
+      "actualScore": "1:1",
+      "points": 0,
+      "baselinePoints": {
+        "immer21": 0,
+        "favorit": 0,
+        "basis": 0
+      }
     },
     "84856": {
       "league": "3. Liga",
@@ -2446,9 +2488,9 @@
       "kickoffUtc": "2026-10-30T18:00:00.000Z",
       "tip": "1:0",
       "probabilities": {
-        "home": 0.435,
-        "draw": 0.251,
-        "away": 0.314
+        "home": 0.424,
+        "draw": 0.255,
+        "away": 0.321
       },
       "baselines": {
         "immer21": "2:1",
@@ -2456,9 +2498,9 @@
         "basis": "1:0"
       },
       "eloProbabilities": {
-        "home": 0.435,
-        "draw": 0.251,
-        "away": 0.314
+        "home": 0.424,
+        "draw": 0.255,
+        "away": 0.321
       },
       "marketProbabilities": null,
       "params": {
@@ -2466,7 +2508,7 @@
         "drawFactor": 1,
         "marketBlendWeight": 0.5
       },
-      "recordedAt": "2026-10-24T13:05:02.728Z",
+      "recordedAt": "2026-10-24T15:35:03.414Z",
       "matchId": 84856,
       "status": "pending"
     }
