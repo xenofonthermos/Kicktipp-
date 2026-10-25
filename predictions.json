@@ -2,7 +2,7 @@
   "season": 2026,
   "matchday": 7,
   "nextMatchday": 8,
-  "generatedAt": "2026-10-25T03:06:03.915Z",
+  "generatedAt": "2026-10-25T13:35:03.192Z",
   "eloRanking": [
     {
       "rank": 1,
@@ -102,19 +102,19 @@
       "homeTeam": "TSG Hoffenheim",
       "awayTeam": "Bayer 04 Leverkusen",
       "probabilities": {
-        "home": 0.317,
+        "home": 0.301,
         "draw": 0.245,
-        "away": 0.438
+        "away": 0.454
       },
       "tip": "1:2",
       "tipExpectedPoints": 1.195,
       "valueBet": {
         "market": "1x2",
-        "selection": "Auswärtssieg",
+        "selection": "Heimsieg",
         "bookmaker": "Tipico",
-        "bookmakerOdds": 2.2,
-        "ourProbability": 0.438,
-        "edgePct": 0.8
+        "bookmakerOdds": 3.2,
+        "ourProbability": 0.301,
+        "edgePct": 0.6
       },
       "homeForm": [
         "N",
@@ -145,19 +145,19 @@
       "homeTeam": "SC Freiburg",
       "awayTeam": "FC Bayern München",
       "probabilities": {
-        "home": 0.238,
-        "draw": 0.21,
-        "away": 0.552
+        "home": 0.245,
+        "draw": 0.218,
+        "away": 0.536
       },
       "tip": "1:2",
-      "tipExpectedPoints": 1.42,
+      "tipExpectedPoints": 1.382,
       "valueBet": {
         "market": "1x2",
         "selection": "Heimsieg",
         "bookmaker": "Tipico",
-        "bookmakerOdds": 6,
-        "ourProbability": 0.238,
-        "edgePct": 8
+        "bookmakerOdds": 5.5,
+        "ourProbability": 0.245,
+        "edgePct": 7.3
       },
       "homeForm": [
         "S",
@@ -360,9 +360,9 @@
       "homeTeam": "SV Werder Bremen",
       "awayTeam": "TSG Hoffenheim",
       "probabilities": {
-        "home": 0.371,
-        "draw": 0.256,
-        "away": 0.372
+        "home": 0.369,
+        "draw": 0.25,
+        "away": 0.382
       },
       "tip": "0:1",
       "tipExpectedPoints": 1.032,
@@ -370,9 +370,9 @@
         "market": "1x2",
         "selection": "Heimsieg",
         "bookmaker": "Tipico",
-        "bookmakerOdds": 2.95,
-        "ourProbability": 0.371,
-        "edgePct": 5
+        "bookmakerOdds": 3,
+        "ourProbability": 0.369,
+        "edgePct": 5.3
       },
       "homeForm": [
         "U",
@@ -575,12 +575,12 @@
       "homeTeam": "Fortuna Düsseldorf",
       "awayTeam": "SV Meppen",
       "probabilities": {
-        "home": 0.424,
-        "draw": 0.255,
-        "away": 0.321
+        "home": 0.437,
+        "draw": 0.25,
+        "away": 0.313
       },
       "tip": "1:0",
-      "tipExpectedPoints": 1.143,
+      "tipExpectedPoints": 1.205,
       "valueBet": null,
       "homeForm": [
         "N",
@@ -593,7 +593,7 @@
         "N",
         "U",
         "S",
-        "S",
+        "U",
         "S"
       ],
       "homeLineup": {

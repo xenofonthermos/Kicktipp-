@@ -4,18 +4,18 @@ Erstellt am 2026-10-25. Elo-basierte Tippempfehlung für Kicktipp, ohne Gewähr 
 
 | Liga | Spiel | Tipp | Heim% / Remis% / Auswärts% |
 | --- | --- | --- | --- |
-| Bundesliga | TSG Hoffenheim – Bayer 04 Leverkusen | 1:2 | 32% / 25% / 44% |
-| Bundesliga | SC Freiburg – FC Bayern München | 1:2 | 24% / 21% / 55% |
+| Bundesliga | TSG Hoffenheim – Bayer 04 Leverkusen | 1:2 | 30% / 25% / 45% |
+| Bundesliga | SC Freiburg – FC Bayern München | 1:2 | 25% / 22% / 54% |
 | Bundesliga | SV 07 Elversberg – 1. FSV Mainz 05 | 1:2 | 25% / 22% / 52% |
 | Bundesliga | Bayer 04 Leverkusen – VfB Stuttgart | 2:1 | 55% / 21% / 24% |
 | Bundesliga | FC Augsburg – SC Freiburg | 0:1 | 33% / 26% / 41% |
 | Bundesliga | Borussia Mönchengladbach – SC Paderborn 07 | 2:1 | 57% / 21% / 22% |
-| Bundesliga | SV Werder Bremen – TSG Hoffenheim | 0:1 | 37% / 26% / 37% |
+| Bundesliga | SV Werder Bremen – TSG Hoffenheim | 0:1 | 37% / 25% / 38% |
 | Bundesliga | FC Schalke 04 – RB Leipzig | 1:2 | 18% / 20% / 62% |
 | Bundesliga | FC Bayern München – Borussia Dortmund | 2:1 | 60% / 19% / 21% |
 | Bundesliga | 1. FC Union Berlin – 1. FC Köln | 1:0 | 43% / 25% / 32% |
 | Bundesliga | Eintracht Frankfurt – Hamburger SV | 2:1 | 59% / 20% / 21% |
-| 3. Liga | Fortuna Düsseldorf – SV Meppen | 1:0 | 42% / 26% / 32% |
+| 3. Liga | Fortuna Düsseldorf – SV Meppen | 1:0 | 44% / 25% / 31% |
 
 ## Elo-Tabelle (Modellwert, keine offizielle Tabelle)
 
