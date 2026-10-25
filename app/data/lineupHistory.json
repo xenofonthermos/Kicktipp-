@@ -61,7 +61,8 @@
     1340495984,
     1340496835,
     1340497686,
-    1340490878
+    1340490878,
+    1340493431
   ],
   "teams": {
     "FC Bayern München": {
@@ -240,26 +241,26 @@
       }
     },
     "TSG Hoffenheim": {
-      "matchesSeen": 6,
+      "matchesSeen": 7,
       "players": {
-        "O. Baumann": 6,
+        "O. Baumann": 7,
         "Bernardo": 2,
         "A. Hajdari": 3,
-        "O. Kabak": 5,
-        "V. Coufal": 6,
-        "W. Burger": 5,
-        "L. Avdullahu": 6,
-        "A. Daghim": 5,
+        "O. Kabak": 6,
+        "V. Coufal": 7,
+        "W. Burger": 6,
+        "L. Avdullahu": 7,
+        "A. Daghim": 6,
         "P. Wimmer": 2,
-        "A. Hložek": 5,
+        "A. Hložek": 6,
         "B. Conté": 5,
-        "M. Rots": 4,
+        "M. Rots": 5,
         "T. Lemperle": 4,
-        "K. Machida": 3,
+        "K. Machida": 4,
         "Max Moerstedt": 1,
-        "F. Asllani": 2,
+        "F. Asllani": 3,
         "R. Hranáč": 1,
-        "A. Prass": 1
+        "A. Prass": 2
       }
     },
     "SV 07 Elversberg": {
@@ -285,24 +286,25 @@
       }
     },
     "Bayer 04 Leverkusen": {
-      "matchesSeen": 6,
+      "matchesSeen": 7,
       "players": {
-        "M. Flekken": 6,
-        "Miguel Gutiérrez": 6,
-        "E. Tapsoba": 6,
+        "M. Flekken": 7,
+        "Miguel Gutiérrez": 7,
+        "E. Tapsoba": 7,
         "L. Badé": 1,
         "Lucas Vázquez": 1,
-        "Aleix García": 6,
-        "E. Fernández": 5,
+        "Aleix García": 7,
+        "E. Fernández": 6,
         "Afonso Moreira": 6,
         "M. Tillman": 2,
-        "I. Maza": 6,
-        "P. Schick": 5,
-        "F. Medina": 5,
-        "J. Quansah": 5,
-        "M. Diaby": 4,
+        "I. Maza": 7,
+        "P. Schick": 6,
+        "F. Medina": 6,
+        "J. Quansah": 6,
+        "M. Diaby": 5,
         "Christian Kofane": 1,
-        "R. Andrich": 1
+        "R. Andrich": 1,
+        "N. Tella": 1
       }
     },
     "Borussia Dortmund": {

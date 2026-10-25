@@ -4,7 +4,7 @@ Erstellt am 2026-10-25. Elo-basierte Tippempfehlung für Kicktipp, ohne Gewähr 
 
 | Liga | Spiel | Tipp | Heim% / Remis% / Auswärts% |
 | --- | --- | --- | --- |
-| Bundesliga | TSG Hoffenheim – Bayer 04 Leverkusen | 1:2 | 30% / 25% / 45% |
+| Bundesliga | TSG Hoffenheim – Bayer 04 Leverkusen | 1:2 | 30% / 24% / 47% |
 | Bundesliga | SC Freiburg – FC Bayern München | 1:2 | 25% / 22% / 54% |
 | Bundesliga | SV 07 Elversberg – 1. FSV Mainz 05 | 1:2 | 25% / 22% / 52% |
 | Bundesliga | Bayer 04 Leverkusen – VfB Stuttgart | 2:1 | 55% / 21% / 24% |

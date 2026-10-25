@@ -2,7 +2,7 @@
   "season": 2026,
   "matchday": 7,
   "nextMatchday": 8,
-  "generatedAt": "2026-10-25T13:35:03.192Z",
+  "generatedAt": "2026-10-25T14:05:02.179Z",
   "eloRanking": [
     {
       "rank": 1,
@@ -102,19 +102,19 @@
       "homeTeam": "TSG Hoffenheim",
       "awayTeam": "Bayer 04 Leverkusen",
       "probabilities": {
-        "home": 0.301,
-        "draw": 0.245,
-        "away": 0.454
+        "home": 0.296,
+        "draw": 0.236,
+        "away": 0.468
       },
       "tip": "1:2",
-      "tipExpectedPoints": 1.195,
+      "tipExpectedPoints": 1.247,
       "valueBet": {
         "market": "1x2",
-        "selection": "Heimsieg",
+        "selection": "Remis",
         "bookmaker": "Tipico",
-        "bookmakerOdds": 3.2,
-        "ourProbability": 0.301,
-        "edgePct": 0.6
+        "bookmakerOdds": 4.1,
+        "ourProbability": 0.236,
+        "edgePct": 0.5
       },
       "homeForm": [
         "N",
@@ -131,12 +131,17 @@
         "S"
       ],
       "homeLineup": {
-        "confirmed": false,
-        "missingRegulars": []
+        "confirmed": true,
+        "missingRegulars": [
+          "B. Conté",
+          "T. Lemperle"
+        ]
       },
       "awayLineup": {
-        "confirmed": false,
-        "missingRegulars": []
+        "confirmed": true,
+        "missingRegulars": [
+          "Afonso Moreira"
+        ]
       }
     },
     {
