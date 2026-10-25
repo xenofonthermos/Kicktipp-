@@ -2,7 +2,7 @@
   "season": 2026,
   "matchday": 7,
   "nextMatchday": 8,
-  "generatedAt": "2026-10-25T14:05:02.179Z",
+  "generatedAt": "2026-10-25T15:35:02.171Z",
   "eloRanking": [
     {
       "rank": 1,
@@ -102,19 +102,19 @@
       "homeTeam": "TSG Hoffenheim",
       "awayTeam": "Bayer 04 Leverkusen",
       "probabilities": {
-        "home": 0.296,
-        "draw": 0.236,
-        "away": 0.468
+        "home": 0.311,
+        "draw": 0.281,
+        "away": 0.408
       },
-      "tip": "1:2",
-      "tipExpectedPoints": 1.247,
+      "tip": "0:1",
+      "tipExpectedPoints": 1.164,
       "valueBet": {
         "market": "1x2",
-        "selection": "Remis",
+        "selection": "Auswärtssieg",
         "bookmaker": "Tipico",
-        "bookmakerOdds": 4.1,
-        "ourProbability": 0.236,
-        "edgePct": 0.5
+        "bookmakerOdds": 2.5,
+        "ourProbability": 0.408,
+        "edgePct": 4.1
       },
       "homeForm": [
         "N",
@@ -133,8 +133,7 @@
       "homeLineup": {
         "confirmed": true,
         "missingRegulars": [
-          "B. Conté",
-          "T. Lemperle"
+          "B. Conté"
         ]
       },
       "awayLineup": {
@@ -409,8 +408,8 @@
       "awayTeam": "RB Leipzig",
       "probabilities": {
         "home": 0.181,
-        "draw": 0.199,
-        "away": 0.62
+        "draw": 0.203,
+        "away": 0.616
       },
       "tip": "1:2",
       "tipExpectedPoints": 1.558,
@@ -418,9 +417,9 @@
         "market": "1x2",
         "selection": "Auswärtssieg",
         "bookmaker": "Tipico",
-        "bookmakerOdds": 1.8,
-        "ourProbability": 0.62,
-        "edgePct": 9.3
+        "bookmakerOdds": 1.83,
+        "ourProbability": 0.616,
+        "edgePct": 9.7
       },
       "homeForm": [
         "S",
