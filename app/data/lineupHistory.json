@@ -62,11 +62,12 @@
     1340496835,
     1340497686,
     1340490878,
-    1340493431
+    1340493431,
+    1340494282
   ],
   "teams": {
     "FC Bayern München": {
-      "matchesSeen": 6,
+      "matchesSeen": 7,
       "players": {
         "Manuel Neuer": 1,
         "Alphonso Davies": 1,
@@ -79,24 +80,25 @@
         "Nathaniel Brown": 1,
         "Michael Olise": 1,
         "Harry Kane": 1,
-        "J. Urbig": 2,
-        "N. Brown": 3,
+        "J. Urbig": 3,
+        "N. Brown": 4,
         "Kim Min-Jae": 2,
-        "D. Upamecano": 5,
-        "J. Stanišić": 3,
+        "D. Upamecano": 6,
+        "J. Stanišić": 4,
         "A. Pavlović": 5,
-        "T. Bischof": 1,
+        "T. Bischof": 2,
         "I. Saibari": 4,
-        "M. Olise": 4,
-        "L. Karl": 2,
-        "H. Kane": 4,
+        "M. Olise": 5,
+        "L. Karl": 3,
+        "H. Kane": 5,
         "M. Neuer": 3,
         "A. Davies": 3,
-        "J. Tah": 3,
+        "J. Tah": 4,
         "J. Kimmich": 4,
         "L. Díaz": 4,
         "J. Musiala": 1,
-        "K. Laimer": 2
+        "K. Laimer": 3,
+        "S. Gnabry": 1
       }
     },
     "VfB Stuttgart": {
@@ -437,18 +439,18 @@
       }
     },
     "SC Freiburg": {
-      "matchesSeen": 6,
+      "matchesSeen": 7,
       "players": {
-        "M. Backhaus": 5,
-        "J. Makengo": 5,
-        "P. Lienhart": 5,
-        "M. Ginter": 5,
-        "P. Treu": 5,
+        "M. Backhaus": 6,
+        "J. Makengo": 6,
+        "P. Lienhart": 6,
+        "M. Ginter": 6,
+        "P. Treu": 6,
         "Y. Engelhardt": 5,
-        "M. Eggestein": 5,
-        "D. Scherhant": 5,
-        "Y. Suzuki": 4,
-        "J. Beste": 5,
+        "M. Eggestein": 6,
+        "D. Scherhant": 6,
+        "Y. Suzuki": 5,
+        "J. Beste": 6,
         "I. Matanović": 5,
         "Mio Backhaus": 1,
         "Jordy Makengo": 1,
@@ -461,7 +463,9 @@
         "Yuito Suzuki": 1,
         "Jan-Niklas Beste": 1,
         "Igor Matanović": 1,
-        "K. Goto": 1
+        "K. Goto": 1,
+        "P. Osterhage": 1,
+        "L. Höler": 1
       }
     },
     "FC Augsburg": {

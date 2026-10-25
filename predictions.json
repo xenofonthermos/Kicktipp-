@@ -2,7 +2,7 @@
   "season": 2026,
   "matchday": 7,
   "nextMatchday": 8,
-  "generatedAt": "2026-10-25T15:35:02.171Z",
+  "generatedAt": "2026-10-25T16:05:02.957Z",
   "eloRanking": [
     {
       "rank": 1,
@@ -102,19 +102,19 @@
       "homeTeam": "TSG Hoffenheim",
       "awayTeam": "Bayer 04 Leverkusen",
       "probabilities": {
-        "home": 0.311,
-        "draw": 0.281,
-        "away": 0.408
+        "home": 0.25,
+        "draw": 0.372,
+        "away": 0.378
       },
-      "tip": "0:1",
-      "tipExpectedPoints": 1.164,
+      "tip": "0:0",
+      "tipExpectedPoints": 1.386,
       "valueBet": {
         "market": "1x2",
         "selection": "Auswärtssieg",
         "bookmaker": "Tipico",
-        "bookmakerOdds": 2.5,
-        "ourProbability": 0.408,
-        "edgePct": 4.1
+        "bookmakerOdds": 3,
+        "ourProbability": 0.378,
+        "edgePct": 7.1
       },
       "homeForm": [
         "N",
@@ -149,19 +149,19 @@
       "homeTeam": "SC Freiburg",
       "awayTeam": "FC Bayern München",
       "probabilities": {
-        "home": 0.245,
-        "draw": 0.218,
-        "away": 0.536
+        "home": 0.26,
+        "draw": 0.23,
+        "away": 0.51
       },
       "tip": "1:2",
-      "tipExpectedPoints": 1.382,
+      "tipExpectedPoints": 1.349,
       "valueBet": {
         "market": "1x2",
         "selection": "Heimsieg",
         "bookmaker": "Tipico",
-        "bookmakerOdds": 5.5,
-        "ourProbability": 0.245,
-        "edgePct": 7.3
+        "bookmakerOdds": 5.8,
+        "ourProbability": 0.26,
+        "edgePct": 9.6
       },
       "homeForm": [
         "S",
@@ -178,12 +178,20 @@
         "S"
       ],
       "homeLineup": {
-        "confirmed": false,
-        "missingRegulars": []
+        "confirmed": true,
+        "missingRegulars": [
+          "Y. Engelhardt",
+          "I. Matanović"
+        ]
       },
       "awayLineup": {
-        "confirmed": false,
-        "missingRegulars": []
+        "confirmed": true,
+        "missingRegulars": [
+          "A. Pavlović",
+          "I. Saibari",
+          "J. Kimmich",
+          "L. Díaz"
+        ]
       }
     },
     {
