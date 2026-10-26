@@ -2,7 +2,7 @@
   "season": 2026,
   "matchday": 7,
   "nextMatchday": 8,
-  "generatedAt": "2026-10-26T06:19:34.679Z",
+  "generatedAt": "2026-10-26T13:15:46.077Z",
   "eloRanking": [
     {
       "rank": 1,
@@ -231,19 +231,19 @@
       "homeTeam": "Borussia Mönchengladbach",
       "awayTeam": "SC Paderborn 07",
       "probabilities": {
-        "home": 0.57,
-        "draw": 0.208,
-        "away": 0.222
+        "home": 0.564,
+        "draw": 0.211,
+        "away": 0.225
       },
       "tip": "2:1",
-      "tipExpectedPoints": 1.472,
+      "tipExpectedPoints": 1.434,
       "valueBet": {
         "market": "1x2",
         "selection": "Heimsieg",
         "bookmaker": "Tipico",
-        "bookmakerOdds": 1.9,
-        "ourProbability": 0.57,
-        "edgePct": 7.1
+        "bookmakerOdds": 1.95,
+        "ourProbability": 0.564,
+        "edgePct": 7.8
       },
       "homeForm": [
         "N",
@@ -274,19 +274,19 @@
       "homeTeam": "SV Werder Bremen",
       "awayTeam": "TSG Hoffenheim",
       "probabilities": {
-        "home": 0.36,
-        "draw": 0.255,
-        "away": 0.385
+        "home": 0.363,
+        "draw": 0.261,
+        "away": 0.376
       },
-      "tip": "1:2",
-      "tipExpectedPoints": 1.087,
+      "tip": "0:1",
+      "tipExpectedPoints": 1.036,
       "valueBet": {
         "market": "1x2",
         "selection": "Heimsieg",
         "bookmaker": "Tipico",
-        "bookmakerOdds": 2.9,
-        "ourProbability": 0.36,
-        "edgePct": 3.3
+        "bookmakerOdds": 2.85,
+        "ourProbability": 0.363,
+        "edgePct": 3.1
       },
       "homeForm": [
         "U",
@@ -360,9 +360,9 @@
       "homeTeam": "FC Bayern München",
       "awayTeam": "Borussia Dortmund",
       "probabilities": {
-        "home": 0.605,
-        "draw": 0.194,
-        "away": 0.201
+        "home": 0.611,
+        "draw": 0.195,
+        "away": 0.194
       },
       "tip": "2:1",
       "tipExpectedPoints": 1.539,
@@ -370,9 +370,9 @@
         "market": "1x2",
         "selection": "Auswärtssieg",
         "bookmaker": "Tipico",
-        "bookmakerOdds": 7,
-        "ourProbability": 0.201,
-        "edgePct": 6.6
+        "bookmakerOdds": 7.8,
+        "ourProbability": 0.194,
+        "edgePct": 7.3
       },
       "homeForm": [
         "S",
@@ -447,8 +447,8 @@
       "awayTeam": "Hamburger SV",
       "probabilities": {
         "home": 0.585,
-        "draw": 0.202,
-        "away": 0.212
+        "draw": 0.204,
+        "away": 0.21
       },
       "tip": "2:1",
       "tipExpectedPoints": 1.507,

@@ -7,10 +7,10 @@ Erstellt am 2026-10-26. Elo-basierte Tippempfehlung für Kicktipp, ohne Gewähr 
 | Bundesliga | SV 07 Elversberg – 1. FSV Mainz 05 | 1:2 | 25% / 22% / 52% |
 | Bundesliga | Bayer 04 Leverkusen – VfB Stuttgart | 2:1 | 53% / 22% / 25% |
 | Bundesliga | FC Augsburg – SC Freiburg | 0:1 | 33% / 27% / 40% |
-| Bundesliga | Borussia Mönchengladbach – SC Paderborn 07 | 2:1 | 57% / 21% / 22% |
-| Bundesliga | SV Werder Bremen – TSG Hoffenheim | 1:2 | 36% / 26% / 39% |
+| Bundesliga | Borussia Mönchengladbach – SC Paderborn 07 | 2:1 | 56% / 21% / 23% |
+| Bundesliga | SV Werder Bremen – TSG Hoffenheim | 0:1 | 36% / 26% / 38% |
 | Bundesliga | FC Schalke 04 – RB Leipzig | 0:1 | 18% / 21% / 61% |
-| Bundesliga | FC Bayern München – Borussia Dortmund | 2:1 | 61% / 19% / 20% |
+| Bundesliga | FC Bayern München – Borussia Dortmund | 2:1 | 61% / 20% / 19% |
 | Bundesliga | 1. FC Union Berlin – 1. FC Köln | 1:0 | 43% / 25% / 32% |
 | Bundesliga | Eintracht Frankfurt – Hamburger SV | 2:1 | 59% / 20% / 21% |
 | 3. Liga | Fortuna Düsseldorf – SV Meppen | 1:0 | 44% / 25% / 31% |
