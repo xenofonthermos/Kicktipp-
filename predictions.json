@@ -2,7 +2,7 @@
   "season": 2026,
   "matchday": 7,
   "nextMatchday": 8,
-  "generatedAt": "2026-10-26T13:15:46.077Z",
+  "generatedAt": "2026-10-26T19:22:16.138Z",
   "eloRanking": [
     {
       "rank": 1,
@@ -102,19 +102,19 @@
       "homeTeam": "SV 07 Elversberg",
       "awayTeam": "1. FSV Mainz 05",
       "probabilities": {
-        "home": 0.252,
-        "draw": 0.223,
-        "away": 0.524
+        "home": 0.257,
+        "draw": 0.224,
+        "away": 0.519
       },
       "tip": "1:2",
-      "tipExpectedPoints": 1.349,
+      "tipExpectedPoints": 1.34,
       "valueBet": {
         "market": "1x2",
         "selection": "Auswärtssieg",
         "bookmaker": "Tipico",
-        "bookmakerOdds": 2.05,
-        "ourProbability": 0.524,
-        "edgePct": 6.1
+        "bookmakerOdds": 2.1,
+        "ourProbability": 0.519,
+        "edgePct": 6.7
       },
       "homeForm": [
         "N",
@@ -145,9 +145,9 @@
       "homeTeam": "Bayer 04 Leverkusen",
       "awayTeam": "VfB Stuttgart",
       "probabilities": {
-        "home": 0.534,
+        "home": 0.531,
         "draw": 0.217,
-        "away": 0.249
+        "away": 0.253
       },
       "tip": "2:1",
       "tipExpectedPoints": 1.382,
@@ -155,9 +155,9 @@
         "market": "1x2",
         "selection": "Auswärtssieg",
         "bookmaker": "Tipico",
-        "bookmakerOdds": 3.9,
-        "ourProbability": 0.249,
-        "edgePct": 0.6
+        "bookmakerOdds": 3.8,
+        "ourProbability": 0.253,
+        "edgePct": 0.3
       },
       "homeForm": [
         "U",
@@ -317,12 +317,12 @@
       "homeTeam": "FC Schalke 04",
       "awayTeam": "RB Leipzig",
       "probabilities": {
-        "home": 0.181,
-        "draw": 0.206,
+        "home": 0.184,
+        "draw": 0.203,
         "away": 0.613
       },
-      "tip": "0:1",
-      "tipExpectedPoints": 1.54,
+      "tip": "1:2",
+      "tipExpectedPoints": 1.558,
       "valueBet": {
         "market": "1x2",
         "selection": "Auswärtssieg",
@@ -360,9 +360,9 @@
       "homeTeam": "FC Bayern München",
       "awayTeam": "Borussia Dortmund",
       "probabilities": {
-        "home": 0.611,
-        "draw": 0.195,
-        "away": 0.194
+        "home": 0.61,
+        "draw": 0.191,
+        "away": 0.199
       },
       "tip": "2:1",
       "tipExpectedPoints": 1.539,
@@ -370,9 +370,9 @@
         "market": "1x2",
         "selection": "Auswärtssieg",
         "bookmaker": "Tipico",
-        "bookmakerOdds": 7.8,
-        "ourProbability": 0.194,
-        "edgePct": 7.3
+        "bookmakerOdds": 7.2,
+        "ourProbability": 0.199,
+        "edgePct": 6.8
       },
       "homeForm": [
         "S",
