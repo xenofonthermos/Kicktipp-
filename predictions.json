@@ -2,7 +2,7 @@
   "season": 2026,
   "matchday": 7,
   "nextMatchday": 8,
-  "generatedAt": "2026-10-25T22:36:33.511Z",
+  "generatedAt": "2026-10-26T06:19:34.679Z",
   "eloRanking": [
     {
       "rank": 1,
@@ -274,19 +274,19 @@
       "homeTeam": "SV Werder Bremen",
       "awayTeam": "TSG Hoffenheim",
       "probabilities": {
-        "home": 0.357,
-        "draw": 0.258,
+        "home": 0.36,
+        "draw": 0.255,
         "away": 0.385
       },
-      "tip": "0:1",
-      "tipExpectedPoints": 1.091,
+      "tip": "1:2",
+      "tipExpectedPoints": 1.087,
       "valueBet": {
         "market": "1x2",
         "selection": "Heimsieg",
         "bookmaker": "Tipico",
-        "bookmakerOdds": 2.95,
-        "ourProbability": 0.357,
-        "edgePct": 3.6
+        "bookmakerOdds": 2.9,
+        "ourProbability": 0.36,
+        "edgePct": 3.3
       },
       "homeForm": [
         "U",
@@ -403,9 +403,9 @@
       "homeTeam": "1. FC Union Berlin",
       "awayTeam": "1. FC Köln",
       "probabilities": {
-        "home": 0.433,
-        "draw": 0.248,
-        "away": 0.32
+        "home": 0.432,
+        "draw": 0.251,
+        "away": 0.316
       },
       "tip": "1:0",
       "tipExpectedPoints": 1.205,
@@ -414,8 +414,8 @@
         "selection": "Heimsieg",
         "bookmaker": "Tipico",
         "bookmakerOdds": 2.5,
-        "ourProbability": 0.433,
-        "edgePct": 5.3
+        "ourProbability": 0.432,
+        "edgePct": 5.4
       },
       "homeForm": [
         "N",
