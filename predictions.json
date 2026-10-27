@@ -2,7 +2,7 @@
   "season": 2026,
   "matchday": 7,
   "nextMatchday": 8,
-  "generatedAt": "2026-10-26T19:22:16.138Z",
+  "generatedAt": "2026-10-27T02:07:37.425Z",
   "eloRanking": [
     {
       "rank": 1,
@@ -102,19 +102,19 @@
       "homeTeam": "SV 07 Elversberg",
       "awayTeam": "1. FSV Mainz 05",
       "probabilities": {
-        "home": 0.257,
-        "draw": 0.224,
-        "away": 0.519
+        "home": 0.252,
+        "draw": 0.223,
+        "away": 0.524
       },
       "tip": "1:2",
-      "tipExpectedPoints": 1.34,
+      "tipExpectedPoints": 1.349,
       "valueBet": {
         "market": "1x2",
         "selection": "Auswärtssieg",
         "bookmaker": "Tipico",
-        "bookmakerOdds": 2.1,
-        "ourProbability": 0.519,
-        "edgePct": 6.7
+        "bookmakerOdds": 2.05,
+        "ourProbability": 0.524,
+        "edgePct": 6.1
       },
       "homeForm": [
         "N",
