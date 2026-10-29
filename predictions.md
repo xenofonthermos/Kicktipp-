@@ -4,22 +4,22 @@ Erstellt am 2026-10-29. Elo-basierte Tippempfehlung für Kicktipp, ohne Gewähr 
 
 | Liga | Spiel | Tipp | Heim% / Remis% / Auswärts% |
 | --- | --- | --- | --- |
-| Bundesliga | SV 07 Elversberg – 1. FSV Mainz 05 | 1:2 | 26% / 22% / 52% |
+| Bundesliga | SV 07 Elversberg – 1. FSV Mainz 05 | 1:2 | 26% / 23% / 51% |
 | Bundesliga | Bayer 04 Leverkusen – VfB Stuttgart | 2:1 | 53% / 22% / 25% |
 | Bundesliga | FC Augsburg – SC Freiburg | 0:1 | 33% / 27% / 40% |
 | Bundesliga | Borussia Mönchengladbach – SC Paderborn 07 | 2:1 | 56% / 21% / 23% |
 | Bundesliga | SV Werder Bremen – TSG Hoffenheim | 0:1 | 37% / 25% / 38% |
 | Bundesliga | FC Schalke 04 – RB Leipzig | 1:2 | 18% / 20% / 62% |
-| Bundesliga | FC Bayern München – Borussia Dortmund | 2:1 | 61% / 19% / 20% |
+| Bundesliga | FC Bayern München – Borussia Dortmund | 2:1 | 62% / 19% / 19% |
 | Bundesliga | 1. FC Union Berlin – 1. FC Köln | 1:0 | 42% / 25% / 33% |
 | Bundesliga | Eintracht Frankfurt – Hamburger SV | 2:1 | 60% / 20% / 20% |
-| Bundesliga | Hamburger SV – Borussia Mönchengladbach | 2:1 | 43% / 25% / 32% |
+| Bundesliga | Hamburger SV – Borussia Mönchengladbach | 2:1 | 44% / 25% / 32% |
 | Bundesliga | Borussia Dortmund – SV 07 Elversberg | 2:0 | 78% / 13% / 8% |
 | Bundesliga | RB Leipzig – FC Augsburg | 2:1 | 63% / 18% / 19% |
 | Bundesliga | 1. FSV Mainz 05 – FC Bayern München | 1:2 | 21% / 18% / 61% |
 | Bundesliga | SC Paderborn 07 – Eintracht Frankfurt | 1:2 | 25% / 21% / 54% |
-| Bundesliga | VfB Stuttgart – SV Werder Bremen | 2:1 | 60% / 19% / 21% |
-| Bundesliga | 1. FC Köln – Bayer 04 Leverkusen | 1:2 | 22% / 21% / 57% |
+| Bundesliga | VfB Stuttgart – SV Werder Bremen | 2:1 | 59% / 20% / 21% |
+| Bundesliga | 1. FC Köln – Bayer 04 Leverkusen | 1:2 | 22% / 22% / 56% |
 | Bundesliga | SC Freiburg – 1. FC Union Berlin | 2:1 | 63% / 19% / 18% |
 | Bundesliga | TSG Hoffenheim – FC Schalke 04 | 2:1 | 67% / 18% / 15% |
 | 3. Liga | Fortuna Düsseldorf – SV Meppen | 1:0 | 44% / 25% / 31% |
