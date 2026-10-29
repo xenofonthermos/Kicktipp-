@@ -1,6 +1,6 @@
 # Bundesliga-Prognose – Spieltag 8–9
 
-Erstellt am 2026-10-28. Elo-basierte Tippempfehlung für Kicktipp, ohne Gewähr – reiner Unterhaltungswert.
+Erstellt am 2026-10-29. Elo-basierte Tippempfehlung für Kicktipp, ohne Gewähr – reiner Unterhaltungswert.
 
 | Liga | Spiel | Tipp | Heim% / Remis% / Auswärts% |
 | --- | --- | --- | --- |
@@ -8,8 +8,8 @@ Erstellt am 2026-10-28. Elo-basierte Tippempfehlung für Kicktipp, ohne Gewähr 
 | Bundesliga | Bayer 04 Leverkusen – VfB Stuttgart | 2:1 | 53% / 22% / 25% |
 | Bundesliga | FC Augsburg – SC Freiburg | 0:1 | 33% / 27% / 40% |
 | Bundesliga | Borussia Mönchengladbach – SC Paderborn 07 | 2:1 | 56% / 21% / 23% |
-| Bundesliga | SV Werder Bremen – TSG Hoffenheim | 0:1 | 36% / 26% / 38% |
-| Bundesliga | FC Schalke 04 – RB Leipzig | 1:2 | 18% / 20% / 61% |
+| Bundesliga | SV Werder Bremen – TSG Hoffenheim | 0:1 | 37% / 25% / 38% |
+| Bundesliga | FC Schalke 04 – RB Leipzig | 1:2 | 18% / 20% / 62% |
 | Bundesliga | FC Bayern München – Borussia Dortmund | 2:1 | 61% / 19% / 20% |
 | Bundesliga | 1. FC Union Berlin – 1. FC Köln | 1:0 | 42% / 25% / 33% |
 | Bundesliga | Eintracht Frankfurt – Hamburger SV | 2:1 | 60% / 20% / 20% |
