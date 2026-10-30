@@ -2,7 +2,7 @@
   "season": 2026,
   "matchday": 8,
   "nextMatchday": 9,
-  "generatedAt": "2026-10-30T14:20:43.534Z",
+  "generatedAt": "2026-10-30T17:05:03.098Z",
   "eloRanking": [
     {
       "rank": 1,
@@ -103,8 +103,8 @@
       "awayTeam": "1. FSV Mainz 05",
       "probabilities": {
         "home": 0.244,
-        "draw": 0.223,
-        "away": 0.533
+        "draw": 0.227,
+        "away": 0.53
       },
       "tip": "1:2",
       "tipExpectedPoints": 1.393,
@@ -112,9 +112,9 @@
         "market": "1x2",
         "selection": "Auswärtssieg",
         "bookmaker": "Tipico",
-        "bookmakerOdds": 1.97,
-        "ourProbability": 0.533,
-        "edgePct": 5.3
+        "bookmakerOdds": 2,
+        "ourProbability": 0.53,
+        "edgePct": 5.6
       },
       "homeForm": [
         "N",
@@ -188,19 +188,19 @@
       "homeTeam": "FC Augsburg",
       "awayTeam": "SC Freiburg",
       "probabilities": {
-        "home": 0.332,
-        "draw": 0.268,
-        "away": 0.4
+        "home": 0.328,
+        "draw": 0.271,
+        "away": 0.401
       },
       "tip": "0:1",
-      "tipExpectedPoints": 1.099,
+      "tipExpectedPoints": 1.153,
       "valueBet": {
         "market": "1x2",
         "selection": "Heimsieg",
         "bookmaker": "Tipico",
-        "bookmakerOdds": 3.1,
-        "ourProbability": 0.332,
-        "edgePct": 2.7
+        "bookmakerOdds": 3.2,
+        "ourProbability": 0.328,
+        "edgePct": 3.2
       },
       "homeForm": [
         "U",
@@ -446,19 +446,19 @@
       "homeTeam": "Eintracht Frankfurt",
       "awayTeam": "Hamburger SV",
       "probabilities": {
-        "home": 0.604,
-        "draw": 0.2,
-        "away": 0.196
+        "home": 0.605,
+        "draw": 0.196,
+        "away": 0.2
       },
       "tip": "2:1",
-      "tipExpectedPoints": 1.524,
+      "tipExpectedPoints": 1.539,
       "valueBet": {
         "market": "1x2",
         "selection": "Auswärtssieg",
         "bookmaker": "Tipico",
-        "bookmakerOdds": 5.2,
-        "ourProbability": 0.196,
-        "edgePct": 1.4
+        "bookmakerOdds": 5,
+        "ourProbability": 0.2,
+        "edgePct": 1
       },
       "homeForm": [
         "S",

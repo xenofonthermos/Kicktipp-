@@ -4,7 +4,7 @@ Erstellt am 2026-10-30. Elo-basierte Tippempfehlung für Kicktipp, ohne Gewähr 
 
 | Liga | Spiel | Tipp | Heim% / Remis% / Auswärts% |
 | --- | --- | --- | --- |
-| Bundesliga | SV 07 Elversberg – 1. FSV Mainz 05 | 1:2 | 24% / 22% / 53% |
+| Bundesliga | SV 07 Elversberg – 1. FSV Mainz 05 | 1:2 | 24% / 23% / 53% |
 | Bundesliga | Bayer 04 Leverkusen – VfB Stuttgart | 2:1 | 53% / 22% / 25% |
 | Bundesliga | FC Augsburg – SC Freiburg | 0:1 | 33% / 27% / 40% |
 | Bundesliga | Borussia Mönchengladbach – SC Paderborn 07 | 2:1 | 56% / 21% / 23% |
@@ -12,7 +12,7 @@ Erstellt am 2026-10-30. Elo-basierte Tippempfehlung für Kicktipp, ohne Gewähr 
 | Bundesliga | FC Schalke 04 – RB Leipzig | 1:2 | 18% / 20% / 62% |
 | Bundesliga | FC Bayern München – Borussia Dortmund | 2:1 | 61% / 19% / 19% |
 | Bundesliga | 1. FC Union Berlin – 1. FC Köln | 1:0 | 42% / 25% / 33% |
-| Bundesliga | Eintracht Frankfurt – Hamburger SV | 2:1 | 60% / 20% / 20% |
+| Bundesliga | Eintracht Frankfurt – Hamburger SV | 2:1 | 61% / 20% / 20% |
 | Bundesliga | Hamburger SV – Borussia Mönchengladbach | 2:1 | 44% / 25% / 32% |
 | Bundesliga | Borussia Dortmund – SV 07 Elversberg | 2:0 | 79% / 13% / 8% |
 | Bundesliga | RB Leipzig – FC Augsburg | 2:1 | 63% / 18% / 19% |
