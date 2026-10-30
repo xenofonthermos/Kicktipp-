@@ -2,7 +2,7 @@
   "season": 2026,
   "matchday": 8,
   "nextMatchday": 9,
-  "generatedAt": "2026-10-29T16:57:10.306Z",
+  "generatedAt": "2026-10-30T03:20:05.555Z",
   "eloRanking": [
     {
       "rank": 1,
@@ -274,9 +274,9 @@
       "homeTeam": "SV Werder Bremen",
       "awayTeam": "TSG Hoffenheim",
       "probabilities": {
-        "home": 0.372,
+        "home": 0.376,
         "draw": 0.252,
-        "away": 0.376
+        "away": 0.372
       },
       "tip": "0:1",
       "tipExpectedPoints": 1.032,
@@ -284,9 +284,9 @@
         "market": "1x2",
         "selection": "Heimsieg",
         "bookmaker": "Tipico",
-        "bookmakerOdds": 2.7,
-        "ourProbability": 0.372,
-        "edgePct": 2.1
+        "bookmakerOdds": 2.65,
+        "ourProbability": 0.376,
+        "edgePct": 1.8
       },
       "homeForm": [
         "U",
@@ -317,8 +317,8 @@
       "homeTeam": "FC Schalke 04",
       "awayTeam": "RB Leipzig",
       "probabilities": {
-        "home": 0.181,
-        "draw": 0.199,
+        "home": 0.184,
+        "draw": 0.196,
         "away": 0.62
       },
       "tip": "1:2",
@@ -360,9 +360,9 @@
       "homeTeam": "FC Bayern München",
       "awayTeam": "Borussia Dortmund",
       "probabilities": {
-        "home": 0.615,
-        "draw": 0.191,
-        "away": 0.194
+        "home": 0.614,
+        "draw": 0.194,
+        "away": 0.193
       },
       "tip": "2:1",
       "tipExpectedPoints": 1.539,
@@ -370,9 +370,9 @@
         "market": "1x2",
         "selection": "Auswärtssieg",
         "bookmaker": "Tipico",
-        "bookmakerOdds": 7.8,
-        "ourProbability": 0.194,
-        "edgePct": 7.3
+        "bookmakerOdds": 8,
+        "ourProbability": 0.193,
+        "edgePct": 7.4
       },
       "homeForm": [
         "S",
