@@ -68,11 +68,12 @@
     1340499388,
     1340502792,
     1340503643,
-    1340504494
+    1340504494,
+    1340498537
   ],
   "teams": {
     "FC Bayern München": {
-      "matchesSeen": 7,
+      "matchesSeen": 8,
       "players": {
         "Manuel Neuer": 1,
         "Alphonso Davies": 1,
@@ -85,25 +86,25 @@
         "Nathaniel Brown": 1,
         "Michael Olise": 1,
         "Harry Kane": 1,
-        "J. Urbig": 3,
+        "J. Urbig": 4,
         "N. Brown": 4,
-        "Kim Min-Jae": 2,
-        "D. Upamecano": 6,
+        "Kim Min-Jae": 3,
+        "D. Upamecano": 7,
         "J. Stanišić": 4,
-        "A. Pavlović": 5,
+        "A. Pavlović": 6,
         "T. Bischof": 2,
-        "I. Saibari": 4,
-        "M. Olise": 5,
+        "I. Saibari": 5,
+        "M. Olise": 6,
         "L. Karl": 3,
-        "H. Kane": 5,
+        "H. Kane": 6,
         "M. Neuer": 3,
-        "A. Davies": 3,
+        "A. Davies": 4,
         "J. Tah": 4,
-        "J. Kimmich": 4,
+        "J. Kimmich": 5,
         "L. Díaz": 4,
         "J. Musiala": 1,
-        "K. Laimer": 3,
-        "S. Gnabry": 1
+        "K. Laimer": 4,
+        "S. Gnabry": 2
       }
     },
     "VfB Stuttgart": {
@@ -319,26 +320,27 @@
       }
     },
     "Borussia Dortmund": {
-      "matchesSeen": 7,
+      "matchesSeen": 8,
       "players": {
-        "G. Kobel": 7,
-        "Kouakou Joane Gadou": 6,
-        "W. Anton": 7,
+        "G. Kobel": 8,
+        "Kouakou Joane Gadou": 7,
+        "W. Anton": 8,
         "J. Ryerson": 6,
-        "D. Svensson": 7,
-        "F. Nmecha": 6,
-        "J. Bellingham": 5,
-        "M. Beier": 5,
+        "D. Svensson": 8,
+        "F. Nmecha": 7,
+        "J. Bellingham": 6,
+        "M. Beier": 6,
         "G. Konstantelias": 1,
-        "S. Guirassy": 7,
+        "S. Guirassy": 8,
         "K. Karetsas": 2,
         "F. Mané": 1,
-        "N. Schlotterbeck": 5,
-        "J. Veerman": 3,
+        "N. Schlotterbeck": 6,
+        "J. Veerman": 4,
         "E. Nwaneri": 4,
         "Fábio Silva": 2,
         "M. Sabitzer": 2,
-        "R. Bensebaïni": 1
+        "R. Bensebaïni": 1,
+        "C. Chukwuemeka": 1
       }
     },
     "Hamburger SV": {

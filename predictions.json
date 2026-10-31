@@ -2,7 +2,7 @@
   "season": 2026,
   "matchday": 8,
   "nextMatchday": 9,
-  "generatedAt": "2026-10-31T16:35:02.931Z",
+  "generatedAt": "2026-10-31T17:05:01.536Z",
   "eloRanking": [
     {
       "rank": 1,
@@ -102,19 +102,19 @@
       "homeTeam": "FC Bayern München",
       "awayTeam": "Borussia Dortmund",
       "probabilities": {
-        "home": 0.619,
-        "draw": 0.188,
-        "away": 0.193
+        "home": 0.627,
+        "draw": 0.186,
+        "away": 0.188
       },
       "tip": "2:1",
-      "tipExpectedPoints": 1.546,
+      "tipExpectedPoints": 1.567,
       "valueBet": {
         "market": "1x2",
         "selection": "Auswärtssieg",
         "bookmaker": "Tipico",
         "bookmakerOdds": 8,
-        "ourProbability": 0.193,
-        "edgePct": 7.4
+        "ourProbability": 0.188,
+        "edgePct": 6.9
       },
       "homeForm": [
         "S",
@@ -131,12 +131,14 @@
         "S"
       ],
       "homeLineup": {
-        "confirmed": false,
+        "confirmed": true,
         "missingRegulars": []
       },
       "awayLineup": {
-        "confirmed": false,
-        "missingRegulars": []
+        "confirmed": true,
+        "missingRegulars": [
+          "J. Ryerson"
+        ]
       }
     },
     {

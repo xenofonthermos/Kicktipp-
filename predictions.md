@@ -4,7 +4,7 @@ Erstellt am 2026-10-31. Elo-basierte Tippempfehlung für Kicktipp, ohne Gewähr 
 
 | Liga | Spiel | Tipp | Heim% / Remis% / Auswärts% |
 | --- | --- | --- | --- |
-| Bundesliga | FC Bayern München – Borussia Dortmund | 2:1 | 62% / 19% / 19% |
+| Bundesliga | FC Bayern München – Borussia Dortmund | 2:1 | 63% / 19% / 19% |
 | Bundesliga | 1. FC Union Berlin – 1. FC Köln | 1:0 | 42% / 25% / 33% |
 | Bundesliga | Eintracht Frankfurt – Hamburger SV | 2:1 | 61% / 20% / 19% |
 | Bundesliga | Hamburger SV – Borussia Mönchengladbach | 2:1 | 44% / 24% / 32% |

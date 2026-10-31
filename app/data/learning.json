@@ -6,6 +6,7 @@
   },
   "sample": 81,
   "updatedAt": null,
+  "activeAvg": 1.198,
   "lastEvaluation": {
     "at": "2026-10-31T16:35:02.931Z",
     "tips": {
@@ -27,6 +28,5 @@
       "sample": 15
     }
   },
-  "activeAvg": 1.198,
   "history": []
 }
