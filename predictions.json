@@ -2,7 +2,7 @@
   "season": 2026,
   "matchday": 8,
   "nextMatchday": 9,
-  "generatedAt": "2026-11-01T04:05:42.909Z",
+  "generatedAt": "2026-11-01T13:35:02.169Z",
   "eloRanking": [
     {
       "rank": 1,
@@ -146,8 +146,8 @@
       "awayTeam": "Hamburger SV",
       "probabilities": {
         "home": 0.614,
-        "draw": 0.198,
-        "away": 0.188
+        "draw": 0.195,
+        "away": 0.191
       },
       "tip": "2:1",
       "tipExpectedPoints": 1.558,
@@ -155,9 +155,9 @@
         "market": "1x2",
         "selection": "Auswärtssieg",
         "bookmaker": "Tipico",
-        "bookmakerOdds": 5.7,
-        "ourProbability": 0.188,
-        "edgePct": 2.2
+        "bookmakerOdds": 5.5,
+        "ourProbability": 0.191,
+        "edgePct": 1.9
       },
       "homeForm": [
         "S",
@@ -318,8 +318,8 @@
       "awayTeam": "FC Bayern München",
       "probabilities": {
         "home": 0.202,
-        "draw": 0.182,
-        "away": 0.616
+        "draw": 0.186,
+        "away": 0.612
       },
       "tip": "1:2",
       "tipExpectedPoints": 1.499,

@@ -9,7 +9,7 @@ Erstellt am 2026-11-01. Elo-basierte Tippempfehlung für Kicktipp, ohne Gewähr 
 | Bundesliga | Hamburger SV – Borussia Mönchengladbach | 2:1 | 44% / 24% / 32% |
 | Bundesliga | Borussia Dortmund – SV 07 Elversberg | 2:0 | 79% / 13% / 8% |
 | Bundesliga | RB Leipzig – FC Augsburg | 2:1 | 63% / 18% / 19% |
-| Bundesliga | 1. FSV Mainz 05 – FC Bayern München | 1:2 | 20% / 18% / 62% |
+| Bundesliga | 1. FSV Mainz 05 – FC Bayern München | 1:2 | 20% / 19% / 61% |
 | Bundesliga | SC Paderborn 07 – Eintracht Frankfurt | 1:2 | 25% / 22% / 54% |
 | Bundesliga | VfB Stuttgart – SV Werder Bremen | 2:1 | 58% / 20% / 22% |
 | Bundesliga | 1. FC Köln – Bayer 04 Leverkusen | 0:1 | 23% / 22% / 55% |
