@@ -70,7 +70,8 @@
     1340503643,
     1340504494,
     1340498537,
-    1340501941
+    1340501941,
+    1340500239
   ],
   "teams": {
     "FC Bayern München": {
@@ -208,23 +209,23 @@
       }
     },
     "Eintracht Frankfurt": {
-      "matchesSeen": 7,
+      "matchesSeen": 8,
       "players": {
-        "N. Atubolu": 7,
-        "Elias Baum": 5,
+        "N. Atubolu": 8,
+        "Elias Baum": 6,
         "J. Maluze": 2,
-        "R. Koch": 7,
-        "K. Kosugi": 6,
-        "C. Uzun": 5,
-        "R. Onyedika": 7,
+        "R. Koch": 8,
+        "K. Kosugi": 7,
+        "C. Uzun": 6,
+        "R. Onyedika": 8,
         "A. Amaimouni": 1,
-        "F. Chaïbi": 3,
+        "F. Chaïbi": 4,
         "J. Burkardt": 7,
-        "Y. Ebnoutalib": 5,
-        "L. Brassier": 6,
+        "Y. Ebnoutalib": 6,
+        "L. Brassier": 7,
         "M. Götze": 2,
-        "R. Dōan": 6,
-        "N. Aséko Nkili": 4,
+        "R. Dōan": 7,
+        "N. Aséko Nkili": 5,
         "N. Collins": 3,
         "A. Knauff": 1
       }
@@ -347,28 +348,28 @@
       }
     },
     "Hamburger SV": {
-      "matchesSeen": 7,
+      "matchesSeen": 8,
       "players": {
-        "Daniel Heuer Fernandes": 7,
-        "J. Torunarigha": 4,
+        "Daniel Heuer Fernandes": 8,
+        "J. Torunarigha": 5,
         "S. Bornauw": 5,
         "N. Capaldo": 6,
-        "L. Lemke": 3,
-        "A. Sambi Lokonga": 4,
+        "L. Lemke": 4,
+        "A. Sambi Lokonga": 5,
         "N. Remberg": 5,
         "B. Jatta": 1,
-        "A. Grønbæk": 4,
-        "M. Adeline": 5,
+        "A. Grønbæk": 5,
+        "M. Adeline": 6,
         "P. Daka": 2,
-        "W. Omari": 4,
-        "D. Møller Wolfe": 6,
+        "W. Omari": 5,
+        "D. Møller Wolfe": 7,
         "Z. El Ouahdi": 4,
         "Fábio Vieira": 4,
-        "T. Moffi": 2,
-        "S. Nandja": 2,
+        "T. Moffi": 3,
+        "S. Nandja": 3,
         "Y. Poulsen": 4,
         "B. Nadir": 3,
-        "M. Muheim": 2
+        "M. Muheim": 3
       }
     },
     "Borussia Mönchengladbach": {

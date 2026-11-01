@@ -1963,9 +1963,9 @@
       "kickoffUtc": "2026-11-01T16:30:00.000Z",
       "tip": "2:1",
       "probabilities": {
-        "home": 0.62,
-        "draw": 0.193,
-        "away": 0.186
+        "home": 0.647,
+        "draw": 0.184,
+        "away": 0.168
       },
       "baselines": {
         "immer21": "2:1",
@@ -1973,9 +1973,9 @@
         "basis": "2:1"
       },
       "eloProbabilities": {
-        "home": 0.597,
-        "draw": 0.194,
-        "away": 0.21
+        "home": 0.651,
+        "draw": 0.176,
+        "away": 0.173
       },
       "marketProbabilities": {
         "home": 0.644,
@@ -1987,7 +1987,7 @@
         "drawFactor": 1,
         "marketBlendWeight": 0.5
       },
-      "recordedAt": "2026-11-01T15:35:03.389Z",
+      "recordedAt": "2026-11-01T16:05:03.175Z",
       "matchId": 83221,
       "status": "pending"
     },
@@ -2267,7 +2267,7 @@
         "drawFactor": 1,
         "marketBlendWeight": 0.5
       },
-      "recordedAt": "2026-11-01T15:35:03.389Z",
+      "recordedAt": "2026-11-01T16:05:03.175Z",
       "matchId": 83228,
       "status": "pending"
     },
@@ -2302,7 +2302,7 @@
         "drawFactor": 1,
         "marketBlendWeight": 0.5
       },
-      "recordedAt": "2026-11-01T15:35:03.389Z",
+      "recordedAt": "2026-11-01T16:05:03.175Z",
       "matchId": 83229,
       "status": "pending"
     },
@@ -2337,7 +2337,7 @@
         "drawFactor": 1,
         "marketBlendWeight": 0.5
       },
-      "recordedAt": "2026-11-01T15:35:03.389Z",
+      "recordedAt": "2026-11-01T16:05:03.175Z",
       "matchId": 83230,
       "status": "pending"
     },
@@ -2372,7 +2372,7 @@
         "drawFactor": 1,
         "marketBlendWeight": 0.5
       },
-      "recordedAt": "2026-11-01T15:35:03.389Z",
+      "recordedAt": "2026-11-01T16:05:03.175Z",
       "matchId": 83231,
       "status": "pending"
     },
@@ -2407,7 +2407,7 @@
         "drawFactor": 1,
         "marketBlendWeight": 0.5
       },
-      "recordedAt": "2026-11-01T15:35:03.389Z",
+      "recordedAt": "2026-11-01T16:05:03.175Z",
       "matchId": 83232,
       "status": "pending"
     },
@@ -2442,7 +2442,7 @@
         "drawFactor": 1,
         "marketBlendWeight": 0.5
       },
-      "recordedAt": "2026-11-01T15:35:03.389Z",
+      "recordedAt": "2026-11-01T16:05:03.175Z",
       "matchId": 83233,
       "status": "pending"
     },
@@ -2477,7 +2477,7 @@
         "drawFactor": 1,
         "marketBlendWeight": 0.5
       },
-      "recordedAt": "2026-11-01T15:35:03.389Z",
+      "recordedAt": "2026-11-01T16:05:03.175Z",
       "matchId": 83234,
       "status": "pending"
     },
@@ -2512,7 +2512,7 @@
         "drawFactor": 1,
         "marketBlendWeight": 0.5
       },
-      "recordedAt": "2026-11-01T15:35:03.389Z",
+      "recordedAt": "2026-11-01T16:05:03.175Z",
       "matchId": 83235,
       "status": "pending"
     },
@@ -2547,7 +2547,7 @@
         "drawFactor": 1,
         "marketBlendWeight": 0.5
       },
-      "recordedAt": "2026-11-01T15:35:03.389Z",
+      "recordedAt": "2026-11-01T16:05:03.175Z",
       "matchId": 83236,
       "status": "pending"
     },
@@ -2931,7 +2931,7 @@
         "drawFactor": 1,
         "marketBlendWeight": 0.5
       },
-      "recordedAt": "2026-11-01T15:35:03.389Z",
+      "recordedAt": "2026-11-01T16:05:03.175Z",
       "matchId": 84871,
       "status": "pending"
     }

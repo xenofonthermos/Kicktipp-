@@ -2,7 +2,7 @@
   "season": 2026,
   "matchday": 8,
   "nextMatchday": 9,
-  "generatedAt": "2026-11-01T15:35:03.389Z",
+  "generatedAt": "2026-11-01T16:05:03.175Z",
   "eloRanking": [
     {
       "rank": 1,
@@ -102,19 +102,19 @@
       "homeTeam": "1. FC Union Berlin",
       "awayTeam": "1. FC Köln",
       "probabilities": {
-        "home": 0.52,
-        "draw": 0.25,
-        "away": 0.229
+        "home": 0.58,
+        "draw": 0.237,
+        "away": 0.182
       },
       "tip": "1:0",
-      "tipExpectedPoints": 1.386,
+      "tipExpectedPoints": 1.571,
       "valueBet": {
         "market": "1x2",
         "selection": "Auswärtssieg",
         "bookmaker": "Tipico",
-        "bookmakerOdds": 6,
-        "ourProbability": 0.229,
-        "edgePct": 7.6
+        "bookmakerOdds": 15,
+        "ourProbability": 0.182,
+        "edgePct": 12.1
       },
       "homeForm": [
         "N",
@@ -151,19 +151,19 @@
       "homeTeam": "Eintracht Frankfurt",
       "awayTeam": "Hamburger SV",
       "probabilities": {
-        "home": 0.62,
-        "draw": 0.193,
-        "away": 0.186
+        "home": 0.647,
+        "draw": 0.184,
+        "away": 0.168
       },
       "tip": "2:1",
-      "tipExpectedPoints": 1.558,
+      "tipExpectedPoints": 1.615,
       "valueBet": {
         "market": "1x2",
         "selection": "Auswärtssieg",
         "bookmaker": "Tipico",
         "bookmakerOdds": 5.8,
-        "ourProbability": 0.186,
-        "edgePct": 2.3
+        "ourProbability": 0.168,
+        "edgePct": 0.5
       },
       "homeForm": [
         "S",
@@ -180,12 +180,18 @@
         "N"
       ],
       "homeLineup": {
-        "confirmed": false,
-        "missingRegulars": []
+        "confirmed": true,
+        "missingRegulars": [
+          "J. Burkardt"
+        ]
       },
       "awayLineup": {
-        "confirmed": false,
-        "missingRegulars": []
+        "confirmed": true,
+        "missingRegulars": [
+          "S. Bornauw",
+          "N. Capaldo",
+          "N. Remberg"
+        ]
       }
     },
     {
