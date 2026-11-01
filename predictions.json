@@ -2,7 +2,7 @@
   "season": 2026,
   "matchday": 8,
   "nextMatchday": 9,
-  "generatedAt": "2026-11-01T13:35:02.169Z",
+  "generatedAt": "2026-11-01T14:05:02.701Z",
   "eloRanking": [
     {
       "rank": 1,
@@ -102,9 +102,9 @@
       "homeTeam": "1. FC Union Berlin",
       "awayTeam": "1. FC Köln",
       "probabilities": {
-        "home": 0.415,
+        "home": 0.418,
         "draw": 0.251,
-        "away": 0.334
+        "away": 0.33
       },
       "tip": "1:0",
       "tipExpectedPoints": 1.143,
@@ -112,9 +112,9 @@
         "market": "1x2",
         "selection": "Heimsieg",
         "bookmaker": "Tipico",
-        "bookmakerOdds": 2.75,
-        "ourProbability": 0.415,
-        "edgePct": 7.1
+        "bookmakerOdds": 2.7,
+        "ourProbability": 0.418,
+        "edgePct": 6.8
       },
       "homeForm": [
         "N",
@@ -146,8 +146,8 @@
       "awayTeam": "Hamburger SV",
       "probabilities": {
         "home": 0.614,
-        "draw": 0.195,
-        "away": 0.191
+        "draw": 0.198,
+        "away": 0.188
       },
       "tip": "2:1",
       "tipExpectedPoints": 1.558,
@@ -155,9 +155,9 @@
         "market": "1x2",
         "selection": "Auswärtssieg",
         "bookmaker": "Tipico",
-        "bookmakerOdds": 5.5,
-        "ourProbability": 0.191,
-        "edgePct": 1.9
+        "bookmakerOdds": 5.7,
+        "ourProbability": 0.188,
+        "edgePct": 2.2
       },
       "homeForm": [
         "S",
