@@ -2,7 +2,7 @@
   "season": 2026,
   "matchday": 8,
   "nextMatchday": 9,
-  "generatedAt": "2026-11-01T16:05:03.175Z",
+  "generatedAt": "2026-11-02T00:48:14.236Z",
   "eloRanking": [
     {
       "rank": 1,
@@ -37,7 +37,7 @@
     {
       "rank": 7,
       "teamName": "Eintracht Frankfurt",
-      "rating": 1726
+      "rating": 1733
     },
     {
       "rank": 8,
@@ -62,12 +62,12 @@
     {
       "rank": 12,
       "teamName": "1. FC Union Berlin",
-      "rating": 1612
+      "rating": 1609
     },
     {
       "rank": 13,
       "teamName": "Hamburger SV",
-      "rating": 1609
+      "rating": 1601
     },
     {
       "rank": 14,
@@ -77,7 +77,7 @@
     {
       "rank": 15,
       "teamName": "1. FC Köln",
-      "rating": 1582
+      "rating": 1585
     },
     {
       "rank": 16,
@@ -97,128 +97,30 @@
   ],
   "matches": [
     {
-      "matchDateTime": "2026-11-01T15:30:00",
-      "league": "Bundesliga",
-      "homeTeam": "1. FC Union Berlin",
-      "awayTeam": "1. FC Köln",
-      "probabilities": {
-        "home": 0.58,
-        "draw": 0.237,
-        "away": 0.182
-      },
-      "tip": "1:0",
-      "tipExpectedPoints": 1.571,
-      "valueBet": {
-        "market": "1x2",
-        "selection": "Auswärtssieg",
-        "bookmaker": "Tipico",
-        "bookmakerOdds": 15,
-        "ourProbability": 0.182,
-        "edgePct": 12.1
-      },
-      "homeForm": [
-        "N",
-        "N",
-        "S",
-        "U",
-        "U"
-      ],
-      "awayForm": [
-        "U",
-        "N",
-        "S",
-        "N",
-        "U"
-      ],
-      "homeLineup": {
-        "confirmed": true,
-        "missingRegulars": [
-          "T. Rothe",
-          "F. Uduokhai",
-          "Jeong Woo-Yeong"
-        ]
-      },
-      "awayLineup": {
-        "confirmed": true,
-        "missingRegulars": [
-          "L. Lochoshvili"
-        ]
-      }
-    },
-    {
-      "matchDateTime": "2026-11-01T17:30:00",
-      "league": "Bundesliga",
-      "homeTeam": "Eintracht Frankfurt",
-      "awayTeam": "Hamburger SV",
-      "probabilities": {
-        "home": 0.647,
-        "draw": 0.184,
-        "away": 0.168
-      },
-      "tip": "2:1",
-      "tipExpectedPoints": 1.615,
-      "valueBet": {
-        "market": "1x2",
-        "selection": "Auswärtssieg",
-        "bookmaker": "Tipico",
-        "bookmakerOdds": 5.8,
-        "ourProbability": 0.168,
-        "edgePct": 0.5
-      },
-      "homeForm": [
-        "S",
-        "U",
-        "N",
-        "S",
-        "N"
-      ],
-      "awayForm": [
-        "N",
-        "S",
-        "S",
-        "S",
-        "N"
-      ],
-      "homeLineup": {
-        "confirmed": true,
-        "missingRegulars": [
-          "J. Burkardt"
-        ]
-      },
-      "awayLineup": {
-        "confirmed": true,
-        "missingRegulars": [
-          "S. Bornauw",
-          "N. Capaldo",
-          "N. Remberg"
-        ]
-      }
-    },
-    {
       "matchDateTime": "2026-11-06T20:30:00",
       "league": "Bundesliga",
       "homeTeam": "Hamburger SV",
       "awayTeam": "Borussia Mönchengladbach",
       "probabilities": {
-        "home": 0.44,
-        "draw": 0.244,
-        "away": 0.316
+        "home": 0.431,
+        "draw": 0.25,
+        "away": 0.319
       },
-      "tip": "2:1",
-      "tipExpectedPoints": 1.195,
+      "tip": "1:0",
+      "tipExpectedPoints": 1.205,
       "valueBet": {
         "market": "1x2",
         "selection": "Heimsieg",
         "bookmaker": "Tipico",
-        "bookmakerOdds": 2.3,
-        "ourProbability": 0.44,
-        "edgePct": 2.8
+        "bookmakerOdds": 2.35,
+        "ourProbability": 0.431,
+        "edgePct": 2.7
       },
       "homeForm": [
+        "S",
+        "S",
+        "S",
         "N",
-        "S",
-        "S",
-        "S",
         "N"
       ],
       "awayForm": [
@@ -329,19 +231,19 @@
       "homeTeam": "1. FSV Mainz 05",
       "awayTeam": "FC Bayern München",
       "probabilities": {
-        "home": 0.202,
-        "draw": 0.186,
-        "away": 0.612
+        "home": 0.194,
+        "draw": 0.183,
+        "away": 0.623
       },
       "tip": "1:2",
-      "tipExpectedPoints": 1.499,
+      "tipExpectedPoints": 1.519,
       "valueBet": {
         "market": "1x2",
         "selection": "Heimsieg",
         "bookmaker": "Tipico",
-        "bookmakerOdds": 5.2,
-        "ourProbability": 0.202,
-        "edgePct": 2
+        "bookmakerOdds": 5.7,
+        "ourProbability": 0.194,
+        "edgePct": 2.8
       },
       "homeForm": [
         "S",
@@ -372,9 +274,9 @@
       "homeTeam": "SC Paderborn 07",
       "awayTeam": "Eintracht Frankfurt",
       "probabilities": {
-        "home": 0.245,
-        "draw": 0.219,
-        "away": 0.536
+        "home": 0.242,
+        "draw": 0.217,
+        "away": 0.541
       },
       "tip": "1:2",
       "tipExpectedPoints": 1.382,
@@ -383,8 +285,8 @@
         "selection": "Auswärtssieg",
         "bookmaker": "Tipico",
         "bookmakerOdds": 2.15,
-        "ourProbability": 0.536,
-        "edgePct": 9.7
+        "ourProbability": 0.541,
+        "edgePct": 10.1
       },
       "homeForm": [
         "S",
@@ -394,11 +296,11 @@
         "U"
       ],
       "awayForm": [
-        "S",
         "U",
         "N",
         "S",
-        "N"
+        "N",
+        "S"
       ],
       "homeLineup": {
         "confirmed": false,
@@ -458,25 +360,25 @@
       "homeTeam": "1. FC Köln",
       "awayTeam": "Bayer 04 Leverkusen",
       "probabilities": {
-        "home": 0.233,
-        "draw": 0.216,
-        "away": 0.551
+        "home": 0.239,
+        "draw": 0.22,
+        "away": 0.542
       },
       "tip": "1:2",
-      "tipExpectedPoints": 1.42,
+      "tipExpectedPoints": 1.393,
       "valueBet": {
         "market": "1x2",
         "selection": "Heimsieg",
         "bookmaker": "Tipico",
-        "bookmakerOdds": 4.5,
-        "ourProbability": 0.233,
-        "edgePct": 2.2
+        "bookmakerOdds": 4.3,
+        "ourProbability": 0.239,
+        "edgePct": 1.8
       },
       "homeForm": [
-        "U",
         "N",
         "S",
         "N",
+        "U",
         "U"
       ],
       "awayForm": [
@@ -501,9 +403,9 @@
       "homeTeam": "SC Freiburg",
       "awayTeam": "1. FC Union Berlin",
       "probabilities": {
-        "home": 0.637,
+        "home": 0.639,
         "draw": 0.192,
-        "away": 0.17
+        "away": 0.169
       },
       "tip": "2:1",
       "tipExpectedPoints": 1.608,
@@ -512,8 +414,8 @@
         "selection": "Auswärtssieg",
         "bookmaker": "Tipico",
         "bookmakerOdds": 6.2,
-        "ourProbability": 0.17,
-        "edgePct": 1.7
+        "ourProbability": 0.169,
+        "edgePct": 1.6
       },
       "homeForm": [
         "U",
@@ -524,8 +426,8 @@
       ],
       "awayForm": [
         "N",
-        "N",
         "S",
+        "U",
         "U",
         "U"
       ],
@@ -619,39 +521,39 @@
     }
   ],
   "valueBetTrackRecord": {
-    "resolvedBets": 70,
+    "resolvedBets": 72,
     "wins": 21,
-    "losses": 49,
-    "profitUnits": -20.23,
-    "roiPercent": -28.9
+    "losses": 51,
+    "profitUnits": -22.23,
+    "roiPercent": -30.9
   },
   "tipTrackRecord": {
-    "resolvedTips": 82,
-    "points": 97,
+    "resolvedTips": 84,
+    "points": 99,
     "avgPoints": 1.18,
     "distribution": {
-      "0": 43,
-      "2": 23,
+      "0": 44,
+      "2": 24,
       "3": 13,
       "4": 3
     },
     "baselines": {
       "immer21": {
         "label": "Immer 2:1",
-        "points": 101,
-        "games": 82,
+        "points": 103,
+        "games": 84,
         "avgPoints": 1.23
       },
       "favorit": {
         "label": "Favorit 2:1 / 1:2",
-        "points": 110,
-        "games": 82,
-        "avgPoints": 1.34
+        "points": 112,
+        "games": 84,
+        "avgPoints": 1.33
       },
       "basis": {
         "label": "Modell ohne Lernen",
-        "points": 97,
-        "games": 82,
+        "points": 99,
+        "games": 84,
         "avgPoints": 1.18
       }
     }
@@ -662,10 +564,10 @@
       "drawFactor": 1,
       "marketBlendWeight": 0.5
     },
-    "sample": 82,
+    "sample": 84,
     "updatedAt": null,
     "changes": 0,
-    "activeAvg": 1.183,
-    "defaultAvg": 1.183
+    "activeAvg": 1.179,
+    "defaultAvg": 1.179
   }
 }

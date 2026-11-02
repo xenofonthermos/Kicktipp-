@@ -71,7 +71,9 @@
     1340504494,
     1340498537,
     1340501941,
-    1340500239
+    1340500239,
+    1340501090,
+    1340505345
   ],
   "teams": {
     "FC Bayern München": {
@@ -144,23 +146,24 @@
       }
     },
     "1. FSV Mainz 05": {
-      "matchesSeen": 7,
+      "matchesSeen": 8,
       "players": {
-        "R. Zentner": 2,
+        "R. Zentner": 3,
         "D. Kohr": 1,
         "F. Gruber": 5,
-        "D. da Costa": 3,
-        "K. Sano": 7,
-        "P. Mwene": 7,
-        "N. Amiri": 7,
+        "D. da Costa": 4,
+        "K. Sano": 8,
+        "P. Mwene": 8,
+        "N. Amiri": 8,
         "Lee Jae-Sung": 6,
-        "A. Caci": 7,
-        "P. Tietz": 7,
-        "S. Becker": 7,
+        "A. Caci": 8,
+        "P. Tietz": 8,
+        "S. Becker": 8,
         "A. Schwolow": 5,
-        "K. Potulski": 6,
-        "S. Posch": 6,
-        "E. Martel": 1
+        "K. Potulski": 7,
+        "S. Posch": 7,
+        "E. Martel": 1,
+        "P. Nebel": 1
       }
     },
     "SC Paderborn 07": {
@@ -280,24 +283,24 @@
       }
     },
     "SV 07 Elversberg": {
-      "matchesSeen": 7,
+      "matchesSeen": 8,
       "players": {
-        "N. Kristof": 7,
-        "L. Günther": 7,
-        "L. Pinckert": 7,
-        "M. Rohr": 7,
+        "N. Kristof": 8,
+        "L. Günther": 8,
+        "L. Pinckert": 8,
+        "M. Rohr": 8,
         "J. Gyamerah": 6,
-        "Ł. Poręba": 7,
-        "F. Keidel": 7,
+        "Ł. Poręba": 8,
+        "F. Keidel": 8,
         "William Cole Campbell": 4,
-        "Francis-Ikechukwu Onyeka": 3,
-        "L. Petkov": 7,
-        "D. Mokwa": 6,
+        "Francis-Ikechukwu Onyeka": 4,
+        "L. Petkov": 8,
+        "D. Mokwa": 7,
         "Noah Darvich": 3,
-        "L. Sirch": 1,
+        "L. Sirch": 2,
         "T. Zimmerschied": 1,
         "N. Futkeu": 1,
-        "M. Krattenmacher": 2,
+        "M. Krattenmacher": 3,
         "F. Schmahl": 1
       }
     },
@@ -455,18 +458,18 @@
       }
     },
     "SC Freiburg": {
-      "matchesSeen": 7,
+      "matchesSeen": 8,
       "players": {
-        "M. Backhaus": 6,
-        "J. Makengo": 6,
-        "P. Lienhart": 6,
-        "M. Ginter": 6,
+        "M. Backhaus": 7,
+        "J. Makengo": 7,
+        "P. Lienhart": 7,
+        "M. Ginter": 7,
         "P. Treu": 6,
-        "Y. Engelhardt": 5,
-        "M. Eggestein": 6,
-        "D. Scherhant": 6,
-        "Y. Suzuki": 5,
-        "J. Beste": 6,
+        "Y. Engelhardt": 6,
+        "M. Eggestein": 7,
+        "D. Scherhant": 7,
+        "Y. Suzuki": 6,
+        "J. Beste": 7,
         "I. Matanović": 5,
         "Mio Backhaus": 1,
         "Jordy Makengo": 1,
@@ -481,23 +484,24 @@
         "Igor Matanović": 1,
         "K. Goto": 1,
         "P. Osterhage": 1,
-        "L. Höler": 1
+        "L. Höler": 2,
+        "L. Kübler": 1
       }
     },
     "FC Augsburg": {
-      "matchesSeen": 7,
+      "matchesSeen": 8,
       "players": {
-        "F. Dahmen": 6,
+        "F. Dahmen": 7,
         "C. Brackelmann": 6,
-        "C. Matsima": 6,
+        "C. Matsima": 7,
         "Noahkai Kai Daniel Banks": 3,
-        "Hennes Behrens": 7,
-        "F. Rieder": 6,
-        "H. Massengo": 6,
+        "Hennes Behrens": 8,
+        "F. Rieder": 7,
+        "H. Massengo": 7,
         "M. Wolf": 5,
-        "R. Fellhauer": 5,
-        "A. Ibrahimović": 5,
-        "M. Gregoritsch": 4,
+        "R. Fellhauer": 6,
+        "A. Ibrahimović": 6,
+        "M. Gregoritsch": 5,
         "M. Kömür": 1,
         "Finn Dahmen": 1,
         "Calvin Brackelmann": 1,
@@ -512,7 +516,9 @@
         "Abdulay Bah": 3,
         "Seol Young-Woo": 1,
         "Rodrigo Ribeiro": 2,
-        "A. Kade": 1
+        "A. Kade": 2,
+        "J. Gouweleeuw": 1,
+        "Y. Keitel": 1
       }
     },
     "Jahn Regensburg": {
