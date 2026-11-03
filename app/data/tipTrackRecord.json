@@ -2257,9 +2257,9 @@
       "kickoffUtc": "2026-11-07T14:30:00.000Z",
       "tip": "2:0",
       "probabilities": {
-        "home": 0.779,
+        "home": 0.785,
         "draw": 0.134,
-        "away": 0.088
+        "away": 0.082
       },
       "baselines": {
         "immer21": "2:1",
@@ -2272,16 +2272,16 @@
         "away": 0.063
       },
       "marketProbabilities": {
-        "home": 0.747,
+        "home": 0.759,
         "draw": 0.142,
-        "away": 0.112
+        "away": 0.1
       },
       "params": {
         "goalScale": 1,
         "drawFactor": 1,
         "marketBlendWeight": 0.5
       },
-      "recordedAt": "2026-11-02T18:27:36.587Z",
+      "recordedAt": "2026-11-03T01:37:19.231Z",
       "matchId": 83228,
       "status": "pending"
     },
@@ -2316,7 +2316,7 @@
         "drawFactor": 1,
         "marketBlendWeight": 0.5
       },
-      "recordedAt": "2026-11-02T18:27:36.587Z",
+      "recordedAt": "2026-11-03T01:37:19.231Z",
       "matchId": 83229,
       "status": "pending"
     },
@@ -2328,8 +2328,8 @@
       "tip": "2:1",
       "probabilities": {
         "home": 0.578,
-        "draw": 0.205,
-        "away": 0.217
+        "draw": 0.197,
+        "away": 0.225
       },
       "baselines": {
         "immer21": "2:1",
@@ -2343,15 +2343,15 @@
       },
       "marketProbabilities": {
         "home": 0.612,
-        "draw": 0.198,
-        "away": 0.19
+        "draw": 0.182,
+        "away": 0.206
       },
       "params": {
         "goalScale": 1,
         "drawFactor": 1,
         "marketBlendWeight": 0.5
       },
-      "recordedAt": "2026-11-02T18:27:36.587Z",
+      "recordedAt": "2026-11-03T01:37:19.231Z",
       "matchId": 83230,
       "status": "pending"
     },
@@ -2386,7 +2386,7 @@
         "drawFactor": 1,
         "marketBlendWeight": 0.5
       },
-      "recordedAt": "2026-11-02T18:27:36.587Z",
+      "recordedAt": "2026-11-03T01:37:19.231Z",
       "matchId": 83231,
       "status": "pending"
     },
@@ -2397,9 +2397,9 @@
       "kickoffUtc": "2026-11-08T16:30:00.000Z",
       "tip": "2:1",
       "probabilities": {
-        "home": 0.628,
+        "home": 0.632,
         "draw": 0.196,
-        "away": 0.176
+        "away": 0.172
       },
       "baselines": {
         "immer21": "2:1",
@@ -2412,16 +2412,16 @@
         "away": 0.186
       },
       "marketProbabilities": {
-        "home": 0.623,
+        "home": 0.632,
         "draw": 0.211,
-        "away": 0.166
+        "away": 0.158
       },
       "params": {
         "goalScale": 1,
         "drawFactor": 1,
         "marketBlendWeight": 0.5
       },
-      "recordedAt": "2026-11-02T18:27:36.587Z",
+      "recordedAt": "2026-11-03T01:37:19.231Z",
       "matchId": 83232,
       "status": "pending"
     },
@@ -2456,7 +2456,7 @@
         "drawFactor": 1,
         "marketBlendWeight": 0.5
       },
-      "recordedAt": "2026-11-02T18:27:36.587Z",
+      "recordedAt": "2026-11-03T01:37:19.231Z",
       "matchId": 83233,
       "status": "pending"
     },
@@ -2491,7 +2491,7 @@
         "drawFactor": 1,
         "marketBlendWeight": 0.5
       },
-      "recordedAt": "2026-11-02T18:27:36.587Z",
+      "recordedAt": "2026-11-03T01:37:19.231Z",
       "matchId": 83234,
       "status": "pending"
     },
@@ -2502,9 +2502,9 @@
       "kickoffUtc": "2026-11-08T14:30:00.000Z",
       "tip": "1:2",
       "probabilities": {
-        "home": 0.242,
-        "draw": 0.225,
-        "away": 0.534
+        "home": 0.239,
+        "draw": 0.228,
+        "away": 0.533
       },
       "baselines": {
         "immer21": "2:1",
@@ -2517,8 +2517,8 @@
         "away": 0.525
       },
       "marketProbabilities": {
-        "home": 0.226,
-        "draw": 0.232,
+        "home": 0.221,
+        "draw": 0.237,
         "away": 0.542
       },
       "params": {
@@ -2526,7 +2526,7 @@
         "drawFactor": 1,
         "marketBlendWeight": 0.5
       },
-      "recordedAt": "2026-11-02T18:27:36.587Z",
+      "recordedAt": "2026-11-03T01:37:19.231Z",
       "matchId": 83235,
       "status": "pending"
     },
@@ -2537,9 +2537,9 @@
       "kickoffUtc": "2026-11-07T14:30:00.000Z",
       "tip": "1:2",
       "probabilities": {
-        "home": 0.242,
-        "draw": 0.217,
-        "away": 0.541
+        "home": 0.243,
+        "draw": 0.211,
+        "away": 0.546
       },
       "baselines": {
         "immer21": "2:1",
@@ -2552,16 +2552,16 @@
         "away": 0.641
       },
       "marketProbabilities": {
-        "home": 0.305,
-        "draw": 0.255,
-        "away": 0.44
+        "home": 0.306,
+        "draw": 0.243,
+        "away": 0.451
       },
       "params": {
         "goalScale": 1,
         "drawFactor": 1,
         "marketBlendWeight": 0.5
       },
-      "recordedAt": "2026-11-02T18:27:36.587Z",
+      "recordedAt": "2026-11-03T01:37:19.231Z",
       "matchId": 83236,
       "status": "pending"
     },
@@ -2945,7 +2945,7 @@
         "drawFactor": 1,
         "marketBlendWeight": 0.5
       },
-      "recordedAt": "2026-11-02T18:27:36.587Z",
+      "recordedAt": "2026-11-03T01:37:19.231Z",
       "matchId": 84871,
       "status": "pending"
     }
