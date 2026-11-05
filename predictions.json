@@ -2,7 +2,7 @@
   "season": 2026,
   "matchday": 9,
   "nextMatchday": 10,
-  "generatedAt": "2026-11-05T11:02:15.552Z",
+  "generatedAt": "2026-11-05T18:47:31.625Z",
   "eloRanking": [
     {
       "rank": 1,
@@ -188,12 +188,12 @@
       "homeTeam": "RB Leipzig",
       "awayTeam": "FC Augsburg",
       "probabilities": {
-        "home": 0.627,
-        "draw": 0.186,
+        "home": 0.634,
+        "draw": 0.179,
         "away": 0.187
       },
       "tip": "2:1",
-      "tipExpectedPoints": 1.567,
+      "tipExpectedPoints": 1.57,
       "valueBet": {
         "market": "1x2",
         "selection": "Auswärtssieg",
@@ -489,9 +489,9 @@
       "homeTeam": "FC Bayern München",
       "awayTeam": "1. FC Köln",
       "probabilities": {
-        "home": 0.831,
-        "draw": 0.101,
-        "away": 0.068
+        "home": 0.826,
+        "draw": 0.103,
+        "away": 0.07
       },
       "tip": "2:0",
       "tipExpectedPoints": 2.02,
@@ -499,9 +499,9 @@
         "market": "1x2",
         "selection": "Remis",
         "bookmaker": "Tipico",
-        "bookmakerOdds": 15,
-        "ourProbability": 0.101,
-        "edgePct": 3.8
+        "bookmakerOdds": 14,
+        "ourProbability": 0.103,
+        "edgePct": 3.6
       },
       "homeForm": [
         "S",
@@ -575,19 +575,19 @@
       "homeTeam": "Eintracht Frankfurt",
       "awayTeam": "TSG Hoffenheim",
       "probabilities": {
-        "home": 0.453,
-        "draw": 0.238,
+        "home": 0.457,
+        "draw": 0.235,
         "away": 0.308
       },
       "tip": "2:1",
-      "tipExpectedPoints": 1.193,
+      "tipExpectedPoints": 1.247,
       "valueBet": {
         "market": "1x2",
         "selection": "Heimsieg",
         "bookmaker": "Tipico",
-        "bookmakerOdds": 2.35,
-        "ourProbability": 0.453,
-        "edgePct": 4.9
+        "bookmakerOdds": 2.3,
+        "ourProbability": 0.457,
+        "edgePct": 4.5
       },
       "homeForm": [
         "U",
@@ -618,9 +618,9 @@
       "homeTeam": "1. FC Union Berlin",
       "awayTeam": "RB Leipzig",
       "probabilities": {
-        "home": 0.242,
-        "draw": 0.221,
-        "away": 0.537
+        "home": 0.24,
+        "draw": 0.224,
+        "away": 0.536
       },
       "tip": "1:2",
       "tipExpectedPoints": 1.393,
@@ -628,9 +628,9 @@
         "market": "1x2",
         "selection": "Heimsieg",
         "bookmaker": "Tipico",
-        "bookmakerOdds": 4.3,
-        "ourProbability": 0.242,
-        "edgePct": 2.1
+        "bookmakerOdds": 4.4,
+        "ourProbability": 0.24,
+        "edgePct": 2.4
       },
       "homeForm": [
         "N",
@@ -791,8 +791,8 @@
       "awayTeam": "1. FSV Mainz 05",
       "probabilities": {
         "home": 0.41,
-        "draw": 0.25,
-        "away": 0.339
+        "draw": 0.247,
+        "away": 0.343
       },
       "tip": "1:0",
       "tipExpectedPoints": 1.143,
