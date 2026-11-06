@@ -2,7 +2,7 @@
   "season": 2026,
   "matchday": 9,
   "nextMatchday": 10,
-  "generatedAt": "2026-11-06T16:48:59.021Z",
+  "generatedAt": "2026-11-06T18:35:02.974Z",
   "eloRanking": [
     {
       "rank": 1,
@@ -102,19 +102,19 @@
       "homeTeam": "Hamburger SV",
       "awayTeam": "Borussia Mönchengladbach",
       "probabilities": {
-        "home": 0.426,
-        "draw": 0.26,
-        "away": 0.313
+        "home": 0.435,
+        "draw": 0.257,
+        "away": 0.308
       },
       "tip": "1:0",
-      "tipExpectedPoints": 1.153,
+      "tipExpectedPoints": 1.205,
       "valueBet": {
         "market": "1x2",
         "selection": "Heimsieg",
         "bookmaker": "Tipico",
-        "bookmakerOdds": 2.4,
-        "ourProbability": 0.426,
-        "edgePct": 3.2
+        "bookmakerOdds": 2.3,
+        "ourProbability": 0.435,
+        "edgePct": 2.3
       },
       "homeForm": [
         "S",
@@ -318,18 +318,18 @@
       "awayTeam": "SV Werder Bremen",
       "probabilities": {
         "home": 0.559,
-        "draw": 0.209,
-        "away": 0.232
+        "draw": 0.211,
+        "away": 0.23
       },
       "tip": "2:1",
-      "tipExpectedPoints": 1.42,
+      "tipExpectedPoints": 1.434,
       "valueBet": {
         "market": "1x2",
         "selection": "Auswärtssieg",
         "bookmaker": "Tipico",
-        "bookmakerOdds": 4.3,
-        "ourProbability": 0.232,
-        "edgePct": 1.2
+        "bookmakerOdds": 4.4,
+        "ourProbability": 0.23,
+        "edgePct": 1.5
       },
       "homeForm": [
         "N",
