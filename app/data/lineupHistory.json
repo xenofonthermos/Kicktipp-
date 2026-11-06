@@ -73,7 +73,8 @@
     1340501941,
     1340500239,
     1340501090,
-    1340505345
+    1340505345,
+    1340511302
   ],
   "teams": {
     "FC Bayern München": {
@@ -351,55 +352,55 @@
       }
     },
     "Hamburger SV": {
-      "matchesSeen": 8,
+      "matchesSeen": 9,
       "players": {
-        "Daniel Heuer Fernandes": 8,
+        "Daniel Heuer Fernandes": 9,
         "J. Torunarigha": 5,
-        "S. Bornauw": 5,
+        "S. Bornauw": 6,
         "N. Capaldo": 6,
         "L. Lemke": 4,
-        "A. Sambi Lokonga": 5,
+        "A. Sambi Lokonga": 6,
         "N. Remberg": 5,
         "B. Jatta": 1,
-        "A. Grønbæk": 5,
-        "M. Adeline": 6,
-        "P. Daka": 2,
-        "W. Omari": 5,
-        "D. Møller Wolfe": 7,
-        "Z. El Ouahdi": 4,
+        "A. Grønbæk": 6,
+        "M. Adeline": 7,
+        "P. Daka": 3,
+        "W. Omari": 6,
+        "D. Møller Wolfe": 8,
+        "Z. El Ouahdi": 5,
         "Fábio Vieira": 4,
         "T. Moffi": 3,
-        "S. Nandja": 3,
+        "S. Nandja": 4,
         "Y. Poulsen": 4,
         "B. Nadir": 3,
-        "M. Muheim": 3
+        "M. Muheim": 4
       }
     },
     "Borussia Mönchengladbach": {
-      "matchesSeen": 7,
+      "matchesSeen": 8,
       "players": {
         "M. Nicolas": 6,
-        "L. Ullrich": 6,
+        "L. Ullrich": 7,
         "K. Diks": 5,
-        "K. Itakura": 3,
-        "J. Scally": 7,
+        "K. Itakura": 4,
+        "J. Scally": 8,
         "M. Nguefack": 1,
-        "P. Sander": 7,
+        "P. Sander": 8,
         "H. Bolin": 6,
-        "W. Mohya": 4,
+        "W. Mohya": 5,
         "F. Honorat": 3,
         "T. Kleindienst": 2,
         "J. Leszczyński": 2,
-        "F. Neuhaus": 5,
+        "F. Neuhaus": 6,
         "I. Lidberg": 3,
         "D. Herold": 1,
-        "R. Hack": 3,
+        "R. Hack": 4,
         "K. Stöger": 1,
         "D. Hashioka": 3,
-        "F. Chiarodia": 3,
-        "Z. Uno": 3,
-        "S. Machino": 2,
-        "D. Batz": 1
+        "F. Chiarodia": 4,
+        "Z. Uno": 4,
+        "S. Machino": 3,
+        "D. Batz": 2
       }
     },
     "SV Werder Bremen": {

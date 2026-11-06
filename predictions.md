@@ -4,7 +4,7 @@ Erstellt am 2026-11-06. Elo-basierte Tippempfehlung für Kicktipp, ohne Gewähr 
 
 | Liga | Spiel | Tipp | Heim% / Remis% / Auswärts% |
 | --- | --- | --- | --- |
-| Bundesliga | Hamburger SV – Borussia Mönchengladbach | 1:0 | 44% / 26% / 31% |
+| Bundesliga | Hamburger SV – Borussia Mönchengladbach | 1:0 | 45% / 25% / 30% |
 | Bundesliga | Borussia Dortmund – SV 07 Elversberg | 2:0 | 78% / 14% / 9% |
 | Bundesliga | RB Leipzig – FC Augsburg | 2:1 | 63% / 19% / 19% |
 | Bundesliga | 1. FSV Mainz 05 – FC Bayern München | 1:2 | 17% / 17% / 65% |

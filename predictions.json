@@ -2,7 +2,7 @@
   "season": 2026,
   "matchday": 9,
   "nextMatchday": 10,
-  "generatedAt": "2026-11-06T18:35:02.974Z",
+  "generatedAt": "2026-11-06T19:05:03.112Z",
   "eloRanking": [
     {
       "rank": 1,
@@ -102,9 +102,9 @@
       "homeTeam": "Hamburger SV",
       "awayTeam": "Borussia Mönchengladbach",
       "probabilities": {
-        "home": 0.435,
-        "draw": 0.257,
-        "away": 0.308
+        "home": 0.446,
+        "draw": 0.253,
+        "away": 0.301
       },
       "tip": "1:0",
       "tipExpectedPoints": 1.205,
@@ -113,8 +113,8 @@
         "selection": "Heimsieg",
         "bookmaker": "Tipico",
         "bookmakerOdds": 2.3,
-        "ourProbability": 0.435,
-        "edgePct": 2.3
+        "ourProbability": 0.446,
+        "edgePct": 3.3
       },
       "homeForm": [
         "S",
@@ -131,12 +131,20 @@
         "U"
       ],
       "homeLineup": {
-        "confirmed": false,
-        "missingRegulars": []
+        "confirmed": true,
+        "missingRegulars": [
+          "J. Torunarigha",
+          "N. Capaldo",
+          "N. Remberg"
+        ]
       },
       "awayLineup": {
-        "confirmed": false,
-        "missingRegulars": []
+        "confirmed": true,
+        "missingRegulars": [
+          "M. Nicolas",
+          "K. Diks",
+          "H. Bolin"
+        ]
       }
     },
     {
