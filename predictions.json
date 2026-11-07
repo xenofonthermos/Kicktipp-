@@ -2,7 +2,7 @@
   "season": 2026,
   "matchday": 9,
   "nextMatchday": 10,
-  "generatedAt": "2026-11-07T13:35:02.082Z",
+  "generatedAt": "2026-11-07T14:05:02.216Z",
   "eloRanking": [
     {
       "rank": 1,
@@ -102,9 +102,9 @@
       "homeTeam": "Borussia Dortmund",
       "awayTeam": "SV 07 Elversberg",
       "probabilities": {
-        "home": 0.776,
-        "draw": 0.14,
-        "away": 0.084
+        "home": 0.77,
+        "draw": 0.141,
+        "away": 0.088
       },
       "tip": "2:0",
       "tipExpectedPoints": 1.915,
@@ -113,8 +113,8 @@
         "selection": "Heimsieg",
         "bookmaker": "Tipico",
         "bookmakerOdds": 1.28,
-        "ourProbability": 0.776,
-        "edgePct": 3.4
+        "ourProbability": 0.77,
+        "edgePct": 2.9
       },
       "homeForm": [
         "S",
@@ -131,12 +131,18 @@
         "S"
       ],
       "homeLineup": {
-        "confirmed": false,
-        "missingRegulars": []
+        "confirmed": true,
+        "missingRegulars": [
+          "J. Ryerson",
+          "M. Beier",
+          "S. Guirassy"
+        ]
       },
       "awayLineup": {
-        "confirmed": false,
-        "missingRegulars": []
+        "confirmed": true,
+        "missingRegulars": [
+          "J. Gyamerah"
+        ]
       }
     },
     {
@@ -145,19 +151,19 @@
       "homeTeam": "RB Leipzig",
       "awayTeam": "FC Augsburg",
       "probabilities": {
-        "home": 0.638,
+        "home": 0.647,
         "draw": 0.179,
-        "away": 0.183
+        "away": 0.174
       },
       "tip": "2:1",
-      "tipExpectedPoints": 1.593,
+      "tipExpectedPoints": 1.615,
       "valueBet": {
         "market": "1x2",
         "selection": "Auswärtssieg",
         "bookmaker": "Tipico",
-        "bookmakerOdds": 6,
-        "ourProbability": 0.183,
-        "edgePct": 2.5
+        "bookmakerOdds": 6.2,
+        "ourProbability": 0.174,
+        "edgePct": 2.1
       },
       "homeForm": [
         "N",
@@ -174,12 +180,18 @@
         "N"
       ],
       "homeLineup": {
-        "confirmed": false,
-        "missingRegulars": []
+        "confirmed": true,
+        "missingRegulars": [
+          "A. Nusa"
+        ]
       },
       "awayLineup": {
-        "confirmed": false,
-        "missingRegulars": []
+        "confirmed": true,
+        "missingRegulars": [
+          "C. Brackelmann",
+          "M. Wolf",
+          "M. Gregoritsch"
+        ]
       }
     },
     {
@@ -188,19 +200,19 @@
       "homeTeam": "1. FSV Mainz 05",
       "awayTeam": "FC Bayern München",
       "probabilities": {
-        "home": 0.163,
-        "draw": 0.168,
-        "away": 0.669
+        "home": 0.149,
+        "draw": 0.161,
+        "away": 0.691
       },
       "tip": "1:2",
-      "tipExpectedPoints": 1.591,
+      "tipExpectedPoints": 1.636,
       "valueBet": {
         "market": "1x2",
         "selection": "Heimsieg",
         "bookmaker": "Tipico",
-        "bookmakerOdds": 9,
-        "ourProbability": 0.163,
-        "edgePct": 5.8
+        "bookmakerOdds": 10,
+        "ourProbability": 0.149,
+        "edgePct": 5.4
       },
       "homeForm": [
         "S",
@@ -217,12 +229,19 @@
         "U"
       ],
       "homeLineup": {
-        "confirmed": false,
-        "missingRegulars": []
+        "confirmed": true,
+        "missingRegulars": [
+          "P. Mwene",
+          "P. Tietz",
+          "A. Schwolow",
+          "S. Posch"
+        ]
       },
       "awayLineup": {
-        "confirmed": false,
-        "missingRegulars": []
+        "confirmed": true,
+        "missingRegulars": [
+          "I. Saibari"
+        ]
       }
     },
     {
@@ -231,9 +250,9 @@
       "homeTeam": "SC Paderborn 07",
       "awayTeam": "Eintracht Frankfurt",
       "probabilities": {
-        "home": 0.251,
-        "draw": 0.218,
-        "away": 0.532
+        "home": 0.248,
+        "draw": 0.221,
+        "away": 0.531
       },
       "tip": "1:2",
       "tipExpectedPoints": 1.382,
@@ -242,7 +261,7 @@
         "selection": "Auswärtssieg",
         "bookmaker": "Tipico",
         "bookmakerOdds": 2.25,
-        "ourProbability": 0.532,
+        "ourProbability": 0.531,
         "edgePct": 11
       },
       "homeForm": [
@@ -260,12 +279,18 @@
         "S"
       ],
       "homeLineup": {
-        "confirmed": false,
-        "missingRegulars": []
+        "confirmed": true,
+        "missingRegulars": [
+          "L. Ulrich",
+          "M. Pieringer"
+        ]
       },
       "awayLineup": {
-        "confirmed": false,
-        "missingRegulars": []
+        "confirmed": true,
+        "missingRegulars": [
+          "K. Kosugi",
+          "Y. Ebnoutalib"
+        ]
       }
     },
     {
