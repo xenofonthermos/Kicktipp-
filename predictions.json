@@ -2,7 +2,7 @@
   "season": 2026,
   "matchday": 9,
   "nextMatchday": 10,
-  "generatedAt": "2026-11-07T12:05:02.496Z",
+  "generatedAt": "2026-11-07T12:35:03.006Z",
   "eloRanking": [
     {
       "rank": 1,
@@ -146,8 +146,8 @@
       "awayTeam": "FC Augsburg",
       "probabilities": {
         "home": 0.638,
-        "draw": 0.179,
-        "away": 0.183
+        "draw": 0.182,
+        "away": 0.18
       },
       "tip": "2:1",
       "tipExpectedPoints": 1.593,
@@ -155,9 +155,9 @@
         "market": "1x2",
         "selection": "Auswärtssieg",
         "bookmaker": "Tipico",
-        "bookmakerOdds": 6,
-        "ourProbability": 0.183,
-        "edgePct": 2.5
+        "bookmakerOdds": 6.2,
+        "ourProbability": 0.18,
+        "edgePct": 2.8
       },
       "homeForm": [
         "N",
@@ -232,18 +232,18 @@
       "awayTeam": "Eintracht Frankfurt",
       "probabilities": {
         "home": 0.259,
-        "draw": 0.218,
-        "away": 0.523
+        "draw": 0.214,
+        "away": 0.527
       },
       "tip": "1:2",
-      "tipExpectedPoints": 1.34,
+      "tipExpectedPoints": 1.369,
       "valueBet": {
         "market": "1x2",
         "selection": "Auswärtssieg",
         "bookmaker": "Tipico",
-        "bookmakerOdds": 2.35,
-        "ourProbability": 0.523,
-        "edgePct": 11.9
+        "bookmakerOdds": 2.3,
+        "ourProbability": 0.527,
+        "edgePct": 11.5
       },
       "homeForm": [
         "S",
@@ -403,19 +403,19 @@
       "homeTeam": "TSG Hoffenheim",
       "awayTeam": "FC Schalke 04",
       "probabilities": {
-        "home": 0.669,
-        "draw": 0.178,
-        "away": 0.153
+        "home": 0.674,
+        "draw": 0.18,
+        "away": 0.145
       },
       "tip": "2:1",
-      "tipExpectedPoints": 1.663,
+      "tipExpectedPoints": 1.685,
       "valueBet": {
         "market": "1x2",
         "selection": "Heimsieg",
         "bookmaker": "Tipico",
-        "bookmakerOdds": 1.6,
-        "ourProbability": 0.669,
-        "edgePct": 7.7
+        "bookmakerOdds": 1.57,
+        "ourProbability": 0.674,
+        "edgePct": 7.1
       },
       "homeForm": [
         "N",
@@ -833,12 +833,12 @@
       "homeTeam": "FC Ingolstadt 04",
       "awayTeam": "Fortuna Düsseldorf",
       "probabilities": {
-        "home": 0.691,
-        "draw": 0.163,
-        "away": 0.146
+        "home": 0.72,
+        "draw": 0.154,
+        "away": 0.126
       },
-      "tip": "2:1",
-      "tipExpectedPoints": 1.679,
+      "tip": "2:0",
+      "tipExpectedPoints": 1.753,
       "valueBet": null,
       "homeForm": [
         "N",
@@ -855,12 +855,16 @@
         "U"
       ],
       "homeLineup": {
-        "confirmed": false,
+        "confirmed": true,
         "missingRegulars": []
       },
       "awayLineup": {
-        "confirmed": false,
-        "missingRegulars": []
+        "confirmed": true,
+        "missingRegulars": [
+          "S. van der Sloot",
+          "A. Müller",
+          "A. Slimani"
+        ]
       }
     },
     {
