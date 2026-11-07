@@ -7,9 +7,9 @@ Erstellt am 2026-11-07. Elo-basierte Tippempfehlung für Kicktipp, ohne Gewähr 
 | Bundesliga | Borussia Dortmund – SV 07 Elversberg | 2:0 | 78% / 14% / 8% |
 | Bundesliga | RB Leipzig – FC Augsburg | 2:1 | 64% / 18% / 18% |
 | Bundesliga | 1. FSV Mainz 05 – FC Bayern München | 1:2 | 16% / 17% / 67% |
-| Bundesliga | SC Paderborn 07 – Eintracht Frankfurt | 1:2 | 26% / 21% / 53% |
+| Bundesliga | SC Paderborn 07 – Eintracht Frankfurt | 1:2 | 25% / 22% / 53% |
 | Bundesliga | VfB Stuttgart – SV Werder Bremen | 2:1 | 53% / 22% / 25% |
-| Bundesliga | 1. FC Köln – Bayer 04 Leverkusen | 1:2 | 25% / 23% / 53% |
+| Bundesliga | 1. FC Köln – Bayer 04 Leverkusen | 1:2 | 25% / 23% / 52% |
 | Bundesliga | SC Freiburg – 1. FC Union Berlin | 2:1 | 64% / 19% / 17% |
 | Bundesliga | TSG Hoffenheim – FC Schalke 04 | 2:1 | 67% / 18% / 14% |
 | Bundesliga | FC Bayern München – 1. FC Köln | 2:0 | 83% / 10% / 7% |
@@ -21,7 +21,7 @@ Erstellt am 2026-11-07. Elo-basierte Tippempfehlung für Kicktipp, ohne Gewähr 
 | Bundesliga | FC Schalke 04 – VfB Stuttgart | 1:2 | 19% / 20% / 61% |
 | Bundesliga | FC Augsburg – 1. FSV Mainz 05 | 1:0 | 41% / 25% / 34% |
 | Bundesliga | SV Werder Bremen – Hamburger SV | 2:1 | 55% / 22% / 24% |
-| 3. Liga | FC Ingolstadt 04 – Fortuna Düsseldorf | 2:0 | 72% / 15% / 13% |
+| 3. Liga | FC Ingolstadt 04 – Fortuna Düsseldorf | 2:1 | 70% / 16% / 14% |
 | 3. Liga | Fortuna Düsseldorf – SG Sonnenhof Großaspach | 2:1 | 50% / 23% / 28% |
 
 ## Elo-Tabelle (Modellwert, keine offizielle Tabelle)

@@ -2,7 +2,7 @@
   "season": 2026,
   "matchday": 9,
   "nextMatchday": 10,
-  "generatedAt": "2026-11-07T12:35:03.006Z",
+  "generatedAt": "2026-11-07T13:35:02.082Z",
   "eloRanking": [
     {
       "rank": 1,
@@ -146,8 +146,8 @@
       "awayTeam": "FC Augsburg",
       "probabilities": {
         "home": 0.638,
-        "draw": 0.182,
-        "away": 0.18
+        "draw": 0.179,
+        "away": 0.183
       },
       "tip": "2:1",
       "tipExpectedPoints": 1.593,
@@ -155,9 +155,9 @@
         "market": "1x2",
         "selection": "Auswärtssieg",
         "bookmaker": "Tipico",
-        "bookmakerOdds": 6.2,
-        "ourProbability": 0.18,
-        "edgePct": 2.8
+        "bookmakerOdds": 6,
+        "ourProbability": 0.183,
+        "edgePct": 2.5
       },
       "homeForm": [
         "N",
@@ -231,19 +231,19 @@
       "homeTeam": "SC Paderborn 07",
       "awayTeam": "Eintracht Frankfurt",
       "probabilities": {
-        "home": 0.259,
-        "draw": 0.214,
-        "away": 0.527
+        "home": 0.251,
+        "draw": 0.218,
+        "away": 0.532
       },
       "tip": "1:2",
-      "tipExpectedPoints": 1.369,
+      "tipExpectedPoints": 1.382,
       "valueBet": {
         "market": "1x2",
         "selection": "Auswärtssieg",
         "bookmaker": "Tipico",
-        "bookmakerOdds": 2.3,
-        "ourProbability": 0.527,
-        "edgePct": 11.5
+        "bookmakerOdds": 2.25,
+        "ourProbability": 0.532,
+        "edgePct": 11
       },
       "homeForm": [
         "S",
@@ -317,19 +317,19 @@
       "homeTeam": "1. FC Köln",
       "awayTeam": "Bayer 04 Leverkusen",
       "probabilities": {
-        "home": 0.247,
+        "home": 0.253,
         "draw": 0.228,
-        "away": 0.525
+        "away": 0.519
       },
       "tip": "1:2",
       "tipExpectedPoints": 1.349,
       "valueBet": {
         "market": "1x2",
-        "selection": "Heimsieg",
+        "selection": "Auswärtssieg",
         "bookmaker": "Tipico",
-        "bookmakerOdds": 4,
-        "ourProbability": 0.247,
-        "edgePct": 1
+        "bookmakerOdds": 1.85,
+        "ourProbability": 0.519,
+        "edgePct": 0.6
       },
       "homeForm": [
         "N",
@@ -833,12 +833,12 @@
       "homeTeam": "FC Ingolstadt 04",
       "awayTeam": "Fortuna Düsseldorf",
       "probabilities": {
-        "home": 0.72,
-        "draw": 0.154,
-        "away": 0.126
+        "home": 0.703,
+        "draw": 0.159,
+        "away": 0.138
       },
-      "tip": "2:0",
-      "tipExpectedPoints": 1.753,
+      "tip": "2:1",
+      "tipExpectedPoints": 1.705,
       "valueBet": null,
       "homeForm": [
         "N",
@@ -861,9 +861,7 @@
       "awayLineup": {
         "confirmed": true,
         "missingRegulars": [
-          "S. van der Sloot",
-          "A. Müller",
-          "A. Slimani"
+          "A. Müller"
         ]
       }
     },
