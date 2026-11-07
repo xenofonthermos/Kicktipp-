@@ -2,7 +2,7 @@
   "season": 2026,
   "matchday": 9,
   "nextMatchday": 10,
-  "generatedAt": "2026-11-06T19:05:03.112Z",
+  "generatedAt": "2026-11-07T06:05:43.922Z",
   "eloRanking": [
     {
       "rank": 1,
@@ -61,23 +61,23 @@
     },
     {
       "rank": 12,
+      "teamName": "Hamburger SV",
+      "rating": 1613
+    },
+    {
+      "rank": 13,
       "teamName": "1. FC Union Berlin",
       "rating": 1609
     },
     {
-      "rank": 13,
-      "teamName": "Hamburger SV",
-      "rating": 1601
-    },
-    {
       "rank": 14,
-      "teamName": "Borussia Mönchengladbach",
-      "rating": 1592
+      "teamName": "1. FC Köln",
+      "rating": 1585
     },
     {
       "rank": 15,
-      "teamName": "1. FC Köln",
-      "rating": 1585
+      "teamName": "Borussia Mönchengladbach",
+      "rating": 1580
     },
     {
       "rank": 16,
@@ -96,57 +96,6 @@
     }
   ],
   "matches": [
-    {
-      "matchDateTime": "2026-11-06T20:30:00",
-      "league": "Bundesliga",
-      "homeTeam": "Hamburger SV",
-      "awayTeam": "Borussia Mönchengladbach",
-      "probabilities": {
-        "home": 0.446,
-        "draw": 0.253,
-        "away": 0.301
-      },
-      "tip": "1:0",
-      "tipExpectedPoints": 1.205,
-      "valueBet": {
-        "market": "1x2",
-        "selection": "Heimsieg",
-        "bookmaker": "Tipico",
-        "bookmakerOdds": 2.3,
-        "ourProbability": 0.446,
-        "edgePct": 3.3
-      },
-      "homeForm": [
-        "S",
-        "S",
-        "S",
-        "N",
-        "N"
-      ],
-      "awayForm": [
-        "N",
-        "N",
-        "N",
-        "S",
-        "U"
-      ],
-      "homeLineup": {
-        "confirmed": true,
-        "missingRegulars": [
-          "J. Torunarigha",
-          "N. Capaldo",
-          "N. Remberg"
-        ]
-      },
-      "awayLineup": {
-        "confirmed": true,
-        "missingRegulars": [
-          "M. Nicolas",
-          "K. Diks",
-          "H. Bolin"
-        ]
-      }
-    },
     {
       "matchDateTime": "2026-11-07T15:30:00",
       "league": "Bundesliga",
@@ -196,19 +145,19 @@
       "homeTeam": "RB Leipzig",
       "awayTeam": "FC Augsburg",
       "probabilities": {
-        "home": 0.627,
-        "draw": 0.186,
-        "away": 0.187
+        "home": 0.638,
+        "draw": 0.179,
+        "away": 0.183
       },
       "tip": "2:1",
-      "tipExpectedPoints": 1.567,
+      "tipExpectedPoints": 1.593,
       "valueBet": {
         "market": "1x2",
         "selection": "Auswärtssieg",
         "bookmaker": "Tipico",
-        "bookmakerOdds": 5.7,
-        "ourProbability": 0.187,
-        "edgePct": 2.1
+        "bookmakerOdds": 6,
+        "ourProbability": 0.183,
+        "edgePct": 2.5
       },
       "homeForm": [
         "N",
@@ -239,9 +188,9 @@
       "homeTeam": "1. FSV Mainz 05",
       "awayTeam": "FC Bayern München",
       "probabilities": {
-        "home": 0.174,
+        "home": 0.168,
         "draw": 0.173,
-        "away": 0.654
+        "away": 0.659
       },
       "tip": "1:2",
       "tipExpectedPoints": 1.57,
@@ -249,9 +198,9 @@
         "market": "1x2",
         "selection": "Heimsieg",
         "bookmaker": "Tipico",
-        "bookmakerOdds": 7.5,
-        "ourProbability": 0.174,
-        "edgePct": 4.8
+        "bookmakerOdds": 8.2,
+        "ourProbability": 0.168,
+        "edgePct": 5.3
       },
       "homeForm": [
         "S",
@@ -325,19 +274,19 @@
       "homeTeam": "VfB Stuttgart",
       "awayTeam": "SV Werder Bremen",
       "probabilities": {
-        "home": 0.559,
-        "draw": 0.211,
-        "away": 0.23
+        "home": 0.535,
+        "draw": 0.221,
+        "away": 0.244
       },
       "tip": "2:1",
-      "tipExpectedPoints": 1.434,
+      "tipExpectedPoints": 1.393,
       "valueBet": {
         "market": "1x2",
-        "selection": "Auswärtssieg",
+        "selection": "Heimsieg",
         "bookmaker": "Tipico",
-        "bookmakerOdds": 4.4,
-        "ourProbability": 0.23,
-        "edgePct": 1.5
+        "bookmakerOdds": 1.8,
+        "ourProbability": 0.535,
+        "edgePct": 0.9
       },
       "homeForm": [
         "N",
@@ -411,9 +360,9 @@
       "homeTeam": "SC Freiburg",
       "awayTeam": "1. FC Union Berlin",
       "probabilities": {
-        "home": 0.639,
-        "draw": 0.192,
-        "away": 0.169
+        "home": 0.638,
+        "draw": 0.19,
+        "away": 0.172
       },
       "tip": "2:1",
       "tipExpectedPoints": 1.608,
@@ -421,9 +370,9 @@
         "market": "1x2",
         "selection": "Auswärtssieg",
         "bookmaker": "Tipico",
-        "bookmakerOdds": 6.2,
-        "ourProbability": 0.169,
-        "edgePct": 1.6
+        "bookmakerOdds": 6,
+        "ourProbability": 0.172,
+        "edgePct": 1.4
       },
       "homeForm": [
         "U",
@@ -669,26 +618,26 @@
       "homeTeam": "Borussia Mönchengladbach",
       "awayTeam": "Borussia Dortmund",
       "probabilities": {
-        "home": 0.206,
-        "draw": 0.206,
-        "away": 0.588
+        "home": 0.197,
+        "draw": 0.201,
+        "away": 0.602
       },
       "tip": "1:2",
-      "tipExpectedPoints": 1.472,
+      "tipExpectedPoints": 1.507,
       "valueBet": {
         "market": "1x2",
         "selection": "Auswärtssieg",
         "bookmaker": "Tipico",
-        "bookmakerOdds": 1.65,
-        "ourProbability": 0.588,
+        "bookmakerOdds": 1.62,
+        "ourProbability": 0.602,
         "edgePct": 1.5
       },
       "homeForm": [
         "N",
         "N",
-        "N",
         "S",
-        "U"
+        "U",
+        "N"
       ],
       "awayForm": [
         "S",
@@ -755,9 +704,9 @@
       "homeTeam": "FC Schalke 04",
       "awayTeam": "VfB Stuttgart",
       "probabilities": {
-        "home": 0.187,
+        "home": 0.19,
         "draw": 0.198,
-        "away": 0.615
+        "away": 0.612
       },
       "tip": "1:2",
       "tipExpectedPoints": 1.539,
@@ -765,9 +714,9 @@
         "market": "1x2",
         "selection": "Auswärtssieg",
         "bookmaker": "Tipico",
-        "bookmakerOdds": 1.75,
-        "ourProbability": 0.615,
-        "edgePct": 7.3
+        "bookmakerOdds": 1.77,
+        "ourProbability": 0.612,
+        "edgePct": 7.6
       },
       "homeForm": [
         "U",
@@ -841,9 +790,9 @@
       "homeTeam": "SV Werder Bremen",
       "awayTeam": "Hamburger SV",
       "probabilities": {
-        "home": 0.562,
-        "draw": 0.21,
-        "away": 0.228
+        "home": 0.547,
+        "draw": 0.218,
+        "away": 0.236
       },
       "tip": "2:1",
       "tipExpectedPoints": 1.434,
@@ -851,9 +800,9 @@
         "market": "1x2",
         "selection": "Auswärtssieg",
         "bookmaker": "Tipico",
-        "bookmakerOdds": 4.4,
-        "ourProbability": 0.228,
-        "edgePct": 1.3
+        "bookmakerOdds": 4.3,
+        "ourProbability": 0.236,
+        "edgePct": 1.5
       },
       "homeForm": [
         "S",
@@ -865,9 +814,9 @@
       "awayForm": [
         "S",
         "S",
-        "S",
         "N",
-        "N"
+        "N",
+        "S"
       ],
       "homeLineup": {
         "confirmed": false,
@@ -952,40 +901,40 @@
     }
   ],
   "valueBetTrackRecord": {
-    "resolvedBets": 72,
-    "wins": 21,
+    "resolvedBets": 73,
+    "wins": 22,
     "losses": 51,
-    "profitUnits": -22.23,
-    "roiPercent": -30.9
+    "profitUnits": -20.93,
+    "roiPercent": -28.7
   },
   "tipTrackRecord": {
-    "resolvedTips": 84,
-    "points": 99,
-    "avgPoints": 1.18,
+    "resolvedTips": 85,
+    "points": 101,
+    "avgPoints": 1.19,
     "distribution": {
       "0": 44,
-      "2": 24,
+      "2": 25,
       "3": 13,
       "4": 3
     },
     "baselines": {
       "immer21": {
         "label": "Immer 2:1",
-        "points": 103,
-        "games": 84,
-        "avgPoints": 1.23
+        "points": 105,
+        "games": 85,
+        "avgPoints": 1.24
       },
       "favorit": {
         "label": "Favorit 2:1 / 1:2",
-        "points": 112,
-        "games": 84,
-        "avgPoints": 1.33
+        "points": 114,
+        "games": 85,
+        "avgPoints": 1.34
       },
       "basis": {
         "label": "Modell ohne Lernen",
-        "points": 99,
-        "games": 84,
-        "avgPoints": 1.18
+        "points": 101,
+        "games": 85,
+        "avgPoints": 1.19
       }
     }
   },
@@ -995,10 +944,10 @@
       "drawFactor": 1,
       "marketBlendWeight": 0.5
     },
-    "sample": 84,
+    "sample": 85,
     "updatedAt": null,
     "changes": 0,
-    "activeAvg": 1.179,
-    "defaultAvg": 1.179
+    "activeAvg": 1.188,
+    "defaultAvg": 1.188
   }
 }
