@@ -2,12 +2,12 @@
   "season": 2026,
   "matchday": 9,
   "nextMatchday": 10,
-  "generatedAt": "2026-11-07T16:35:03.458Z",
+  "generatedAt": "2026-11-07T17:05:02.594Z",
   "eloRanking": [
     {
       "rank": 1,
       "teamName": "FC Bayern München",
-      "rating": 1885
+      "rating": 1891
     },
     {
       "rank": 2,
@@ -57,7 +57,7 @@
     {
       "rank": 11,
       "teamName": "1. FSV Mainz 05",
-      "rating": 1653
+      "rating": 1648
     },
     {
       "rank": 12,
@@ -97,71 +97,24 @@
   ],
   "matches": [
     {
-      "matchDateTime": "2026-11-07T15:30:00",
-      "league": "Bundesliga",
-      "homeTeam": "1. FSV Mainz 05",
-      "awayTeam": "FC Bayern München",
-      "probabilities": {
-        "home": 0.098,
-        "draw": 0.117,
-        "away": 0.786
-      },
-      "tip": "1:3",
-      "tipExpectedPoints": 1.699,
-      "valueBet": {
-        "market": "1x2",
-        "selection": "Heimsieg",
-        "bookmaker": "Tipico",
-        "bookmakerOdds": 400,
-        "ourProbability": 0.098,
-        "edgePct": 9.5
-      },
-      "homeForm": [
-        "S",
-        "N",
-        "S",
-        "N",
-        "N"
-      ],
-      "awayForm": [
-        "S",
-        "U",
-        "S",
-        "S",
-        "U"
-      ],
-      "homeLineup": {
-        "confirmed": true,
-        "missingRegulars": [
-          "P. Mwene",
-          "P. Tietz",
-          "S. Posch"
-        ]
-      },
-      "awayLineup": {
-        "confirmed": true,
-        "missingRegulars": []
-      }
-    },
-    {
       "matchDateTime": "2026-11-07T18:30:00",
       "league": "Bundesliga",
       "homeTeam": "VfB Stuttgart",
       "awayTeam": "SV Werder Bremen",
       "probabilities": {
-        "home": 0.535,
-        "draw": 0.221,
-        "away": 0.244
+        "home": 0.507,
+        "draw": 0.231,
+        "away": 0.262
       },
       "tip": "2:1",
-      "tipExpectedPoints": 1.393,
+      "tipExpectedPoints": 1.349,
       "valueBet": {
         "market": "1x2",
-        "selection": "Heimsieg",
+        "selection": "Auswärtssieg",
         "bookmaker": "Tipico",
-        "bookmakerOdds": 1.8,
-        "ourProbability": 0.535,
-        "edgePct": 0.9
+        "bookmakerOdds": 3.9,
+        "ourProbability": 0.262,
+        "edgePct": 1.9
       },
       "homeForm": [
         "N",
@@ -178,12 +131,19 @@
         "S"
       ],
       "homeLineup": {
-        "confirmed": false,
-        "missingRegulars": []
+        "confirmed": true,
+        "missingRegulars": [
+          "Finn Jeltsch",
+          "A. Stiller",
+          "J. Vagnoman",
+          "E. Demirović"
+        ]
       },
       "awayLineup": {
-        "confirmed": false,
-        "missingRegulars": []
+        "confirmed": true,
+        "missingRegulars": [
+          "Chuky San José"
+        ]
       }
     },
     {
@@ -192,9 +152,9 @@
       "homeTeam": "1. FC Köln",
       "awayTeam": "Bayer 04 Leverkusen",
       "probabilities": {
-        "home": 0.247,
+        "home": 0.25,
         "draw": 0.228,
-        "away": 0.525
+        "away": 0.522
       },
       "tip": "1:2",
       "tipExpectedPoints": 1.349,
@@ -202,9 +162,9 @@
         "market": "1x2",
         "selection": "Heimsieg",
         "bookmaker": "Tipico",
-        "bookmakerOdds": 4,
-        "ourProbability": 0.247,
-        "edgePct": 1
+        "bookmakerOdds": 3.9,
+        "ourProbability": 0.25,
+        "edgePct": 0.7
       },
       "homeForm": [
         "N",
@@ -321,9 +281,9 @@
       "homeTeam": "FC Bayern München",
       "awayTeam": "1. FC Köln",
       "probabilities": {
-        "home": 0.826,
+        "home": 0.828,
         "draw": 0.103,
-        "away": 0.07
+        "away": 0.069
       },
       "tip": "2:0",
       "tipExpectedPoints": 2.02,
@@ -333,14 +293,14 @@
         "bookmaker": "Tipico",
         "bookmakerOdds": 14,
         "ourProbability": 0.103,
-        "edgePct": 3.6
+        "edgePct": 3.5
       },
       "homeForm": [
-        "S",
         "U",
         "S",
         "S",
-        "U"
+        "U",
+        "S"
       ],
       "awayForm": [
         "N",
@@ -622,9 +582,9 @@
       "homeTeam": "FC Augsburg",
       "awayTeam": "1. FSV Mainz 05",
       "probabilities": {
-        "home": 0.404,
-        "draw": 0.249,
-        "away": 0.347
+        "home": 0.408,
+        "draw": 0.248,
+        "away": 0.344
       },
       "tip": "2:1",
       "tipExpectedPoints": 1.087,
@@ -633,8 +593,8 @@
         "selection": "Heimsieg",
         "bookmaker": "Tipico",
         "bookmakerOdds": 2.7,
-        "ourProbability": 0.404,
-        "edgePct": 5.4
+        "ourProbability": 0.408,
+        "edgePct": 5.8
       },
       "homeForm": [
         "U",
@@ -644,9 +604,9 @@
         "N"
       ],
       "awayForm": [
-        "S",
         "N",
         "S",
+        "N",
         "N",
         "N"
       ],
@@ -740,40 +700,40 @@
     }
   ],
   "valueBetTrackRecord": {
-    "resolvedBets": 76,
+    "resolvedBets": 77,
     "wins": 23,
-    "losses": 53,
-    "profitUnits": -22.65,
-    "roiPercent": -29.8
+    "losses": 54,
+    "profitUnits": -23.65,
+    "roiPercent": -30.7
   },
   "tipTrackRecord": {
-    "resolvedTips": 89,
-    "points": 107,
-    "avgPoints": 1.2,
+    "resolvedTips": 90,
+    "points": 111,
+    "avgPoints": 1.23,
     "distribution": {
       "0": 45,
       "2": 28,
       "3": 13,
-      "4": 3
+      "4": 4
     },
     "baselines": {
       "immer21": {
         "label": "Immer 2:1",
         "points": 114,
-        "games": 89,
-        "avgPoints": 1.28
+        "games": 90,
+        "avgPoints": 1.27
       },
       "favorit": {
         "label": "Favorit 2:1 / 1:2",
-        "points": 123,
-        "games": 89,
-        "avgPoints": 1.38
+        "points": 127,
+        "games": 90,
+        "avgPoints": 1.41
       },
       "basis": {
         "label": "Modell ohne Lernen",
-        "points": 107,
-        "games": 89,
-        "avgPoints": 1.2
+        "points": 111,
+        "games": 90,
+        "avgPoints": 1.23
       }
     }
   },
@@ -783,10 +743,10 @@
       "drawFactor": 1,
       "marketBlendWeight": 0.5
     },
-    "sample": 89,
+    "sample": 90,
     "updatedAt": null,
     "changes": 0,
-    "activeAvg": 1.202,
-    "defaultAvg": 1.202
+    "activeAvg": 1.233,
+    "defaultAvg": 1.233
   }
 }

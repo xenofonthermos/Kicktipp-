@@ -4,9 +4,8 @@ Erstellt am 2026-11-07. Elo-basierte Tippempfehlung für Kicktipp, ohne Gewähr 
 
 | Liga | Spiel | Tipp | Heim% / Remis% / Auswärts% |
 | --- | --- | --- | --- |
-| Bundesliga | 1. FSV Mainz 05 – FC Bayern München | 1:3 | 10% / 12% / 79% |
-| Bundesliga | VfB Stuttgart – SV Werder Bremen | 2:1 | 54% / 22% / 24% |
-| Bundesliga | 1. FC Köln – Bayer 04 Leverkusen | 1:2 | 25% / 23% / 53% |
+| Bundesliga | VfB Stuttgart – SV Werder Bremen | 2:1 | 51% / 23% / 26% |
+| Bundesliga | 1. FC Köln – Bayer 04 Leverkusen | 1:2 | 25% / 23% / 52% |
 | Bundesliga | SC Freiburg – 1. FC Union Berlin | 2:1 | 64% / 19% / 17% |
 | Bundesliga | TSG Hoffenheim – FC Schalke 04 | 2:1 | 67% / 18% / 14% |
 | Bundesliga | FC Bayern München – 1. FC Köln | 2:0 | 83% / 10% / 7% |
@@ -16,7 +15,7 @@ Erstellt am 2026-11-07. Elo-basierte Tippempfehlung für Kicktipp, ohne Gewähr 
 | Bundesliga | Borussia Mönchengladbach – Borussia Dortmund | 1:2 | 20% / 20% / 60% |
 | Bundesliga | SV 07 Elversberg – SC Freiburg | 1:2 | 22% / 22% / 56% |
 | Bundesliga | FC Schalke 04 – VfB Stuttgart | 1:2 | 19% / 20% / 61% |
-| Bundesliga | FC Augsburg – 1. FSV Mainz 05 | 2:1 | 40% / 25% / 35% |
+| Bundesliga | FC Augsburg – 1. FSV Mainz 05 | 2:1 | 41% / 25% / 34% |
 | Bundesliga | SV Werder Bremen – Hamburger SV | 2:1 | 55% / 22% / 24% |
 | 3. Liga | Fortuna Düsseldorf – SG Sonnenhof Großaspach | 2:1 | 50% / 23% / 28% |
 
@@ -24,7 +23,7 @@ Erstellt am 2026-11-07. Elo-basierte Tippempfehlung für Kicktipp, ohne Gewähr 
 
 | Rang | Team | Rating |
 | --- | --- | --- |
-| 1 | FC Bayern München | 1885 |
+| 1 | FC Bayern München | 1891 |
 | 2 | Borussia Dortmund | 1846 |
 | 3 | RB Leipzig | 1799 |
 | 4 | Bayer 04 Leverkusen | 1774 |
@@ -34,7 +33,7 @@ Erstellt am 2026-11-07. Elo-basierte Tippempfehlung für Kicktipp, ohne Gewähr 
 | 8 | TSG Hoffenheim | 1692 |
 | 9 | SV Werder Bremen | 1680 |
 | 10 | FC Augsburg | 1662 |
-| 11 | 1. FSV Mainz 05 | 1653 |
+| 11 | 1. FSV Mainz 05 | 1648 |
 | 12 | Hamburger SV | 1613 |
 | 13 | 1. FC Union Berlin | 1609 |
 | 14 | 1. FC Köln | 1585 |
@@ -45,12 +44,12 @@ Erstellt am 2026-11-07. Elo-basierte Tippempfehlung für Kicktipp, ohne Gewähr 
 
 ## Kicktipp-Bilanz (bisher ausgewertete Tipps)
 
-107 Punkte aus 89 Spielen (Ø 1.2 je Spiel). Vergleich: Immer 2:1 Ø 1.28, Favorit 2:1 / 1:2 Ø 1.38, Modell ohne Lernen Ø 1.2.
+111 Punkte aus 90 Spielen (Ø 1.23 je Spiel). Vergleich: Immer 2:1 Ø 1.27, Favorit 2:1 / 1:2 Ø 1.41, Modell ohne Lernen Ø 1.23.
 
 ## Lernschleife
 
-Aktive Parameter: Torerwartung ×1, Remis-Gewicht ×1, Markt-Gewicht 0.5. Rückblickend auf 89 Spiele: Ø 1.20 Punkte (Ausgangsmodell Ø 1.20). Bisher 0 Anpassung(en).
+Aktive Parameter: Torerwartung ×1, Remis-Gewicht ×1, Markt-Gewicht 0.5. Rückblickend auf 90 Spiele: Ø 1.23 Punkte (Ausgangsmodell Ø 1.23). Bisher 0 Anpassung(en).
 
 ## Tipico-Erfolgsbilanz (bisher entschiedene Wett-Tipps)
 
-23 von 76 richtig, Bilanz -22.65 Einheiten (-29.8% ROI bei 1 Einheit Einsatz je Tipp). Reine Information, keine Wettempfehlung — siehe RISKS.md.
+23 von 77 richtig, Bilanz -23.65 Einheiten (-30.7% ROI bei 1 Einheit Einsatz je Tipp). Reine Information, keine Wettempfehlung — siehe RISKS.md.

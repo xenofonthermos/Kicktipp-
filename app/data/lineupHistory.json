@@ -79,7 +79,8 @@
     1340506196,
     1340507047,
     1340510451,
-    1340513004
+    1340513004,
+    1340507898
   ],
   "teams": {
     "FC Bayern München": {
@@ -118,7 +119,7 @@
       }
     },
     "VfB Stuttgart": {
-      "matchesSeen": 8,
+      "matchesSeen": 9,
       "players": {
         "Fabian Bredlow": 1,
         "Ramon Hendriks": 1,
@@ -132,23 +133,24 @@
         "Tiago Tomás": 1,
         "Dženan Pejčinović": 1,
         "F. Bredlow": 3,
-        "M. Mittelstädt": 5,
-        "J. Chabot": 6,
-        "C. Führich": 6,
+        "M. Mittelstädt": 6,
+        "J. Chabot": 7,
+        "C. Führich": 7,
         "A. Stiller": 6,
-        "G. Prömel": 4,
+        "G. Prömel": 5,
         "J. Vagnoman": 5,
-        "D. Undav": 5,
-        "B. El Khannouss": 4,
+        "D. Undav": 6,
+        "B. El Khannouss": 5,
         "E. Demirović": 6,
-        "R. Hendriks": 5,
+        "R. Hendriks": 6,
         "D. Pejčinović": 3,
-        "D. Seimen": 4,
+        "D. Seimen": 5,
         "A. Karazor": 4,
-        "J. Leweling": 3,
+        "J. Leweling": 4,
         "L. Assignon": 1,
         "L. Sauer": 1,
-        "L. Jaquez": 1
+        "L. Jaquez": 2,
+        "Y. Spalt": 1
       }
     },
     "1. FSV Mainz 05": {
@@ -412,19 +414,19 @@
       }
     },
     "SV Werder Bremen": {
-      "matchesSeen": 8,
+      "matchesSeen": 9,
       "players": {
-        "K. Hein": 7,
-        "O. Deman": 7,
-        "M. Friedl": 7,
-        "A. Pieper": 7,
-        "Arthur": 7,
-        "Y. Regeer": 7,
-        "M. Grüll": 7,
-        "L. Reis": 7,
+        "K. Hein": 8,
+        "O. Deman": 8,
+        "M. Friedl": 8,
+        "A. Pieper": 8,
+        "Arthur": 8,
+        "Y. Regeer": 8,
+        "M. Grüll": 8,
+        "L. Reis": 8,
         "Chuky San José": 7,
-        "E. Dinkçi": 5,
-        "N. Füllkrug": 7,
+        "E. Dinkçi": 6,
+        "N. Füllkrug": 8,
         "Karl Hein": 1,
         "Olivier Deman": 1,
         "Marco Friedl": 1,
@@ -436,7 +438,8 @@
         "Marco Grüll": 1,
         "Niclas Füllkrug": 1,
         "Justin Njinmah": 1,
-        "M. Weiser": 2
+        "M. Weiser": 2,
+        "S. Lynen": 1
       }
     },
     "RB Leipzig": {
