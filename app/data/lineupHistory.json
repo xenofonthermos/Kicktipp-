@@ -80,7 +80,8 @@
     1340507047,
     1340510451,
     1340513004,
-    1340507898
+    1340507898,
+    1340512153
   ],
   "teams": {
     "FC Bayern München": {
@@ -245,27 +246,27 @@
       }
     },
     "1. FC Köln": {
-      "matchesSeen": 8,
+      "matchesSeen": 9,
       "players": {
-        "M. Schwäbe": 8,
+        "M. Schwäbe": 9,
         "G. Mensah": 4,
         "L. Lochoshvili": 7,
-        "Jahmai Simpson-Pusey": 8,
+        "Jahmai Simpson-Pusey": 9,
         "A. Castro-Montes": 4,
         "Í. Bergmann Jóhannesson": 6,
-        "T. Krauß": 7,
-        "Paul Michael Junior Okon-Engstler": 3,
-        "S. El Mala": 6,
+        "T. Krauß": 8,
+        "Paul Michael Junior Okon-Engstler": 4,
+        "S. El Mala": 7,
         "R. Ache": 2,
         "J. Thielmann": 2,
         "E. Skhiri": 3,
-        "M. Moore": 4,
-        "L. Maina": 7,
+        "M. Moore": 5,
+        "L. Maina": 8,
         "T. Dallinga": 2,
-        "M. Bülter": 5,
-        "B. Sosa": 4,
-        "S. Sebulonsen": 4,
-        "J. Schmied": 2
+        "M. Bülter": 6,
+        "B. Sosa": 5,
+        "S. Sebulonsen": 5,
+        "J. Schmied": 3
       }
     },
     "TSG Hoffenheim": {
@@ -316,21 +317,21 @@
       }
     },
     "Bayer 04 Leverkusen": {
-      "matchesSeen": 8,
+      "matchesSeen": 9,
       "players": {
-        "M. Flekken": 8,
-        "Miguel Gutiérrez": 8,
-        "E. Tapsoba": 8,
+        "M. Flekken": 9,
+        "Miguel Gutiérrez": 9,
+        "E. Tapsoba": 9,
         "L. Badé": 1,
         "Lucas Vázquez": 2,
-        "Aleix García": 8,
-        "E. Fernández": 7,
-        "Afonso Moreira": 7,
-        "M. Tillman": 2,
-        "I. Maza": 8,
-        "P. Schick": 7,
-        "F. Medina": 7,
-        "J. Quansah": 7,
+        "Aleix García": 9,
+        "E. Fernández": 8,
+        "Afonso Moreira": 8,
+        "M. Tillman": 3,
+        "I. Maza": 9,
+        "P. Schick": 8,
+        "F. Medina": 8,
+        "J. Quansah": 8,
         "M. Diaby": 5,
         "Christian Kofane": 1,
         "R. Andrich": 1,

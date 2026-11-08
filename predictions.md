@@ -4,7 +4,7 @@ Erstellt am 2026-11-08. Elo-basierte Tippempfehlung für Kicktipp, ohne Gewähr 
 
 | Liga | Spiel | Tipp | Heim% / Remis% / Auswärts% |
 | --- | --- | --- | --- |
-| Bundesliga | 1. FC Köln – Bayer 04 Leverkusen | 1:2 | 24% / 23% / 53% |
+| Bundesliga | 1. FC Köln – Bayer 04 Leverkusen | 1:2 | 23% / 22% / 55% |
 | Bundesliga | SC Freiburg – 1. FC Union Berlin | 2:1 | 65% / 19% / 16% |
 | Bundesliga | TSG Hoffenheim – FC Schalke 04 | 2:1 | 68% / 18% / 14% |
 | Bundesliga | FC Bayern München – 1. FC Köln | 2:0 | 82% / 11% / 7% |
