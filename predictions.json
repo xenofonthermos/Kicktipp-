@@ -2,7 +2,7 @@
   "season": 2026,
   "matchday": 9,
   "nextMatchday": 10,
-  "generatedAt": "2026-11-08T14:05:02.679Z",
+  "generatedAt": "2026-11-08T15:35:02.736Z",
   "eloRanking": [
     {
       "rank": 1,
@@ -102,19 +102,19 @@
       "homeTeam": "1. FC Köln",
       "awayTeam": "Bayer 04 Leverkusen",
       "probabilities": {
-        "home": 0.228,
-        "draw": 0.218,
-        "away": 0.554
+        "home": 0.154,
+        "draw": 0.179,
+        "away": 0.666
       },
       "tip": "1:2",
-      "tipExpectedPoints": 1.434,
+      "tipExpectedPoints": 1.615,
       "valueBet": {
         "market": "1x2",
         "selection": "Heimsieg",
         "bookmaker": "Tipico",
-        "bookmakerOdds": 4.4,
-        "ourProbability": 0.228,
-        "edgePct": 1.3
+        "bookmakerOdds": 12,
+        "ourProbability": 0.154,
+        "edgePct": 7.8
       },
       "homeForm": [
         "N",
@@ -139,9 +139,7 @@
       },
       "awayLineup": {
         "confirmed": true,
-        "missingRegulars": [
-          "M. Diaby"
-        ]
+        "missingRegulars": []
       }
     },
     {
@@ -150,19 +148,19 @@
       "homeTeam": "SC Freiburg",
       "awayTeam": "1. FC Union Berlin",
       "probabilities": {
-        "home": 0.65,
-        "draw": 0.19,
-        "away": 0.161
+        "home": 0.661,
+        "draw": 0.187,
+        "away": 0.152
       },
-      "tip": "2:1",
-      "tipExpectedPoints": 1.637,
+      "tip": "1:0",
+      "tipExpectedPoints": 1.659,
       "valueBet": {
         "market": "1x2",
         "selection": "Auswärtssieg",
         "bookmaker": "Tipico",
-        "bookmakerOdds": 7,
-        "ourProbability": 0.161,
-        "edgePct": 2.5
+        "bookmakerOdds": 8,
+        "ourProbability": 0.152,
+        "edgePct": 3.4
       },
       "homeForm": [
         "U",
@@ -193,9 +191,9 @@
       "homeTeam": "TSG Hoffenheim",
       "awayTeam": "FC Schalke 04",
       "probabilities": {
-        "home": 0.678,
-        "draw": 0.178,
-        "away": 0.144
+        "home": 0.674,
+        "draw": 0.18,
+        "away": 0.145
       },
       "tip": "2:1",
       "tipExpectedPoints": 1.685,
@@ -203,9 +201,9 @@
         "market": "1x2",
         "selection": "Heimsieg",
         "bookmaker": "Tipico",
-        "bookmakerOdds": 1.55,
-        "ourProbability": 0.678,
-        "edgePct": 6.7
+        "bookmakerOdds": 1.57,
+        "ourProbability": 0.674,
+        "edgePct": 7.1
       },
       "homeForm": [
         "N",
@@ -365,8 +363,8 @@
       "homeTeam": "1. FC Union Berlin",
       "awayTeam": "RB Leipzig",
       "probabilities": {
-        "home": 0.227,
-        "draw": 0.214,
+        "home": 0.225,
+        "draw": 0.216,
         "away": 0.559
       },
       "tip": "1:2",
@@ -375,9 +373,9 @@
         "market": "1x2",
         "selection": "Heimsieg",
         "bookmaker": "Tipico",
-        "bookmakerOdds": 4.8,
-        "ourProbability": 0.227,
-        "edgePct": 2.9
+        "bookmakerOdds": 4.9,
+        "ourProbability": 0.225,
+        "edgePct": 3.1
       },
       "homeForm": [
         "N",
