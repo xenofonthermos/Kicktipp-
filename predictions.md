@@ -4,7 +4,7 @@ Erstellt am 2026-11-08. Elo-basierte Tippempfehlung für Kicktipp, ohne Gewähr 
 
 | Liga | Spiel | Tipp | Heim% / Remis% / Auswärts% |
 | --- | --- | --- | --- |
-| Bundesliga | 1. FC Köln – Bayer 04 Leverkusen | 1:2 | 15% / 18% / 67% |
+| Bundesliga | 1. FC Köln – Bayer 04 Leverkusen | 0:1 | 14% / 19% / 68% |
 | Bundesliga | SC Freiburg – 1. FC Union Berlin | 1:0 | 66% / 19% / 15% |
 | Bundesliga | TSG Hoffenheim – FC Schalke 04 | 2:1 | 67% / 18% / 14% |
 | Bundesliga | FC Bayern München – 1. FC Köln | 2:0 | 82% / 11% / 7% |
@@ -13,7 +13,7 @@ Erstellt am 2026-11-08. Elo-basierte Tippempfehlung für Kicktipp, ohne Gewähr 
 | Bundesliga | 1. FC Union Berlin – RB Leipzig | 1:2 | 23% / 22% / 56% |
 | Bundesliga | Borussia Mönchengladbach – Borussia Dortmund | 1:2 | 19% / 20% / 60% |
 | Bundesliga | SV 07 Elversberg – SC Freiburg | 1:2 | 22% / 22% / 56% |
-| Bundesliga | FC Schalke 04 – VfB Stuttgart | 1:2 | 19% / 20% / 62% |
+| Bundesliga | FC Schalke 04 – VfB Stuttgart | 1:2 | 19% / 20% / 61% |
 | Bundesliga | FC Augsburg – 1. FSV Mainz 05 | 2:1 | 41% / 25% / 34% |
 | Bundesliga | SV Werder Bremen – Hamburger SV | 2:1 | 54% / 22% / 24% |
 | 3. Liga | Fortuna Düsseldorf – SG Sonnenhof Großaspach | 2:1 | 50% / 23% / 28% |

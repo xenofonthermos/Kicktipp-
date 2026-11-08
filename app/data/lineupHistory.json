@@ -81,7 +81,8 @@
     1340510451,
     1340513004,
     1340507898,
-    1340512153
+    1340512153,
+    1340509600
   ],
   "teams": {
     "FC Bayern München": {
@@ -198,29 +199,29 @@
       }
     },
     "1. FC Union Berlin": {
-      "matchesSeen": 8,
+      "matchesSeen": 9,
       "players": {
         "M. Raab": 1,
         "T. Rothe": 7,
         "L. Querfeld": 3,
-        "Z. Van Den Bosch": 6,
+        "Z. Van Den Bosch": 7,
         "J. Juranović": 3,
-        "M. Aebischer": 8,
+        "M. Aebischer": 9,
         "A. Kemlein": 3,
-        "R. Khedira": 8,
-        "A. Schäfer": 6,
+        "R. Khedira": 9,
+        "A. Schäfer": 7,
         "E. Latte Lath": 4,
         "M. LjubiÄiÄ": 2,
-        "F. Rønnow": 7,
+        "F. Rønnow": 8,
         "F. Uduokhai": 6,
-        "Livan Burcu": 4,
+        "Livan Burcu": 5,
         "C. Trimmel": 1,
         "Jeong Woo-Yeong": 5,
-        "J. Haberer": 5,
-        "K. Imeri": 3,
-        "T. Skarke": 4,
-        "D. Köhn": 1,
-        "M. Friedrich": 1
+        "J. Haberer": 6,
+        "K. Imeri": 4,
+        "T. Skarke": 5,
+        "D. Köhn": 2,
+        "M. Friedrich": 2
       }
     },
     "Eintracht Frankfurt": {
@@ -471,19 +472,19 @@
       }
     },
     "SC Freiburg": {
-      "matchesSeen": 8,
+      "matchesSeen": 9,
       "players": {
-        "M. Backhaus": 7,
-        "J. Makengo": 7,
-        "P. Lienhart": 7,
-        "M. Ginter": 7,
-        "P. Treu": 6,
-        "Y. Engelhardt": 6,
-        "M. Eggestein": 7,
-        "D. Scherhant": 7,
-        "Y. Suzuki": 6,
-        "J. Beste": 7,
-        "I. Matanović": 5,
+        "M. Backhaus": 8,
+        "J. Makengo": 8,
+        "P. Lienhart": 8,
+        "M. Ginter": 8,
+        "P. Treu": 7,
+        "Y. Engelhardt": 7,
+        "M. Eggestein": 8,
+        "D. Scherhant": 8,
+        "Y. Suzuki": 7,
+        "J. Beste": 8,
+        "I. Matanović": 6,
         "Mio Backhaus": 1,
         "Jordy Makengo": 1,
         "Philipp Lienhart": 1,

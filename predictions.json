@@ -2,7 +2,7 @@
   "season": 2026,
   "matchday": 9,
   "nextMatchday": 10,
-  "generatedAt": "2026-11-08T15:35:02.736Z",
+  "generatedAt": "2026-11-08T16:05:01.404Z",
   "eloRanking": [
     {
       "rank": 1,
@@ -102,19 +102,19 @@
       "homeTeam": "1. FC Köln",
       "awayTeam": "Bayer 04 Leverkusen",
       "probabilities": {
-        "home": 0.154,
-        "draw": 0.179,
-        "away": 0.666
+        "home": 0.137,
+        "draw": 0.186,
+        "away": 0.677
       },
-      "tip": "1:2",
-      "tipExpectedPoints": 1.615,
+      "tip": "0:1",
+      "tipExpectedPoints": 1.659,
       "valueBet": {
         "market": "1x2",
         "selection": "Heimsieg",
         "bookmaker": "Tipico",
-        "bookmakerOdds": 12,
-        "ourProbability": 0.154,
-        "edgePct": 7.8
+        "bookmakerOdds": 22,
+        "ourProbability": 0.137,
+        "edgePct": 9.5
       },
       "homeForm": [
         "N",
@@ -148,19 +148,19 @@
       "homeTeam": "SC Freiburg",
       "awayTeam": "1. FC Union Berlin",
       "probabilities": {
-        "home": 0.661,
+        "home": 0.664,
         "draw": 0.187,
-        "away": 0.152
+        "away": 0.149
       },
       "tip": "1:0",
       "tipExpectedPoints": 1.659,
       "valueBet": {
         "market": "1x2",
-        "selection": "Auswärtssieg",
+        "selection": "Heimsieg",
         "bookmaker": "Tipico",
-        "bookmakerOdds": 8,
-        "ourProbability": 0.152,
-        "edgePct": 3.4
+        "bookmakerOdds": 1.45,
+        "ourProbability": 0.664,
+        "edgePct": 1.1
       },
       "homeForm": [
         "U",
@@ -177,12 +177,16 @@
         "U"
       ],
       "homeLineup": {
-        "confirmed": false,
+        "confirmed": true,
         "missingRegulars": []
       },
       "awayLineup": {
-        "confirmed": false,
-        "missingRegulars": []
+        "confirmed": true,
+        "missingRegulars": [
+          "T. Rothe",
+          "F. Uduokhai",
+          "Jeong Woo-Yeong"
+        ]
       }
     },
     {
@@ -492,19 +496,19 @@
       "homeTeam": "FC Schalke 04",
       "awayTeam": "VfB Stuttgart",
       "probabilities": {
-        "home": 0.188,
-        "draw": 0.197,
-        "away": 0.615
+        "home": 0.191,
+        "draw": 0.199,
+        "away": 0.61
       },
       "tip": "1:2",
-      "tipExpectedPoints": 1.539,
+      "tipExpectedPoints": 1.524,
       "valueBet": {
         "market": "1x2",
         "selection": "Auswärtssieg",
         "bookmaker": "Tipico",
-        "bookmakerOdds": 1.77,
-        "ourProbability": 0.615,
-        "edgePct": 7.9
+        "bookmakerOdds": 1.8,
+        "ourProbability": 0.61,
+        "edgePct": 8.4
       },
       "homeForm": [
         "U",
