@@ -82,7 +82,8 @@
     1340513004,
     1340507898,
     1340512153,
-    1340509600
+    1340509600,
+    1340508749
   ],
   "teams": {
     "FC Bayern München": {
@@ -271,27 +272,27 @@
       }
     },
     "TSG Hoffenheim": {
-      "matchesSeen": 8,
+      "matchesSeen": 9,
       "players": {
-        "O. Baumann": 8,
+        "O. Baumann": 9,
         "Bernardo": 2,
         "A. Hajdari": 3,
-        "O. Kabak": 7,
-        "V. Coufal": 7,
-        "W. Burger": 7,
-        "L. Avdullahu": 8,
+        "O. Kabak": 8,
+        "V. Coufal": 8,
+        "W. Burger": 8,
+        "L. Avdullahu": 9,
         "A. Daghim": 7,
         "P. Wimmer": 2,
         "A. Hložek": 7,
         "B. Conté": 5,
-        "M. Rots": 6,
-        "T. Lemperle": 4,
-        "K. Machida": 5,
+        "M. Rots": 7,
+        "T. Lemperle": 5,
+        "K. Machida": 6,
         "Max Moerstedt": 1,
-        "F. Asllani": 4,
+        "F. Asllani": 5,
         "R. Hranáč": 1,
-        "A. Prass": 2,
-        "A. Kramarić": 1,
+        "A. Prass": 3,
+        "A. Kramarić": 2,
         "Natnael Abraha": 1
       }
     },
@@ -575,21 +576,21 @@
       }
     },
     "FC Schalke 04": {
-      "matchesSeen": 8,
+      "matchesSeen": 9,
       "players": {
-        "L. Karius": 7,
-        "H. Kuruçay": 7,
-        "N. Katić": 7,
+        "L. Karius": 8,
+        "H. Kuruçay": 8,
+        "N. Katić": 8,
         "T. Becker": 6,
-        "R. Gosens": 6,
-        "S. Tanaka": 7,
-        "S. El-Faouzi": 6,
+        "R. Gosens": 7,
+        "S. Tanaka": 8,
+        "S. El-Faouzi": 7,
         "J. Dina Ebimbe": 3,
-        "A. Aouchiche": 6,
-        "K. Karaman": 5,
+        "A. Aouchiche": 7,
+        "K. Karaman": 6,
         "E. Džeko": 2,
         "J. Adamu": 4,
-        "D. Ljubičić": 2,
+        "D. Ljubičić": 3,
         "M. Sylla": 2,
         "Loris Karius": 1,
         "Hasan Kuruçay": 1,
@@ -604,8 +605,8 @@
         "Moussa Sylla": 1,
         "M. Wöber": 1,
         "A. Gantenbein": 2,
-        "Hwang Hee-Chan": 2,
-        "M. Ayhan": 1,
+        "Hwang Hee-Chan": 3,
+        "M. Ayhan": 2,
         "Vitalie  Becker": 1
       }
     },

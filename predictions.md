@@ -4,7 +4,7 @@ Erstellt am 2026-11-08. Elo-basierte Tippempfehlung für Kicktipp, ohne Gewähr 
 
 | Liga | Spiel | Tipp | Heim% / Remis% / Auswärts% |
 | --- | --- | --- | --- |
-| Bundesliga | SC Freiburg – 1. FC Union Berlin | 1:0 | 63% / 24% / 13% |
+| Bundesliga | SC Freiburg – 1. FC Union Berlin | 2:1 | 66% / 17% / 16% |
 | Bundesliga | TSG Hoffenheim – FC Schalke 04 | 2:1 | 68% / 18% / 14% |
 | Bundesliga | FC Bayern München – 1. FC Köln | 2:0 | 83% / 11% / 7% |
 | Bundesliga | Bayer 04 Leverkusen – SC Paderborn 07 | 2:0 | 78% / 13% / 9% |
