@@ -2,7 +2,7 @@
   "season": 2026,
   "matchday": 9,
   "nextMatchday": 10,
-  "generatedAt": "2026-11-08T04:05:44.321Z",
+  "generatedAt": "2026-11-08T13:35:02.359Z",
   "eloRanking": [
     {
       "rank": 1,
@@ -102,19 +102,19 @@
       "homeTeam": "1. FC Köln",
       "awayTeam": "Bayer 04 Leverkusen",
       "probabilities": {
-        "home": 0.247,
+        "home": 0.239,
         "draw": 0.228,
-        "away": 0.525
+        "away": 0.533
       },
       "tip": "1:2",
-      "tipExpectedPoints": 1.349,
+      "tipExpectedPoints": 1.393,
       "valueBet": {
         "market": "1x2",
         "selection": "Heimsieg",
         "bookmaker": "Tipico",
-        "bookmakerOdds": 4,
-        "ourProbability": 0.247,
-        "edgePct": 1
+        "bookmakerOdds": 4.3,
+        "ourProbability": 0.239,
+        "edgePct": 1.8
       },
       "homeForm": [
         "N",
@@ -145,19 +145,19 @@
       "homeTeam": "SC Freiburg",
       "awayTeam": "1. FC Union Berlin",
       "probabilities": {
-        "home": 0.643,
-        "draw": 0.192,
-        "away": 0.166
+        "home": 0.65,
+        "draw": 0.19,
+        "away": 0.161
       },
       "tip": "2:1",
-      "tipExpectedPoints": 1.608,
+      "tipExpectedPoints": 1.637,
       "valueBet": {
         "market": "1x2",
         "selection": "Auswärtssieg",
         "bookmaker": "Tipico",
-        "bookmakerOdds": 6.5,
-        "ourProbability": 0.166,
-        "edgePct": 2
+        "bookmakerOdds": 7,
+        "ourProbability": 0.161,
+        "edgePct": 2.5
       },
       "homeForm": [
         "U",
@@ -188,9 +188,9 @@
       "homeTeam": "TSG Hoffenheim",
       "awayTeam": "FC Schalke 04",
       "probabilities": {
-        "home": 0.674,
-        "draw": 0.18,
-        "away": 0.145
+        "home": 0.678,
+        "draw": 0.178,
+        "away": 0.144
       },
       "tip": "2:1",
       "tipExpectedPoints": 1.685,
@@ -198,9 +198,9 @@
         "market": "1x2",
         "selection": "Heimsieg",
         "bookmaker": "Tipico",
-        "bookmakerOdds": 1.57,
-        "ourProbability": 0.674,
-        "edgePct": 7.1
+        "bookmakerOdds": 1.55,
+        "ourProbability": 0.678,
+        "edgePct": 6.7
       },
       "homeForm": [
         "N",
@@ -231,19 +231,19 @@
       "homeTeam": "FC Bayern München",
       "awayTeam": "1. FC Köln",
       "probabilities": {
-        "home": 0.828,
-        "draw": 0.103,
-        "away": 0.069
+        "home": 0.824,
+        "draw": 0.105,
+        "away": 0.07
       },
       "tip": "2:0",
-      "tipExpectedPoints": 2.02,
+      "tipExpectedPoints": 2.015,
       "valueBet": {
         "market": "1x2",
         "selection": "Remis",
         "bookmaker": "Tipico",
-        "bookmakerOdds": 14,
-        "ourProbability": 0.103,
-        "edgePct": 3.5
+        "bookmakerOdds": 13,
+        "ourProbability": 0.105,
+        "edgePct": 3.3
       },
       "homeForm": [
         "U",
