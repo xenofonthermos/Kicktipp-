@@ -2,7 +2,7 @@
   "season": 2026,
   "matchday": 9,
   "nextMatchday": 10,
-  "generatedAt": "2026-11-09T00:57:31.629Z",
+  "generatedAt": "2026-11-09T08:01:54.507Z",
   "eloRanking": [
     {
       "rank": 1,
@@ -318,8 +318,8 @@
       "awayTeam": "SC Freiburg",
       "probabilities": {
         "home": 0.221,
-        "draw": 0.215,
-        "away": 0.564
+        "draw": 0.212,
+        "away": 0.567
       },
       "tip": "1:2",
       "tipExpectedPoints": 1.434,
@@ -327,9 +327,9 @@
         "market": "1x2",
         "selection": "Auswärtssieg",
         "bookmaker": "Tipico",
-        "bookmakerOdds": 2,
-        "ourProbability": 0.564,
-        "edgePct": 9
+        "bookmakerOdds": 1.97,
+        "ourProbability": 0.567,
+        "edgePct": 8.7
       },
       "homeForm": [
         "N",
@@ -360,12 +360,12 @@
       "homeTeam": "FC Schalke 04",
       "awayTeam": "VfB Stuttgart",
       "probabilities": {
-        "home": 0.184,
-        "draw": 0.196,
+        "home": 0.19,
+        "draw": 0.191,
         "away": 0.619
       },
       "tip": "1:2",
-      "tipExpectedPoints": 1.558,
+      "tipExpectedPoints": 1.539,
       "valueBet": {
         "market": "1x2",
         "selection": "Auswärtssieg",
@@ -404,18 +404,18 @@
       "awayTeam": "1. FSV Mainz 05",
       "probabilities": {
         "home": 0.408,
-        "draw": 0.248,
-        "away": 0.344
+        "draw": 0.251,
+        "away": 0.341
       },
-      "tip": "2:1",
-      "tipExpectedPoints": 1.087,
+      "tip": "1:0",
+      "tipExpectedPoints": 1.143,
       "valueBet": {
         "market": "1x2",
         "selection": "Heimsieg",
         "bookmaker": "Tipico",
         "bookmakerOdds": 2.7,
         "ourProbability": 0.408,
-        "edgePct": 5.8
+        "edgePct": 5.7
       },
       "homeForm": [
         "U",
