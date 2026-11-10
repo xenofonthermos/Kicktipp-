@@ -2,7 +2,7 @@
   "season": 2026,
   "matchday": 9,
   "nextMatchday": 10,
-  "generatedAt": "2026-11-09T18:52:13.751Z",
+  "generatedAt": "2026-11-10T02:12:06.847Z",
   "eloRanking": [
     {
       "rank": 1,
@@ -404,18 +404,18 @@
       "awayTeam": "1. FSV Mainz 05",
       "probabilities": {
         "home": 0.408,
-        "draw": 0.248,
-        "away": 0.344
+        "draw": 0.238,
+        "away": 0.353
       },
       "tip": "2:1",
-      "tipExpectedPoints": 1.087,
+      "tipExpectedPoints": 1.09,
       "valueBet": {
         "market": "1x2",
         "selection": "Heimsieg",
         "bookmaker": "Tipico",
         "bookmakerOdds": 2.7,
         "ourProbability": 0.408,
-        "edgePct": 5.8
+        "edgePct": 5.7
       },
       "homeForm": [
         "U",

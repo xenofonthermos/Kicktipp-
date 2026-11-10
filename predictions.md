@@ -1,6 +1,6 @@
 # Bundesliga-Prognose – Spieltag 9–10
 
-Erstellt am 2026-11-09. Elo-basierte Tippempfehlung für Kicktipp, ohne Gewähr – reiner Unterhaltungswert.
+Erstellt am 2026-11-10. Elo-basierte Tippempfehlung für Kicktipp, ohne Gewähr – reiner Unterhaltungswert.
 
 | Liga | Spiel | Tipp | Heim% / Remis% / Auswärts% |
 | --- | --- | --- | --- |
@@ -11,7 +11,7 @@ Erstellt am 2026-11-09. Elo-basierte Tippempfehlung für Kicktipp, ohne Gewähr 
 | Bundesliga | Borussia Mönchengladbach – Borussia Dortmund | 1:2 | 19% / 20% / 61% |
 | Bundesliga | SV 07 Elversberg – SC Freiburg | 1:2 | 22% / 22% / 56% |
 | Bundesliga | FC Schalke 04 – VfB Stuttgart | 1:2 | 19% / 20% / 61% |
-| Bundesliga | FC Augsburg – 1. FSV Mainz 05 | 2:1 | 41% / 25% / 34% |
+| Bundesliga | FC Augsburg – 1. FSV Mainz 05 | 2:1 | 41% / 24% / 35% |
 | Bundesliga | SV Werder Bremen – Hamburger SV | 2:1 | 55% / 22% / 23% |
 | 3. Liga | Fortuna Düsseldorf – SG Sonnenhof Großaspach | 2:1 | 50% / 23% / 28% |
 
