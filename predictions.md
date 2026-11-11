@@ -4,8 +4,8 @@ Erstellt am 2026-11-11. Elo-basierte Tippempfehlung für Kicktipp, ohne Gewähr 
 
 | Liga | Spiel | Tipp | Heim% / Remis% / Auswärts% |
 | --- | --- | --- | --- |
-| Bundesliga | FC Bayern München – 1. FC Köln | 2:0 | 83% / 10% / 7% |
-| Bundesliga | Bayer 04 Leverkusen – SC Paderborn 07 | 2:0 | 77% / 14% / 9% |
+| Bundesliga | FC Bayern München – 1. FC Köln | 2:0 | 83% / 11% / 7% |
+| Bundesliga | Bayer 04 Leverkusen – SC Paderborn 07 | 2:0 | 77% / 13% / 10% |
 | Bundesliga | Eintracht Frankfurt – TSG Hoffenheim | 2:1 | 45% / 23% / 32% |
 | Bundesliga | 1. FC Union Berlin – RB Leipzig | 1:2 | 22% / 21% / 57% |
 | Bundesliga | Borussia Mönchengladbach – Borussia Dortmund | 1:2 | 19% / 20% / 61% |
