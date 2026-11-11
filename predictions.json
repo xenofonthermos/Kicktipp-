@@ -2,7 +2,7 @@
   "season": 2026,
   "matchday": 9,
   "nextMatchday": 10,
-  "generatedAt": "2026-11-10T17:54:36.111Z",
+  "generatedAt": "2026-11-11T06:34:59.959Z",
   "eloRanking": [
     {
       "rank": 1,
@@ -274,8 +274,8 @@
       "homeTeam": "Borussia Mönchengladbach",
       "awayTeam": "Borussia Dortmund",
       "probabilities": {
-        "home": 0.194,
-        "draw": 0.201,
+        "home": 0.196,
+        "draw": 0.198,
         "away": 0.605
       },
       "tip": "1:2",
