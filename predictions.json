@@ -2,7 +2,7 @@
   "season": 2026,
   "matchday": 9,
   "nextMatchday": 10,
-  "generatedAt": "2026-11-11T06:34:59.959Z",
+  "generatedAt": "2026-11-11T15:18:45.025Z",
   "eloRanking": [
     {
       "rank": 1,
@@ -103,8 +103,8 @@
       "awayTeam": "1. FC Köln",
       "probabilities": {
         "home": 0.826,
-        "draw": 0.105,
-        "away": 0.069
+        "draw": 0.102,
+        "away": 0.072
       },
       "tip": "2:0",
       "tipExpectedPoints": 2.02,
@@ -112,9 +112,9 @@
         "market": "1x2",
         "selection": "Remis",
         "bookmaker": "Tipico",
-        "bookmakerOdds": 13,
-        "ourProbability": 0.105,
-        "edgePct": 3.2
+        "bookmakerOdds": 14,
+        "ourProbability": 0.102,
+        "edgePct": 3.5
       },
       "homeForm": [
         "U",
@@ -146,8 +146,8 @@
       "awayTeam": "SC Paderborn 07",
       "probabilities": {
         "home": 0.771,
-        "draw": 0.133,
-        "away": 0.097
+        "draw": 0.135,
+        "away": 0.094
       },
       "tip": "2:0",
       "tipExpectedPoints": 1.889,
@@ -157,7 +157,7 @@
         "bookmaker": "Tipico",
         "bookmakerOdds": 1.25,
         "ourProbability": 0.771,
-        "edgePct": 1.3
+        "edgePct": 1.2
       },
       "homeForm": [
         "S",
@@ -274,8 +274,8 @@
       "homeTeam": "Borussia Mönchengladbach",
       "awayTeam": "Borussia Dortmund",
       "probabilities": {
-        "home": 0.196,
-        "draw": 0.198,
+        "home": 0.194,
+        "draw": 0.201,
         "away": 0.605
       },
       "tip": "1:2",
