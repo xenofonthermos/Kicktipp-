@@ -2,7 +2,7 @@
   "season": 2026,
   "matchday": 9,
   "nextMatchday": 10,
-  "generatedAt": "2026-11-12T19:59:54.119Z",
+  "generatedAt": "2026-11-13T08:04:20.197Z",
   "eloRanking": [
     {
       "rank": 1,
@@ -102,9 +102,9 @@
       "homeTeam": "FC Bayern München",
       "awayTeam": "1. FC Köln",
       "probabilities": {
-        "home": 0.826,
-        "draw": 0.105,
-        "away": 0.069
+        "home": 0.83,
+        "draw": 0.102,
+        "away": 0.068
       },
       "tip": "2:0",
       "tipExpectedPoints": 2.02,
@@ -112,9 +112,9 @@
         "market": "1x2",
         "selection": "Remis",
         "bookmaker": "Tipico",
-        "bookmakerOdds": 13,
-        "ourProbability": 0.105,
-        "edgePct": 3.2
+        "bookmakerOdds": 14,
+        "ourProbability": 0.102,
+        "edgePct": 3.5
       },
       "homeForm": [
         "U",
