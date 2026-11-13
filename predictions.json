@@ -2,7 +2,7 @@
   "season": 2026,
   "matchday": 9,
   "nextMatchday": 10,
-  "generatedAt": "2026-11-13T08:04:20.197Z",
+  "generatedAt": "2026-11-13T16:29:26.730Z",
   "eloRanking": [
     {
       "rank": 1,
@@ -189,8 +189,8 @@
       "awayTeam": "TSG Hoffenheim",
       "probabilities": {
         "home": 0.452,
-        "draw": 0.234,
-        "away": 0.315
+        "draw": 0.24,
+        "away": 0.308
       },
       "tip": "2:1",
       "tipExpectedPoints": 1.193,
@@ -317,19 +317,19 @@
       "homeTeam": "SV 07 Elversberg",
       "awayTeam": "SC Freiburg",
       "probabilities": {
-        "home": 0.221,
+        "home": 0.217,
         "draw": 0.215,
-        "away": 0.564
+        "away": 0.568
       },
       "tip": "1:2",
-      "tipExpectedPoints": 1.434,
+      "tipExpectedPoints": 1.447,
       "valueBet": {
         "market": "1x2",
         "selection": "Auswärtssieg",
         "bookmaker": "Tipico",
-        "bookmakerOdds": 2,
-        "ourProbability": 0.564,
-        "edgePct": 9
+        "bookmakerOdds": 1.97,
+        "ourProbability": 0.568,
+        "edgePct": 8.7
       },
       "homeForm": [
         "N",
@@ -447,8 +447,8 @@
       "awayTeam": "Hamburger SV",
       "probabilities": {
         "home": 0.551,
-        "draw": 0.216,
-        "away": 0.233
+        "draw": 0.214,
+        "away": 0.235
       },
       "tip": "2:1",
       "tipExpectedPoints": 1.434,
@@ -456,9 +456,9 @@
         "market": "1x2",
         "selection": "Auswärtssieg",
         "bookmaker": "Tipico",
-        "bookmakerOdds": 4.5,
-        "ourProbability": 0.233,
-        "edgePct": 2.2
+        "bookmakerOdds": 4.4,
+        "ourProbability": 0.235,
+        "edgePct": 2
       },
       "homeForm": [
         "U",
