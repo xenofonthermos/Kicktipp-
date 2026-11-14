@@ -2,7 +2,7 @@
   "season": 2026,
   "matchday": 9,
   "nextMatchday": 10,
-  "generatedAt": "2026-11-13T22:40:54.773Z",
+  "generatedAt": "2026-11-14T10:39:39.702Z",
   "eloRanking": [
     {
       "rank": 1,
@@ -275,18 +275,18 @@
       "awayTeam": "Borussia Dortmund",
       "probabilities": {
         "home": 0.194,
-        "draw": 0.201,
-        "away": 0.605
+        "draw": 0.204,
+        "away": 0.602
       },
       "tip": "1:2",
-      "tipExpectedPoints": 1.507,
+      "tipExpectedPoints": 1.524,
       "valueBet": {
         "market": "1x2",
         "selection": "Auswärtssieg",
         "bookmaker": "Tipico",
-        "bookmakerOdds": 1.6,
-        "ourProbability": 0.605,
-        "edgePct": 1.3
+        "bookmakerOdds": 1.62,
+        "ourProbability": 0.602,
+        "edgePct": 1.6
       },
       "homeForm": [
         "N",
