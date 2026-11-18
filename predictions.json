@@ -2,7 +2,7 @@
   "season": 2026,
   "matchday": 10,
   "nextMatchday": 11,
-  "generatedAt": "2026-11-17T22:27:29.618Z",
+  "generatedAt": "2026-11-18T04:29:04.373Z",
   "eloRanking": [
     {
       "rank": 1,
@@ -274,9 +274,9 @@
       "homeTeam": "Borussia Mönchengladbach",
       "awayTeam": "Borussia Dortmund",
       "probabilities": {
-        "home": 0.194,
-        "draw": 0.204,
-        "away": 0.602
+        "home": 0.189,
+        "draw": 0.201,
+        "away": 0.611
       },
       "tip": "1:2",
       "tipExpectedPoints": 1.524,
@@ -284,9 +284,9 @@
         "market": "1x2",
         "selection": "Auswärtssieg",
         "bookmaker": "Tipico",
-        "bookmakerOdds": 1.62,
-        "ourProbability": 0.602,
-        "edgePct": 1.6
+        "bookmakerOdds": 1.57,
+        "ourProbability": 0.611,
+        "edgePct": 0.8
       },
       "homeForm": [
         "N",
@@ -446,9 +446,9 @@
       "homeTeam": "SV Werder Bremen",
       "awayTeam": "Hamburger SV",
       "probabilities": {
-        "home": 0.55,
-        "draw": 0.219,
-        "away": 0.231
+        "home": 0.551,
+        "draw": 0.216,
+        "away": 0.233
       },
       "tip": "2:1",
       "tipExpectedPoints": 1.434,
@@ -456,9 +456,9 @@
         "market": "1x2",
         "selection": "Auswärtssieg",
         "bookmaker": "Tipico",
-        "bookmakerOdds": 4.6,
-        "ourProbability": 0.231,
-        "edgePct": 2.5
+        "bookmakerOdds": 4.5,
+        "ourProbability": 0.233,
+        "edgePct": 2.2
       },
       "homeForm": [
         "U",
@@ -747,8 +747,8 @@
       "homeTeam": "SC Freiburg",
       "awayTeam": "RB Leipzig",
       "probabilities": {
-        "home": 0.381,
-        "draw": 0.257,
+        "home": 0.378,
+        "draw": 0.26,
         "away": 0.362
       },
       "tip": "0:1",
@@ -757,9 +757,9 @@
         "market": "1x2",
         "selection": "Heimsieg",
         "bookmaker": "Tipico",
-        "bookmakerOdds": 2.6,
-        "ourProbability": 0.381,
-        "edgePct": 1.7
+        "bookmakerOdds": 2.65,
+        "ourProbability": 0.378,
+        "edgePct": 2
       },
       "homeForm": [
         "S",
