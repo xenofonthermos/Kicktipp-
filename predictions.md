@@ -1,25 +1,25 @@
 # Bundesliga-Prognose – Spieltag 10–11
 
-Erstellt am 2026-11-18. Elo-basierte Tippempfehlung für Kicktipp, ohne Gewähr – reiner Unterhaltungswert.
+Erstellt am 2026-11-19. Elo-basierte Tippempfehlung für Kicktipp, ohne Gewähr – reiner Unterhaltungswert.
 
 | Liga | Spiel | Tipp | Heim% / Remis% / Auswärts% |
 | --- | --- | --- | --- |
-| Bundesliga | FC Bayern München – 1. FC Köln | 2:0 | 83% / 10% / 7% |
-| Bundesliga | Bayer 04 Leverkusen – SC Paderborn 07 | 2:0 | 77% / 14% / 10% |
+| Bundesliga | FC Bayern München – 1. FC Köln | 2:0 | 84% / 10% / 6% |
+| Bundesliga | Bayer 04 Leverkusen – SC Paderborn 07 | 2:0 | 77% / 14% / 9% |
 | Bundesliga | Eintracht Frankfurt – TSG Hoffenheim | 2:1 | 45% / 24% / 31% |
-| Bundesliga | 1. FC Union Berlin – RB Leipzig | 1:2 | 21% / 21% / 58% |
+| Bundesliga | 1. FC Union Berlin – RB Leipzig | 1:2 | 20% / 21% / 59% |
 | Bundesliga | Borussia Mönchengladbach – Borussia Dortmund | 1:2 | 19% / 20% / 62% |
-| Bundesliga | SV 07 Elversberg – SC Freiburg | 1:2 | 22% / 22% / 57% |
+| Bundesliga | SV 07 Elversberg – SC Freiburg | 1:2 | 22% / 21% / 57% |
 | Bundesliga | FC Schalke 04 – VfB Stuttgart | 1:2 | 19% / 20% / 61% |
-| Bundesliga | FC Augsburg – 1. FSV Mainz 05 | 2:1 | 41% / 25% / 34% |
+| Bundesliga | FC Augsburg – 1. FSV Mainz 05 | 2:1 | 42% / 24% / 34% |
 | Bundesliga | SV Werder Bremen – Hamburger SV | 2:1 | 55% / 22% / 23% |
 | Bundesliga | SV Werder Bremen – Borussia Mönchengladbach | 2:1 | 56% / 22% / 23% |
 | Bundesliga | 1. FSV Mainz 05 – 1. FC Union Berlin | 2:1 | 58% / 21% / 21% |
 | Bundesliga | Hamburger SV – FC Bayern München | 1:3 | 12% / 14% / 74% |
 | Bundesliga | 1. FC Köln – SV 07 Elversberg | 2:1 | 54% / 22% / 24% |
 | Bundesliga | SC Paderborn 07 – FC Schalke 04 | 1:0 | 45% / 26% / 30% |
-| Bundesliga | VfB Stuttgart – Eintracht Frankfurt | 2:1 | 53% / 22% / 25% |
-| Bundesliga | SC Freiburg – RB Leipzig | 0:1 | 38% / 26% / 36% |
+| Bundesliga | VfB Stuttgart – Eintracht Frankfurt | 2:1 | 53% / 22% / 26% |
+| Bundesliga | SC Freiburg – RB Leipzig | 1:0 | 39% / 25% / 36% |
 | Bundesliga | TSG Hoffenheim – FC Augsburg | 2:1 | 53% / 22% / 26% |
 | Bundesliga | Borussia Dortmund – Bayer 04 Leverkusen | 2:1 | 49% / 23% / 28% |
 | 3. Liga | Fortuna Düsseldorf – SG Sonnenhof Großaspach | 2:1 | 50% / 23% / 28% |
