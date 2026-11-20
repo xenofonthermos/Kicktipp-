@@ -2,7 +2,7 @@
   "season": 2026,
   "matchday": 10,
   "nextMatchday": 11,
-  "generatedAt": "2026-11-20T18:35:02.969Z",
+  "generatedAt": "2026-11-20T19:05:02.140Z",
   "eloRanking": [
     {
       "rank": 1,
@@ -102,19 +102,19 @@
       "homeTeam": "FC Bayern München",
       "awayTeam": "1. FC Köln",
       "probabilities": {
-        "home": 0.834,
-        "draw": 0.1,
-        "away": 0.066
+        "home": 0.83,
+        "draw": 0.102,
+        "away": 0.068
       },
       "tip": "2:0",
-      "tipExpectedPoints": 2.022,
+      "tipExpectedPoints": 2.02,
       "valueBet": {
         "market": "1x2",
         "selection": "Remis",
         "bookmaker": "Tipico",
-        "bookmakerOdds": 15,
-        "ourProbability": 0.1,
-        "edgePct": 3.7
+        "bookmakerOdds": 14,
+        "ourProbability": 0.102,
+        "edgePct": 3.5
       },
       "homeForm": [
         "U",
@@ -274,8 +274,8 @@
       "homeTeam": "Borussia Mönchengladbach",
       "awayTeam": "Borussia Dortmund",
       "probabilities": {
-        "home": 0.187,
-        "draw": 0.198,
+        "home": 0.189,
+        "draw": 0.196,
         "away": 0.615
       },
       "tip": "1:2",
@@ -284,9 +284,9 @@
         "market": "1x2",
         "selection": "Heimsieg",
         "bookmaker": "Tipico",
-        "bookmakerOdds": 5.3,
-        "ourProbability": 0.187,
-        "edgePct": 0.8
+        "bookmakerOdds": 5.2,
+        "ourProbability": 0.189,
+        "edgePct": 0.6
       },
       "homeForm": [
         "N",
