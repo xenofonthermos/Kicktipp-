@@ -2,7 +2,7 @@
   "season": 2026,
   "matchday": 10,
   "nextMatchday": 11,
-  "generatedAt": "2026-11-21T16:35:02.720Z",
+  "generatedAt": "2026-11-21T17:05:03.507Z",
   "eloRanking": [
     {
       "rank": 1,
@@ -102,19 +102,19 @@
       "homeTeam": "FC Schalke 04",
       "awayTeam": "VfB Stuttgart",
       "probabilities": {
-        "home": 0.193,
-        "draw": 0.202,
+        "home": 0.196,
+        "draw": 0.199,
         "away": 0.605
       },
       "tip": "1:2",
-      "tipExpectedPoints": 1.524,
+      "tipExpectedPoints": 1.507,
       "valueBet": {
         "market": "1x2",
         "selection": "Auswärtssieg",
         "bookmaker": "Tipico",
-        "bookmakerOdds": 1.85,
+        "bookmakerOdds": 1.93,
         "ourProbability": 0.605,
-        "edgePct": 9.2
+        "edgePct": 11.3
       },
       "homeForm": [
         "N",
@@ -131,12 +131,18 @@
         "S"
       ],
       "homeLineup": {
-        "confirmed": false,
-        "missingRegulars": []
+        "confirmed": true,
+        "missingRegulars": [
+          "T. Becker",
+          "R. Gosens",
+          "S. Tanaka"
+        ]
       },
       "awayLineup": {
-        "confirmed": false,
-        "missingRegulars": []
+        "confirmed": true,
+        "missingRegulars": [
+          "A. Stiller"
+        ]
       }
     },
     {
@@ -317,8 +323,8 @@
       "homeTeam": "Hamburger SV",
       "awayTeam": "FC Bayern München",
       "probabilities": {
-        "home": 0.143,
-        "draw": 0.158,
+        "home": 0.146,
+        "draw": 0.155,
         "away": 0.699
       },
       "tip": "1:2",
@@ -327,9 +333,9 @@
         "market": "1x2",
         "selection": "Heimsieg",
         "bookmaker": "Tipico",
-        "bookmakerOdds": 10,
-        "ourProbability": 0.143,
-        "edgePct": 4.9
+        "bookmakerOdds": 9.5,
+        "ourProbability": 0.146,
+        "edgePct": 4.6
       },
       "homeForm": [
         "S",

@@ -89,7 +89,8 @@
     1340515557,
     1340517259,
     1340518110,
-    1340520663
+    1340520663,
+    1340519812
   ],
   "teams": {
     "FC Bayern München": {
@@ -128,12 +129,12 @@
       }
     },
     "VfB Stuttgart": {
-      "matchesSeen": 9,
+      "matchesSeen": 10,
       "players": {
         "Fabian Bredlow": 1,
         "Ramon Hendriks": 1,
         "Jeff Chabot": 1,
-        "Finn Jeltsch": 6,
+        "Finn Jeltsch": 7,
         "Maximilian Mittelstädt": 1,
         "Angelo Stiller": 1,
         "Grischa Prömel": 1,
@@ -142,24 +143,24 @@
         "Tiago Tomás": 1,
         "Dženan Pejčinović": 1,
         "F. Bredlow": 3,
-        "M. Mittelstädt": 6,
-        "J. Chabot": 7,
-        "C. Führich": 7,
+        "M. Mittelstädt": 7,
+        "J. Chabot": 8,
+        "C. Führich": 8,
         "A. Stiller": 6,
-        "G. Prömel": 5,
+        "G. Prömel": 6,
         "J. Vagnoman": 5,
-        "D. Undav": 6,
+        "D. Undav": 7,
         "B. El Khannouss": 5,
-        "E. Demirović": 6,
-        "R. Hendriks": 6,
+        "E. Demirović": 7,
+        "R. Hendriks": 7,
         "D. Pejčinović": 3,
-        "D. Seimen": 5,
+        "D. Seimen": 6,
         "A. Karazor": 4,
-        "J. Leweling": 4,
+        "J. Leweling": 5,
         "L. Assignon": 1,
         "L. Sauer": 1,
         "L. Jaquez": 2,
-        "Y. Spalt": 1
+        "Y. Spalt": 2
       }
     },
     "1. FSV Mainz 05": {
@@ -588,21 +589,21 @@
       }
     },
     "FC Schalke 04": {
-      "matchesSeen": 9,
+      "matchesSeen": 10,
       "players": {
-        "L. Karius": 8,
-        "H. Kuruçay": 8,
-        "N. Katić": 8,
+        "L. Karius": 9,
+        "H. Kuruçay": 9,
+        "N. Katić": 9,
         "T. Becker": 6,
         "R. Gosens": 7,
         "S. Tanaka": 8,
-        "S. El-Faouzi": 7,
-        "J. Dina Ebimbe": 3,
-        "A. Aouchiche": 7,
-        "K. Karaman": 6,
+        "S. El-Faouzi": 8,
+        "J. Dina Ebimbe": 4,
+        "A. Aouchiche": 8,
+        "K. Karaman": 7,
         "E. Džeko": 2,
-        "J. Adamu": 4,
-        "D. Ljubičić": 3,
+        "J. Adamu": 5,
+        "D. Ljubičić": 4,
         "M. Sylla": 2,
         "Loris Karius": 1,
         "Hasan Kuruçay": 1,
@@ -617,9 +618,9 @@
         "Moussa Sylla": 1,
         "M. Wöber": 1,
         "A. Gantenbein": 2,
-        "Hwang Hee-Chan": 3,
+        "Hwang Hee-Chan": 4,
         "M. Ayhan": 2,
-        "Vitalie  Becker": 1
+        "Vitalie  Becker": 2
       }
     },
     "Hansa Rostock": {
