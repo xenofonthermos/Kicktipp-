@@ -2,7 +2,7 @@
   "season": 2026,
   "matchday": 10,
   "nextMatchday": 11,
-  "generatedAt": "2026-11-21T12:05:02.791Z",
+  "generatedAt": "2026-11-21T12:35:03.319Z",
   "eloRanking": [
     {
       "rank": 1,
@@ -102,19 +102,19 @@
       "homeTeam": "Bayer 04 Leverkusen",
       "awayTeam": "SC Paderborn 07",
       "probabilities": {
-        "home": 0.756,
-        "draw": 0.143,
+        "home": 0.762,
+        "draw": 0.138,
         "away": 0.1
       },
       "tip": "2:0",
-      "tipExpectedPoints": 1.831,
+      "tipExpectedPoints": 1.872,
       "valueBet": {
         "market": "1x2",
         "selection": "Heimsieg",
         "bookmaker": "Tipico",
-        "bookmakerOdds": 1.3,
-        "ourProbability": 0.756,
-        "edgePct": 2.8
+        "bookmakerOdds": 1.28,
+        "ourProbability": 0.762,
+        "edgePct": 2.2
       },
       "homeForm": [
         "S",
@@ -231,19 +231,19 @@
       "homeTeam": "Borussia Mönchengladbach",
       "awayTeam": "Borussia Dortmund",
       "probabilities": {
-        "home": 0.187,
+        "home": 0.181,
         "draw": 0.198,
-        "away": 0.615
+        "away": 0.621
       },
       "tip": "1:2",
-      "tipExpectedPoints": 1.539,
+      "tipExpectedPoints": 1.558,
       "valueBet": {
         "market": "1x2",
         "selection": "Heimsieg",
         "bookmaker": "Tipico",
-        "bookmakerOdds": 5.3,
-        "ourProbability": 0.187,
-        "edgePct": 0.8
+        "bookmakerOdds": 5.7,
+        "ourProbability": 0.181,
+        "edgePct": 1.4
       },
       "homeForm": [
         "N",
@@ -275,8 +275,8 @@
       "awayTeam": "SC Freiburg",
       "probabilities": {
         "home": 0.217,
-        "draw": 0.215,
-        "away": 0.568
+        "draw": 0.219,
+        "away": 0.564
       },
       "tip": "1:2",
       "tipExpectedPoints": 1.447,
@@ -284,9 +284,9 @@
         "market": "1x2",
         "selection": "Auswärtssieg",
         "bookmaker": "Tipico",
-        "bookmakerOdds": 1.97,
-        "ourProbability": 0.568,
-        "edgePct": 8.7
+        "bookmakerOdds": 2,
+        "ourProbability": 0.564,
+        "edgePct": 9
       },
       "homeForm": [
         "N",
@@ -317,12 +317,12 @@
       "homeTeam": "FC Schalke 04",
       "awayTeam": "VfB Stuttgart",
       "probabilities": {
-        "home": 0.19,
-        "draw": 0.199,
+        "home": 0.193,
+        "draw": 0.196,
         "away": 0.611
       },
       "tip": "1:2",
-      "tipExpectedPoints": 1.524,
+      "tipExpectedPoints": 1.539,
       "valueBet": {
         "market": "1x2",
         "selection": "Auswärtssieg",
