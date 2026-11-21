@@ -2,7 +2,7 @@
   "season": 2026,
   "matchday": 10,
   "nextMatchday": 11,
-  "generatedAt": "2026-11-21T13:35:02.299Z",
+  "generatedAt": "2026-11-21T14:05:03.010Z",
   "eloRanking": [
     {
       "rank": 1,
@@ -131,12 +131,18 @@
         "U"
       ],
       "homeLineup": {
-        "confirmed": false,
-        "missingRegulars": []
+        "confirmed": true,
+        "missingRegulars": [
+          "I. Maza",
+          "F. Medina"
+        ]
       },
       "awayLineup": {
-        "confirmed": false,
-        "missingRegulars": []
+        "confirmed": true,
+        "missingRegulars": [
+          "L. Ulrich",
+          "M. Pieringer"
+        ]
       }
     },
     {
@@ -145,19 +151,19 @@
       "homeTeam": "Eintracht Frankfurt",
       "awayTeam": "TSG Hoffenheim",
       "probabilities": {
-        "home": 0.443,
-        "draw": 0.236,
-        "away": 0.321
+        "home": 0.46,
+        "draw": 0.23,
+        "away": 0.311
       },
       "tip": "2:1",
-      "tipExpectedPoints": 1.193,
+      "tipExpectedPoints": 1.242,
       "valueBet": {
         "market": "1x2",
         "selection": "Heimsieg",
         "bookmaker": "Tipico",
-        "bookmakerOdds": 2.4,
-        "ourProbability": 0.443,
-        "edgePct": 4.9
+        "bookmakerOdds": 2.35,
+        "ourProbability": 0.46,
+        "edgePct": 5.6
       },
       "homeForm": [
         "N",
@@ -174,12 +180,19 @@
         "S"
       ],
       "homeLineup": {
-        "confirmed": false,
-        "missingRegulars": []
+        "confirmed": true,
+        "missingRegulars": [
+          "Elias Baum",
+          "C. Uzun"
+        ]
       },
       "awayLineup": {
-        "confirmed": false,
-        "missingRegulars": []
+        "confirmed": true,
+        "missingRegulars": [
+          "A. Daghim",
+          "A. Hložek",
+          "M. Rots"
+        ]
       }
     },
     {
@@ -188,9 +201,9 @@
       "homeTeam": "1. FC Union Berlin",
       "awayTeam": "RB Leipzig",
       "probabilities": {
-        "home": 0.202,
-        "draw": 0.204,
-        "away": 0.594
+        "home": 0.197,
+        "draw": 0.198,
+        "away": 0.605
       },
       "tip": "1:2",
       "tipExpectedPoints": 1.507,
@@ -198,9 +211,9 @@
         "market": "1x2",
         "selection": "Heimsieg",
         "bookmaker": "Tipico",
-        "bookmakerOdds": 6.2,
-        "ourProbability": 0.202,
-        "edgePct": 4.9
+        "bookmakerOdds": 6,
+        "ourProbability": 0.197,
+        "edgePct": 3.9
       },
       "homeForm": [
         "S",
@@ -217,12 +230,17 @@
         "S"
       ],
       "homeLineup": {
-        "confirmed": false,
-        "missingRegulars": []
+        "confirmed": true,
+        "missingRegulars": [
+          "T. Rothe",
+          "F. Uduokhai"
+        ]
       },
       "awayLineup": {
-        "confirmed": false,
-        "missingRegulars": []
+        "confirmed": true,
+        "missingRegulars": [
+          "C. Nkunku"
+        ]
       }
     },
     {
@@ -231,19 +249,19 @@
       "homeTeam": "Borussia Mönchengladbach",
       "awayTeam": "Borussia Dortmund",
       "probabilities": {
-        "home": 0.197,
-        "draw": 0.201,
-        "away": 0.602
+        "home": 0.187,
+        "draw": 0.2,
+        "away": 0.614
       },
       "tip": "1:2",
-      "tipExpectedPoints": 1.507,
+      "tipExpectedPoints": 1.524,
       "valueBet": {
         "market": "1x2",
         "selection": "Auswärtssieg",
         "bookmaker": "Tipico",
         "bookmakerOdds": 1.62,
-        "ourProbability": 0.602,
-        "edgePct": 1.6
+        "ourProbability": 0.614,
+        "edgePct": 2.8
       },
       "homeForm": [
         "N",
@@ -260,12 +278,19 @@
         "S"
       ],
       "homeLineup": {
-        "confirmed": false,
-        "missingRegulars": []
+        "confirmed": true,
+        "missingRegulars": [
+          "M. Nicolas",
+          "L. Ullrich",
+          "H. Bolin"
+        ]
       },
       "awayLineup": {
-        "confirmed": false,
-        "missingRegulars": []
+        "confirmed": true,
+        "missingRegulars": [
+          "W. Anton",
+          "S. Guirassy"
+        ]
       }
     },
     {
@@ -275,18 +300,18 @@
       "awayTeam": "SC Freiburg",
       "probabilities": {
         "home": 0.221,
-        "draw": 0.215,
-        "away": 0.564
+        "draw": 0.221,
+        "away": 0.558
       },
       "tip": "1:2",
-      "tipExpectedPoints": 1.434,
+      "tipExpectedPoints": 1.447,
       "valueBet": {
         "market": "1x2",
         "selection": "Auswärtssieg",
         "bookmaker": "Tipico",
         "bookmakerOdds": 2,
-        "ourProbability": 0.564,
-        "edgePct": 9
+        "ourProbability": 0.558,
+        "edgePct": 8.4
       },
       "homeForm": [
         "N",
@@ -303,12 +328,14 @@
         "S"
       ],
       "homeLineup": {
-        "confirmed": false,
+        "confirmed": true,
         "missingRegulars": []
       },
       "awayLineup": {
-        "confirmed": false,
-        "missingRegulars": []
+        "confirmed": true,
+        "missingRegulars": [
+          "Y. Suzuki"
+        ]
       }
     },
     {
@@ -833,12 +860,12 @@
       "homeTeam": "Fortuna Düsseldorf",
       "awayTeam": "SG Sonnenhof Großaspach",
       "probabilities": {
-        "home": 0.408,
-        "draw": 0.261,
-        "away": 0.331
+        "home": 0.424,
+        "draw": 0.255,
+        "away": 0.321
       },
       "tip": "1:0",
-      "tipExpectedPoints": 1.153,
+      "tipExpectedPoints": 1.143,
       "valueBet": null,
       "homeForm": [
         "S",

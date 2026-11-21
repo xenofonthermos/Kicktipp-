@@ -5,9 +5,9 @@ Erstellt am 2026-11-21. Elo-basierte Tippempfehlung für Kicktipp, ohne Gewähr 
 | Liga | Spiel | Tipp | Heim% / Remis% / Auswärts% |
 | --- | --- | --- | --- |
 | Bundesliga | Bayer 04 Leverkusen – SC Paderborn 07 | 2:0 | 76% / 14% / 10% |
-| Bundesliga | Eintracht Frankfurt – TSG Hoffenheim | 2:1 | 44% / 24% / 32% |
-| Bundesliga | 1. FC Union Berlin – RB Leipzig | 1:2 | 20% / 20% / 59% |
-| Bundesliga | Borussia Mönchengladbach – Borussia Dortmund | 1:2 | 20% / 20% / 60% |
+| Bundesliga | Eintracht Frankfurt – TSG Hoffenheim | 2:1 | 46% / 23% / 31% |
+| Bundesliga | 1. FC Union Berlin – RB Leipzig | 1:2 | 20% / 20% / 61% |
+| Bundesliga | Borussia Mönchengladbach – Borussia Dortmund | 1:2 | 19% / 20% / 61% |
 | Bundesliga | SV 07 Elversberg – SC Freiburg | 1:2 | 22% / 22% / 56% |
 | Bundesliga | FC Schalke 04 – VfB Stuttgart | 1:2 | 19% / 20% / 61% |
 | Bundesliga | FC Augsburg – 1. FSV Mainz 05 | 2:1 | 42% / 24% / 34% |
@@ -21,7 +21,7 @@ Erstellt am 2026-11-21. Elo-basierte Tippempfehlung für Kicktipp, ohne Gewähr 
 | Bundesliga | SC Freiburg – RB Leipzig | 0:1 | 38% / 26% / 36% |
 | Bundesliga | TSG Hoffenheim – FC Augsburg | 2:1 | 53% / 22% / 26% |
 | Bundesliga | Borussia Dortmund – Bayer 04 Leverkusen | 2:1 | 49% / 23% / 28% |
-| 3. Liga | Fortuna Düsseldorf – SG Sonnenhof Großaspach | 1:0 | 41% / 26% / 33% |
+| 3. Liga | Fortuna Düsseldorf – SG Sonnenhof Großaspach | 1:0 | 42% / 26% / 32% |
 | 3. Liga | Würzburger Kickers – Fortuna Düsseldorf | 1:0 | 43% / 25% / 32% |
 
 ## Elo-Tabelle (Modellwert, keine offizielle Tabelle)
