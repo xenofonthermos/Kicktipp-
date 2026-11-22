@@ -2,7 +2,7 @@
   "season": 2026,
   "matchday": 10,
   "nextMatchday": 11,
-  "generatedAt": "2026-11-22T13:35:03.150Z",
+  "generatedAt": "2026-11-22T14:05:02.674Z",
   "eloRanking": [
     {
       "rank": 1,
@@ -102,19 +102,19 @@
       "homeTeam": "FC Augsburg",
       "awayTeam": "1. FSV Mainz 05",
       "probabilities": {
-        "home": 0.408,
-        "draw": 0.238,
-        "away": 0.353
+        "home": 0.381,
+        "draw": 0.25,
+        "away": 0.369
       },
       "tip": "2:1",
-      "tipExpectedPoints": 1.09,
+      "tipExpectedPoints": 1.036,
       "valueBet": {
         "market": "1x2",
         "selection": "Heimsieg",
         "bookmaker": "Tipico",
-        "bookmakerOdds": 2.7,
-        "ourProbability": 0.408,
-        "edgePct": 5.7
+        "bookmakerOdds": 2.75,
+        "ourProbability": 0.381,
+        "edgePct": 3.6
       },
       "homeForm": [
         "U",
@@ -131,12 +131,20 @@
         "N"
       ],
       "homeLineup": {
-        "confirmed": false,
-        "missingRegulars": []
+        "confirmed": true,
+        "missingRegulars": [
+          "C. Brackelmann",
+          "C. Matsima",
+          "H. Massengo",
+          "A. Ibrahimović"
+        ]
       },
       "awayLineup": {
-        "confirmed": false,
-        "missingRegulars": []
+        "confirmed": true,
+        "missingRegulars": [
+          "F. Gruber",
+          "Lee Jae-Sung"
+        ]
       }
     },
     {

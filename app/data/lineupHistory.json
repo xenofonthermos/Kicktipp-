@@ -90,7 +90,8 @@
     1340517259,
     1340518110,
     1340520663,
-    1340519812
+    1340519812,
+    1340516408
   ],
   "teams": {
     "FC Bayern München": {
@@ -164,24 +165,24 @@
       }
     },
     "1. FSV Mainz 05": {
-      "matchesSeen": 9,
+      "matchesSeen": 10,
       "players": {
-        "R. Zentner": 4,
+        "R. Zentner": 5,
         "D. Kohr": 1,
         "F. Gruber": 6,
-        "D. da Costa": 5,
-        "K. Sano": 9,
-        "P. Mwene": 8,
-        "N. Amiri": 9,
+        "D. da Costa": 6,
+        "K. Sano": 10,
+        "P. Mwene": 9,
+        "N. Amiri": 10,
         "Lee Jae-Sung": 7,
-        "A. Caci": 9,
-        "P. Tietz": 8,
-        "S. Becker": 9,
+        "A. Caci": 10,
+        "P. Tietz": 9,
+        "S. Becker": 10,
         "A. Schwolow": 5,
-        "K. Potulski": 8,
-        "S. Posch": 7,
+        "K. Potulski": 9,
+        "S. Posch": 8,
         "E. Martel": 1,
-        "P. Nebel": 1,
+        "P. Nebel": 2,
         "S. Widmer": 1,
         "R. Königsdörffer": 1
       }
@@ -515,19 +516,19 @@
       }
     },
     "FC Augsburg": {
-      "matchesSeen": 9,
+      "matchesSeen": 10,
       "players": {
-        "F. Dahmen": 8,
+        "F. Dahmen": 9,
         "C. Brackelmann": 6,
         "C. Matsima": 8,
         "Noahkai Kai Daniel Banks": 3,
-        "Hennes Behrens": 9,
-        "F. Rieder": 8,
+        "Hennes Behrens": 10,
+        "F. Rieder": 9,
         "H. Massengo": 8,
-        "M. Wolf": 5,
-        "R. Fellhauer": 7,
+        "M. Wolf": 6,
+        "R. Fellhauer": 8,
         "A. Ibrahimović": 7,
-        "M. Gregoritsch": 5,
+        "M. Gregoritsch": 6,
         "M. Kömür": 1,
         "Finn Dahmen": 1,
         "Calvin Brackelmann": 1,
@@ -539,12 +540,14 @@
         "Robin Fellhauer": 1,
         "Anton Kade": 1,
         "Michael Gregoritsch": 1,
-        "Abdulay Bah": 3,
+        "Abdulay Bah": 4,
         "Seol Young-Woo": 1,
         "Rodrigo Ribeiro": 3,
-        "A. Kade": 3,
+        "A. Kade": 4,
         "J. Gouweleeuw": 2,
-        "Y. Keitel": 2
+        "Y. Keitel": 3,
+        "T. Schnitzer": 1,
+        "A. Claude-Maurice": 1
       }
     },
     "Jahn Regensburg": {
