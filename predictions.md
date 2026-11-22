@@ -4,7 +4,7 @@ Erstellt am 2026-11-22. Elo-basierte Tippempfehlung für Kicktipp, ohne Gewähr 
 
 | Liga | Spiel | Tipp | Heim% / Remis% / Auswärts% |
 | --- | --- | --- | --- |
-| Bundesliga | FC Augsburg – 1. FSV Mainz 05 | 2:1 | 64% / 18% / 18% |
+| Bundesliga | FC Augsburg – 1. FSV Mainz 05 | 1:0 | 43% / 25% / 32% |
 | Bundesliga | SV Werder Bremen – Hamburger SV | 2:1 | 57% / 22% / 21% |
 | Bundesliga | SV Werder Bremen – Borussia Mönchengladbach | 2:1 | 56% / 21% / 23% |
 | Bundesliga | 1. FSV Mainz 05 – 1. FC Union Berlin | 2:1 | 58% / 21% / 21% |

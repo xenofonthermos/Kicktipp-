@@ -2,7 +2,7 @@
   "season": 2026,
   "matchday": 10,
   "nextMatchday": 11,
-  "generatedAt": "2026-11-22T15:35:03.120Z",
+  "generatedAt": "2026-11-22T16:05:02.173Z",
   "eloRanking": [
     {
       "rank": 1,
@@ -102,20 +102,13 @@
       "homeTeam": "FC Augsburg",
       "awayTeam": "1. FSV Mainz 05",
       "probabilities": {
-        "home": 0.64,
-        "draw": 0.18,
-        "away": 0.179
+        "home": 0.43,
+        "draw": 0.253,
+        "away": 0.317
       },
-      "tip": "2:1",
-      "tipExpectedPoints": 1.593,
-      "valueBet": {
-        "market": "1x2",
-        "selection": "Auswärtssieg",
-        "bookmaker": "Tipico",
-        "bookmakerOdds": 22,
-        "ourProbability": 0.179,
-        "edgePct": 13.8
-      },
+      "tip": "1:0",
+      "tipExpectedPoints": 1.205,
+      "valueBet": null,
       "homeForm": [
         "U",
         "N",
@@ -153,9 +146,9 @@
       "homeTeam": "SV Werder Bremen",
       "awayTeam": "Hamburger SV",
       "probabilities": {
-        "home": 0.569,
-        "draw": 0.217,
-        "away": 0.214
+        "home": 0.572,
+        "draw": 0.216,
+        "away": 0.212
       },
       "tip": "2:1",
       "tipExpectedPoints": 1.487,
@@ -164,8 +157,8 @@
         "selection": "Auswärtssieg",
         "bookmaker": "Tipico",
         "bookmakerOdds": 5.5,
-        "ourProbability": 0.214,
-        "edgePct": 4.2
+        "ourProbability": 0.212,
+        "edgePct": 4
       },
       "homeForm": [
         "U",
@@ -182,12 +175,16 @@
         "S"
       ],
       "homeLineup": {
-        "confirmed": false,
-        "missingRegulars": []
+        "confirmed": true,
+        "missingRegulars": [
+          "M. Grüll"
+        ]
       },
       "awayLineup": {
-        "confirmed": false,
-        "missingRegulars": []
+        "confirmed": true,
+        "missingRegulars": [
+          "A. Sambi Lokonga"
+        ]
       }
     },
     {

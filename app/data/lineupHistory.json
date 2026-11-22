@@ -91,7 +91,8 @@
     1340518110,
     1340520663,
     1340519812,
-    1340516408
+    1340516408,
+    1340518961
   ],
   "teams": {
     "FC Bayern München": {
@@ -375,28 +376,29 @@
       }
     },
     "Hamburger SV": {
-      "matchesSeen": 9,
+      "matchesSeen": 10,
       "players": {
-        "Daniel Heuer Fernandes": 9,
+        "Daniel Heuer Fernandes": 10,
         "J. Torunarigha": 5,
-        "S. Bornauw": 6,
-        "N. Capaldo": 6,
+        "S. Bornauw": 7,
+        "N. Capaldo": 7,
         "L. Lemke": 4,
         "A. Sambi Lokonga": 6,
         "N. Remberg": 5,
         "B. Jatta": 1,
-        "A. Grønbæk": 6,
-        "M. Adeline": 7,
-        "P. Daka": 3,
-        "W. Omari": 6,
-        "D. Møller Wolfe": 8,
-        "Z. El Ouahdi": 5,
+        "A. Grønbæk": 7,
+        "M. Adeline": 8,
+        "P. Daka": 4,
+        "W. Omari": 7,
+        "D. Møller Wolfe": 9,
+        "Z. El Ouahdi": 6,
         "Fábio Vieira": 4,
         "T. Moffi": 3,
         "S. Nandja": 4,
         "Y. Poulsen": 4,
         "B. Nadir": 3,
-        "M. Muheim": 4
+        "M. Muheim": 5,
+        "Alexander Røssing-Lelesiit": 1
       }
     },
     "Borussia Mönchengladbach": {
@@ -428,19 +430,19 @@
       }
     },
     "SV Werder Bremen": {
-      "matchesSeen": 9,
+      "matchesSeen": 10,
       "players": {
-        "K. Hein": 8,
-        "O. Deman": 8,
-        "M. Friedl": 8,
-        "A. Pieper": 8,
-        "Arthur": 8,
-        "Y. Regeer": 8,
+        "K. Hein": 9,
+        "O. Deman": 9,
+        "M. Friedl": 9,
+        "A. Pieper": 9,
+        "Arthur": 9,
+        "Y. Regeer": 9,
         "M. Grüll": 8,
-        "L. Reis": 8,
-        "Chuky San José": 7,
-        "E. Dinkçi": 6,
-        "N. Füllkrug": 8,
+        "L. Reis": 9,
+        "Chuky San José": 8,
+        "E. Dinkçi": 7,
+        "N. Füllkrug": 9,
         "Karl Hein": 1,
         "Olivier Deman": 1,
         "Marco Friedl": 1,
@@ -453,7 +455,8 @@
         "Niclas Füllkrug": 1,
         "Justin Njinmah": 1,
         "M. Weiser": 2,
-        "S. Lynen": 1
+        "S. Lynen": 1,
+        "J. Njinmah": 1
       }
     },
     "RB Leipzig": {
