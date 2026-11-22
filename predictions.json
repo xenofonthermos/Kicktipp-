@@ -2,7 +2,7 @@
   "season": 2026,
   "matchday": 10,
   "nextMatchday": 11,
-  "generatedAt": "2026-11-22T14:05:02.674Z",
+  "generatedAt": "2026-11-22T15:35:03.120Z",
   "eloRanking": [
     {
       "rank": 1,
@@ -102,19 +102,19 @@
       "homeTeam": "FC Augsburg",
       "awayTeam": "1. FSV Mainz 05",
       "probabilities": {
-        "home": 0.381,
-        "draw": 0.25,
-        "away": 0.369
+        "home": 0.64,
+        "draw": 0.18,
+        "away": 0.179
       },
       "tip": "2:1",
-      "tipExpectedPoints": 1.036,
+      "tipExpectedPoints": 1.593,
       "valueBet": {
         "market": "1x2",
-        "selection": "Heimsieg",
+        "selection": "Auswärtssieg",
         "bookmaker": "Tipico",
-        "bookmakerOdds": 2.75,
-        "ourProbability": 0.381,
-        "edgePct": 3.6
+        "bookmakerOdds": 22,
+        "ourProbability": 0.179,
+        "edgePct": 13.8
       },
       "homeForm": [
         "U",
@@ -454,19 +454,19 @@
       "homeTeam": "SC Freiburg",
       "awayTeam": "RB Leipzig",
       "probabilities": {
-        "home": 0.373,
-        "draw": 0.262,
+        "home": 0.376,
+        "draw": 0.259,
         "away": 0.365
       },
       "tip": "0:1",
-      "tipExpectedPoints": 1.036,
+      "tipExpectedPoints": 1.032,
       "valueBet": {
         "market": "1x2",
         "selection": "Heimsieg",
         "bookmaker": "Tipico",
-        "bookmakerOdds": 2.65,
-        "ourProbability": 0.373,
-        "edgePct": 1.5
+        "bookmakerOdds": 2.6,
+        "ourProbability": 0.376,
+        "edgePct": 1.2
       },
       "homeForm": [
         "N",
