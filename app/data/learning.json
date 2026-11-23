@@ -4,32 +4,32 @@
     "drawFactor": 1,
     "marketBlendWeight": 0.5
   },
-  "sample": 102,
+  "sample": 104,
   "updatedAt": null,
-  "activeAvg": 1.363,
   "lastEvaluation": {
-    "at": "2026-11-22T04:05:49.453Z",
+    "at": "2026-11-23T02:51:40.163Z",
     "tips": {
-      "sample": 102,
-      "recentSample": 41,
-      "activeAvg": 1.363,
-      "activeRecentAvg": 1.585,
-      "activeLogLikelihood": -3.276,
-      "defaultAvg": 1.363,
-      "bestAvg": 1.353,
-      "bestRecentAvg": 1.585,
-      "bestLogLikelihood": -3.2734,
+      "sample": 104,
+      "recentSample": 42,
+      "activeAvg": 1.375,
+      "activeRecentAvg": 1.595,
+      "activeLogLikelihood": -3.2772,
+      "defaultAvg": 1.375,
+      "bestAvg": 1.413,
+      "bestRecentAvg": 1.643,
+      "bestLogLikelihood": -3.2749,
       "bestParams": {
-        "goalScale": 1,
+        "goalScale": 1.05,
         "drawFactor": 1.2
       }
     },
     "blend": {
-      "sample": 34,
-      "activeLogLoss": 0.9518,
-      "bestWeight": 0.8,
-      "bestLogLoss": 0.9498
+      "sample": 36,
+      "activeLogLoss": 0.9413,
+      "bestWeight": 0.7,
+      "bestLogLoss": 0.9396
     }
   },
+  "activeAvg": 1.375,
   "history": []
 }

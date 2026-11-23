@@ -1,19 +1,17 @@
 # Bundesliga-Prognose – Spieltag 10–11
 
-Erstellt am 2026-11-22. Elo-basierte Tippempfehlung für Kicktipp, ohne Gewähr – reiner Unterhaltungswert.
+Erstellt am 2026-11-23. Elo-basierte Tippempfehlung für Kicktipp, ohne Gewähr – reiner Unterhaltungswert.
 
 | Liga | Spiel | Tipp | Heim% / Remis% / Auswärts% |
 | --- | --- | --- | --- |
-| Bundesliga | FC Augsburg – 1. FSV Mainz 05 | 1:0 | 43% / 25% / 32% |
-| Bundesliga | SV Werder Bremen – Hamburger SV | 2:1 | 57% / 22% / 21% |
-| Bundesliga | SV Werder Bremen – Borussia Mönchengladbach | 2:1 | 56% / 21% / 23% |
+| Bundesliga | SV Werder Bremen – Borussia Mönchengladbach | 2:1 | 57% / 21% / 22% |
 | Bundesliga | 1. FSV Mainz 05 – 1. FC Union Berlin | 2:1 | 58% / 21% / 21% |
-| Bundesliga | Hamburger SV – FC Bayern München | 1:2 | 15% / 16% / 70% |
-| Bundesliga | 1. FC Köln – SV 07 Elversberg | 2:1 | 56% / 21% / 23% |
-| Bundesliga | SC Paderborn 07 – FC Schalke 04 | 1:0 | 44% / 26% / 30% |
-| Bundesliga | VfB Stuttgart – Eintracht Frankfurt | 2:1 | 52% / 22% / 26% |
-| Bundesliga | SC Freiburg – RB Leipzig | 0:1 | 38% / 26% / 37% |
-| Bundesliga | TSG Hoffenheim – FC Augsburg | 2:1 | 52% / 22% / 26% |
+| Bundesliga | Hamburger SV – FC Bayern München | 1:2 | 14% / 15% / 71% |
+| Bundesliga | 1. FC Köln – SV 07 Elversberg | 2:1 | 55% / 22% / 24% |
+| Bundesliga | SC Paderborn 07 – FC Schalke 04 | 1:0 | 44% / 25% / 31% |
+| Bundesliga | VfB Stuttgart – Eintracht Frankfurt | 2:1 | 51% / 22% / 27% |
+| Bundesliga | SC Freiburg – RB Leipzig | 0:1 | 37% / 26% / 37% |
+| Bundesliga | TSG Hoffenheim – FC Augsburg | 2:1 | 51% / 23% / 26% |
 | Bundesliga | Borussia Dortmund – Bayer 04 Leverkusen | 2:1 | 49% / 23% / 28% |
 | 3. Liga | Würzburger Kickers – Fortuna Düsseldorf | 1:0 | 42% / 26% / 33% |
 
@@ -29,10 +27,10 @@ Erstellt am 2026-11-22. Elo-basierte Tippempfehlung für Kicktipp, ohne Gewähr 
 | 6 | VfB Stuttgart | 1753 |
 | 7 | Eintracht Frankfurt | 1735 |
 | 8 | TSG Hoffenheim | 1687 |
-| 9 | SV Werder Bremen | 1674 |
-| 10 | FC Augsburg | 1662 |
-| 11 | 1. FSV Mainz 05 | 1648 |
-| 12 | Hamburger SV | 1613 |
+| 9 | SV Werder Bremen | 1686 |
+| 10 | FC Augsburg | 1674 |
+| 11 | 1. FSV Mainz 05 | 1636 |
+| 12 | Hamburger SV | 1601 |
 | 13 | 1. FC Union Berlin | 1590 |
 | 14 | 1. FC Köln | 1586 |
 | 15 | Borussia Mönchengladbach | 1576 |
@@ -42,12 +40,12 @@ Erstellt am 2026-11-22. Elo-basierte Tippempfehlung für Kicktipp, ohne Gewähr 
 
 ## Kicktipp-Bilanz (bisher ausgewertete Tipps)
 
-139 Punkte aus 102 Spielen (Ø 1.36 je Spiel). Vergleich: Immer 2:1 Ø 1.27, Favorit 2:1 / 1:2 Ø 1.52, Modell ohne Lernen Ø 1.36.
+143 Punkte aus 104 Spielen (Ø 1.38 je Spiel). Vergleich: Immer 2:1 Ø 1.29, Favorit 2:1 / 1:2 Ø 1.53, Modell ohne Lernen Ø 1.38.
 
 ## Lernschleife
 
-Aktive Parameter: Torerwartung ×1, Remis-Gewicht ×1, Markt-Gewicht 0.5. Rückblickend auf 102 Spiele: Ø 1.36 Punkte (Ausgangsmodell Ø 1.36). Bisher 0 Anpassung(en).
+Aktive Parameter: Torerwartung ×1, Remis-Gewicht ×1, Markt-Gewicht 0.5. Rückblickend auf 104 Spiele: Ø 1.38 Punkte (Ausgangsmodell Ø 1.38). Bisher 0 Anpassung(en).
 
 ## Tipico-Erfolgsbilanz (bisher entschiedene Wett-Tipps)
 
-30 von 88 richtig, Bilanz -10.45 Einheiten (-11.9% ROI bei 1 Einheit Einsatz je Tipp). Reine Information, keine Wettempfehlung — siehe RISKS.md.
+31 von 90 richtig, Bilanz -9.7 Einheiten (-10.8% ROI bei 1 Einheit Einsatz je Tipp). Reine Information, keine Wettempfehlung — siehe RISKS.md.
