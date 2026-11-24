@@ -2,7 +2,7 @@
   "season": 2026,
   "matchday": 10,
   "nextMatchday": 11,
-  "generatedAt": "2026-11-24T00:57:44.645Z",
+  "generatedAt": "2026-11-24T11:01:16.983Z",
   "eloRanking": [
     {
       "rank": 1,
@@ -274,9 +274,9 @@
       "homeTeam": "SC Paderborn 07",
       "awayTeam": "FC Schalke 04",
       "probabilities": {
-        "home": 0.429,
+        "home": 0.432,
         "draw": 0.261,
-        "away": 0.31
+        "away": 0.307
       },
       "tip": "1:0",
       "tipExpectedPoints": 1.219,
@@ -284,9 +284,9 @@
         "market": "1x2",
         "selection": "Heimsieg",
         "bookmaker": "Tipico",
-        "bookmakerOdds": 2.5,
-        "ourProbability": 0.429,
-        "edgePct": 4.9
+        "bookmakerOdds": 2.45,
+        "ourProbability": 0.432,
+        "edgePct": 4.6
       },
       "homeForm": [
         "U",
@@ -360,19 +360,19 @@
       "homeTeam": "SC Freiburg",
       "awayTeam": "RB Leipzig",
       "probabilities": {
-        "home": 0.363,
-        "draw": 0.259,
+        "home": 0.366,
+        "draw": 0.256,
         "away": 0.378
       },
       "tip": "0:1",
-      "tipExpectedPoints": 1.036,
+      "tipExpectedPoints": 1.032,
       "valueBet": {
         "market": "1x2",
         "selection": "Heimsieg",
         "bookmaker": "Tipico",
-        "bookmakerOdds": 2.8,
-        "ourProbability": 0.363,
-        "edgePct": 2.5
+        "bookmakerOdds": 2.75,
+        "ourProbability": 0.366,
+        "edgePct": 2.2
       },
       "homeForm": [
         "N",
