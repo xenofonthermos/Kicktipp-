@@ -2,7 +2,7 @@
   "season": 2026,
   "matchday": 10,
   "nextMatchday": 11,
-  "generatedAt": "2026-11-23T12:58:23.762Z",
+  "generatedAt": "2026-11-24T00:57:44.645Z",
   "eloRanking": [
     {
       "rank": 1,
@@ -145,9 +145,9 @@
       "homeTeam": "1. FSV Mainz 05",
       "awayTeam": "1. FC Union Berlin",
       "probabilities": {
-        "home": 0.581,
-        "draw": 0.209,
-        "away": 0.21
+        "home": 0.576,
+        "draw": 0.211,
+        "away": 0.213
       },
       "tip": "2:1",
       "tipExpectedPoints": 1.487,
@@ -155,9 +155,9 @@
         "market": "1x2",
         "selection": "Auswärtssieg",
         "bookmaker": "Tipico",
-        "bookmakerOdds": 6.2,
-        "ourProbability": 0.21,
-        "edgePct": 5.8
+        "bookmakerOdds": 6,
+        "ourProbability": 0.213,
+        "edgePct": 5.5
       },
       "homeForm": [
         "S",
@@ -274,19 +274,19 @@
       "homeTeam": "SC Paderborn 07",
       "awayTeam": "FC Schalke 04",
       "probabilities": {
-        "home": 0.436,
-        "draw": 0.257,
-        "away": 0.307
+        "home": 0.429,
+        "draw": 0.261,
+        "away": 0.31
       },
       "tip": "1:0",
-      "tipExpectedPoints": 1.205,
+      "tipExpectedPoints": 1.219,
       "valueBet": {
         "market": "1x2",
         "selection": "Heimsieg",
         "bookmaker": "Tipico",
-        "bookmakerOdds": 2.4,
-        "ourProbability": 0.436,
-        "edgePct": 4.2
+        "bookmakerOdds": 2.5,
+        "ourProbability": 0.429,
+        "edgePct": 4.9
       },
       "homeForm": [
         "U",
@@ -317,9 +317,9 @@
       "homeTeam": "VfB Stuttgart",
       "awayTeam": "Eintracht Frankfurt",
       "probabilities": {
-        "home": 0.514,
+        "home": 0.511,
         "draw": 0.222,
-        "away": 0.264
+        "away": 0.267
       },
       "tip": "2:1",
       "tipExpectedPoints": 1.34,
@@ -327,9 +327,9 @@
         "market": "1x2",
         "selection": "Auswärtssieg",
         "bookmaker": "Tipico",
-        "bookmakerOdds": 4,
-        "ourProbability": 0.264,
-        "edgePct": 2.7
+        "bookmakerOdds": 3.9,
+        "ourProbability": 0.267,
+        "edgePct": 2.4
       },
       "homeForm": [
         "N",
@@ -403,8 +403,8 @@
       "homeTeam": "TSG Hoffenheim",
       "awayTeam": "FC Augsburg",
       "probabilities": {
-        "home": 0.511,
-        "draw": 0.226,
+        "home": 0.516,
+        "draw": 0.221,
         "away": 0.264
       },
       "tip": "2:1",
