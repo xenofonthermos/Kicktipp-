@@ -1,12 +1,12 @@
 # Bundesliga-Prognose – Spieltag 11–12
 
-Erstellt am 2026-11-25. Elo-basierte Tippempfehlung für Kicktipp, ohne Gewähr – reiner Unterhaltungswert.
+Erstellt am 2026-11-26. Elo-basierte Tippempfehlung für Kicktipp, ohne Gewähr – reiner Unterhaltungswert.
 
 | Liga | Spiel | Tipp | Heim% / Remis% / Auswärts% |
 | --- | --- | --- | --- |
 | Bundesliga | SV Werder Bremen – Borussia Mönchengladbach | 2:1 | 57% / 21% / 22% |
 | Bundesliga | 1. FSV Mainz 05 – 1. FC Union Berlin | 2:1 | 58% / 21% / 21% |
-| Bundesliga | Hamburger SV – FC Bayern München | 1:2 | 14% / 16% / 71% |
+| Bundesliga | Hamburger SV – FC Bayern München | 1:2 | 14% / 16% / 70% |
 | Bundesliga | 1. FC Köln – SV 07 Elversberg | 2:1 | 55% / 22% / 24% |
 | Bundesliga | SC Paderborn 07 – FC Schalke 04 | 1:0 | 43% / 25% / 32% |
 | Bundesliga | VfB Stuttgart – Eintracht Frankfurt | 2:1 | 51% / 22% / 27% |
@@ -17,7 +17,7 @@ Erstellt am 2026-11-25. Elo-basierte Tippempfehlung für Kicktipp, ohne Gewähr 
 | Bundesliga | RB Leipzig – 1. FSV Mainz 05 | 2:1 | 64% / 18% / 18% |
 | Bundesliga | Bayer 04 Leverkusen – Borussia Mönchengladbach | 2:0 | 72% / 15% / 13% |
 | Bundesliga | SC Freiburg – TSG Hoffenheim | 2:1 | 51% / 23% / 26% |
-| Bundesliga | FC Augsburg – 1. FC Köln | 2:1 | 50% / 23% / 27% |
+| Bundesliga | FC Augsburg – 1. FC Köln | 2:1 | 50% / 22% / 27% |
 | Bundesliga | 1. FC Union Berlin – Hamburger SV | 1:0 | 41% / 27% / 33% |
 | Bundesliga | Eintracht Frankfurt – SV Werder Bremen | 2:1 | 48% / 23% / 29% |
 | Bundesliga | FC Schalke 04 – Borussia Dortmund | 1:2 | 15% / 19% / 66% |
