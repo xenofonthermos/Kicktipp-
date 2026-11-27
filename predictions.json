@@ -2,7 +2,7 @@
   "season": 2026,
   "matchday": 11,
   "nextMatchday": 12,
-  "generatedAt": "2026-11-27T18:35:03.359Z",
+  "generatedAt": "2026-11-27T19:05:02.151Z",
   "eloRanking": [
     {
       "rank": 1,
@@ -102,19 +102,19 @@
       "homeTeam": "SV Werder Bremen",
       "awayTeam": "Borussia Mönchengladbach",
       "probabilities": {
-        "home": 0.578,
+        "home": 0.574,
         "draw": 0.211,
-        "away": 0.211
+        "away": 0.215
       },
       "tip": "2:1",
-      "tipExpectedPoints": 1.487,
+      "tipExpectedPoints": 1.472,
       "valueBet": {
         "market": "1x2",
         "selection": "Heimsieg",
         "bookmaker": "Tipico",
-        "bookmakerOdds": 1.67,
-        "ourProbability": 0.578,
-        "edgePct": 1.1
+        "bookmakerOdds": 1.7,
+        "ourProbability": 0.574,
+        "edgePct": 1.5
       },
       "homeForm": [
         "U",
@@ -360,8 +360,8 @@
       "homeTeam": "SC Freiburg",
       "awayTeam": "RB Leipzig",
       "probabilities": {
-        "home": 0.369,
-        "draw": 0.253,
+        "home": 0.366,
+        "draw": 0.256,
         "away": 0.378
       },
       "tip": "0:1",
@@ -370,9 +370,9 @@
         "market": "1x2",
         "selection": "Heimsieg",
         "bookmaker": "Tipico",
-        "bookmakerOdds": 2.7,
-        "ourProbability": 0.369,
-        "edgePct": 1.8
+        "bookmakerOdds": 2.75,
+        "ourProbability": 0.366,
+        "edgePct": 2.2
       },
       "homeForm": [
         "N",
@@ -446,9 +446,9 @@
       "homeTeam": "Borussia Dortmund",
       "awayTeam": "Bayer 04 Leverkusen",
       "probabilities": {
-        "home": 0.493,
+        "home": 0.498,
         "draw": 0.229,
-        "away": 0.278
+        "away": 0.273
       },
       "tip": "2:1",
       "tipExpectedPoints": 1.295,
@@ -456,9 +456,9 @@
         "market": "1x2",
         "selection": "Heimsieg",
         "bookmaker": "Tipico",
-        "bookmakerOdds": 2.1,
-        "ourProbability": 0.493,
-        "edgePct": 4.2
+        "bookmakerOdds": 2.05,
+        "ourProbability": 0.498,
+        "edgePct": 3.7
       },
       "homeForm": [
         "U",
@@ -533,11 +533,11 @@
       "awayTeam": "1. FSV Mainz 05",
       "probabilities": {
         "home": 0.637,
-        "draw": 0.181,
-        "away": 0.182
+        "draw": 0.183,
+        "away": 0.18
       },
       "tip": "2:1",
-      "tipExpectedPoints": 1.593,
+      "tipExpectedPoints": 1.588,
       "valueBet": {
         "market": "1x2",
         "selection": "Heimsieg",
