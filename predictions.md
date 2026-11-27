@@ -1,6 +1,6 @@
 # Bundesliga-Prognose – Spieltag 11–12
 
-Erstellt am 2026-11-26. Elo-basierte Tippempfehlung für Kicktipp, ohne Gewähr – reiner Unterhaltungswert.
+Erstellt am 2026-11-27. Elo-basierte Tippempfehlung für Kicktipp, ohne Gewähr – reiner Unterhaltungswert.
 
 | Liga | Spiel | Tipp | Heim% / Remis% / Auswärts% |
 | --- | --- | --- | --- |
@@ -8,11 +8,11 @@ Erstellt am 2026-11-26. Elo-basierte Tippempfehlung für Kicktipp, ohne Gewähr 
 | Bundesliga | 1. FSV Mainz 05 – 1. FC Union Berlin | 2:1 | 58% / 21% / 21% |
 | Bundesliga | Hamburger SV – FC Bayern München | 1:2 | 14% / 16% / 71% |
 | Bundesliga | 1. FC Köln – SV 07 Elversberg | 2:1 | 55% / 22% / 24% |
-| Bundesliga | SC Paderborn 07 – FC Schalke 04 | 1:0 | 43% / 25% / 32% |
+| Bundesliga | SC Paderborn 07 – FC Schalke 04 | 1:0 | 42% / 25% / 33% |
 | Bundesliga | VfB Stuttgart – Eintracht Frankfurt | 2:1 | 51% / 22% / 27% |
-| Bundesliga | SC Freiburg – RB Leipzig | 0:1 | 36% / 26% / 38% |
+| Bundesliga | SC Freiburg – RB Leipzig | 0:1 | 37% / 26% / 38% |
 | Bundesliga | TSG Hoffenheim – FC Augsburg | 2:1 | 52% / 22% / 26% |
-| Bundesliga | Borussia Dortmund – Bayer 04 Leverkusen | 2:1 | 50% / 23% / 27% |
+| Bundesliga | Borussia Dortmund – Bayer 04 Leverkusen | 2:1 | 49% / 23% / 27% |
 | Bundesliga | FC Bayern München – SC Paderborn 07 | 2:0 | 86% / 9% / 5% |
 | Bundesliga | RB Leipzig – 1. FSV Mainz 05 | 2:1 | 64% / 18% / 18% |
 | Bundesliga | Bayer 04 Leverkusen – Borussia Mönchengladbach | 2:0 | 72% / 15% / 13% |
