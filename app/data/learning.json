@@ -6,6 +6,7 @@
   },
   "sample": 105,
   "updatedAt": null,
+  "activeAvg": 1.362,
   "lastEvaluation": {
     "at": "2026-11-28T06:05:57.904Z",
     "tips": {
@@ -30,6 +31,5 @@
       "bestLogLoss": 0.9553
     }
   },
-  "activeAvg": 1.362,
   "history": []
 }
