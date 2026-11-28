@@ -2,7 +2,7 @@
   "season": 2026,
   "matchday": 11,
   "nextMatchday": 12,
-  "generatedAt": "2026-11-28T12:05:02.828Z",
+  "generatedAt": "2026-11-28T12:35:02.773Z",
   "eloRanking": [
     {
       "rank": 1,
@@ -102,19 +102,19 @@
       "homeTeam": "1. FSV Mainz 05",
       "awayTeam": "1. FC Union Berlin",
       "probabilities": {
-        "home": 0.581,
-        "draw": 0.209,
-        "away": 0.21
+        "home": 0.58,
+        "draw": 0.207,
+        "away": 0.213
       },
       "tip": "2:1",
-      "tipExpectedPoints": 1.487,
+      "tipExpectedPoints": 1.472,
       "valueBet": {
         "market": "1x2",
         "selection": "Auswärtssieg",
         "bookmaker": "Tipico",
-        "bookmakerOdds": 6.2,
-        "ourProbability": 0.21,
-        "edgePct": 5.8
+        "bookmakerOdds": 6,
+        "ourProbability": 0.213,
+        "edgePct": 5.5
       },
       "homeForm": [
         "S",
@@ -145,19 +145,19 @@
       "homeTeam": "Hamburger SV",
       "awayTeam": "FC Bayern München",
       "probabilities": {
-        "home": 0.157,
+        "home": 0.147,
         "draw": 0.169,
-        "away": 0.674
+        "away": 0.684
       },
       "tip": "1:2",
-      "tipExpectedPoints": 1.616,
+      "tipExpectedPoints": 1.64,
       "valueBet": {
         "market": "1x2",
         "selection": "Heimsieg",
         "bookmaker": "Tipico",
-        "bookmakerOdds": 7.2,
-        "ourProbability": 0.157,
-        "edgePct": 2.6
+        "bookmakerOdds": 8.5,
+        "ourProbability": 0.147,
+        "edgePct": 3.5
       },
       "homeForm": [
         "S",
