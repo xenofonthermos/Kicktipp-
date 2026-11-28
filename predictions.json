@@ -2,7 +2,7 @@
   "season": 2026,
   "matchday": 11,
   "nextMatchday": 12,
-  "generatedAt": "2026-11-28T13:35:01.962Z",
+  "generatedAt": "2026-11-28T14:05:02.470Z",
   "eloRanking": [
     {
       "rank": 1,
@@ -102,19 +102,19 @@
       "homeTeam": "1. FSV Mainz 05",
       "awayTeam": "1. FC Union Berlin",
       "probabilities": {
-        "home": 0.581,
-        "draw": 0.209,
-        "away": 0.21
+        "home": 0.591,
+        "draw": 0.205,
+        "away": 0.204
       },
       "tip": "2:1",
-      "tipExpectedPoints": 1.487,
+      "tipExpectedPoints": 1.507,
       "valueBet": {
         "market": "1x2",
         "selection": "Auswärtssieg",
         "bookmaker": "Tipico",
         "bookmakerOdds": 6.2,
-        "ourProbability": 0.21,
-        "edgePct": 5.8
+        "ourProbability": 0.204,
+        "edgePct": 5.1
       },
       "homeForm": [
         "S",
@@ -131,12 +131,22 @@
         "N"
       ],
       "homeLineup": {
-        "confirmed": false,
-        "missingRegulars": []
+        "confirmed": true,
+        "missingRegulars": [
+          "D. da Costa",
+          "P. Mwene",
+          "Lee Jae-Sung",
+          "P. Tietz"
+        ]
       },
       "awayLineup": {
-        "confirmed": false,
-        "missingRegulars": []
+        "confirmed": true,
+        "missingRegulars": [
+          "T. Rothe",
+          "Z. Van Den Bosch",
+          "R. Khedira",
+          "F. Uduokhai"
+        ]
       }
     },
     {
@@ -145,19 +155,19 @@
       "homeTeam": "Hamburger SV",
       "awayTeam": "FC Bayern München",
       "probabilities": {
-        "home": 0.157,
-        "draw": 0.169,
-        "away": 0.674
+        "home": 0.172,
+        "draw": 0.181,
+        "away": 0.647
       },
       "tip": "1:2",
-      "tipExpectedPoints": 1.616,
+      "tipExpectedPoints": 1.567,
       "valueBet": {
         "market": "1x2",
         "selection": "Heimsieg",
         "bookmaker": "Tipico",
         "bookmakerOdds": 7.2,
-        "ourProbability": 0.157,
-        "edgePct": 2.6
+        "ourProbability": 0.172,
+        "edgePct": 4.1
       },
       "homeForm": [
         "S",
@@ -174,12 +184,21 @@
         "U"
       ],
       "homeLineup": {
-        "confirmed": false,
-        "missingRegulars": []
+        "confirmed": true,
+        "missingRegulars": [
+          "N. Capaldo",
+          "A. Sambi Lokonga"
+        ]
       },
       "awayLineup": {
-        "confirmed": false,
-        "missingRegulars": []
+        "confirmed": true,
+        "missingRegulars": [
+          "N. Brown",
+          "D. Upamecano",
+          "M. Olise",
+          "H. Kane",
+          "K. Laimer"
+        ]
       }
     },
     {
@@ -188,19 +207,19 @@
       "homeTeam": "1. FC Köln",
       "awayTeam": "SV 07 Elversberg",
       "probabilities": {
-        "home": 0.546,
-        "draw": 0.22,
-        "away": 0.233
+        "home": 0.533,
+        "draw": 0.224,
+        "away": 0.242
       },
       "tip": "2:1",
-      "tipExpectedPoints": 1.434,
+      "tipExpectedPoints": 1.393,
       "valueBet": {
         "market": "1x2",
         "selection": "Heimsieg",
         "bookmaker": "Tipico",
         "bookmakerOdds": 1.95,
-        "ourProbability": 0.546,
-        "edgePct": 6
+        "ourProbability": 0.533,
+        "edgePct": 4.7
       },
       "homeForm": [
         "N",
@@ -217,11 +236,14 @@
         "N"
       ],
       "homeLineup": {
-        "confirmed": false,
-        "missingRegulars": []
+        "confirmed": true,
+        "missingRegulars": [
+          "L. Lochoshvili",
+          "Í. Bergmann Jóhannesson"
+        ]
       },
       "awayLineup": {
-        "confirmed": false,
+        "confirmed": true,
         "missingRegulars": []
       }
     },
@@ -231,9 +253,9 @@
       "homeTeam": "SC Paderborn 07",
       "awayTeam": "FC Schalke 04",
       "probabilities": {
-        "home": 0.418,
-        "draw": 0.253,
-        "away": 0.329
+        "home": 0.416,
+        "draw": 0.251,
+        "away": 0.333
       },
       "tip": "1:0",
       "tipExpectedPoints": 1.143,
@@ -241,9 +263,9 @@
         "market": "1x2",
         "selection": "Heimsieg",
         "bookmaker": "Tipico",
-        "bookmakerOdds": 2.65,
-        "ourProbability": 0.418,
-        "edgePct": 6
+        "bookmakerOdds": 2.75,
+        "ourProbability": 0.416,
+        "edgePct": 7.2
       },
       "homeForm": [
         "U",
@@ -260,12 +282,20 @@
         "U"
       ],
       "homeLineup": {
-        "confirmed": false,
-        "missingRegulars": []
+        "confirmed": true,
+        "missingRegulars": [
+          "L. Ulrich",
+          "G. Vidović",
+          "M. Pieringer"
+        ]
       },
       "awayLineup": {
-        "confirmed": false,
-        "missingRegulars": []
+        "confirmed": true,
+        "missingRegulars": [
+          "T. Becker",
+          "R. Gosens",
+          "S. Tanaka"
+        ]
       }
     },
     {
@@ -446,9 +476,9 @@
       "homeTeam": "FC Bayern München",
       "awayTeam": "SC Paderborn 07",
       "probabilities": {
-        "home": 0.864,
-        "draw": 0.091,
-        "away": 0.045
+        "home": 0.863,
+        "draw": 0.089,
+        "away": 0.047
       },
       "tip": "2:0",
       "tipExpectedPoints": 2.13,
@@ -456,9 +486,9 @@
         "market": "1x2",
         "selection": "Remis",
         "bookmaker": "Tipico",
-        "bookmakerOdds": 15,
-        "ourProbability": 0.091,
-        "edgePct": 2.8
+        "bookmakerOdds": 16,
+        "ourProbability": 0.089,
+        "edgePct": 3
       },
       "homeForm": [
         "S",
@@ -747,19 +777,19 @@
       "homeTeam": "FC Schalke 04",
       "awayTeam": "Borussia Dortmund",
       "probabilities": {
-        "home": 0.161,
+        "home": 0.154,
         "draw": 0.186,
-        "away": 0.653
+        "away": 0.661
       },
       "tip": "1:2",
-      "tipExpectedPoints": 1.615,
+      "tipExpectedPoints": 1.637,
       "valueBet": {
         "market": "1x2",
         "selection": "Auswärtssieg",
         "bookmaker": "Tipico",
-        "bookmakerOdds": 1.75,
-        "ourProbability": 0.653,
-        "edgePct": 11
+        "bookmakerOdds": 1.7,
+        "ourProbability": 0.661,
+        "edgePct": 10.3
       },
       "homeForm": [
         "N",

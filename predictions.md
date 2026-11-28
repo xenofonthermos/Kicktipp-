@@ -4,9 +4,9 @@ Erstellt am 2026-11-28. Elo-basierte Tippempfehlung für Kicktipp, ohne Gewähr 
 
 | Liga | Spiel | Tipp | Heim% / Remis% / Auswärts% |
 | --- | --- | --- | --- |
-| Bundesliga | 1. FSV Mainz 05 – 1. FC Union Berlin | 2:1 | 58% / 21% / 21% |
-| Bundesliga | Hamburger SV – FC Bayern München | 1:2 | 16% / 17% / 67% |
-| Bundesliga | 1. FC Köln – SV 07 Elversberg | 2:1 | 55% / 22% / 23% |
+| Bundesliga | 1. FSV Mainz 05 – 1. FC Union Berlin | 2:1 | 59% / 21% / 20% |
+| Bundesliga | Hamburger SV – FC Bayern München | 1:2 | 17% / 18% / 65% |
+| Bundesliga | 1. FC Köln – SV 07 Elversberg | 2:1 | 53% / 22% / 24% |
 | Bundesliga | SC Paderborn 07 – FC Schalke 04 | 1:0 | 42% / 25% / 33% |
 | Bundesliga | VfB Stuttgart – Eintracht Frankfurt | 2:1 | 51% / 23% / 27% |
 | Bundesliga | SC Freiburg – RB Leipzig | 0:1 | 37% / 26% / 38% |
@@ -19,7 +19,7 @@ Erstellt am 2026-11-28. Elo-basierte Tippempfehlung für Kicktipp, ohne Gewähr 
 | Bundesliga | FC Augsburg – 1. FC Köln | 2:1 | 51% / 22% / 27% |
 | Bundesliga | 1. FC Union Berlin – Hamburger SV | 1:0 | 41% / 26% / 33% |
 | Bundesliga | Eintracht Frankfurt – SV Werder Bremen | 2:1 | 49% / 23% / 28% |
-| Bundesliga | FC Schalke 04 – Borussia Dortmund | 1:2 | 16% / 19% / 65% |
+| Bundesliga | FC Schalke 04 – Borussia Dortmund | 1:2 | 15% / 19% / 66% |
 | Bundesliga | SV 07 Elversberg – VfB Stuttgart | 1:2 | 21% / 20% / 59% |
 | 3. Liga | Würzburger Kickers – Fortuna Düsseldorf | 1:0 | 42% / 26% / 33% |
 | 3. Liga | Fortuna Düsseldorf – SV Wehen Wiesbaden | 1:2 | 22% / 20% / 59% |
